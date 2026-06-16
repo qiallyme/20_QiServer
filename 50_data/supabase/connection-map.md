@@ -4,7 +4,7 @@ This connection map coordinates endpoints, port numbers, database URLs, and sche
 
 ## Service Endpoint & Port Configuration
 
-Based on `qisupabase/config.toml`, local services are mapped to the following ports:
+Based on `qisupabase/config.toml` and Directus deployment scripts, local services are mapped to the following ports:
 
 | Service               | External Endpoint / URL                 | Port   | Notes / Purpose                               |
 | --------------------- | --------------------------------------- | ------ | --------------------------------------------- |
@@ -12,6 +12,8 @@ Based on `qisupabase/config.toml`, local services are mapped to the following po
 | **PostgreSQL DB**     | `postgresql://postgres:postgres@...`    | `54322`| Native database link (user: `postgres`)       |
 | **Supabase Studio**   | `http://localhost:54323`                | `54323`| Visual administration console dashboard       |
 | **Inbucket (Email)**  | `http://localhost:54324`                | `54324`| Local SMTP web UI console for email testing   |
+| **Directus (API/UI)** | `http://localhost:8055`                 | `8055` | Primary admin, API, and visual data management layer (Postgres mapping) |
+| **NocoDB (UI)**       | `http://localhost:8080` (Deprecated)    | `8080` | Deprecated alpha spreadsheet UI layer (scheduled for decommissioning) |
 | **Shadow Database**   | `localhost`                             | `54320`| Used internally by CLI for generating diffs   |
 | **DB Connection Pool**| `localhost`                             | `54329`| Transaction/session level connection pooling  |
 | **Analytics Engine**  | `localhost`                             | `54327`| Event capturing and log analytics backend     |

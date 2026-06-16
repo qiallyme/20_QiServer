@@ -8,6 +8,7 @@ This directory manages the Supabase database configurations, local services, env
 50_data/supabase/
 ├── .env.example           # Example local environment variable configurations
 ├── connection-map.md      # Schema access mappings, local port mappings, and URLs
+├── directus_integration.md # Directus configuration, classifications, and guides
 └── qisupabase/            # Supabase Workspace Configuration
     ├── config.toml        # Local Supabase service configurations (ports, services, JWT, etc.)
     ├── functions/         # Supabase Edge Functions (TypeScript)
