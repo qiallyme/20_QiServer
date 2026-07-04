@@ -1,0 +1,164 @@
+code,name,type,detail_type,description,parent_account,entity,account_number,routing_number,institution,is_sub_account,active,tax_form,tax_line
+1000,Business Checking,asset,Checking,Business checking bank account for cash deposits...,,schedule_c,8990169153,123672871,Other Financial Institution,false,true,Schedule C,Schedule C
+1020,Petty Cash,asset,Other Current Asset,It is a small amount of cash...,Current Assets,schedule_c,7570467239,177062844,Other Financial Institution,true,true,Schedule C,Schedule C
+1030,Accounts Receivable,asset,Accounts Receivable,The money that customers owe you becomes...,Current Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1060,Employee Advance,asset,Other Current Asset,Money paid out to an employee in...,Pre-paid Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+1090,Office Equipment,liability,Other Current Liability,"Computers, furniture, and other office equipment",Equipment,schedule_c,,,,true,true,Schedule C,Schedule C
+1100,Current Assets,asset,Other Current Asset,Standard ledger account for current assets operations.,Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1101,Square Debit Card Srv Tax-n-multiservice LLC Lafayette,asset,Other Current Asset,Asset account tracking square debit card srv...,Bank And Cash,schedule_c,,,,true,true,Schedule C,Schedule C
+1103,Undeposited Funds,asset,Other Current Asset,Record funds received by your company yet...,Current Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1110,Bank And Cash,asset,Other Current Asset,Cash on hand or petty cash reserve...,Current Assets,schedule_c,4001500974,203764339,Other Financial Institution,true,true,Schedule C,Schedule C
+1400,Pre-paid Expenses,asset,Other Current Asset,Expense account tracking business pre-paid expenses expenditures.,Current Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1410,Advanced Tax,asset,Other Current Asset,Asset account tracking advanced tax holdings and...,Pre-paid Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+1500,Other,asset,Other Current Asset,Asset account tracking other holdings and reserves.,Current Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1600,Fixed Assets,asset,Fixed Asset,Long-term fixed asset account tracking capital assets...,Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1601,Equipment,asset,Fixed Asset,Long-term fixed asset account tracking capital assets...,Fixed Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1700,Furniture,asset,Other Current Asset,Asset account tracking furniture holdings and reserves.,Fixed Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1800,Buildings,asset,Fixed Asset,Long-term fixed asset account tracking capital assets...,Fixed Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1900,Accumulated Depreciation,asset,Other Current Asset,Asset account tracking accumulated depreciation holdings and...,Fixed Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+1999,Other Assets,asset,Other Current Asset,Asset account tracking other assets holdings and...,Fixed Assets,schedule_c,,,,true,true,Schedule C,Schedule C
+2030,Tax Payable,asset,Other Current Asset,The amount of money which you owe...,Current Liabilities,schedule_c,,,,true,true,Schedule C,Schedule C
+2050,Bad Debt,liability,Other Current Liability,Any amount which is lost and is...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+2070,Employee Reimbursements,asset,Other Current Asset,This account can be used to track...,Current Liabilities,schedule_c,,,,true,true,Schedule C,Schedule C
+2080,Dimension Adjustments,asset,Other Current Asset,This adjustment account tracks the transfers between...,Current Liabilities,schedule_c,,,,true,true,Schedule C,Schedule C
+2100,Current Liabilities,asset,Other Current Asset,Asset account tracking current liabilities holdings and...,,schedule_c,,,,false,true,Schedule C,Schedule C
+2110,Accounts Payable,asset,Other Current Asset,This is an account of all the...,Current Liabilities,schedule_c,2865533916,,Other Financial Institution,true,true,Schedule C,Schedule C
+2120,Unearned Revenue,asset,Other Current Asset,A liability account that reports amounts received...,Current Liabilities,schedule_c,,,,true,true,Schedule C,Schedule C
+2130,Opening Balance Adjustment,asset,Other Current Asset,Liability account tracking opening balance adjustment obligation...,Current Liabilities,schedule_c,,,,true,true,Schedule C,Schedule C; Not Applicable
+2200,Accrued Liabilities,asset,Other Current Asset,Credit card liability account tracking outstanding balances...,Current Liabilities,schedule_c,0577284505,,Other Financial Institution,true,true,Schedule C,Schedule C
+2500,Long-term Liabilities,liability,Other Current Liability,Liability account tracking long-term liabilities obligation balances.,,schedule_c,,,,false,true,Schedule C,Schedule C
+2600,Mortgage,liability,Long Term Liability,Long-term liability account tracking outstanding loan and...,Long-term Liabilities,schedule_c,,,,true,true,Schedule C,Schedule C
+2800,Other Liabilities,liability,Other Current Liability,Liability account tracking other liabilities obligation balances.,,schedule_c,,,,false,true,Schedule C,Schedule C
+3100,Gross Receipts Income Rev Sales,revenue,Service/Fee Income,Revenue account tracking income from sales of...,Income,schedule_c,,,,true,true,Schedule C,Schedule C
+3101,Service Income,revenue,Service/Fee Income,Revenue account tracking income generated from professional...,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3102,360 Plans,revenue,Service/Fee Income,Equity account tracking 360 plans ownership balances.,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3200,Consulting Income,revenue,Service/Fee Income,Liability account tracking consulting income obligation balances.,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3250,Qhr Llp Draws,revenue,Service/Fee Income,Equity account tracking owner drawings and personal...,Income,schedule_c,,,,true,true,Schedule C,Schedule C
+3300,Tax Service Income,revenue,Service/Fee Income,Revenue account tracking income generated from professional...,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3400,Document Service Income,revenue,Service/Fee Income,Revenue account tracking income generated from professional...,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3500,Marketing Service Income,revenue,Service/Fee Income,Revenue account tracking income generated from professional...,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3600,Property Subscriptions,revenue,Service/Fee Income,Equity account tracking property subscriptions ownership balances.,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3601,Rental Subs,revenue,Service/Fee Income,Expense account tracking office lease and property...,Property Subscriptions,schedule_c,,,,true,true,Schedule C,Schedule C
+3700,Tesla Subs,revenue,Service/Fee Income,Equity account tracking tesla subs ownership balances.,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3800,Product Sales,revenue,Service/Fee Income,Revenue account tracking income from sales of...,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+3900,Misc Income,revenue,Service/Fee Income,Revenue account tracking misc income streams.,Gross Receipts Income Rev Sales,schedule_c,,,,true,true,Schedule C,Schedule C
+4000,Business Income,revenue,Service/Fee Income,Revenue account tracking business income streams.,,schedule_c,,,,false,true,Schedule C,Schedule C
+4010,Accounting Income,liability,Credit Card,Revenue account tracking accounting income streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4011,Online Ads,equity,Owner Equity,Revenue account tracking online ads streams.,Advertising,schedule_c,,,,true,true,Schedule C,Schedule C
+4012,Offline Ads,equity,Owner Equity,Revenue account tracking offline ads streams.,Advertising,schedule_c,,,,true,true,Schedule C,Schedule C
+4013,Promotions,equity,Owner Equity,Revenue account tracking promotions streams.,Advertising,schedule_c,,,,true,true,Schedule C,Schedule C
+4020,Car And Truck,liability,Other Current Liability,Revenue account tracking car and truck streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4021,Vehicle Insurance,liability,Other Current Liability,Revenue account tracking vehicle insurance streams.,Car And Truck,schedule_c,,,,true,true,Schedule C,Schedule C
+4022,Fuel And Charging,liability,Other Current Liability,Revenue account tracking fuel and charging streams.,Car And Truck,schedule_c,,,,true,true,Schedule C,Schedule C
+4023,Repairs And Maintenance,liability,Other Current Liability,Revenue account tracking repairs and maintenance streams.,Car And Truck,schedule_c,,,,true,true,Schedule C,Schedule C
+4024,Oil Change And Lube,expense,Other Expense,Revenue account tracking oil change and lube...,Repairs And Maintenance,schedule_c,,,,true,true,Schedule C,Schedule C
+4025,Mechanical,expense,Other Expense,Revenue account tracking mechanical streams.,Repairs And Maintenance,schedule_c,,,,true,true,Schedule C,Schedule C
+4026,Cosmetic,expense,Other Expense,Revenue account tracking cosmetic streams.,Repairs And Maintenance,schedule_c,,,,true,true,Schedule C,Schedule C
+4027,Depreciation And Amortization,liability,Other Current Liability,Revenue account tracking depreciation and amortization streams.,Car And Truck,schedule_c,,,,true,true,Schedule C,Schedule C
+4028,Depreciation Expense For Car And Other Property,liability,Other Current Liability,Expense account tracking business depreciation expense for...,Depreciation,schedule_c,,,,true,true,Schedule C,Schedule C
+4029,Mileage Deduction For Car,liability,Other Current Liability,Revenue account tracking mileage deduction for car...,Depreciation,schedule_c,,,,true,true,Schedule C,Schedule C
+4030,Commissions And Fees,liability,Other Current Liability,Revenue account tracking commissions and fees streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4031,Sales Commissions,liability,Other Current Liability,Revenue account tracking income from sales of...,Commissions And Fees,schedule_c,,,,true,true,Schedule C,Schedule C
+4032,Referral Fees,liability,Other Current Liability,Expense account tracking business referral fees expenditures.,Commissions And Fees,schedule_c,,,,true,true,Schedule C,Schedule C
+4033,Service Fees,liability,Other Current Liability,Expense account tracking business service fees expenditures.,Commissions And Fees,schedule_c,,,,true,true,Schedule C,Schedule C
+4040,IT Consulting Income,liability,Other Current Liability,Revenue account tracking income generated from professional...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4041,Independent Contractors,expense,Other Expense,Revenue account tracking independent contractors streams.,Sch C - Part Ii - Expenses-11. Contract Labor,schedule_c,,,,true,true,Schedule C,Schedule C
+4042,Temporary Workers,expense,Other Expense,Revenue account tracking temporary workers streams.,Sch C - Part Ii - Expenses-11. Contract Labor,schedule_c,,,,true,true,Schedule C,Schedule C
+4043,Freelancers,expense,Other Expense,Revenue account tracking freelancers streams.,Sch C - Part Ii - Expenses-11. Contract Labor,schedule_c,,,,true,true,Schedule C,Schedule C
+4050,Tax Prep Income,liability,Other Current Liability,Revenue account tracking tax prep income streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4060,Depreciation And Section 179,liability,Other Current Liability,Revenue account tracking depreciation and section 179...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4061,Equipment,liability,Other Current Liability,Revenue account tracking equipment streams.,Depreciation And Section 179,schedule_c,,,,true,true,Schedule C,Schedule C
+4062,Buildings,liability,Other Current Liability,Revenue account tracking buildings streams.,Depreciation And Section 179,schedule_c,,,,true,true,Schedule C,Schedule C
+4063,Section 179 Deductions,liability,Other Current Liability,Revenue account tracking section 179 deductions streams.,Depreciation And Section 179,schedule_c,,,,true,true,Schedule C,Schedule C
+4070,Employee Benefits Programs,liability,Other Current Liability,Revenue account tracking employee benefits programs streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4071,Health Insurance,liability,Other Current Liability,Revenue account tracking health insurance streams.,Employee Benefits Programs,schedule_c,,,,true,true,Schedule C,Schedule C
+4072,Retirement Plans,liability,Other Current Liability,Revenue account tracking retirement plans streams.,Employee Benefits Programs,schedule_c,,,,true,true,Schedule C,Schedule C
+4073,Other Employee Benefits,liability,Other Current Liability,Revenue account tracking other employee benefits streams.,Employee Benefits Programs,schedule_c,,,,true,true,Schedule C,Schedule C
+4074,Tuition Assistance,liability,Other Current Liability,Revenue account tracking tuition assistance streams.,Employee Benefits Programs,schedule_c,,,,true,true,Schedule C,Schedule C
+4075,Incentive Bonus,liability,Other Current Liability,Revenue account tracking incentive bonus streams.,Employee Benefits Programs,schedule_c,,,,true,true,Schedule C,Schedule C
+4076,Other Appreciation,liability,Other Current Liability,Revenue account tracking other appreciation streams.,Employee Benefits Programs,schedule_c,,,,true,true,Schedule C,Schedule C
+4080,Insurance,liability,Other Current Liability,Revenue account tracking insurance streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4081,Property Insurance,liability,Other Current Liability,Revenue account tracking property insurance streams.,Insurance,schedule_c,,,,true,true,Schedule C,Schedule C
+4082,Liability Insurance,liability,Other Current Liability,Liability account tracking liability insurance obligation balances.,Insurance,schedule_c,,,,true,true,Schedule C,Schedule C
+4083,Commercial Auto Insurance,liability,Other Current Liability,Revenue account tracking commercial auto insurance streams.,Insurance,schedule_c,,,,true,true,Schedule C,Schedule C
+4090,Shipping Income,liability,Other Current Liability,Revenue account tracking shipping income streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4091,Mortgage Interest,liability,Long Term Liability,Long-term liability account tracking outstanding loan and...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4092,Credit Card Interest,liability,Credit Card,Credit card liability account tracking outstanding balances...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,5834289335,,Other Financial Institution,true,true,Schedule C,Schedule C
+4093,Other Interest,liability,Other Current Liability,Revenue account tracking other interest streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4100,Legal And Professional Services,liability,Other Current Liability,Revenue account tracking income generated from professional...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4101,Accounting Fees,liability,Credit Card,Expense account tracking business accounting fees expenditures.,Legal And Professional Services,schedule_c,,,,true,true,Schedule C,Schedule C
+4102,Legal Fees,liability,Other Current Liability,Expense account tracking business legal fees expenditures.,Legal And Professional Services,schedule_c,,,,true,true,Schedule C,Schedule C
+4103,Consulting Fees,liability,Other Current Liability,Revenue account tracking income generated from professional...,Legal And Professional Services,schedule_c,,,,true,true,Schedule C,Schedule C
+4200,Office Expense,liability,Other Current Liability,"Expense account tracking office supplies, stationary, and...",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4201,Office Supplies,liability,Other Current Liability,All expenses on purchasing office supplies like...,Office Expense,schedule_c,,,,true,true,Schedule C,Schedule C
+4203,Software Subscription,liability,Other Current Liability,"Expense account tracking software licensing, developer tools,...",Office Expense,schedule_c,,,,true,true,Schedule C,Schedule C
+4300,Pension And Profit Sharing Plans,liability,Other Current Liability,Revenue account tracking pension and profit sharing...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4301,Defined Benefit Plans,liability,Other Current Liability,Revenue account tracking defined benefit plans streams.,Pension And Profit Sharing Plans,schedule_c,,,,true,true,Schedule C,Schedule C
+4302,Defined Contribution Plans,liability,Other Current Liability,Revenue account tracking defined contribution plans streams.,Pension And Profit Sharing Plans,schedule_c,,,,true,true,Schedule C,Schedule C
+4350,Software Subscriptions,liability,Other Current Liability,"Expense account tracking software licensing, developer tools,...",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4400,Rent Or Lease,liability,Other Current Liability,Expense account tracking office lease and property...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4401,Vehicles,liability,Other Current Liability,Revenue account tracking vehicles streams.,Rent Or Lease,schedule_c,,,,true,true,Schedule C,Schedule C
+4402,Property,liability,Other Current Liability,Revenue account tracking property streams.,Rent Or Lease,schedule_c,,,,true,true,Schedule C,Schedule C
+4403,Office Space Lease,liability,Other Current Liability,Revenue account tracking office space lease streams.,Rent Or Lease,schedule_c,,,,true,true,Schedule C,Schedule C
+4501,Equipment Repairs,expense,Other Expense,Revenue account tracking equipment repairs streams.,Repairs And Maintenance,schedule_c,,,,true,true,Schedule C,Schedule C
+4502,Building Repairs,expense,Other Expense,Revenue account tracking building repairs streams.,Repairs And Maintenance,schedule_c,,,,true,true,Schedule C,Schedule C
+4503,Maintenance Contracts,expense,Other Expense,Revenue account tracking maintenance contracts streams.,Repairs And Maintenance,schedule_c,,,,true,true,Schedule C,Schedule C
+4600,Supplies,liability,Other Current Liability,"Expense account tracking office supplies, stationary, and...",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4601,Cleaning Supplies,liability,Other Current Liability,"Expense account tracking office supplies, stationary, and...",Supplies,schedule_c,,,,true,true,Schedule C,Schedule C
+4602,Small Tools And Equipment Repair,liability,Other Current Liability,Revenue account tracking small tools and equipment...,Supplies,schedule_c,,,,true,true,Schedule C,Schedule C
+4700,Taxes And Licenses,liability,Other Current Liability,Revenue account tracking taxes and licenses streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4701,Business License,liability,Other Current Liability,Revenue account tracking business license streams.,Taxes And Licenses,schedule_c,,,,true,true,Schedule C,Schedule C
+4702,Payroll Taxes,liability,Other Current Liability,Revenue account tracking payroll taxes streams.,Taxes And Licenses,schedule_c,,,,true,true,Schedule C,Schedule C
+4703,Property Taxes,liability,Other Current Liability,Revenue account tracking property taxes streams.,Taxes And Licenses,schedule_c,,,,true,true,Schedule C,Schedule C
+4800,Travel And Meals,liability,Other Current Liability,"Expense account tracking business travel, lodging, and...",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4801,Travel,liability,Other Current Liability,"Expense account tracking business travel, lodging, and...",Travel And Meals,schedule_c,,,,true,true,Schedule C,Schedule C
+4802,Air Fare,liability,Other Current Liability,Revenue account tracking air fare streams.,Travel And Meals,schedule_c,,,,true,true,Schedule C,Schedule C
+4803,Hotel And Lodging,liability,Other Current Liability,Revenue account tracking hotel and lodging streams.,Travel And Meals,schedule_c,,,,true,true,Schedule C,Schedule C
+4804,Deductible Meals,liability,Other Current Liability,"Expense account tracking business dining, catering, and...",Travel And Meals,schedule_c,,,,true,true,Schedule C,Schedule C
+4805,Meals With Clients,liability,Other Current Liability,"Expense account tracking business dining, catering, and...",Travel And Meals,schedule_c,,,,true,true,Schedule C,Schedule C
+4806,Meals During Travel,liability,Other Current Liability,"Expense account tracking business travel, lodging, and...",Travel And Meals,schedule_c,,,,true,true,Schedule C,Schedule C
+4900,Utilities,liability,Other Current Liability,"Expense account tracking utility bills, phone lines,...",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+4901,Electricity,liability,Other Current Liability,Revenue account tracking electricity streams.,Utilities,schedule_c,,,,true,true,Schedule C,Schedule C
+4902,Water And Sewer,liability,Other Current Liability,Revenue account tracking water and sewer streams.,Utilities,schedule_c,,,,true,true,Schedule C,Schedule C
+4903,Internet And Phone,liability,Other Current Liability,Revenue account tracking internet and phone streams.,Utilities,schedule_c,,,,true,true,Schedule C,Schedule C
+4904,Wan Connection,liability,Other Current Liability,Revenue account tracking wan connection streams.,Utilities,schedule_c,,,,true,true,Schedule C,Schedule C
+4905,Phone Plan,liability,Other Current Liability,Revenue account tracking phone plan streams.,Utilities,schedule_c,,,,true,true,Schedule C,Schedule C
+5000,COGS – Materials & Supplies,liability,Other Current Liability,"Expense account tracking office supplies, stationary, and...",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+5001,Salaries,revenue,Service/Fee Income,Expense account tracking business salaries expenditures.,Wages,schedule_c,,,,true,true,Schedule C,Schedule C
+5002,Bonuses,revenue,Service/Fee Income,Expense account tracking business bonuses expenditures.,Wages,schedule_c,,,,true,true,Schedule C,Schedule C
+5003,Employee Benefits,revenue,Service/Fee Income,Expense account tracking business employee benefits expenditures.,Wages,schedule_c,,,,true,true,Schedule C,Schedule C
+5004,Monica Hernandez,asset,Other Current Asset,Expense account tracking business monica hernandez expenditures.,Unsecured Personal Loans,schedule_c,,,,true,true,Schedule C,Schedule C
+5100,Other Expenses,liability,Other Current Liability,Any minor expense on activities unrelated to...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+5101,Misc Expense,liability,Other Current Liability,Expense account tracking business misc expense expenditures.,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5102,Postage And Shipping,liability,Other Current Liability,Expense account tracking business postage and shipping...,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5103,Business Gifts,liability,Other Current Liability,Expense account tracking business business gifts expenditures.,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5104,Legal And Regulatory,liability,Other Current Liability,Expense account tracking business legal and regulatory...,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5105,Dues & Subscriptions,liability,Other Current Liability,"Expense account tracking software licensing, developer tools,...",Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5106,Professional Membership Fees,liability,Other Current Liability,Expense account tracking business professional membership fees...,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5107,Subscriptions To Publications,liability,Other Current Liability,"Expense account tracking software licensing, developer tools,...",Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5108,Online Services,liability,Other Current Liability,Expense account tracking business online services expenditures.,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5109,Bank Fees,liability,Other Current Liability,Expense account tracking business bank fees expenditures.,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5110,Monthly Fees,liability,Other Current Liability,Expense account tracking business monthly fees expenditures.,Bank Fees,schedule_c,,,,true,true,Schedule C,Schedule C
+5111,Transaction Fees,liability,Other Current Liability,Expense account tracking business transaction fees expenditures.,Bank Fees,schedule_c,,,,true,true,Schedule C,Schedule C
+5112,Merchant Service Fees,liability,Other Current Liability,Expense account tracking business merchant service fees...,Bank Fees,schedule_c,,,,true,true,Schedule C,Schedule C
+5113,Energy-efficient Commercial Buildings Deduction,liability,Other Current Liability,Expense account tracking business energy-efficient commercial buildings...,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5114,Purchase Discounts,liability,Other Current Liability,Tracks any reduction that your vendor offers...,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5115,Exchane Gain Or Loss,liability,Other Current Liability,Expense account tracking business exchane gain or...,Other Expenses,schedule_c,,,,true,true,Schedule C,Schedule C
+5200,Business Use Of Home,liability,Other Current Liability,Expense account tracking business business use of...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+5205,Office Furniture,liability,Other Current Liability,"Expense account tracking office supplies, stationary, and...",5202b-other Method,schedule_c,,,,true,true,Schedule C,Schedule C
+5206,Indirect Expenses,liability,Other Current Liability,Expense account tracking business indirect expenses expenditures.,5202b-other Method,schedule_c,,,,true,true,Schedule C,Schedule C
+5207,Mortgage Or Rent,liability,Long Term Liability,Long-term liability account tracking outstanding loan and...,5202b-other Method,schedule_c,,,,true,true,Schedule C,Schedule C
+5212,Depreciation,liability,Other Current Liability,Expense account tracking business depreciation expenditures.,5202b-other Method,schedule_c,,,,true,true,Schedule C,Schedule C
+5300,Cost Of Goods Sold,liability,Other Current Liability,An expense account which tracks the value...,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,schedule_c,,,,true,true,Schedule C,Schedule C
+5301,Materials And Supplies,liability,Other Current Liability,"Expense account tracking office supplies, stationary, and...",Cost Of Goods Sold,schedule_c,,,,true,true,Schedule C,Schedule C
+5302,Other COGS,liability,Other Current Liability,Expense account tracking business other cogs expenditures.,Cost Of Goods Sold,schedule_c,,,,true,true,Schedule C,Schedule C
+5790,5202b-other Method,liability,Other Current Liability,Expense account tracking business 5202b-other method expenditures.,Business Use Of Home,schedule_c,,,,true,true,Schedule C,Schedule C
+5800,5201a-simplified Method,liability,Other Current Liability,Expense account tracking business 5201a-simplified method expenditures.,Business Use Of Home,schedule_c,,,,true,true,Schedule C,Schedule C
+6000,Advertising,equity,Owner Equity,Equity account tracking advertising ownership balances.,,schedule_c,,,,false,true,Schedule C,Schedule C
+6100,Owners Equity,equity,Owner Equity,Equity account tracking owners equity ownership balances.,Equity,schedule_c,,,,true,true,Schedule C,Schedule C
+6130,Owners Investment,equity,Owner Equity,Expense account tracking business owners investment expenditures.,Owners Equity,schedule_c,,,,true,true,Schedule C,Schedule C
+6150,Owners Draw/personal,equity,Owner Equity,Expense account tracking business owners draw/personal expenditures.,Owners Equity,schedule_c,,,,true,true,Schedule C,Schedule C
+6200,Opening Balance Equity,equity,Owner Equity,Equity account tracking opening balance equity ownership...,Equity,schedule_c,,,,true,true,Schedule C,Schedule C
+6600,Outstanding Shares Or Other Equity,equity,Owner Equity,Equity account tracking outstanding shares or other...,Equity,schedule_c,,,,true,true,Schedule C,Schedule C
+072100,Construction Loans,liability,Long Term Liability,Long-term liability account tracking outstanding loan and...,Liabilities_other,schedule_c,,,,true,true,Schedule C,Not reported on Schedule C
+P110,Retained Earnings,equity,Retained Earnings,,,schedule_c,,,,false,true,Schedule C,Schedule C

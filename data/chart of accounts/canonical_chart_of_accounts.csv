@@ -1,0 +1,534 @@
+Code,Account Name,Account Type,Description,Parent Account,Account Number,Routing Number,Institution,Tax Line / Schedule C
+1000,Business Checking,asset,Business checking bank account for cash deposits and operational payments.,,8990169153,123672871,Other Financial Institution,Schedule C
+1010,Sch C - Part X - 1. Asset Account,asset,Asset account tracking sch c - part x - 1. asset account holdings and reserves.,,,,,
+1020,Petty Cash,asset,It is a small amount of cash that is used to pay your minor or casual expenses rather than writing a check.,Current Assets,7570467239,177062844,Other Financial Institution,Schedule C
+1030,Accounts Receivable,asset,The money that customers owe you becomes the accounts receivable. A good example of this is a payment expected from an invoice sent to your customer.,Current Assets,,,,Schedule C
+1040,Furniture And Equipment,asset,Purchases of furniture and equipment for your office that can be used for a long period of time usually exceeding one year can be tracked with this account.,,,,,
+1050,Advance Tax,asset,"Any tax which is paid in advance is recorded into the advance tax account. This advance tax payment could be a quarterly, half yearly or yearly payment.",,,,,
+1060,Employee Advance,asset,Money paid out to an employee in advance can be tracked here till it's repaid or shown to be spent for company purposes.,Pre-paid Expenses,,,,Schedule C
+1070,Sales To Customers,asset,Asset account tracking sales to customers holdings and reserves.,,,,,
+1080,BMO Cash Bank Card,liability,Cash on hand or petty cash reserve for small immediate expenses.,BMO Bank N.a.,0817225608,728289371,BMO Harris,
+1090,Office Equipment,liability,"Computers, furniture, and other office equipment",Equipment,,,,
+1100,Current Assets,asset,Standard ledger account for current assets operations.,Assets,,,,Schedule C
+1101,Square Debit Card Srv Tax-n-multiservice LLC Lafayette,asset,Asset account tracking square debit card srv tax-n-multiservice llc lafayette holdings and reserves.,Bank And Cash,,,,Schedule C
+1103,Undeposited Funds,asset,Record funds received by your company yet to be deposited in a bank as undeposited funds and group them as a current asset in your balance sheet.,Current Assets,,,,Schedule C
+1110,Bank And Cash,asset,Cash on hand or petty cash reserve for small immediate expenses.,Current Assets,4001500974,203764339,Other Financial Institution,Schedule C
+1400,Pre-paid Expenses,asset,Expense account tracking business pre-paid expenses expenditures.,Current Assets,,,,Schedule C
+1410,Advanced Tax,asset,Asset account tracking advanced tax holdings and reserves.,Pre-paid Expenses,,,,Schedule C
+1500,Other,asset,Asset account tracking other holdings and reserves.,Current Assets,,,,Schedule C
+1510,Clearing Account,asset,Standard ledger account for clearing account operations.,Other,,,,
+1600,Fixed Assets,asset,Long-term fixed asset account tracking capital assets and equipment value.,Assets,,,,Schedule C
+1601,Equipment,asset,Long-term fixed asset account tracking capital assets and equipment value.,Fixed Assets,,,,Schedule C
+1700,Furniture,asset,Asset account tracking furniture holdings and reserves.,Fixed Assets,,,,Schedule C
+1800,Buildings,asset,Long-term fixed asset account tracking capital assets and equipment value.,Fixed Assets,,,,Schedule C
+1900,Accumulated Depreciation,asset,Asset account tracking accumulated depreciation holdings and reserves.,Fixed Assets,,,,Schedule C
+1999,Other Assets,asset,Asset account tracking other assets holdings and reserves.,Fixed Assets,,,,Schedule C
+2000,Business Assets,asset,Asset account tracking business assets holdings and reserves.,,,,,
+2010,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,liability,Long-term liability account tracking outstanding loan and mortgage balances.,,,,,
+2020,Sch C - Part X - 2. Liability Account,liability,Credit card liability account tracking outstanding balances and charges.,,3614227843,,Other Financial Institution,
+2030,Tax Payable,asset,The amount of money which you owe to your tax authority is recorded under the tax payable account. This amount is a sum of your outstanding in taxes and the tax charged on sales.,Current Liabilities,,,,Schedule C
+2040,Credit Card Charges,liability,"Service fees for transactions , balance transfer fees, annual credit fees and other charges levied on a credit card are recorded into the credit card account.",,1296904528,,Other Financial Institution,
+2050,Bad Debt,liability,Any amount which is lost and is unrecoverable is recorded into the bad debt account.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+2060,Opening Balance Adjustments,liability,This account will hold the difference in the debits and credits entered during the opening balance.,,,,,
+2070,Employee Reimbursements,asset,This account can be used to track the reimbursements that are due to be paid out to employees.,Current Liabilities,,,,Schedule C
+2080,Dimension Adjustments,asset,"This adjustment account tracks the transfers between different dimensions like tags, branches.",Current Liabilities,,,,Schedule C
+2100,Current Liabilities,asset,Asset account tracking current liabilities holdings and reserves.,,,,,Schedule C
+2110,Accounts Payable,asset,"This is an account of all the money which you owe to others like a pending bill payment to a vendor,etc.",Current Liabilities,2865533916,,Other Financial Institution,Schedule C
+2111,Line Of Credit Joel,asset,Credit card liability account tracking outstanding balances and charges.,Accounts Payable,0402024728,,Other Financial Institution,"1040, Not Applicable"
+2120,Unearned Revenue,asset,"A liability account that reports amounts received in advance of providing goods or services. When the goods or services are provided, this account balance is decreased and a revenue account is increased.",Current Liabilities,,,,Schedule C
+2130,Opening Balance Adjustment,asset,Liability account tracking opening balance adjustment obligation balances.,Current Liabilities,,,,Schedule C; Not Applicable
+2200,Accrued Liabilities,asset,Credit card liability account tracking outstanding balances and charges.,Current Liabilities,0577284505,,Other Financial Institution,Schedule C
+2500,Long-term Liabilities,liability,Liability account tracking long-term liabilities obligation balances.,,,,,Schedule C
+2600,Mortgage,liability,Long-term liability account tracking outstanding loan and mortgage balances.,Long-term Liabilities,,,,Schedule C
+2800,Other Liabilities,liability,Liability account tracking other liabilities obligation balances.,,,,,Schedule C
+2900,Uncategorized Business Asset,asset,Asset account tracking uncategorized business asset holdings and reserves.,,,,,
+3010,Sch C - Part I - Income-6. Other Income,equity,Equity account tracking sch c - part i - income-6. other income ownership balances.,,,,,
+3020,Sch C - Part X - 3. Equity Account,equity,Equity account tracking sch c - part x - 3. equity account ownership balances.,,,,,
+3030,Owner's Equity,equity,The owners rights to the assets of a company can be quantified in the owner''s equity account.,,,,,
+3040,Opening Balance Offset,equity,This is an account where you can record the balance from your previous years earning or the amount set aside for some activities. It is like a buffer account for your funds.,,,,,
+3050,Drawings,equity,The money withdrawn from a business by its owner can be tracked with this account.,,,,,
+3060,Capitalone Quicksilver,equity,Equity account tracking owner capital investments and startup funding.,Capital One,,,,
+3070,Capitalone Spark Businesscard,equity,Equity account tracking owner capital investments and startup funding.,Capital One,,,,
+3080,Capital One Quicksilver One,equity,Equity account tracking owner capital investments and startup funding.,Capital One,,,,
+3100,Gross Receipts Income Rev Sales,revenue,Revenue account tracking income from sales of products and software subscriptions.,Income,,,,Schedule C
+3101,Service Income,revenue,Revenue account tracking income generated from professional services and consulting.,Gross Receipts Income Rev Sales,,,,Schedule C
+3102,360 Plans,revenue,Equity account tracking 360 plans ownership balances.,Gross Receipts Income Rev Sales,,,,Schedule C
+3200,Consulting Income,revenue,Liability account tracking consulting income obligation balances.,Gross Receipts Income Rev Sales,,,,Schedule C
+3250,Qhr Llp Draws,revenue,Equity account tracking owner drawings and personal cash distributions.,Income,,,,Schedule C
+3300,Tax Service Income,revenue,Revenue account tracking income generated from professional services and consulting.,Gross Receipts Income Rev Sales,,,,Schedule C
+3400,Document Service Income,revenue,Revenue account tracking income generated from professional services and consulting.,Gross Receipts Income Rev Sales,,,,Schedule C
+3500,Marketing Service Income,revenue,Revenue account tracking income generated from professional services and consulting.,Gross Receipts Income Rev Sales,,,,Schedule C
+3600,Property Subscriptions,revenue,Equity account tracking property subscriptions ownership balances.,Gross Receipts Income Rev Sales,,,,Schedule C
+3601,Rental Subs,revenue,Expense account tracking office lease and property rent payments.,Property Subscriptions,,,,Schedule C
+3700,Tesla Subs,revenue,Equity account tracking tesla subs ownership balances.,Gross Receipts Income Rev Sales,,,,Schedule C
+3800,Product Sales,revenue,Revenue account tracking income from sales of products and software subscriptions.,Gross Receipts Income Rev Sales,,,,Schedule C
+3900,Misc Income,revenue,Revenue account tracking misc income streams.,Gross Receipts Income Rev Sales,,,,Schedule C
+4000,Business Income,revenue,Revenue account tracking business income streams.,,,,,Schedule C
+4010,Accounting Income,liability,Revenue account tracking accounting income streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4011,Online Ads,equity,Revenue account tracking online ads streams.,Advertising,,,,Schedule C
+4012,Offline Ads,equity,Revenue account tracking offline ads streams.,Advertising,,,,Schedule C
+4013,Promotions,equity,Revenue account tracking promotions streams.,Advertising,,,,Schedule C
+4020,Car And Truck,liability,Revenue account tracking car and truck streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4021,Vehicle Insurance,liability,Revenue account tracking vehicle insurance streams.,Car And Truck,,,,Schedule C
+4022,Fuel And Charging,liability,Revenue account tracking fuel and charging streams.,Car And Truck,,,,Schedule C
+4023,Repairs And Maintenance,liability,Revenue account tracking repairs and maintenance streams.,Car And Truck,,,,Schedule C
+4024,Oil Change And Lube,expense,Revenue account tracking oil change and lube streams.,Repairs And Maintenance,,,,Schedule C
+4025,Mechanical,expense,Revenue account tracking mechanical streams.,Repairs And Maintenance,,,,Schedule C
+4026,Cosmetic,expense,Revenue account tracking cosmetic streams.,Repairs And Maintenance,,,,Schedule C
+4027,Depreciation And Amortization,liability,Revenue account tracking depreciation and amortization streams.,Car And Truck,,,,Schedule C
+4028,Depreciation Expense For Car And Other Property,liability,Expense account tracking business depreciation expense for car and other property expenditures.,Depreciation,,,,Schedule C
+4029,Mileage Deduction For Car,liability,Revenue account tracking mileage deduction for car streams.,Depreciation,,,,Schedule C
+4030,Commissions And Fees,liability,Revenue account tracking commissions and fees streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4031,Sales Commissions,liability,Revenue account tracking income from sales of products and software subscriptions.,Commissions And Fees,,,,Schedule C
+4032,Referral Fees,liability,Expense account tracking business referral fees expenditures.,Commissions And Fees,,,,Schedule C
+4033,Service Fees,liability,Expense account tracking business service fees expenditures.,Commissions And Fees,,,,Schedule C
+4040,It Consulting Income,liability,Revenue account tracking income generated from professional services and consulting.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4041,Independent Contractors,expense,Revenue account tracking independent contractors streams.,Sch C - Part Ii - Expenses-11. Contract Labor,,,,Schedule C
+4042,Temporary Workers,expense,Revenue account tracking temporary workers streams.,Sch C - Part Ii - Expenses-11. Contract Labor,,,,Schedule C
+4043,Freelancers,expense,Revenue account tracking freelancers streams.,Sch C - Part Ii - Expenses-11. Contract Labor,,,,Schedule C
+4050,Tax Prep Income,liability,Revenue account tracking tax prep income streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4060,Depreciation And Section 179,liability,Revenue account tracking depreciation and section 179 streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4061,Equipment,liability,Revenue account tracking equipment streams.,Depreciation And Section 179,,,,Schedule C
+4062,Buildings,liability,Revenue account tracking buildings streams.,Depreciation And Section 179,,,,Schedule C
+4063,Section 179 Deductions,liability,Revenue account tracking section 179 deductions streams.,Depreciation And Section 179,,,,Schedule C
+4070,Employee Benefits Programs,liability,Revenue account tracking employee benefits programs streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4071,Health Insurance,liability,Revenue account tracking health insurance streams.,Employee Benefits Programs,,,,Schedule C
+4072,Retirement Plans,liability,Revenue account tracking retirement plans streams.,Employee Benefits Programs,,,,Schedule C
+4073,Other Employee Benefits,liability,Revenue account tracking other employee benefits streams.,Employee Benefits Programs,,,,Schedule C
+4074,Tuition Assistance,liability,Revenue account tracking tuition assistance streams.,Employee Benefits Programs,,,,Schedule C
+4075,Incentive Bonus,liability,Revenue account tracking incentive bonus streams.,Employee Benefits Programs,,,,Schedule C
+4076,Other Appreciation,liability,Revenue account tracking other appreciation streams.,Employee Benefits Programs,,,,Schedule C
+4080,Insurance,liability,Revenue account tracking insurance streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4081,Property Insurance,liability,Revenue account tracking property insurance streams.,Insurance,,,,Schedule C
+4082,Liability Insurance,liability,Liability account tracking liability insurance obligation balances.,Insurance,,,,Schedule C
+4083,Commercial Auto Insurance,liability,Revenue account tracking commercial auto insurance streams.,Insurance,,,,Schedule C
+4090,Shipping Income,liability,Revenue account tracking shipping income streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4091,Mortgage Interest,liability,Long-term liability account tracking outstanding loan and mortgage balances.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4092,Credit Card Interest,liability,Credit card liability account tracking outstanding balances and charges.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,5834289335,,Other Financial Institution,Schedule C
+4093,Other Interest,liability,Revenue account tracking other interest streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4100,Legal And Professional Services,liability,Revenue account tracking income generated from professional services and consulting.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4101,Accounting Fees,liability,Expense account tracking business accounting fees expenditures.,Legal And Professional Services,,,,Schedule C
+4102,Legal Fees,liability,Expense account tracking business legal fees expenditures.,Legal And Professional Services,,,,Schedule C
+4103,Consulting Fees,liability,Revenue account tracking income generated from professional services and consulting.,Legal And Professional Services,,,,Schedule C
+4110,Markup Income,revenue,Revenue account tracking markup income streams.,,,,,
+4120,Digital Services,revenue,Revenue account tracking income generated from professional services and consulting.,,,,,
+4130,Billable Expense Income,revenue,Revenue account tracking billable expense income streams.,,,,,
+4140,Discounts Given,revenue,Revenue account tracking discounts given streams.,,,,,
+4150,Unapplied Cash Payment Income,asset,Cash on hand or petty cash reserve for small immediate expenses.,,3072713773,162117202,Other Financial Institution,
+4160,Sch C - Part I - Income-1. Gross Receipts Or Sales,revenue,Revenue account tracking income from sales of products and software subscriptions.,,,,,
+4170,Sch C - Part I - Income-2. Returns And Allowances,revenue,Revenue account tracking sch c - part i - income-2. returns and allowances streams.,,,,,
+4180,Sch C - Part I - Income-3. Subtract Line 2 From Line 1,revenue,Revenue account tracking sch c - part i - income-3. subtract line 2 from line 1 streams.,,,,,
+4190,Sch C - Part I - Income-4. Cost Of Goods Sold,revenue,Revenue account tracking sch c - part i - income-4. cost of goods sold streams.,,,,,
+4200,Office Expense,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4201,Office Supplies,liability,All expenses on purchasing office supplies like stationery are recorded into the office supplies account.,Office Expense,,,,Schedule C
+4202,Office Equipment,liability,Revenue account tracking office equipment streams.,Office Expense,,,,Schedule C
+4203,Software Subscription,liability,"Expense account tracking software licensing, developer tools, and SaaS fees.",Office Expense,,,,Schedule C
+4210,Sch C - Part I - Income-5. Gross Profit,revenue,Revenue account tracking sch c - part i - income-5. gross profit streams.,,,,,
+4220,Sch C - Part I - Income-7. Gross Income,revenue,Revenue account tracking sch c - part i - income-7. gross income streams.,,,,,
+4230,Other Charges,revenue,Miscellaneous charges like adjustments made to the invoice can be recorded in this account.,,,,,
+4240,Sales,revenue,The income from the sales in your business is recorded under the sales account.,,,,,
+4250,General Income,revenue,A general category of account where you can record any income which cannot be recorded into any other category.,,,,,
+4270,Late Fee Income,revenue,Any late fee income is recorded into the late fee income account. The late fee is levied when the payment for an invoice is not received by the due date.,,,,,
+4280,Discount,revenue,Any reduction on your selling price as a discount can be recorded into the discount account.,,,,,
+4290,Shipping Charge,revenue,Shipping charges made to the invoice will be recorded in this account.,,,,,
+4300,Pension And Profit Sharing Plans,liability,Revenue account tracking pension and profit sharing plans streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4301,Defined Benefit Plans,liability,Revenue account tracking defined benefit plans streams.,Pension And Profit Sharing Plans,,,,Schedule C
+4302,Defined Contribution Plans,liability,Revenue account tracking defined contribution plans streams.,Pension And Profit Sharing Plans,,,,Schedule C
+4310,Quick Books Payments Sales,revenue,Revenue account tracking income from sales of products and software subscriptions.,,,,,
+4320,Sales Of Product Income,revenue,Revenue account tracking income from sales of products and software subscriptions.,,,,,
+4330,Success Fee,revenue,Revenue account tracking success fee streams.,Tips Income,,,,
+4340,Sch Cincome Qi Ally361,revenue,Revenue account tracking sch cincome qi ally361 streams.,,,,,
+4350,Software Subscriptions,liability,"Expense account tracking software licensing, developer tools, and SaaS fees.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4360,Sch Cincome Qi Ally362,revenue,Revenue account tracking sch cincome qi ally362 streams.,,,,,
+4370,Sch Cincome Qi Ally363,revenue,Revenue account tracking sch cincome qi ally363 streams.,,,,,
+4380,Sch Cincome Qi Ally364,revenue,Revenue account tracking sch cincome qi ally364 streams.,,,,,
+4390,Sch Cincome Qi Ally365,revenue,Revenue account tracking sch cincome qi ally365 streams.,,,,,
+4400,Rent Or Lease,liability,Expense account tracking office lease and property rent payments.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4401,Vehicles,liability,Revenue account tracking vehicles streams.,Rent Or Lease,,,,Schedule C
+4402,Property,liability,Revenue account tracking property streams.,Rent Or Lease,,,,Schedule C
+4403,Office Space Lease,liability,Revenue account tracking office space lease streams.,Rent Or Lease,,,,Schedule C
+4410,Sch Cincome Qi Ally366,revenue,Revenue account tracking sch cincome qi ally366 streams.,,,,,
+4420,Sch Cincome Qi Ally367,revenue,Revenue account tracking sch cincome qi ally367 streams.,,,,,
+4430,Sch Cincome Qi Ally368,revenue,Revenue account tracking sch cincome qi ally368 streams.,,,,,
+4440,Sch Cincome Qi Ally369,revenue,Revenue account tracking sch cincome qi ally369 streams.,,,,,
+4450,Sch Cincome Qi Ally370,revenue,Revenue account tracking sch cincome qi ally370 streams.,,,,,
+4460,Sch Cincome Qi Ally371,revenue,Revenue account tracking sch cincome qi ally371 streams.,,,,,
+4470,Sch Cincome Qi Ally372,revenue,Revenue account tracking sch cincome qi ally372 streams.,,,,,
+4480,Sch Cincome Qi Ally373,revenue,Revenue account tracking sch cincome qi ally373 streams.,,,,,
+4490,Sch Cincome Qi Ally374,revenue,Revenue account tracking sch cincome qi ally374 streams.,,,,,
+4501,Equipment Repairs,expense,Revenue account tracking equipment repairs streams.,Repairs And Maintenance,,,,Schedule C
+4502,Building Repairs,expense,Revenue account tracking building repairs streams.,Repairs And Maintenance,,,,Schedule C
+4503,Maintenance Contracts,expense,Revenue account tracking maintenance contracts streams.,Repairs And Maintenance,,,,Schedule C
+4510,Sch Cincome Qi Ally375,revenue,Revenue account tracking sch cincome qi ally375 streams.,,,,,
+4600,Supplies,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4601,Cleaning Supplies,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Supplies,,,,Schedule C
+4602,Small Tools And Equipment Repair,liability,Revenue account tracking small tools and equipment repair streams.,Supplies,,,,Schedule C
+4700,Taxes And Licenses,liability,Revenue account tracking taxes and licenses streams.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4701,Business License,liability,Revenue account tracking business license streams.,Taxes And Licenses,,,,Schedule C
+4702,Payroll Taxes,liability,Revenue account tracking payroll taxes streams.,Taxes And Licenses,,,,Schedule C
+4703,Property Taxes,liability,Revenue account tracking property taxes streams.,Taxes And Licenses,,,,Schedule C
+4800,Travel And Meals,liability,"Expense account tracking business travel, lodging, and transport fees.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4801,Travel,liability,"Expense account tracking business travel, lodging, and transport fees.",Travel And Meals,,,,Schedule C
+4802,Air Fare,liability,Revenue account tracking air fare streams.,Travel And Meals,,,,Schedule C
+4803,Hotel And Lodging,liability,Revenue account tracking hotel and lodging streams.,Travel And Meals,,,,Schedule C
+4804,Deductible Meals,liability,"Expense account tracking business dining, catering, and travel meals.",Travel And Meals,,,,Schedule C
+4805,Meals With Clients,liability,"Expense account tracking business dining, catering, and travel meals.",Travel And Meals,,,,Schedule C
+4806,Meals During Travel,liability,"Expense account tracking business travel, lodging, and transport fees.",Travel And Meals,,,,Schedule C
+4900,Utilities,liability,"Expense account tracking utility bills, phone lines, and internet services.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+4901,Electricity,liability,Revenue account tracking electricity streams.,Utilities,,,,Schedule C
+4902,Water And Sewer,liability,Revenue account tracking water and sewer streams.,Utilities,,,,Schedule C
+4903,Internet And Phone,liability,Revenue account tracking internet and phone streams.,Utilities,,,,Schedule C
+4904,Wan Connection,liability,Revenue account tracking wan connection streams.,Utilities,,,,Schedule C
+4905,Phone Plan,liability,Revenue account tracking phone plan streams.,Utilities,,,,Schedule C
+5000,COGS – Materials & Supplies,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+5001,Salaries,revenue,Expense account tracking business salaries expenditures.,Wages,,,,Schedule C
+5002,Bonuses,revenue,Expense account tracking business bonuses expenditures.,Wages,,,,Schedule C
+5003,Employee Benefits,revenue,Expense account tracking business employee benefits expenditures.,Wages,,,,Schedule C
+5004,Monica Hernandez,asset,Expense account tracking business monica hernandez expenditures.,Unsecured Personal Loans,,,,Schedule C
+5005,Coin Collections,asset,Expense account tracking business coin collections expenditures.,Other Assets,,,,
+5006,Mission Lane-joel,liability,Expense account tracking business mission lane-joel expenditures.,Mission Lane,,,,
+5007,Unsecured Personal Loans,asset,Expense account tracking business unsecured personal loans expenditures.,Current Liabilities,,,,
+5008,Credit One Bank,expense,Expense account tracking business credit one bank expenditures.,,,,,
+5009,Credit One Cody,expense,Expense account tracking business credit one cody expenditures.,Credit One Bank,,,,
+5010,Sch C - Part Ii - Expenses,expense,Expense account tracking business sch c - part ii - expenses expenditures.,,,,,
+5020,Sch C - Part Ii - Expenses-08. Advertising,expense,Expense account tracking business sch c - part ii - expenses-08. advertising expenditures.,,,,,
+5030,Sch C - Part Ii - Expenses-09. Car And Truck Expenses,liability,Expense account tracking business sch c - part ii - expenses-09. car and truck expenses expenditures.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5040,Sch C - Part Ii - Expenses-10. Commissions And Fees,expense,Expense account tracking business sch c - part ii - expenses-10. commissions and fees expenditures.,,,,,
+5050,Sch C - Part Ii - Expenses-11. Contract Labor,expense,Expense account tracking business sch c - part ii - expenses-11. contract labor expenditures.,,,,,
+5060,Sch C - Part Ii - Expenses-12. Depletion,expense,Expense account tracking business sch c - part ii - expenses-12. depletion expenditures.,,,,,
+5070,Sch C - Part Ii - Expenses-13. Depreciation And Section 179 Expense Deduction,liability,Expense account tracking business sch c - part ii - expenses-13. depreciation and section 179 expense deduction expenditures.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5080,Sch C - Part Ii - Expenses-14. Employee Benefit Programs,expense,Expense account tracking business sch c - part ii - expenses-14. employee benefit programs expenditures.,,,,,
+5090,Sch C - Part Ii - Expenses-15. Insurance,liability,Expense account tracking business insurance premiums and liability policies.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5100,Other Expenses,liability,Any minor expense on activities unrelated to primary business operations is recorded under the other expense account.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+5101,Misc Expense,liability,Expense account tracking business misc expense expenditures.,Other Expenses,,,,Schedule C
+5102,Postage And Shipping,liability,Expense account tracking business postage and shipping expenditures.,Other Expenses,,,,Schedule C
+5103,Business Gifts,liability,Expense account tracking business business gifts expenditures.,Other Expenses,,,,Schedule C
+5104,Legal And Regulatory,liability,Expense account tracking business legal and regulatory expenditures.,Other Expenses,,,,Schedule C
+5105,Dues & Subscriptions,liability,"Expense account tracking software licensing, developer tools, and SaaS fees.",Other Expenses,,,,Schedule C
+5106,Professional Membership Fees,liability,Expense account tracking business professional membership fees expenditures.,Other Expenses,,,,Schedule C
+5107,Subscriptions To Publications,liability,"Expense account tracking software licensing, developer tools, and SaaS fees.",Other Expenses,,,,Schedule C
+5108,Online Services,liability,Expense account tracking business online services expenditures.,Other Expenses,,,,Schedule C
+5109,Bank Fees,liability,Expense account tracking business bank fees expenditures.,Other Expenses,,,,Schedule C
+5110,Monthly Fees,liability,Expense account tracking business monthly fees expenditures.,Bank Fees,,,,Schedule C
+5111,Transaction Fees,liability,Expense account tracking business transaction fees expenditures.,Bank Fees,,,,Schedule C
+5112,Merchant Service Fees,liability,Expense account tracking business merchant service fees expenditures.,Bank Fees,,,,Schedule C
+5113,Energy-efficient Commercial Buildings Deduction,liability,Expense account tracking business energy-efficient commercial buildings deduction expenditures.,Other Expenses,,,,Schedule C
+5114,Purchase Discounts,liability,Tracks any reduction that your vendor offers on your purchases. Some vendors also provide them to encourage quick payment settlement.,Other Expenses,,,,Schedule C
+5115,Exchane Gain Or Loss,liability,Expense account tracking business exchane gain or loss expenditures.,Other Expenses,,,,Schedule C
+5120,Sch C - Part Ii - Expenses-16b. Other Interest,liability,Expense account tracking business sch c - part ii - expenses-16b. other interest expenditures.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5130,Sch C - Part Ii - Expenses-17. Legal And Professional Services,expense,Expense account tracking business sch c - part ii - expenses-17. legal and professional services expenditures.,,,,,
+5140,Sch C - Part Ii - Expenses-18. Office Expense,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5150,Sch C - Part Ii - Expenses-19. Pension And Profit-sharing Plans,expense,Expense account tracking business sch c - part ii - expenses-19. pension and profit-sharing plans expenditures.,,,,,
+5160,"Sch C - Part Ii - Expenses-20a. Rent Or Lease: Vehicles,machinery,and Equipment",expense,Expense account tracking office lease and property rent payments.,,,,,
+5170,Sch C - Part Ii - Expenses-20b. Rent Or Lease: Other Business Property,expense,Expense account tracking office lease and property rent payments.,,,,,
+5180,Sch C - Part Ii - Expenses-21. Repairs And Maintenance,expense,Expense account tracking business sch c - part ii - expenses-21. repairs and maintenance expenditures.,,,,,
+5190,Sch C - Part Ii - Expenses-22. Supplies,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5200,Business Use Of Home,liability,Expense account tracking business business use of home expenditures.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+5205,Office Furniture,liability,"Expense account tracking office supplies, stationary, and minor equipment.",5202b-other Method,,,,Schedule C
+5206,Indirect Expenses,liability,Expense account tracking business indirect expenses expenditures.,5202b-other Method,,,,Schedule C
+5207,Mortgage Or Rent,liability,Long-term liability account tracking outstanding loan and mortgage balances.,5202b-other Method,,,,Schedule C
+5209,Property Taxes,liability,"Expense account tracking business taxes, licenses, and registration fees.",5202b-other Method,,,,Schedule C
+5210,"Sch C - Part Iv - Information On Your Vehicle-47b. If 'yes,part Iv - Information On Your Vehicle ,,' Is The Evidence Written?",expense,"Expense account tracking business sch c - part iv - information on your vehicle-47b. if 'yes,part iv - information on your vehicle ,,' is the evidence written? expenditures.",,,,,
+5211,Insurance,liability,Expense account tracking business insurance premiums and liability policies.,5202b-other Method,,,,Schedule C
+5212,Depreciation,liability,Expense account tracking business depreciation expenditures.,5202b-other Method,,,,Schedule C
+5220,Sch C - Part Ii - Expenses-23. Taxes And Licenses,liability,"Expense account tracking business taxes, licenses, and registration fees.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5230,Sch C - Part Ii - Expenses-24a. Travel,liability,"Expense account tracking business travel, lodging, and transport fees.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5240,Sch C - Part Ii - Expenses-24b. Deductible Meals,liability,"Expense account tracking business dining, catering, and travel meals.",Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,
+5250,Sch C - Part Ii - Expenses-25. Utilities,expense,"Expense account tracking utility bills, phone lines, and internet services.",,,,,
+5260,Sch C - Part Ii - Expenses-26. Wages,expense,Expense account tracking business sch c - part ii - expenses-26. wages expenditures.,,,,,
+5270,Sch C - Part Ii - Expenses-27a. Other Expenses,expense,Expense account tracking business sch c - part ii - expenses-27a. other expenses expenditures.,,,,,
+5280,Sch C - Part Iii - Cost Of Goods Sold,expense,Expense account tracking business sch c - part iii - cost of goods sold expenditures.,,,,,
+5290,Sch C - Part Iii - Cost Of Goods Sold-33. Method Used To Value Closing Inventory,expense,Expense account tracking business sch c - part iii - cost of goods sold-33. method used to value closing inventory expenditures.,Sch C - Part Iii - Cost Of Goods Sold,,,,
+5300,Cost Of Goods Sold,liability,An expense account which tracks the value of the goods sold.,Sch C - Part Ii - Expenses-16a. Interest On Mortgage,,,,Schedule C
+5301,Materials And Supplies,liability,"Expense account tracking office supplies, stationary, and minor equipment.",Cost Of Goods Sold,,,,Schedule C
+5302,Other COGS,liability,Expense account tracking business other cogs expenditures.,Cost Of Goods Sold,,,,Schedule C
+5310,"Sch C - Part Iii - Cost Of Goods Sold-34. Was There Any Change In Determining Quantities,costs,or Valuations Between Opening And Closing Inventory?",expense,"Expense account tracking business sch c - part iii - cost of goods sold-34. was there any change in determining quantities,costs,or valuations between opening and closing inventory? expenditures.",,,,,
+5320,Sch C - Part Iii - Cost Of Goods Sold-35. Inventory At Beginning Of Year,expense,Expense account tracking business sch c - part iii - cost of goods sold-35. inventory at beginning of year expenditures.,Sch C - Part Iii - Cost Of Goods Sold,,,,
+5330,Sch C - Part Iii - Cost Of Goods Sold-36. Purchases Less Cost Of Items Withdrawn For Personal Use,expense,Expense account tracking business sch c - part iii - cost of goods sold-36. purchases less cost of items withdrawn for personal use expenditures.,Sch C - Part Iii - Cost Of Goods Sold,,,,
+5340,Sch C - Part Iii - Cost Of Goods Sold-37. Cost Of Labor,expense,Expense account tracking business sch c - part iii - cost of goods sold-37. cost of labor expenditures.,Sch C - Part Iii - Cost Of Goods Sold,,,,
+5350,Sch C - Part Iii - Cost Of Goods Sold-38. Materials And Supplies,expense,"Expense account tracking office supplies, stationary, and minor equipment.",,,,,
+5360,Sch C - Part Iii - Cost Of Goods Sold-39. Other Costs,expense,Expense account tracking business sch c - part iii - cost of goods sold-39. other costs expenditures.,,,,,
+5370,Sch C - Part Iii - Cost Of Goods Sold-40. Add Lines 35 Through 39,expense,Expense account tracking business sch c - part iii - cost of goods sold-40. add lines 35 through 39 expenditures.,Sch C - Part Iii - Cost Of Goods Sold,,,,
+5380,Sch C - Part Iii - Cost Of Goods Sold-41. Inventory At End Of Year,expense,Expense account tracking business sch c - part iii - cost of goods sold-41. inventory at end of year expenditures.,,,,,
+5390,Sch C - Part Iii - Cost Of Goods Sold-42. Cost Of Goods Sold,expense,Expense account tracking business sch c - part iii - cost of goods sold-42. cost of goods sold expenditures.,Sch C - Part Iii - Cost Of Goods Sold,,,,
+5400,Sch C - Part Iv - Information On Your Vehicle,expense,Expense account tracking business sch c - part iv - information on your vehicle expenditures.,,,,,
+5410,Sch C - Part Iv - Information On Your Vehicle-43. When Did You Place Your Vehicle In Service For Business Purposes?,expense,Expense account tracking business sch c - part iv - information on your vehicle-43. when did you place your vehicle in service for business purposes? expenditures.,,,,,
+5420,"Sch C - Part Iv - Information On Your Vehicle-44. Of The Total Number Of Miles You Drove Your Vehicle During 2023,enter The Number Of Miles You Used Your Vehicle For:",expense,"Expense account tracking business sch c - part iv - information on your vehicle-44. of the total number of miles you drove your vehicle during 2023,enter the number of miles you used your vehicle for: expenditures.",,,,,
+5430,Sch C - Part Iv - Information On Your Vehicle-44a. Business,expense,Expense account tracking business sch c - part iv - information on your vehicle-44a. business expenditures.,Sch C - Part Iv - Information On Your Vehicle-43. When Did You Place Your Vehicle In Service For Business Purposes?,,,,
+5440,Sch C - Part Iv - Information On Your Vehicle-44b. Commuting,expense,Expense account tracking business sch c - part iv - information on your vehicle-44b. commuting expenditures.,Sch C - Part Iv - Information On Your Vehicle-43. When Did You Place Your Vehicle In Service For Business Purposes?,,,,
+5450,Sch C - Part Iv - Information On Your Vehicle-44c. Other,expense,Expense account tracking business sch c - part iv - information on your vehicle-44c. other expenditures.,,,,,
+5460,Sch C - Part Iv - Information On Your Vehicle-45. Was Your Vehicle Available For Personal Use During Off-duty Hours?,expense,Expense account tracking business sch c - part iv - information on your vehicle-45. was your vehicle available for personal use during off-duty hours? expenditures.,Sch C - Part Iv - Information On Your Vehicle-43. When Did You Place Your Vehicle In Service For Business Purposes?,,,,
+5470,Sch C - Part Iv - Information On Your Vehicle-46. Do You Have Another Vehicle Available For Personal Use?,expense,Expense account tracking business sch c - part iv - information on your vehicle-46. do you have another vehicle available for personal use? expenditures.,Sch C - Part Iv - Information On Your Vehicle-43. When Did You Place Your Vehicle In Service For Business Purposes?,,,,
+5480,Sch C - Part Iv - Information On Your Vehicle-47a. Do You Have Evidence To Support Your Deduction?,expense,Expense account tracking business sch c - part iv - information on your vehicle-47a. do you have evidence to support your deduction? expenditures.,Sch C - Part Iv - Information On Your Vehicle-43. When Did You Place Your Vehicle In Service For Business Purposes?,,,,
+5490,"Sch C - Part Iv - Information On Your Vehicle-47b. If 'yes,' Is The Evidence Written?",expense,"Expense account tracking business sch c - part iv - information on your vehicle-47b. if 'yes,' is the evidence written? expenditures.",,,,,
+5500,Sch C - Part V - Other Expenses-48. Expenses,expense,Expense account tracking business sch c - part v - other expenses-48. expenses expenditures.,,,,,
+5510,Sch C - Part X - 5. Personal Expenses,expense,Expense account tracking business sch c - part x - 5. personal expenses expenditures.,,,,,
+5520,"Sch C - Part Ii - Expenses-20a. Rent Or Lease: Vehicles,,sch C,machinery,and Equipment",expense,Expense account tracking office lease and property rent payments.,,,,,
+5530,"Sch C - Part Iii - Cost Of Goods Sold-34. Was There Any Change In Determining Quantities,,sch C,costs,or Valuations Between Opening And Closing Inventory?",expense,"Expense account tracking business sch c - part iii - cost of goods sold-34. was there any change in determining quantities,,sch c,costs,or valuations between opening and closing inventory? expenditures.",,,,,
+5540,Xx-fraudulent Charges,expense,Expense account tracking business xx-fraudulent charges expenditures.,,,,,
+5550,Lodging,expense,Any expense related to putting up at motels etc while on business travel can be entered here.,,,,,
+5570,Advertising And Marketing,expense,"Your expenses on promotional, marketing and advertising activities like banners, web-adds, trade shows, etc. are recorded in advertising and marketing account.",,,,,
+5580,Bank Fees And Charges,expense,"Any bank fees levied is recorded into the bank fees and charges account. A bank account maintenance fee, transaction charges, a late payment fee are some examples.",,,,,
+5590,Exchange Gain Or Loss,expense,Changing the conversion rate can result in a gain or a loss. You can record this into the exchange gain or loss account.,,,,,
+5600,Travel Expense,expense,"Expenses on business travels like hotel bookings, flight charges, etc. are recorded as travel expenses.",,,,,
+5610,Telephone Expense,expense,"The expenses on your telephone, mobile and fax usage are accounted as telephone expenses.",,,,,
+5620,Automobile Expense,expense,"Transportation related expenses like fuel charges and maintenance charges for automobiles, are included to the automobile expense account.",,,,,
+5630,It And Internet Expenses,expense,"Money spent on your IT infrastructure and usage like  internet connection, purchasing computer equipment etc is recorded as an IT and Computer Expense.",,,,,
+5640,Rent Expense,expense,The rent paid for your office or any space related to your business can be recorded as a rental expense.,,,,,
+5650,Janitorial Expense,expense,All your janitorial and cleaning expenses are recorded into the janitorial expenses account.,,,,,
+5660,Printing And Stationery,expense,Expenses incurred by the organization towards printing and stationery.,,,,,
+5670,Salaries And Employee Wages,expense,Salaries for your employees and the wages paid to workers are recorded under the salaries and wages account.,,,,,
+5680,Meals And Entertainment,expense,Expenses on food and entertainment are recorded into this account.,,,,,
+5690,Depreciation Expense,expense,Any depreciation in value of your assets can be captured as a depreciation expense.,,,,,
+5700,Consultant Expense,expense,Charges for availing the services of a consultant is recorded as a consultant expenses. The fees paid to a soft skills consultant to impart personality development training for your employees is a good example.,,,,,
+5710,Repairs And Maintenance,expense,The costs involved in maintenance and repair of assets is recorded under this account.,,,,,
+5730,Prepaid Expenses,expense,An asset account that reports amounts paid in advance while purchasing goods or services from a vendor.,,,,,
+5740,Parking,expense,The parking fares you pay while on business trips can be recorded under this expense category.,,,,,
+5750,Fuel/mileage Expenses,expense,This category is for tracking all the mileage related expenses.,,,,,
+5760,Tax Paid Expense,expense,"Expense account tracking business taxes, licenses, and registration fees.",,,,,
+5770,Quick Books Payments Fees,expense,Expense account tracking business quick books payments fees expenditures.,,,,,
+5780,Honey Book Transaction Fees,expense,Expense account tracking business honey book transaction fees expenditures.,,,,,
+5790,5202b-other Method,liability,Expense account tracking business 5202b-other method expenditures.,Business Use Of Home,,,,Schedule C
+5800,5201a-simplified Method,liability,Expense account tracking business 5201a-simplified method expenditures.,Business Use Of Home,,,,Schedule C
+5810,American Express 52006,liability,Expense account tracking business american express 52006 expenditures.,American Express,,,,
+5820,Chase Ink Business Preferred,liability,Expense account tracking business chase ink business preferred expenditures.,Jp Morgan Chase,,,,
+5830,Lowe’s Advantage,liability,Expense account tracking business lowe’s advantage expenditures.,Home-lowes,,,,
+5840,The Home Depot,liability,Expense account tracking business the home depot expenditures.,Home-lowes,,,,
+5850,Indiana P-EBP-EBTBT,asset,Expense account tracking business indiana p-ebp-ebtbt expenditures.,Other Assets,,,,
+5860,Chase Freedom Flex,liability,Expense account tracking business chase freedom flex expenditures.,Jp Morgan Chase,,,,
+5870,Chase Freedom Unlimited,liability,Expense account tracking business chase freedom unlimited expenditures.,Jp Morgan Chase,,,,
+5880,American Express Card,liability,Expense account tracking business american express card expenditures.,American Express,,,,
+5890,Citi Card,liability,Expense account tracking business citi card expenditures.,Other Cards,,,,
+5910,Chase Business Unlimited,liability,Expense account tracking business chase business unlimited expenditures.,Jp Morgan Chase,,,,
+5920,Amazon Prime,liability,Expense account tracking business amazon prime expenditures.,Amazon,,,,
+5930,4817sd Home,liability,Expense account tracking business 4817sd home expenditures.,Buildings,,,,
+5940,Fcfcu,liability,Expense account tracking business fcfcu expenditures.,Mortgage,,,,
+5950,Fcfcu 2,liability,Expense account tracking business fcfcu 2 expenditures.,Mortgage,,,,
+5960,Bridgecrest 2003027,liability,Expense account tracking business bridgecrest 2003027 expenditures.,2300p-car Loans Payable,,,,
+5970,Adams Immigration,asset,Expense account tracking business adams immigration expenditures.,Current Liabilities,,,,Not Applicable
+5980,Aes Indiana,asset,Expense account tracking business aes indiana expenditures.,Current Liabilities,,,,Not Applicable
+5990,Amazon Business Prime Card,liability,Expense account tracking business amazon business prime card expenditures.,Amazon,,,,
+6000,Advertising,equity,Equity account tracking advertising ownership balances.,,,,,Schedule C
+6100,Owners Equity,equity,Equity account tracking owners equity ownership balances.,Equity,,,,Schedule C
+6110,Auto Fuel,expense,Expense account tracking business auto fuel expenditures.,,,,,
+6120,Auto Insurance,expense,Expense account tracking business insurance premiums and liability policies.,,,,,
+6130,Owners Investment,equity,Expense account tracking business owners investment expenditures.,Owners Equity,,,,Schedule C
+6140,Auto Maintenance,expense,Expense account tracking business auto maintenance expenditures.,,,,,
+6150,Owners Draw/personal,equity,Expense account tracking business owners draw/personal expenditures.,Owners Equity,,,,Schedule C
+6160,Auto Repairs,expense,Expense account tracking business auto repairs expenditures.,,,,,
+6200,Opening Balance Equity,equity,Equity account tracking opening balance equity ownership balances.,Equity,,,,Schedule C
+6300,Retained Earnings,equity,The earnings of your company which are not distributed among the share holders is accounted as retained earnings.,Equity,,,,Schedule C
+6500,Legal & Professional,expense,Expense account tracking business legal & professional expenditures.,,,,,
+6600,Outstanding Shares Or Other Equity,equity,Equity account tracking outstanding shares or other equity ownership balances.,Equity,,,,Schedule C
+6810,Education,expense,Expense account tracking business education expenditures.,,,,,
+6820,Postage,expense,"Your expenses on ground mails, shipping and air mails can be recorded under the postage account.",,,,,
+6850,Dues & Memberships,expense,Expense account tracking business dues & memberships expenditures.,,,,,
+6860,Software,expense,"Expense account tracking software licensing, developer tools, and SaaS fees.",,,,,
+6870,Subscriptions,expense,"Expense account tracking software licensing, developer tools, and SaaS fees.",,,,,
+6880,Business Interest,expense,Expense account tracking business business interest expenditures.,,,,,
+6900,Pension Plans,expense,Expense account tracking business pension plans expenditures.,,,,,
+6950,Rent,expense,Expense account tracking office lease and property rent payments.,Expense_operating,,,,Line 20a (Office Rent)
+6960,Rent – Vehicles,expense,Expense account tracking office lease and property rent payments.,,,,,
+6970,Repairs & Maintenance,expense,Expense account tracking business repairs & maintenance expenditures.,,,,,
+6990,Taxes & Licenses,expense,"Expense account tracking business taxes, licenses, and registration fees.",,,,,
+6996,Travel – Lodging,expense,"Expense account tracking business travel, lodging, and transport fees.",,,,,
+6997,Travel – Meals,expense,"Expense account tracking business travel, lodging, and transport fees.",,,,,
+6998,Travel – Parking & Tolls,expense,"Expense account tracking business travel, lodging, and transport fees.",,,,,
+8000,Owner’s Equity,equity,Equity account tracking owner’s equity ownership balances.,,,,,
+8010,Goods In Transit,clearing,An account which tracks your In Transit goods value.,,,,,
+9000,Personal Income,revenue,Revenue account tracking personal income streams.,,,,,
+9010,Wages,revenue,Revenue account tracking wages streams.,,,,,
+9020,Interest Income,revenue,A percentage of your balances and deposits are given as interest to you by your banks and financial institutions. This interest is recorded into the interest income account.,,,,,
+9030,Dividend Income,revenue,Revenue account tracking dividend income streams.,,,,,
+9040,Roommate Income,revenue,Revenue account tracking roommate income streams.,,,,,
+9050,Other Personal Income,revenue,Revenue account tracking other personal income streams.,,,,,
+9060,Uncategorized,suspense,This account can be used to temporarily track expenses that are yet to be identified and classified into a particular category,,,,,
+9100,Personal Expenses,expense,Expense account tracking business personal expenses expenditures.,,,,,
+9110,Food – Dining,expense,"Expense account tracking business dining, catering, and travel meals.",,,,,
+9120,Food – Groceries,expense,"Expense account tracking business dining, catering, and travel meals.",,,,,
+9130,Health – Insurance,expense,Expense account tracking business insurance premiums and liability policies.,,,,,
+9140,Health – Medical,expense,Expense account tracking business health – medical expenditures.,,,,,
+9150,Home – Mortgage Interest,liability,Long-term liability account tracking outstanding loan and mortgage balances.,,,,,
+9160,Home – Property Taxes,expense,"Expense account tracking business taxes, licenses, and registration fees.",,,,,
+9170,Home – Utilities,expense,"Expense account tracking utility bills, phone lines, and internet services.",,,,,
+9180,Home – Repairs,expense,Expense account tracking business home – repairs expenditures.,,,,,
+9190,Transportation,expense,Expense account tracking business transportation expenditures.,,,,,
+9210,Self Care,expense,Expense account tracking business self care expenditures.,,,,,
+9220,Personal Gifts,expense,Expense account tracking business personal gifts expenditures.,,,,,
+9500,Personal Assets,asset,Asset account tracking personal assets holdings and reserves.,,,,,
+9510,Vehicles,asset,Asset account tracking vehicles holdings and reserves.,,,,,
+9511,Tesla Model 3 #1,asset,Asset account tracking tesla model 3 #1 holdings and reserves.,,,,,
+9512,Tesla Model 3 #2,asset,Asset account tracking tesla model 3 #2 holdings and reserves.,,,,,
+9520,Home,asset,Asset account tracking home holdings and reserves.,,,,,
+9530,Retirement Accounts,asset,Asset account tracking retirement accounts holdings and reserves.,,,,,
+9700,Personal Liabilities,liability,Liability account tracking personal liabilities obligation balances.,,,,,
+9710,Auto Loans,liability,Long-term liability account tracking outstanding loan and mortgage balances.,,,,,
+9720,Mortgages,liability,Long-term liability account tracking outstanding loan and mortgage balances.,,,,,
+9730,Collections,liability,Liability account tracking collections obligation balances.,,,,,
+9740,Credit Cards,liability,Credit card liability account tracking outstanding balances and charges.,,9524038067,,Other Financial Institution,
+011000,Cash On Hand,asset,Cash on hand or petty cash reserve for small immediate expenses.,,9886913004,321056887,Other Financial Institution,
+020000,Bank,asset,Asset account tracking bank holdings and reserves.,,1812726253,967416015,Other Financial Institution,
+030000,Income,revenue,Revenue account tracking income streams.,,,,,Line 1 (Gross Receipts)
+031000,Construction Revenue,revenue,Revenue account tracking construction revenue streams.,Income,,,,
+041000,Subcontractor Payments,expense,Expense account tracking business subcontractor payments expenditures.,,,,,Line 37 (Contract Labor)
+042000,Materials & Supplies,expense,"Expense account tracking office supplies, stationary, and minor equipment.",,,,,Line 38 (Materials)
+050000,Expense,expense,Expense account tracking business expense expenditures.,,,,,
+051000,Expense_operating,expense,Expense account tracking business expense_operating expenditures.,,,,,
+051100,Marketing & Advertising,expense,Expense account tracking business marketing & advertising expenditures.,Expense_operating,,,,Line 8 (Advertising)
+051200,Vehicle Expenses,expense,Expense account tracking business vehicle expenses expenditures.,Expense_operating,,,,Line 9 (Car & Truck Expenses); Vehicle Maintenance (Vehicle%20Maintenance%201d4f84a044028182be73f07a5d9f1a50.md)
+051201,Vehicle Gas,expense,Expense account tracking business vehicle gas expenditures.,Vehicle Expenses,,,,
+051202,Vehicle Repairs,expense,Expense account tracking business vehicle repairs expenditures.,,,,,
+051203,Vehicle Maintenance,expense,Expense account tracking business vehicle maintenance expenditures.,,,,,
+051204,Vehicle Insurance,expense,Expense account tracking business insurance premiums and liability policies.,Vehicle Expenses,,,,
+051300,Insurance,liability,Liability account tracking insurance obligation balances.,,,,,
+051301,Insurance General Liability,liability,Liability account tracking insurance general liability obligation balances.,Liabilities,,,,
+051302,Insurance Workers Compensation,asset,Expense account tracking business insurance premiums and liability policies.,Assets,,,,
+051400,Professional Fees,expense,Expense account tracking business professional fees expenditures.,,,,,Line 17 (Legal & Professional Fees)
+051500,Office Expenses,expense,"Expense account tracking office supplies, stationary, and minor equipment.",,,,,Line 18 (Office Expense)
+051501,Office Rent,expense,Expense account tracking office lease and property rent payments.,Office Expenses,,,,
+051502,Office Paper & Supplies,expense,"Expense account tracking office supplies, stationary, and minor equipment.",,,,,
+051503,Office Shipping,expense,"Expense account tracking office supplies, stationary, and minor equipment.",Office Expenses,,,,
+051504,Office Purchase,expense,"Expense account tracking office supplies, stationary, and minor equipment.",Office Expenses,,,,
+051505,Office Software And Licenses,expense,"Expense account tracking software licensing, developer tools, and SaaS fees.",,,,,
+051601,Rent Equipment,expense,Expense account tracking office lease and property rent payments.,Rent,,,,Line 20b (Machinery & Equipment)
+051700,Permits & Licensing,expense,Expense account tracking business permits & licensing expenditures.,,,,,Line 23 (Taxes & Licenses)
+051800,Job Site Utilities,expense,"Expense account tracking utility bills, phone lines, and internet services.",Expense_operating,,,,Line 25 (Utilities)
+051900,Payroll,expense,Expense account tracking business payroll expenditures.,,,,,Line 26 (Wages)
+051910,Payroll Taxes,expense,"Expense account tracking business taxes, licenses, and registration fees.",Payroll,,,,Line 23 (Payroll Taxes); Payroll Tax Soc. Sec. (Payroll%20Tax%20Soc%20Sec%201d4f84a0440281f0b05feeade3ec38e6.md)
+051911,Payroll Tax State,expense,"Expense account tracking business taxes, licenses, and registration fees.",Payroll Taxes,,,,
+051912,Payroll Tax Local,expense,"Expense account tracking business taxes, licenses, and registration fees.",,,,,
+051914,Payroll Tax Soc. Sec.,expense,"Expense account tracking business taxes, licenses, and registration fees.",Payroll Taxes,,,,
+051915,Payroll Tax Medicare,expense,"Expense account tracking business taxes, licenses, and registration fees.",Payroll Taxes,,,,
+052000,Payroll Wages,expense,Expense account tracking business payroll wages expenditures.,,,,,
+052100,Loan Interest,asset,Expense account tracking business loan interest expenditures.,Other,,,,Line 16a (Mortgage Interest)
+060000,Assets,asset,Asset account tracking assets holdings and reserves.,,,,,
+061000,Assets_current,asset,Asset account tracking assets_current holdings and reserves.,Assets,,,,
+61009,American Express Credit Card,liability,Credit card liability account tracking outstanding balances and charges.,,5909241517,,Other Financial Institution,
+061100,Receivables,asset,Asset account tracking outstanding customer invoices and receipts due.,,,,,
+062000,Assets_other,asset,Asset account tracking assets_other holdings and reserves.,Assets,,,,
+062100,Retainage Receivable,asset,Asset account tracking outstanding customer invoices and receipts due.,Assets_other,,,,Line 35 (Beginning Inventory)
+063000,Assets_fixed,asset,Long-term fixed asset account tracking capital assets and equipment value.,,,,,
+070000,Liabilities,liability,Liability account tracking liabilities obligation balances.,,,,,
+071000,Liabilities_current,liability,Liability account tracking liabilities_current obligation balances.,,,,,
+071100,Payables,liability,Liability account representing short-term amounts owed to vendors or partners.,Liabilities_current,,,,
+072000,Liabilities_other,liability,Liability account tracking liabilities_other obligation balances.,,,,,
+072100,Construction Loans,liability,Long-term liability account tracking outstanding loan and mortgage balances.,Liabilities_other,,,,Not reported on Schedule C
+073000,Liabilities_long-term,liability,Liability account tracking liabilities_long-term obligation balances.,Liabilities,,,,
+080000,Equity,equity,Equity account tracking equity ownership balances.,,,,,
+082000,Equity Pay & Personal,equity,Equity account tracking owner drawings and personal cash distributions.,Equity,,,,
+B100,Biz Assets,asset,Asset account tracking biz assets holdings and reserves.,,,,,
+L300,Deferred Revenue,revenue,Revenue account tracking deferred revenue streams.,,,,,
+PA100,Pers Assets,asset,Asset account tracking pers assets holdings and reserves.,,,,,
+P500,Pers Exp,expense,Expense account tracking business pers exp expenditures.,,,,,
+P569,Honduras,expense,Expense account tracking business honduras expenditures.,Pers Exp,,,,
+P510,Pers Entertainment,expense,Expense account tracking business pers entertainment expenditures.,Pers Exp,,,,
+P520,Pers Food,expense,"Expense account tracking business dining, catering, and travel meals.",Pers Exp,,,,
+P521,Pers Food Dining Out,expense,"Expense account tracking business dining, catering, and travel meals.",Pers Food,,,,
+P522,Pers Food Groceries,expense,"Expense account tracking business dining, catering, and travel meals.",Pers Food,,,,
+P525,Pers Gifts,expense,Expense account tracking business pers gifts expenditures.,Pers Exp,,,,
+P530,Pers Health,expense,Expense account tracking business pers health expenditures.,Pers Exp,,,,
+P531,Pers Health Insurance,expense,Expense account tracking business insurance premiums and liability policies.,Pers Health,,,,
+P532,Pers Health Medical,expense,Expense account tracking business pers health medical expenditures.,Pers Health,,,,
+P540,Pers Home,expense,Expense account tracking business pers home expenditures.,Pers Exp,,,,
+P541,Pers Home HOA,expense,Expense account tracking business pers home hoa expenditures.,Pers Home,,,,
+P542,Pers Home Insurance,expense,Expense account tracking business insurance premiums and liability policies.,Pers Home,,,,
+P543,Pers Home Mortgage Interest,expense,Long-term liability account tracking outstanding loan and mortgage balances.,Pers Home,,,,
+P544,Pers Home Other,expense,Expense account tracking business pers home other expenditures.,Pers Home,,,,
+P545,Pers Home Repairs,expense,Expense account tracking business pers home repairs expenditures.,Pers Home,,,,
+P546,Pers Home Taxes,expense,"Expense account tracking business taxes, licenses, and registration fees.",Pers Home,,,,
+P547,Pers Home Utilties,expense,"Expense account tracking utility bills, phone lines, and internet services.",Pers Home,,,,
+P548,Pers Home Utilties Electric,expense,"Expense account tracking utility bills, phone lines, and internet services.",Pers Home Utilties,,,,
+P549,Pers Home Utilties Water,expense,"Expense account tracking utility bills, phone lines, and internet services.",Pers Home Utilties,,,,
+P550,Pers Self Care,expense,Expense account tracking business pers self care expenditures.,Pers Exp,,,,
+P555,Pers Subscriptions,expense,"Expense account tracking software licensing, developer tools, and SaaS fees.",Pers Exp,,,,
+P560,Pers Transportation,expense,Expense account tracking business pers transportation expenditures.,Pers Exp,,,,
+P570,Pers Utilities,expense,"Expense account tracking utility bills, phone lines, and internet services.",Pers Exp,,,,
+P571,Pers Utilities Internet,expense,"Expense account tracking utility bills, phone lines, and internet services.",Pers Utilities,,,,
+P572,Pers Utilities Telephone,expense,"Expense account tracking utility bills, phone lines, and internet services.",Pers Utilities,,,,
+P200,Pers Liabilities,liability,Liability account tracking pers liabilities obligation balances.,,,,,
+P221,Pers Liabilities - Bridgecrest,liability,Liability account tracking pers liabilities - bridgecrest obligation balances.,Pers Liabilities,,,,
+P220,Pers Liabilities 1,liability,Liability account tracking pers liabilities 1 obligation balances.,Pers Liabilities,,,,
+PL015,Regional Finance Loan,liability,Expense account tracking business regional finance loan expenditures.,Pers Liabilities 1,,,,
+P237,Pers Liabilities 2,liability,Liability account tracking pers liabilities 2 obligation balances.,Pers Liabilities,,,,
+P238,Pers Liabilities 3,liability,Liability account tracking pers liabilities 3 obligation balances.,Pers Liabilities,,,,
+P210,Pers Liabilities Mortgages,liability,Long-term liability account tracking outstanding loan and mortgage balances.,Pers Liabilities,,,,
+P211,Pers Liabilities Home Mortgage 1,liability,Long-term liability account tracking outstanding loan and mortgage balances.,Pers Liabilities Mortgages,,,,
+P212,Pers Liabilities Home Mortgage 2,liability,Long-term liability account tracking outstanding loan and mortgage balances.,Pers Liabilities Mortgages,,,,
+B500,Sch C Expenses,expense,Expense account tracking business sch c expenses expenditures.,,,,,
+B501,Sch Cadvertising,expense,Expense account tracking business sch cadvertising expenditures.,Sch C Expenses,,,,
+B510,Sch Cauto,expense,Expense account tracking business sch cauto expenditures.,Sch C Expenses,,,,
+B511,Sch Cauto Fuel,expense,Expense account tracking business sch cauto fuel expenditures.,Sch Cauto,,,,
+B512,Sch Cauto Insurance,expense,Expense account tracking business insurance premiums and liability policies.,Sch Cauto,,,,
+B513,Sch Cauto Lease Payments,expense,Expense account tracking business sch cauto lease payments expenditures.,Sch Cauto,,,,
+B514,Sch Cauto Maintenance,expense,Expense account tracking business sch cauto maintenance expenditures.,Sch Cauto,,,,
+B515,Sch Cauto Mileage Adjustment,expense,Expense account tracking business sch cauto mileage adjustment expenditures.,Sch Cauto,,,,
+B516,Sch Cauto Registration,expense,Expense account tracking business sch cauto registration expenditures.,Sch Cauto,,,,
+B517,Sch Cauto Repairs,expense,Expense account tracking business sch cauto repairs expenditures.,Sch Cauto,,,,
+B520,Sch Ccommissions,expense,Expense account tracking business sch ccommissions expenditures.,Sch C Expenses,,,,
+B521,Sch Ccontract Labor,expense,Expense account tracking business sch ccontract labor expenditures.,Sch C Expenses,,,,
+B522,Sch Cdepreciation,expense,Expense account tracking business sch cdepreciation expenditures.,Sch C Expenses,,,,
+B523,Sch Cemployee Benefits,expense,Expense account tracking business sch cemployee benefits expenditures.,Sch C Expenses,,,,
+B524,Sch Cinsurance,expense,Expense account tracking business insurance premiums and liability policies.,Sch C Expenses,,,,
+B525,Sch Clegal Professional,expense,Expense account tracking business sch clegal professional expenditures.,Sch C Expenses,,,,
+B526,Sch Cmeals,expense,"Expense account tracking business dining, catering, and travel meals.",Sch C Expenses,,,,
+B530,Sch Coffice Expense,expense,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C Expenses,,,,
+B540,Sch Cother Expenses,expense,Expense account tracking business sch cother expenses expenditures.,Sch C Expenses,,,,
+B541,Sch Cother Expenses Bank Fees,expense,Expense account tracking business sch cother expenses bank fees expenditures.,Sch Cother Expenses,,,,
+B542,Sch Cother Expenses Biz Gifts,expense,Expense account tracking business sch cother expenses biz gifts expenditures.,Sch Cother Expenses,,,,
+B543,Sch Cother Expenses Dues Memberships,expense,Expense account tracking business sch cother expenses dues memberships expenditures.,Sch Cother Expenses,,,,
+B546,Sch Cother Expenses Software,expense,"Expense account tracking software licensing, developer tools, and SaaS fees.",Sch Cother Expenses,,,,
+B547,Sch Cother Expenses Subscriptions,expense,"Expense account tracking software licensing, developer tools, and SaaS fees.",Sch Cother Expenses,,,,
+B548,Sch Cother Interest,expense,Expense account tracking business sch cother interest expenditures.,Sch Cother Expenses,,,,
+B544,Sch Cother Expenses Education,expense,Expense account tracking business sch cother expenses education expenditures.,Sch C Expenses,,,,
+B545,Sch Cother Expenses Postage,expense,Expense account tracking business sch cother expenses postage expenditures.,Sch C Expenses,,,,
+B550,Sch Cpension Plans,expense,Expense account tracking business sch cpension plans expenditures.,Sch C Expenses,,,,
+B551,Sch Crent Other,expense,Expense account tracking office lease and property rent payments.,Sch C Expenses,,,,
+B552,Sch Crent Vehicles,expense,Expense account tracking office lease and property rent payments.,Sch C Expenses,,,,
+B553,Sch Crepairs Maintenance,expense,Expense account tracking business sch crepairs maintenance expenditures.,Sch C Expenses,,,,
+B554,Sch Csupplies,expense,"Expense account tracking office supplies, stationary, and minor equipment.",Sch C Expenses,,,,
+B555,Sch Ctaxes Licenses,expense,"Expense account tracking business taxes, licenses, and registration fees.",Sch C Expenses,,,,
+B560,Sch Ctravel,expense,"Expense account tracking business travel, lodging, and transport fees.",Sch C Expenses,,,,
+B561,Sch Ctravel Lodging,expense,"Expense account tracking business travel, lodging, and transport fees.",Sch Ctravel,,,,
+B562,Sch Ctravel Meals,expense,"Expense account tracking business travel, lodging, and transport fees.",Sch Ctravel,,,,
+B563,Sch Ctravel Parking Tolls,expense,"Expense account tracking business travel, lodging, and transport fees.",Sch Ctravel,,,,
+B570,Sch Cutilities,expense,"Expense account tracking utility bills, phone lines, and internet services.",Sch C Expenses,,,,
+B571,Sch Cwages,expense,Expense account tracking business sch cwages expenditures.,Sch C Expenses,,,,
+B200,Sch Cbiz Liabilities,liability,Liability account tracking sch cbiz liabilities obligation balances.,,,,,
+B210,Biz Deferred Revenue,liability,Revenue account tracking biz deferred revenue streams.,Sch Cbiz Liabilities,,,,
+B200.1,Biz Liabilities,liability,Liability account tracking biz liabilities obligation balances.,Sch Cbiz Liabilities,,,,
+B201,Biz Liability 1,liability,Liability account tracking biz liability 1 obligation balances.,Sch Cbiz Liabilities,,,,
+B202,Biz Liability 2,liability,Liability account tracking biz liability 2 obligation balances.,Sch Cbiz Liabilities,,,,
+B203,Biz Liability 3,liability,Liability account tracking biz liability 3 obligation balances.,Sch Cbiz Liabilities,,,,
+B204,Biz Liability 4,liability,Liability account tracking biz liability 4 obligation balances.,Sch Cbiz Liabilities,,,,
+B205,Biz Liability 5,liability,Liability account tracking biz liability 5 obligation balances.,Sch Cbiz Liabilities,,,,
+B588,Unapplied Cash Bill Payment Expense,asset,Cash on hand or petty cash reserve for small immediate expenses.,,7558037557,586884553,Other Financial Institution,
+A999,Uncategorized Asset,asset,Asset account tracking uncategorized asset holdings and reserves.,,,,,
+B999,Uncategorized Expense,expense,Expense account tracking business uncategorized expense expenditures.,,,,,
+ACAP150,Cash App,asset,Cash on hand or petty cash reserve for small immediate expenses.,,6135864762,526112826,Other Financial Institution,
+2111.JP4139,Chase Credit Card 4139,liability,Credit card liability account tracking outstanding balances and charges.,Jp Morgan Chase,6107566631,,Chase,
+ACHASE-9266,Chase Secure Banking - 1,asset,Asset account tracking chase secure banking - 1 holdings and reserves.,,9867055953,024547622,Chase,
+2111.CO6332,Credit One Auth User Cody,expense,Credit card liability account tracking outstanding balances and charges.,Credit One Bank,,,,
+2111.ML7626,Mission Lane Cody,liability,Liability account tracking mission lane cody obligation balances.,Mission Lane,,,,Not Applicable
+P589,Interest Paid,expense,Expense account tracking business interest paid expenditures.,Pers Exp,,,,
+B400,Sch Cincome,revenue,Revenue account tracking sch cincome streams.,,,,,
+B432,Sch Cincome Biz Consulting,revenue,Revenue account tracking income generated from professional services and consulting.,Sch Cincome,,,,
+B435,Sch Cincome Hrconsulting,revenue,Revenue account tracking income generated from professional services and consulting.,Sch Cincome,,,,
+B455,Sch Cincome Qi Ally360,revenue,Revenue account tracking sch cincome qi ally360 streams.,Sch Cincome,,,,
+2111.SF9250745,Self Credit Card,expense,Credit card liability account tracking outstanding balances and charges.,Self Care,1663830568,,Other Financial Institution,
+PCC001,Self Credit Builder,liability,Credit card liability account tracking outstanding balances and charges.,,,,,
+ASOFI7940,So Fi Checking - 2,asset,Business checking bank account for cash deposits and operational payments.,,0108364078,235539352,Other Financial Institution,
+ASOFI7940-6973,So Fi Savings - 2,asset,Business savings account for tax reserves and treasury management.,,4139770099,862135909,Other Financial Institution,
+B497,Tips Income,revenue,Revenue account tracking tips income streams.,,,,,
+2102.002,American Express,liability,Liability account tracking american express obligation balances.,,,,,
+2300P,2300p-car Loans Payable,liability,Liability account representing short-term amounts owed to vendors or partners.,,,,,Not Applicable
+2301P,2301p-bridgecrest M3 Black,liability,Liability account tracking 2301p-bridgecrest m3 black obligation balances.,2300p-car Loans Payable,,,,Not Applicable
+2302P,2302p-bridgecrest M3 Blue,liability,Liability account tracking 2302p-bridgecrest m3 blue obligation balances.,2300p-car Loans Payable,,,,Not Applicable
+2802-FSA,2802p-fsa LLC,asset,Liability account tracking 2802p-fsa llc obligation balances.,Current Liabilities,,,,Not Applicable
+2102.003,BMO Bank N.a.,liability,Liability account tracking bmo bank n.a. obligation balances.,,,,,
+2111.SF,Self Loan Account Joel,expense,Credit card liability account tracking outstanding balances and charges.,Self Care,1049051664,,Other Financial Institution,
+2102.001,Amazon,liability,Liability account tracking amazon obligation balances.,,,,,
+2102.004,Capital One,equity,Equity account tracking owner capital investments and startup funding.,,,,,
+2111.JP,Jp Morgan Chase,liability,Credit card liability account tracking outstanding balances and charges.,,,,,
+2111.008,Other Cards,liability,Credit card liability account tracking outstanding balances and charges.,,0876559917,,Other Financial Institution,
+2111.ML,Mission Lane,liability,Liability account tracking mission lane obligation balances.,,,,,
+2102.005,Home-lowes,liability,Liability account tracking home-lowes obligation balances.,,,,,

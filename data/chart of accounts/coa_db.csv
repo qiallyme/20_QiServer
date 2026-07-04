@@ -1,0 +1,105 @@
+Account Name,Account Type,Account Code,Tax Forms,Business Type,Tax Line,Parent item,Sub-item
+ASSETS_Other,Asset,062000,All,All,,,
+LIABILITIES_Other,Liability,072000,All,All,,,
+Payroll,Expense,051900,All,All,Line 26 (Wages),,
+Job Site Utilities,Expense,051800,All,Construction,Line 25 (Utilities),,
+Permits & Licensing,Tax Expense,051700,All,All,Line 23 (Taxes & Licenses),,
+Rent Equipment,Expense,051601,All,Construction,Line 20b (Machinery & Equipment),,
+Rent,Expense,051600,All,All,Line 20a (Office Rent),,
+Office Expenses,Expense,051500,All,All,Line 18 (Office Expense),,
+Payroll Taxes,Tax Expense,051910,All,All,Line 23 (Payroll Taxes),,
+Construction Loans,Liability,072100,All,Construction,Not reported on Schedule C,,
+Retainage Receivable,Asset,062100,All,All,Line 35 (Beginning Inventory),,
+Loan Interest,Expense,052100,All,All,Line 16a (Mortgage Interest),,
+Professional Fees,Expense,051400,All,All,Line 17 (Legal & Professional Fees),,
+"Insurance (Workers' Comp,Liability)",Expense,051300,All,All,,
+Vehicle Expenses,Expense,051200,All,All,Line 9 (Car & Truck Expenses),,
+Marketing & Advertising,Expense,051100,All,All,Line 8 (Advertising),,
+Vehicle Gas,Expense,051201,All,All,,,
+Vehicle Repairs,Expense,051202,All,All,,,
+Vehicle Maintenance,Expense,051203,All,All,,,
+Insurance General Liability,Expense,051301,All,All,,,
+Insurance Workers Compensation,Expense,051302,All,All,,,
+Vehicle Insurance,Expense,051204,All,All,,,
+Payroll Tax State,Tax Expense,051911,All,All,,,
+Payroll Tax Local,Tax Expense,051912,All,All,,,
+Payroll Tax Soc. Sec.,Tax Expense,051914,All,All,,,
+Payroll Tax Medicare,Tax Expense,051915,All,All,,,
+Office Rent,Expense,051501,All,All,,,
+Payroll Wages,Expense,052000,All,All,,,
+RECEIVABLES,Asset,061100,All,All,,,
+PAYABLES,Liability,071100,All,All,,,
+Office Paper & Supplies,Expense,051502,All,All,,,
+Office Shipping,Expense,051503,All,All,,,
+Office Purchase,Expense,051504,All,All,,,
+Office Software and licenses,Expense,051505,All,All,,,
+BANK,Bank,020000,All,All,,,
+INCOME,Income,030000,ScheduleC,All,Line 1 (Gross Receipts),,
+Business Checking,Bank,021000,All,All,,,
+Cash On Hand,Cash,011000,All,All,,,
+ASSETS_Current,Asset,061000,All,All,,,
+ASSETS_Fixed,Asset,063000,All,All,,,
+LIABILITIES_Current,Liability,071000,All,All,,,
+LIABILITIES_Long-Term,Liability,073000,All,All,,,
+EXPENSE,Expense,050000,All,All,,,
+ASSETS,Asset,060000,All,All,,,
+LIABILITIES,Liability,070000,All,All,,,
+EQUITY,Equity,080000,All,All,,,
+EQUITY Pay & Personal,Equity,082000,All,All,,,
+EXPENSE_Operating,Expense,051000,All,All,,,
+EXPENSE_Other,Expense,052000,All,All,,,
+Subcontractor Payments,COGS,041000,ScheduleC,All,Line 37 (Contract Labor),,
+Materials & Supplies,COGS,042000,ScheduleC,Construction,Line 38 (Materials),,
+Construction Revenue,Income,031000,ScheduleC,Construction,,,
+Retainage Receivable,Asset,062100,All,All,Line 35 (Beginning Inventory),ASSETS_Other (ASSETS_Other%201d4f84a0440281ffae31ffd6d8acfaae.md),
+Construction Loans,Liability,072100,All,Construction,Not reported on Schedule C,LIABILITIES_Other (LIABILITIES_Other%201d4f84a0440281f6b553de11bfb07fd5.md),
+Job Site Utilities,Expense,051800,All,Construction,Line 25 (Utilities),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),
+Vehicle Expenses,Expense,051200,Vehicle Repairs (Vehicle%20Repairs%201d4f84a0440281248aebde528e07d410.md),All,Vehicle Maintenance (Vehicle%20Maintenance%201d4f84a044028182be73f07a5d9f1a50.md),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),"Vehicle Gas (Vehicle%20Gas%201d4f84a044028192a3c7c6961061857e.md)
+"Insurance (Workers' Comp,051300,Liability)","Insurance General Liability (Insurance%20General%20Liability%201d4f84a044028115a302d3150582e8ed.md),Expense,Insurance Workers Compensation (Insurance%20Workers%20Compensation%201d4f84a04402811f872ac42aaed8a21e.md)",All,EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md)
+Rent Equipment,Expense,051601,All,Construction,Line 20b (Machinery & Equipment),Rent (Rent%201d4f84a0440281f8a41dc0d3c87d41de.md),
+INCOME,Income,030000,ScheduleC,All,Line 1 (Gross Receipts),,Construction Revenue (Construction%20Revenue%201d4f84a0440281ec87fedbc80e780361.md)
+Rent,Expense,051600,All,All,Line 20a (Office Rent),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),Rent Equipment (Rent%20Equipment%201d4f84a0440281c09187ea2f2d880404.md)
+Marketing & Advertising,Expense,051100,All,All,Line 8 (Advertising),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),
+Insurance General Liability,Expense,051301,%20Liability)%201d4f84a0440281a2a34af4a3d921e8aa.md)",All,,"Insurance (Workers' Comp,Liability) (Insurance%20(Workers'%20Comp
+Vehicle Repairs,Expense,051202,All,All,,Vehicle Expenses (Vehicle%20Expenses%201d4f84a04402818cb8d7d6e2bcf914c4.md),
+LIABILITIES,Liability,070000,LIABILITIES_Other (LIABILITIES_Other%201d4f84a0440281f6b553de11bfb07fd5.md),All,LIABILITIES_Long-Term (LIABILITIES_Long-Term%201d4f84a0440281c3a45fd303f4637b4b.md)",,"LIABILITIES_Current (LIABILITIES_Current%201d4f84a0440281f28a2dfde75b21fc02.md)
+EQUITY,Equity,080000,All,All,,,EQUITY Pay & Personal (EQUITY%20Pay%20&%20Personal%201d4f84a0440281cb986df081dd416527.md)
+Payroll Wages,Expense,052000,All,All,,Payroll (Payroll%201d4f84a0440281f6a232cb78fa303902.md),
+Business Checking,Bank,021000,All,All,,BANK (BANK%201d4f84a0440281ac8d0ac04b24e1d082.md),
+Permits & Licensing,Tax Expense,051700,All,All,Line 23 (Taxes & Licenses),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),
+Materials & Supplies,COGS,042000,ScheduleC,Construction,Line 38 (Materials),,
+Professional Fees,Expense,051400,All,All,Line 17 (Legal & Professional Fees),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),
+Subcontractor Payments,COGS,041000,ScheduleC,All,Line 37 (Contract Labor),,
+Office Expenses,Expense,051500,Office Paper & Supplies (Office%20Paper%20&%20Supplies%201d4f84a04402817190fcc19559f66bbf.md),All,Office Shipping (Office%20Shipping%201d4f84a0440281a58ce4f7c16134d309.md),EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),"Office Rent (Office%20Rent%201d4f84a0440281debdabd33b550d1727.md)
+Payroll Tax Medicare,Tax Expense,051915,All,All,,Payroll Taxes (Payroll%20Taxes%201d4f84a0440281ee8707ce6c7c2c3f98.md),
+ASSETS_Current,Asset,061000,All,All,,ASSETS (ASSETS%201d4f84a044028180b0b5c0ab43fa9587.md),RECEIVABLES (RECEIVABLES%201d4f84a04402813a987bdf8c0cdb8438.md)
+Loan Interest,Expense,052100,All,All,Line 16a (Mortgage Interest),EXPENSE_Other (EXPENSE_Other%201d4f84a0440281e5bf2be9eae9fdec38.md),
+Payroll Taxes,Tax Expense,051910,Payroll Tax Local (Payroll%20Tax%20Local%201d4f84a0440281bb90f4c543418dcfd9.md),All,Payroll Tax Soc. Sec. (Payroll%20Tax%20Soc%20Sec%201d4f84a0440281f0b05feeade3ec38e6.md),Payroll (Payroll%201d4f84a0440281f6a232cb78fa303902.md),"Payroll Tax State (Payroll%20Tax%20State%201d4f84a044028192b1b1effb1766472c.md)
+LIABILITIES_Current,Liability,071000,All,All,,LIABILITIES (LIABILITIES%201d4f84a04402813f9b29e41cd2a6c7b7.md),PAYABLES (PAYABLES%201d4f84a04402818887e8d00edcce07de.md)
+Payroll,Expense,051900,Payroll Wages (Payroll%20Wages%201d4f84a04402815294b0fa9a71916b8c.md)",All,All,EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md),"Payroll Taxes (Payroll%20Taxes%201d4f84a0440281ee8707ce6c7c2c3f98.md)
+Office Software and licenses,Expense,051505,All,All,,Office Expenses (Office%20Expenses%201d4f84a0440281abbe36e4490f20cfaa.md),
+Office Paper & Supplies,Expense,051502,All,All,,Office Expenses (Office%20Expenses%201d4f84a0440281abbe36e4490f20cfaa.md),
+ASSETS,Asset,060000,ASSETS_Other (ASSETS_Other%201d4f84a0440281ffae31ffd6d8acfaae.md),All,ASSETS_Fixed (ASSETS_Fixed%201d4f84a04402817e86c2d50cca3fc062.md)",,"ASSETS_Current (ASSETS_Current%201d4f84a0440281c0a416faec05c8128e.md)
+Vehicle Maintenance,Expense,051203,All,All,,Vehicle Expenses (Vehicle%20Expenses%201d4f84a04402818cb8d7d6e2bcf914c4.md),
+EXPENSE_Operating,Expense,051000,Vehicle Expenses (Vehicle%20Expenses%201d4f84a04402818cb8d7d6e2bcf914c4.md),All,Insurance (Workers' Comp,EXPENSE (EXPENSE%201d4f84a0440281d9a02ee35c94a5280d.md),"Marketing & Advertising (Marketing%20&%20Advertising%201d4f84a0440281fdbc50d0d11ba2e368.md)
+PAYABLES,Liability,071100,All,All,,LIABILITIES_Current (LIABILITIES_Current%201d4f84a0440281f28a2dfde75b21fc02.md),
+Vehicle Gas,Expense,051201,All,All,,Vehicle Expenses (Vehicle%20Expenses%201d4f84a04402818cb8d7d6e2bcf914c4.md),
+Payroll Tax State,Tax Expense,051911,All,All,,Payroll Taxes (Payroll%20Taxes%201d4f84a0440281ee8707ce6c7c2c3f98.md),
+Vehicle Insurance,Expense,051204,All,All,,Vehicle Expenses (Vehicle%20Expenses%201d4f84a04402818cb8d7d6e2bcf914c4.md),
+Office Shipping,Expense,051503,All,All,,Office Expenses (Office%20Expenses%201d4f84a0440281abbe36e4490f20cfaa.md),
+LIABILITIES_Long-Term,Liability,073000,All,All,,LIABILITIES (LIABILITIES%201d4f84a04402813f9b29e41cd2a6c7b7.md),
+EQUITY Pay & Personal,Equity,082000,All,All,,EQUITY (EQUITY%201d4f84a0440281429003f2dbd412d68c.md),
+Office Rent,Expense,051501,All,All,,Office Expenses (Office%20Expenses%201d4f84a0440281abbe36e4490f20cfaa.md),
+Construction Revenue,Income,031000,ScheduleC,Construction,,INCOME (INCOME%201d4f84a0440281de8139de8c663a79b5.md),
+Payroll Tax Soc. Sec.,Tax Expense,051914,All,All,,Payroll Taxes (Payroll%20Taxes%201d4f84a0440281ee8707ce6c7c2c3f98.md),
+ASSETS_Other,Asset,062000,All,All,,ASSETS (ASSETS%201d4f84a044028180b0b5c0ab43fa9587.md),Retainage Receivable (Retainage%20Receivable%201d4f84a044028114b226e93e89b2fcd4.md)
+Office Purchase,Expense,051504,All,All,,Office Expenses (Office%20Expenses%201d4f84a0440281abbe36e4490f20cfaa.md),
+Insurance Workers Compensation,Expense,051302,%20Liability)%201d4f84a0440281a2a34af4a3d921e8aa.md)",All,,"Insurance (Workers' Comp,Liability) (Insurance%20(Workers'%20Comp
+RECEIVABLES,Asset,061100,All,All,,ASSETS_Current (ASSETS_Current%201d4f84a0440281c0a416faec05c8128e.md),
+ASSETS_Fixed,Asset,063000,All,All,,ASSETS (ASSETS%201d4f84a044028180b0b5c0ab43fa9587.md),
+Cash On Hand,Cash,011000,All,All,,,
+BANK,Bank,020000,All,All,,,Business Checking (Business%20Checking%201d4f84a044028157a59ec22dddad3ad0.md)
+Payroll Tax Local,Tax Expense,051912,All,All,,Payroll Taxes (Payroll%20Taxes%201d4f84a0440281ee8707ce6c7c2c3f98.md),
+EXPENSE,Expense,050000,EXPENSE_Operating (EXPENSE_Operating%201d4f84a044028184afe6d7f536e1a896.md)",All,All,,"EXPENSE_Other (EXPENSE_Other%201d4f84a0440281e5bf2be9eae9fdec38.md)
+EXPENSE_Other,Expense,052000,All,All,,EXPENSE (EXPENSE%201d4f84a0440281d9a02ee35c94a5280d.md),Loan Interest (Loan%20Interest%201d4f84a0440281e1bc73d100d7ccf42a.md)
+LIABILITIES_Other,Liability,072000,All,All,,LIABILITIES (LIABILITIES%201d4f84a04402813f9b29e41cd2a6c7b7.md),Construction Loans (Construction%20Loans%201d4f84a04402811b8e2ef464051c691e.md)
