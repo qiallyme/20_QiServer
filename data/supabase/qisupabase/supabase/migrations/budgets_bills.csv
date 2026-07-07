@@ -1,0 +1,3 @@
+object_type,name,transaction_count,total_amount,recommended_action
+budget,Home Bills,1,-69.12,keep if it controls spending; do not duplicate category
+bill,Shared Home - Astound Internet & Phones,1,-69.12,keep as recurring obligation/subscription

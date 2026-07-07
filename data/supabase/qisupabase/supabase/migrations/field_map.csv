@@ -1,0 +1,54 @@
+firefly_export_column,recommended_destination,keep_in_canonical_transactions
+user_id,raw + user dimension,raw only
+group_id,raw + firefly_transaction_groups,yes
+journal_id,raw + transaction source id,yes
+created_at,raw audit timestamp,raw only
+updated_at,raw audit timestamp,raw only
+group_title,raw + firefly_transaction_groups,raw only
+type,transactions.transaction_type,yes
+currency_code,transactions.currency_code,yes
+amount,transactions.amount,yes
+foreign_currency_code,raw / foreign currency support,raw only
+foreign_amount,raw / foreign currency support,raw only
+primary_currency_code,raw / primary currency support,raw only
+pc_amount,raw / primary currency support,raw only
+pc_foreign_amount,raw / foreign currency support,raw only
+description,transactions.description,yes
+date,transactions.transaction_date,yes
+source_name,accounts/counterparties,yes
+source_iban,accounts/counterparties,raw only
+source_type,accounts/counterparties,yes
+destination_name,accounts/counterparties,yes
+destination_iban,accounts/counterparties,raw only
+destination_type,accounts/counterparties,yes
+reconciled,transactions.reconciled,raw only
+category,categories crosswalk,yes
+budget,budgets crosswalk,yes
+bill,bills/subscriptions crosswalk,yes
+tags,tags bridge table,yes
+notes,transactions.notes,yes
+sepa_cc,raw SEPA fields,raw only
+sepa_ct_op,raw SEPA fields,raw only
+sepa_ct_id,raw SEPA fields,raw only
+sepa_db,raw SEPA fields,raw only
+sepa_country,raw SEPA fields,raw only
+sepa_ep,raw SEPA fields,raw only
+sepa_ci,raw SEPA fields,raw only
+sepa_batch_id,raw SEPA fields,raw only
+external_url,raw external/url/reference,raw only
+interest_date,raw date metadata,raw only
+book_date,raw date metadata,raw only
+process_date,raw date metadata,raw only
+due_date,raw date metadata,raw only
+payment_date,raw date metadata,raw only
+invoice_date,raw date metadata,raw only
+recurrence_id,raw recurrence,raw only
+internal_reference,raw external/url/reference,raw only
+bunq_payment_id,raw external/url/reference,raw only
+import_hash,dedupe/source lineage,raw only
+import_hash_v2,dedupe/source lineage,yes
+external_id,raw external/url/reference,yes
+original_source,raw external/url/reference,raw only
+recurrence_total,raw recurrence,raw only
+recurrence_count,raw recurrence,raw only
+recurrence_date,raw date metadata,raw only

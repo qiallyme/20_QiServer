@@ -1,0 +1,22 @@
+account_name,account_type,canonical_account_type,entity_guess,recommended_action,usage_count,source_count,destination_count
+Cash,Asset account,asset,Cash,keep as account/counterparty candidate,2,1,1
+CashApp $srv1ne,Asset account,asset,Cash App,keep as account/counterparty candidate,1187,922,265
+Chase Secure Checking,Asset account,asset,Chase,keep as account/counterparty candidate,2,0,2
+ONB Everyday Checking *****5371,Asset account,asset,Old National Bank,keep as account/counterparty candidate,2,1,1
+Cash account,Cash account,asset_cash,Cash,keep as account/counterparty candidate,20,2,18
+Albert Instant Cash,Debt,liability_debt,Albert,keep as account/counterparty candidate,1,1,0
+CashApp Afterpay Loan,Debt,liability_debt,Cash App,keep as account/counterparty candidate,185,0,185
+CashApp Loan,Debt,liability_debt,Cash App,keep as account/counterparty candidate,188,29,159
+Money Lion,Debt,liability_debt,MoneyLion,keep as account/counterparty candidate,1,1,0
+(no name),Expense account,expense_counterparty,Generic missing counterparty,fix/replace with real merchant name,478,0,478
+Astound Broadband,Expense account,expense_counterparty,Astound,keep as account/counterparty candidate,1,0,1
+CashApp Overdraft,Expense account,expense_counterparty,Cash App,keep as account/counterparty candidate,78,0,78
+Zai Ledger Decreases,Expense account,expense_counterparty,Zai,keep as account/counterparty candidate,10,0,10
+"Initial balance for ""Albert Instant Cash""",Initial balance account,system_opening_balance,Albert,"keep system-only, do not canonicalize",1,0,1
+"Initial balance for ""Money Lion""",Initial balance account,system_opening_balance,MoneyLion,"keep system-only, do not canonicalize",1,0,1
+Lisa Ledger,Loan,liability_loan,Lisa,keep as account/counterparty candidate,5,1,4
+Zaitullah Jan Ledger,Loan,liability_loan,Zai,keep as account/counterparty candidate,16,10,6
+(no name),Revenue account,revenue_counterparty,Generic missing counterparty,fix/replace with real merchant name,234,234,0
+ComfortKeepers,Revenue account,revenue_counterparty,Comfort Keepers / Zech,keep as account/counterparty candidate,2,2,0
+Family_Robert_Rice,Revenue account,revenue_counterparty,,keep as account/counterparty candidate,1,1,0
+Zai Ledger Increases,Revenue account,revenue_counterparty,Zai,keep as account/counterparty candidate,5,5,0

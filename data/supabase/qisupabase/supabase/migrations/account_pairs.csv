@@ -1,0 +1,21 @@
+interpretation_guess,source_name,source_type,destination_name,destination_type,transaction_count,total_amount
+spend / expense outflow,CashApp $srv1ne,Asset account,(no name),Expense account,478,-10419.72
+income inflow,(no name),Revenue account,CashApp $srv1ne,Asset account,234,11497.65
+debt repayment / liability reduction,CashApp $srv1ne,Asset account,CashApp Afterpay Loan,Debt,185,-2454.03
+debt repayment / liability reduction,CashApp $srv1ne,Asset account,CashApp Loan,Debt,159,-2957.49
+spend / expense outflow,CashApp $srv1ne,Asset account,CashApp Overdraft,Expense account,78,-1155.97
+borrowed funds / debt draw,CashApp Loan,Debt,CashApp $srv1ne,Asset account,29,1944.07
+review,CashApp $srv1ne,Asset account,Cash account,Cash account,18,-454.35
+personal ledger / owed-to-from,Zaitullah Jan Ledger,Loan,Zai Ledger Decreases,Expense account,10,-432.49
+personal ledger / owed-to-from,Zai Ledger Increases,Revenue account,Zaitullah Jan Ledger,Loan,5,5860.55
+personal ledger / owed-to-from,CashApp $srv1ne,Asset account,Lisa Ledger,Loan,3,-113.0
+income inflow,ComfortKeepers,Revenue account,Chase Secure Checking,Asset account,2,1100.0
+opening balance setup,Albert Instant Cash,Debt,"Initial balance for ""Albert Instant Cash""",Initial balance account,1,25.0
+review,Cash account,Cash account,Cash,Asset account,1,152.0
+bank/internal transfer,Cash,Asset account,ONB Everyday Checking *****5371,Asset account,1,152.0
+personal ledger / owed-to-from,CashApp $srv1ne,Asset account,Zaitullah Jan Ledger,Loan,1,-500.0
+personal ledger / owed-to-from,Cash account,Cash account,Lisa Ledger,Loan,1,449.0
+personal ledger / owed-to-from,Lisa Ledger,Loan,CashApp $srv1ne,Asset account,1,5.0
+income inflow,Family_Robert_Rice,Revenue account,CashApp $srv1ne,Asset account,1,15.0
+spend / expense outflow,ONB Everyday Checking *****5371,Asset account,Astound Broadband,Expense account,1,-69.12
+opening balance setup,Money Lion,Debt,"Initial balance for ""Money Lion""",Initial balance account,1,25.0

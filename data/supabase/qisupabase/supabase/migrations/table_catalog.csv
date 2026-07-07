@@ -1,0 +1,12 @@
+Table,Purpose,Starter fields
+qifinance.import_batches,Track each Firefly/COA/CSV import run,"id, source_system, source_file_name, imported_at, row_count, checksum"
+qifinance.firefly_transactions_raw,Exact Firefly transaction export rows,"id, import_batch_id, raw_row, import_hash_v2, journal_id, group_id, amount, date"
+qifinance.transactions,Canonical system-owned ledger transactions,"id, source_system, source_record_id, date, amount, type, description, account refs"
+qifinance.accounts,Money containers and liability accounts,"id, canonical_name, account_type, institution, owner_scope, firefly_name"
+qifinance.counterparties,People/vendors/merchants/employers,"id, display_name, counterparty_type, normalized_key"
+qifinance.categories,Stable accounting categories,"id, code, domain, subcategory, canonical_name, parent_id"
+qifinance.tags,Cross-cutting labels/context,"id, tag_key, display_name, tag_type"
+qifinance.transaction_tags,Bridge table for many tags per transaction,"transaction_id, tag_id"
+qifinance.budgets,Spending control buckets,"id, name, category_id, active"
+qifinance.bills,Recurring obligations/subscriptions,"id, name, counterparty_id, category_id, budget_id, due_rule"
+qifinance.coa_crosswalk,Merge old COAs into canonical objects safely,"source, old_code, old_name, canonical_object_type, canonical_object_id, status"

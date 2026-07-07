@@ -1,0 +1,5 @@
+type,transaction_count,total_amount
+Deposit,274,21023.27
+Opening balance,2,50.0
+Transfer,1,152.0
+Withdrawal,933,-18556.17
