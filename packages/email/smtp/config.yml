@@ -1,0 +1,6 @@
+server: smtp.zeptomail.com
+port: 587
+username: emailapikey
+password: wSsVR61//hb4W6cun2WqceZrylRTD1z2FER13wCh7XSuFqjE98c9k0GdDAGkG/VLEDJqEDcX8Lsgnh4FhztaiIh5zwtRDCiF9mqRe1U4J3x17qnvhDzKXmVVlBqOJYwMzwpommVnEskk+g==
+from_email: noreply@qially.com
+from_name: QiAlly - Ask Cody
