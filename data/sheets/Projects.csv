@@ -1,0 +1,21 @@
+Project Name,Project Code,Description,Billing Type,Project Cost,Customer Name,Currency Code,Budget Type,Budget Amount,Cost Budget,Project Budget Hours,Project Status,Billing Rate Frequency,Hours Per Day
+FOH,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+Erick,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+Audit,,,Task Based Hourly Billing,0,Erick Francisco Carreto Vasquez LLC,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+FOH,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+Management,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+SRVTM,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+General Ops Project,,,Task Based Hourly Billing,0,House Account,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+"BOOKKEEPING, GENERAL OPS",,,Task Based Hourly Billing,0,Zoho,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+SRVPM,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+Remote Bookkeeping,,,Task Based Hourly Billing,0,SRVTM,USD,Task Budget by Hours,0.000,0.000,0,Active,hourly,00:00
+Joyeria Esmeralda 22-23,,Update books and filings for 2022-2023 (1000) transactions,Project Based Hourly Billing,60.000,Joyeria Esmeralda LLC,USD,Project Budget by Hours,0.000,0.000,3000,Active,hourly,00:00
+Joyeria Esmeralda 2022-2023,JES2223,,Staff Based Hourly Billing,0,Joyeria Esmeralda LLC,USD,No Budget,0.000,0.000,0,Active,hourly,00:00
+SEGURIDAD FENIXX,SEGFEN,"COMPRA, Y INSTALACCION DE SISTEMA DE CAMERAS, ENTRENAMIENTO, INSTALACION DE MEDIA.",Project Based Fixed Billing,150.000,Fenixx LLC,USD,No Budget,220.000,150.000,0,Active,fixed,00:00
+Tesla Accident,TAKELM3001,,Task Based Hourly Billing,0,Rice-Velasquez Enterprises,USD,No Budget,0.000,0.000,0,Active,hourly,00:00
+AllState Claim: 0743569428,,"Comprehensive Outline of Claims Process with Allstate as of 02/23/2024IntroductionThis document outlines the interactions between Cody Rice-Velasquez and Allstate Insurance Company regarding claim number 0743569428, focusing on communication challenges, requests for accommodations due to disabilities, and suggested steps for resolution.PurposeThe purpose of this document is to provide a clear and detailed account of the ongoing claim process, highlight areas where the insurance company may ha...",Staff Based Hourly Billing,0,AllState Expense Report Account,USD,No Budget,0.000,0.000,0,Inactive,hourly,00:00
+"INNOVA HIRE LLC
+Project 1-4",,"The main goal of this project is to ensure that all necessary documents and forms are properly filed and submitted for the renewal of the IITN (Individual Taxpayer Identification Number), partnership return, business rectification, and ongoing support plan and onboarding. This process will involve overseeing the entire filing process, from gathering the required information and documents to submitting them to the appropriate authorities. The project will also provide ongoing support and guida...",Project Based Fixed Billing,725.000,Munoz Cleaning Corp LLC,USD,No Budget,0.000,0.000,0,Inactive,fixed,00:00
+Explore Zoho Projects!,,,Project Based Hourly Billing,0,Chubby Bunny Testing Cleint,USD,No Budget,0.000,0.000,0,Inactive,hourly,00:00
+BDLS - Projects,,,Staff Based Hourly Billing,0,BDLS,USD,No Budget,0.000,0.000,0,Inactive,hourly,00:00
+QuantumHR Launch,,"Our cutting-edge QuantumHR, a leading provider of HR consulting and services, has recently announced their launch of a new partnership endeavor. This partnership aims to bring together the expertise and resources of QuantumHR with other HR consulting firms to provide comprehensive and innovative solutions to clients. The collaboration will offer a wide range of services such as talent acquisition, performance management, and employee training and development. This strategic partnership will a...",Task Based Hourly Billing,0,QuantumHR,USD,No Budget,0.000,0.000,0,Inactive,hourly,00:00

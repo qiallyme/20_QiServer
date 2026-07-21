@@ -1,0 +1,15 @@
+Expense Category Name,Account Code,Description,Account Type,Category Icon,CanOverrideSettings,IsReceiptRequired,Receipt Required Amount,IsMaximumAmountRequired,Max Allowed Amount,IsDescriptionRequired,Currency,Category Type,ExpenseType
+Lodging,,Any expense related to putting up at motels etc while on business travel can be entered here.,Expense,lodging,false,false,0.00,false,0.000,false,USD,Expense,
+Furniture and Equipment,,Purchases of furniture and equipment for your office that can be used for a long period of time usually exceeding one year can be tracked with this account.,Fixed Asset,,false,false,0.00,false,0.000,false,USD,Fixed Asset,
+Advance Tax,,"Any tax which is paid in advance is recorded into the advance tax account. This advance tax payment could be a quarterly, half yearly or yearly payment.",Other Current Asset,,false,false,0.00,false,0.000,false,USD,Other Current Asset,
+Office Supplies,,All expenses on purchasing office supplies like stationery are recorded into the office supplies account.,Expense,11,false,false,0.00,false,0.000,false,USD,Expense,
+Air Travel Expense,,"Expenses on business travels like hotel bookings, flight charges, etc. are recorded as travel expenses.",Expense,Travel,false,false,0.00,false,0.000,false,USD,Expense,
+Telephone Expense,,"The expenses on your telephone, mobile and fax usage are accounted as telephone expenses.",Expense,Phone,false,false,0.00,false,0.000,false,USD,Expense,
+Automobile Expense,,"Transportation related expenses like fuel charges and maintenance charges for automobiles, are included to the automobile expense account.",Expense,Automobile,false,false,0.00,false,0.000,false,USD,Expense,
+IT and Internet Expenses,,"Money spent on your IT infrastructure and usage like  internet connection, purchasing computer equipment etc is recorded as an IT and Computer Expense.",Expense,Internet,false,false,0.00,false,0.000,false,USD,Expense,
+Employee Advance,,Money paid out to an employee in advance can be tracked here till it's repaid or shown to be spent for company purposes.,Other Current Asset,Others,false,false,0.00,false,0.000,false,USD,Other Current Asset,
+Meals and Entertainment,,Expenses on food and entertainment are recorded into this account.,Expense,Food,false,false,0.00,false,0.000,false,USD,Expense,
+Other Expenses,,Any minor expense on activities unrelated to primary business operations is recorded under the other expense account.,Expense,Others,false,false,0.00,false,0.000,false,USD,Expense,Others
+Prepaid Expenses,,An asset account that reports amounts paid in advance while purchasing goods or services from a vendor.,Other Current Asset,Others,false,false,0.00,false,0.000,false,USD,Other Current Asset,
+Fuel/Mileage Expenses,,This category is for tracking all the mileage related expenses.,Expense,10,false,false,0.00,false,0.000,false,USD,Expense,
+Parking,,The parking fares you pay while on business trips can be recorded under this expense category.,Expense,Parking,false,false,0.00,false,0.000,false,USD,Expense,

@@ -1,0 +1,15 @@
+category,code,label,description,default
+sensitivity,public,Public,Safe for broad sharing and publishing,false
+sensitivity,internal,Internal,Visible inside your org/systems,true
+sensitivity,confidential,Confidential,Private to you or trusted collaborators,false
+sensitivity,restricted,Restricted,High-risk or scoped access only,false
+sensitivity,secret,Secret,Do-not-expose unless explicitly authorized,false
+classification,personal_health,Personal Health,Medical/mental health related,false
+classification,personal_finance,Personal Finance,Private banking/tax/financial,false
+classification,legal,Legal,Contracts, legal strategy, general legal,false
+classification,immigration,Immigration,Immigration/asylum/SIV casework,false
+classification,client_confidential,Client Confidential,Client-owned sensitive materials,true
+classification,business_internal,Business Internal,Internal ops, strategy, private business docs,true
+classification,marketing_public,Marketing Public,Deliberately public-facing collateral,false
+classification,system_darkmatter,System DarkMatter,Infrastructure/system substrate,false
+classification,other,Other/Unclassified,Default fallback,false

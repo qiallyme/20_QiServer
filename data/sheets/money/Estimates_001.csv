@@ -1,0 +1,61 @@
+Record Id,Estimate Number,Subject,Deal Name.id,Estimate Stage,Valid Until,Team,Contact Name.id,Carrier,Account Name.id,Estimate Owner.id,Created By.id,Modified By.id,Created Time,Modified Time,Sub Total,Tax,Adjustment,Grand Total,Billing Street,Shipping Street,Billing City,Shipping City,Billing State,Shipping State,Billing Code,Shipping Code,Billing Country,Shipping Country,Product Details,Terms and Conditions,Description,Discount,Currency,Exchange Rate,Layout.id,Tag,User Modified Time,System Related Activity Time,User Related Activity Time,System Modified Time,Discount Type Input,Discount Percentage Input,Locked,Record Status,Document Notes,Effort Level
+zcrm_5861855000002920117,5861855000002920123,Lucas Perez - Draft,,Closed Lost,,,,FedEX,zcrm_5861855000002342012,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-13 01:15:26,2024-03-22 18:09:39,1695.0,0.0,0.0,1695,,,,,,,,,,,,,,0.0,USD,1.000000000,zcrm_5861855000000091017,,2024-03-22 18:09:39,,,,,,false,Available,,
+zcrm_5861855000005016012,5861855000005016016,ISEAL DEAL,zcrm_5861855000005013091,Negotiation,2024-01-07,SRV,zcrm_5861855000005013013,USPS,zcrm_5861855000005013020,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-31 14:46:46,2023-12-31 14:46:46,900.0,0.0,0.0,750,2924 South Fleming Street,2924 South Fleming Street,Indianapolis,Indianapolis,IN,IN,46241,46241,United States,United States,,"Offer Details:
+
+Two Services Discount: If a client starts two of the specified services on the same day, they are eligible for a discount of $50.
+Three Services Discount: If a client starts all three specified services (Company Registration Reactivation, BMV Plates, and ITIN Renewal) on the same day, they receive a discount of $150.
+Eligibility:
+
+This offer is valid only if the services are initiated on the same day.
+The discount is applicable per client, not per service.
+No Refund Policy:
+
+Once a service is initiated, there are no refunds available. Clients are encouraged to review their needs carefully before initiating any service.
+Validity:
+
+This offer is valid only for the services mentioned: Company Registration Reactivation, BMV Plates, and ITIN Renewal.
+The discount is only applicable on the day the services are initiated.
+Payment:
+
+The discounted amount must be paid in full at the time of service initiation.
+Standard service rates apply if the services are not initiated on the same day or if less than two services are selected.
+Limitations:
+
+This offer cannot be combined with any other promotions or discounts.
+The discount is non-transferable and cannot be exchanged for cash or other services.
+Amendments:
+
+SRVGroup.co reserves the right to modify, cancel, or limit the offer without prior notice.
+Agreement:
+
+By availing of this discount offer, the client agrees to the terms and conditions set forth herein.",,150.0,USD,1.000000000,zcrm_5861855000000091017,,,,,,,,false,Available,,
+zcrm_5861855000007559020,5861855000007559022,TAX RETURN 2023,zcrm_5861855000007559003,Negotiation,2024-02-18,BOH,zcrm_5861855000000547334,USPS,zcrm_5861855000002342012,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-17 17:51:07,2024-02-17 17:51:07,250.0,0.0,0.0,225,,,,,,,,,,,,SEE ENGAGEMENT LETTER,,25.0,USD,1.000000000,zcrm_5861855000000091017,,,,,,,,false,Available,,
+zcrm_5861855000010095001,5861855000010095005,RENOVAR ESTICKER,zcrm_5861855000010092036,Negotiation,2024-03-24,BOH,zcrm_5861855000006756001,FedEX,zcrm_5861855000010092019,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-22 17:28:24,2024-03-22 17:36:25,100.0,0.0,0.0,100,,,,,,,,,,,,"6. Política de Reembolso
+La política de reembolso se detalla en el acuerdo de servicio, explicando las condiciones bajo las cuales se emiten los reembolsos y destacando la porción no reembolsable como compensación por el tiempo y el esfuerzo.
+
+¿Te gustaría más información detallada sobre alguno de estos puntos o tienes otra consulta?",,0.0,USD,1.000000000,zcrm_5861855000000091017,,2024-03-22 17:36:25,,,,,,false,Available,,
+zcrm_5861855000010098023,5861855000010098028,"BMV PLACASA, RENOVACION DE EMPRESA, INSPECCION Y BILL",,Delivered,2024-03-26,BOH,,FedEX,zcrm_5861855000007060150,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-22 19:12:11,2024-04-10 01:24:02,822.0,0.0,80.0,902,,,,,,,,,,,,"Service Agreement
+Parties: This Service Agreement (""Agreement"") is between SRV Capital Holdings Inc. (""SRVGroup.co"") and the Client.
+
+Partes: Este Acuerdo de Servicio (""Acuerdo"") es entre SRV Capital Holdings Inc. (""SRVGroup.co"") its subsidieries, officers, agents, etc. y el Cliente.
+Bienvenidos a SRVGroup, donde sus necesidades encuentran nuestra experiencia. Nos comprometemos a la transparencia y la confianza a lo largo de nuestra colaboración.
+Sección 1: Precios y Servicios
+Precios: Adaptados a sus necesidades específicas, nuestros precios reflejan el tiempo, conocimiento, y esfuerzo invertido en servirle. Iniciamos con un compromiso del 100% hacia su satisfacción, bajo una política de no reembolso que es importante considerar.
+Servicios: Ofrecemos una gama de servicios desde Servicios de Matrícula BMV hasta Asesoramiento Fiscal y Puntos de Envío de Carga, diseñados para eficiencia y satisfacción.
+Sección 2: Política de Privacidad y Seguridad
+Valoramos y protegemos su privacidad e información personal con medidas de seguridad rigurosas, asegurando tranquilidad en cada transacción.
+Sección 3: Términos de Uso
+Al interactuar con nuestros servicios, usted acepta nuestros Términos de Uso, promoviendo un uso responsable de la información y servicios proporcionados.
+Sección 4: Navegando Desafíos con Agencias Gubernamentales
+Reconocemos los desafíos de interactuar con agencias gubernamentales. Nuestra experiencia nos permite representarles eficazmente, aunque los tiempos de espera y resultados pueden variar y están fuera de nuestro control.
+Sección 5: Compromiso con el Cliente
+Nuestro compromiso es con su trayectoria y satisfacción. Desde la consulta inicial hasta la finalización exitosa de su servicio, estamos con usted en cada paso.
+Reglas de la Oficina: Exigimos respeto y educación en todas las interacciones, comprometiéndonos a proveer un servicio de calidad.
+Comunicación: Preferentemente por email, aceptamos mensajes de texto y llamadas a buzón de voz. Pedimos no llamar repetidamente para evitar retrasos.
+Ley Aplicable y Acuerdo Completo: Este Acuerdo se rige por las leyes de nuestra jurisdicción, constituyendo el acuerdo completo entre SRV y el Cliente.
+Aceptación: La firma del cliente indica el reconocimiento y aceptación de los términos.
+Descargo de responsabilidad: No somos abogados. Nuestra información es con fines educativos y no debe interpretarse como asesoramiento legal. Instamos a la consulta con abogados calificados para asuntos legales.",,0.0,USD,1.000000000,zcrm_5861855000000091017,,2024-04-10 01:24:02,,,,,,false,Available,,
+zcrm_5861855000011556073,5861855000011556078,Emmanuel Tax Return 2023,zcrm_5861855000011556019,Closed Won,,,zcrm_5861855000000546255,FedEX,zcrm_5861855000011552001,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-14 11:12:46,2024-04-14 11:25:15,504.0,0.0,-100.0,404,4703 Round Lake Rd.,,Indianapolis,,IN,,46205,,,,,,"Su declaracion fue de Contratista eso incluy formas personales, casados y dependientes con un limite de un sch c y 22 formas (incluyendo el schedule c). Su retorno necesitado 2 schedule c adicionales y tenia 24 formas. El costo de schedule c adicional es de $100 y formas $15 por form. Su total salio en $504 este año pero le estamos dando un discuento de $100.00 como clientes valiosos su saldo pendiente es de $404.00
+
+Gracias.",0.0,USD,1.000000000,zcrm_5861855000000091017,,2024-04-14 11:25:15,,,,,,false,Available,,
+zcrm_5861855000016047043,5861855000016047046,EIN BIZ PLACAS,,Draft,2024-08-31,,zcrm_5861855000015898001,FedEX,zcrm_5861855000015898013,zcrm_5861855000000432001,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-08-21 00:44:56,2024-08-21 00:44:56,800.0,0.0,0.0,500,5650 Rains Lane,5650 Rains Lane,Indianapolis,Indianapolis,IN,IN,46254,46254,US,US,,"Estos cargos son únicamente por nuestras tarifas de servicio y las tarifas estatales; no incluyen las tarifas del BMV, las cuales pueden variar considerablemente. Primero, necesitamos registrar la empresa en el estado, obtener el EIN y tener la documentación lista. Una vez que tengamos eso, podremos estimar las tarifas del BMV. Cuanto antes realice el pago, antes podremos comenzar con el proceso del BMV, que suele tomar más tiempo.",,300.0,USD,1.000000000,zcrm_5861855000000091017,,,,,,,,false,Available,,

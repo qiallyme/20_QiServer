@@ -1,0 +1,139 @@
+"InovaFlow
+            Trial Balance
+            Basis: Accrual
+                        As of 30 Oct 2024",,,
+Account ,Account Code ,Net Debit ,Net Credit 
+,,,
+Assets,,,
+          1250-Accounts in Collection,1250,0,0
+                    1251- E. Enghamallah,1251,691.54,0
+          Total for 1250-Accounts in Collection,1250,691.54,0
+,,,
+          P1100-Other Current Assets (Personal),P1100,0,0
+                    P1400-Prepaid Expenses,P1400,244.09,0
+                    P1500-SRV Drawing Account,P1500,0,1455.99
+          Total for P1100-Other Current Assets (Personal),P1100,0,1211.9
+,,,
+          P1102-Undeposited Funds,P1102,178.42,0
+          P1103.4-SoFi Checking,P1103.4,0.83,0
+          P1103.5-Spend everyday spending,P1103.5,138.75,0
+          P1300-Accounts Receivable,P1300,5959.46,0
+          P1801-4817 Shadow Pointe,P1801,299999,0
+          P1990-Other Assets (Personal),P1990,0,0
+                    P1991-Insurance Proceeds Receivable (Asset),P1991,0,16591.74
+                    P1993-Vehicle - 2023 TM3,P1993,26920,0
+          Total for P1990-Other Assets (Personal),P1990,10328.26,0
+,,,
+          Personal Loans Out,,0,0
+                    PLoans Zai,,71,0
+          Total for Personal Loans Out,,71,0
+,,,
+Liabilities,,,
+          2805-Square Loan Payable,2805,0,1171.81
+          P2101-Accounts Payable,P2101,0,17014.06
+          P2110-Tax Payable,P2110,0,5.93
+          P2120-Unearned Revenue,P2120,0,94.93
+          P2130-Opening Balance Adjustments,P2130,48209.97,0
+          P2300-Car Loans,P2300,0,18366.05
+                    P2301-BridgecrestM3Black,P2301,198.67,0
+                    P2302-Loan Mart Title Loan,P2302,0,87.33
+                    P2303-Bridgecrest M3 Blue,P2303.1,5606,0
+          Total for P2300-Car Loans,P2300,0,12648.71
+,,,
+          P2600-MORTGAGE,P2600,0,0
+                    P2601-FCFCU Mortgage 1,P2601,0,177500.36
+                    P2602-FCFCU Mortgage 2,P2602,0,20633.42
+          Total for P2600-MORTGAGE,P2600,0,198133.78
+,,,
+          P2800-Collections,P2800,0,0
+                    P2108.0924-Gatestone & Co. International Inc.,P2108.0924,0,4833.29
+"                    P2801-Blitt and Gaines, P.C.",P2801,0,0
+"                              P2801.1-Blitt and Gaines, P.C.",P2801.1,0,33809.88
+"                    Total for P2801-Blitt and Gaines, P.C.",P2801,0,33809.88
+,,,
+                    P2801.5811-Joel Chase Ink 5811,P2801.5811,0,35621.28
+                    P2802-FSA LLC,P2802,0,0
+                              P2802.1-FSA Cody,P2802.1,0,9358.72
+                              P2802.2-FSA Cody,P2802.2,0,5041.37
+                    Total for P2802-FSA LLC,P2802,0,14400.09
+,,,
+          Total for P2800-Collections,P2800,0,88664.54
+,,,
+Equities,,,
+          6300-Retained Earnings,6300.00,323.82,0
+          6000-Owner's Equity,6100,0,67727.45
+                    6150-Owners Draw/Personal,6150,0,617.27
+                    6200-Opening Balance Offset,6200,0,12220.39
+          Total for 6000-Owner's Equity,6100,0,80565.11
+,,,
+Income,,,
+          3000-Business Income (Draws),3000,0,1220.41
+          3040-Discount,3040,738.88,0
+          3042-Other Charges,3042,0,418.61
+          P3000-General Income,P3000,0,6850.35
+                    3110-Square Sales,3110,1100.12,0
+                    3210-RENTAL INCOME,3210,0,6360
+                    3800-QHR LLP DRAWS,3800,0,1182.8
+                    P3100-Sales,P3100,0,4159.7
+                    P3600-Interest Income,P3600,0,12.03
+          Total for P3000-General Income,P3000,0,17464.76
+,,,
+          Square Service Charge,,0,231.47
+Expense,,,
+          4000-Business Expense,4000,0,0
+                    4010-Advertise-n-Market,4010,141.93,0
+                    4020-Car-Automobile,4020,56.48,0
+                              4021-Car/Auto Insurance,4021,1717.15,0
+                              4022-Fuel Charging,4022,49.5,0
+                              4023-Supercharger,4023,246.61,0
+                    Total for 4020-Car-Automobile,4020,2069.74,0
+,,,
+                    4103-Consult Fees,4103,2950.13,0
+                    4200-Office Expense,4200,568.19,0
+                              4201-Office Supplies,4201,3881.3,0
+                                        4203-Software Subscription,4203,2094.76,0
+                              Total for 4201-Office Supplies,4201,5976.06,0
+,,,
+                              4204-Janitorial,4204,22,0
+                    Total for 4200-Office Expense,4200,6566.25,0
+,,,
+                    4400-Rent-Office,4400,823.69,0
+                    4700-Taxes-Licenses,4700,0,153.86
+                    4800-Travel Expense,4800,3009.22,0
+                              4804-Deductible Meals,4804,5427.84,0
+                    Total for 4800-Travel Expense,4800,8437.06,0
+,,,
+                    4903-Telephone Expense,4903,299.24,0
+                    4904-IT and Internet Expenses,4904,848.54,0
+                    5102-Postage,5102,629.86,0
+          Total for 4000-Business Expense,4000,22612.58,0
+,,,
+          5105P-Dues and Subscriptions,5105P,1360.32,0
+          5300-Cost of Goods Sold (COGS),5300,524.01,0
+          P4000-Expenses (Personal),P4000,1372.77,0
+                    P4023-Loss on Disposal of Vehicle,P4023,2000,0
+                    P4090-Interest,P4090,6550.67,0
+                    P4500-Repairs and Maintenance,P4500,638.24,0
+                    P4700-Taxes,P4700,7410.38,0
+                    P4810-Groceries,P4810,1333.81,0
+                    P4890-Entertainment,P4890,2266.22,0
+                    P4980.1-Honduras Expense,P4980.1,0,43.56
+                              P4982-Money Transfers To Joel,P4982,442.25,0
+                    Total for P4980.1-Honduras Expense,P4980.1,398.69,0
+,,,
+                    P5100-Other Expenses,P5100,242.48,0
+                              P5101-HOA Dues,P5101,252,0
+                              P5210-Utilities,P5210,1047.35,0
+                                        P5210-Water and Sewage,P5210.00,500.32,0
+                                        P5211-Electric,P5211,2976.18,0
+                                        P5213-Home Internet,P5213,217.59,0
+                              Total for P5210-Utilities,P5210,4741.44,0
+,,,
+                    Total for P5100-Other Expenses,P5100,5235.92,0
+,,,
+          Total for P4000-Expenses (Personal),P4000,27206.7,0
+,,,
+          P5109-Bank Fees and Charges,P5109,373.11,0
+          Square Fees,,126.57,0
+          Tax Paid Expense,,2.8,0
+Total for Trial Balance,,442784.06,442784.06

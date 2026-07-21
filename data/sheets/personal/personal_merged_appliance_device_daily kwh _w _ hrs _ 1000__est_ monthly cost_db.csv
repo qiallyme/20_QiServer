@@ -1,0 +1,13 @@
+Appliance/Device,Wattage,Hours Used Per Day,Daily kWh (W × hrs ÷ 1000),Monthly kWh (Daily × 30),Est. Monthly Cost
+HVAC (Heating),3500,,0.0,0.0,
+HVAC (Cooling),3500,,0.0,0.0,
+Water Heater,4000,,0.0,0.0,
+Refrigerator,150,24.0,3.6,46.928571428571,
+Washing Machine,500,,0.0,0.0,
+Clothes Dryer,3000,,0.0,0.0,
+Dishwasher,1200,,0.0,0.0,
+Oven/Range,2400,,0.0,0.0,
+Microwave,1000,,0.0,0.0,
+TV,100,,0.0,0.0,
+Computer,150,,0.0,0.0,
+Lighting,60,,0.0,0.0,

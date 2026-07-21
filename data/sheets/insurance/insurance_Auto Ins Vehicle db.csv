@@ -1,0 +1,3 @@
+Vehicle,Year,Make/Model,VIN,Coverage Type,Current Value,Notes,Auto_Insurance.db,Collision Deductible,Comprehensive Deductible:,Garage Zip,Rental,Towing,2. Auto_Ins_Claims.db
+Tesla #3,2023,TESL MODEL 3 SEDAN,5YJ3E1EA6PF448261,Liability-Only,"$13,000.00",Damage on passenger side. Non-claim incident.,Direct Auto (Direct%20Auto%20276f84a04402807bb332d105cee2f523.md),No,No,46254,No Coverage,No Coverage
+Tesla #3,5YJ3E1EA6PF448261,46254,No Coverage,Liability-Only,"$13,TESL MODEL 3 SEDAN,Direct Auto (Direct%20Auto%20276f84a04402807bb332d105cee2f523.md),No,No,000.00",Damage on passenger side. Non-claim incident.,No Coverage,

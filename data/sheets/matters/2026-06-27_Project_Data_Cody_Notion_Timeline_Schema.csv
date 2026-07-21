@@ -1,0 +1,30 @@
+﻿Property,Recommended Notion Type,Purpose,Notes
+Name,Title,Short event title,First CSV column; Notion uses it as page title.
+Event ID,Text,Stable key,Never change once created. Use in filenames and asset relations.
+Event Date,Date,Main sortable date,Use exact date when known; use first date of range for ranges.
+End Date,Date,End date for ranges,Optional.
+Date Precision,Select,Exact / approximate / month / range,Prevents fake precision.
+Sort Key,Text,Chronological sort stability,Useful when multiple events happen same day.
+Domain,Select,Major life area,"finance_os, mom_care, transport_income, family_os, personal_health, qilife_os, etc."
+Timeline / Thread,Select or Multi-select,Specific timeline lane,"housing_access, lyft_hertz, comfort_keepers_humana, etc."
+Issue / Case,Text or Relation later,Case bucket,Use text first; relation later if you build Cases database.
+Event Type,Select,Kind of event,"payment, message, medical crisis, billing document, access conflict, etc."
+Status,Select,Open/active/completed/background,Keep simple.
+Priority,Select,Critical/high/medium/low,"Use for triage, not emotion."
+Summary,Text,One-sentence fact,Keep neutral and useful.
+Details,Text,Context and caveats,"Put inference/caveat here, not in Summary."
+People,Multi-select or Relation later,Humans involved,Start as multi-select; later convert to relation if needed.
+Organizations,Multi-select or Relation later,Companies/agencies/providers,Start as multi-select.
+Location,Text,Place,Hotel/home/BMV/Hertz/etc.
+Asset / Object,Text,Physical/digital object,"Jeep, laptop, rental car, phone, title."
+Money Impact USD,Number,Money impact,Set format to dollar. Blank if unknown.
+Evidence Status,Select,Proof state,"needs proof, partial proof, evidence available, current working summary."
+Evidence Notes,Text,What proof belongs here,Asset checklist.
+Asset Folder,Text,Where originals live,Use as folder path in QiDrive/Google Drive.
+Asset Links,URL or Text,Links to evidence,Use text if multiple links.
+Related Event IDs,Text,Cross-links,Use IDs until relations are built.
+Action Needed,Text,Next step,Keep specific and short.
+Tags,Multi-select,Extra labels,Useful for searching.
+Confidence,Select,High/medium/low,Prevents overclaiming.
+Confidentiality,Select,private/sensitive/public,Separate private from sensitive medical/legal.
+Created From,Text,Source of row,"assistant working timeline, imported docs, screenshot, etc."

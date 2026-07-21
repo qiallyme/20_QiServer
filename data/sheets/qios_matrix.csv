@@ -1,0 +1,10 @@
+id,name,type,governs,depends_on,touched_by,produces,realm_effect
+L0,Root Integrity,governance_layer,"folder_structure|root_paths|darkmatter_existence","",gina-orchestrator|tree-compiler,root_validation_events,global
+L1,Dark Matter Physics,governance_layer,"system_darkmatter|internal_only|substrate","L0",darkmatter-worker,dm_protection_events,qios
+L2,Realm Schema,governance_layer,"realm_structure|client_mirroring","L0|L1",realm-worker,realm_validation_events,all_realms
+L3,File Identity,governance_layer,"filetype|asset_routes|metadata_presence","L0|L2",identity-worker,identity_events,all
+L4,Naming Law,governance_layer,"filename|slug|qidecimal","L3",naming-worker,rename_events,all
+L5,Metadata Layer,governance_layer,"frontmatter_schema|qid|classification","L4",metadata-worker,metadata_events,all
+L6,Semantic Routing,governance_layer,"routing|similarity|vector_profile","L5",semantic-ingest|embedder,semantic_events,all_realms
+L7,Self-Healing,governance_layer,"dedupe|quarantine|versioning","L6",healing-worker,healing_events,all
+

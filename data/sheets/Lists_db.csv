@@ -1,0 +1,61 @@
+﻿Name,Tags
+"0. Relationships Between Tables
+","Candidate Management, Client Options, Job Roles"
+1. Industries Database,"Industries Overview, Market Analysis, Sector Insights"
+2.  Skills,"Career Advancement, Professional Growth, Skill Development"
+3. Experience Levels,"Career Progression, Experience Levels, Professional Development"
+4. Benefits and Perks,"Compensation Packages, Employee Benefits, Workplace Perks"
+5. Background Check Policies,"Background Check, Compliance Standards, Policy Development"
+6. Job Statuses,"Employment Status, Job Management, Workflow Tracking"
+7. Candidate Statuses,"Candidate Management, Candidate Tracking, Recruitment Pipeline"
+8. Order Statuses,"Client Orders, Order Lifecycle, Order Management"
+9. Assessment Methods,"Candidate Screening, Evaluation Techniques, Interview Strategies"
+10. Recruitment Steps,"Candidate Evaluation, Hiring Workflow, Recruitment Process"
+"11. Additional Lists Relevant to Your Business
+","Additional Resources, Business Lists, Business Relevance"
+11. Pricing Types,"ClientOptions, FeeStructures, PricingModels"
+12. Payment Terms,"Financial Agreements, Payment Schedules, Payment Structures"
+13. Client Requirements Categories,"Client Engagement, Job Specification, Requirement Analysis"
+14. Communication Preferences,"Candidate Engagement, Client Interaction, Communication Methods"
+15. Locations,"Client Information, Geographical Data, Job Roles"
+16. Job Types,"Employment Arrangements, Job Classifications, Work Types"
+17. Compensation Structures,"Compensation Methods, Employee Benefits, Financial Incentives"
+18. User Roles,"Role-Based Access Control, System Permissions, User Access Management"
+19. Departments,"Company Structure, Internal Departments, Organizational Roles"
+20. Documents,"Document Management, Employment Documents, Professional Documents"
+21. Languages,"Language Diversity, Language Proficiency, Multilingualism"
+22. Currencies,"Currency Management, Global Transactions, International Finance"
+23. Compliance Standards,"Compliance Regulations, Data Protection, Employment Regulations"
+24. Vendor Information,"Service Provider Details, Third-Party Services, Vendor Management"
+25. Templates,"Communication Templates, Document Templates, Standardized Templates"
+26. Notifications,"Notification Types, System Alerts, User Updates"
+27. Time Zones,"Global Coordination, Scheduling Tools, Time Management"
+28. Adjudication Rules,"Adjudication Guidelines, Background Check Policies, Evaluation Procedures"
+29. Recruitment Process Steps,"Hiring Steps, Recruitment Process, Talent Acquisition"
+30. User Accounts,"Access Control, Account Security, User Management"
+31. Compensation Details,"Candidate Benefits, Compensation Overview, Salary Information"
+32. Client Preferences,"Client Management, Client Preferences, Job Orders"
+33. Job Titles Database,"Database Management, Employment Information, Job Titles"
+"a. Client Requirements Categories
+Organize specific requirements from clients before filling orders.",
+"
+b. Process Steps
+Standardize steps in your recruitment and placement process.",
+"
+c. Screening Requirements
+Define specific screening needs based on client policies.",
+"
+d. Safety Requirements
+Ensure safety protocols are met for specific job roles.",
+"
+e. Onboarding Procedures
+Standardize onboarding steps for new hires.",
+"
+f. Compensation Details
+Manage detailed compensation structures.",
+"
+g. Compliance Standards
+Ensure all operations adhere to relevant regulations.",
+"
+h. Vendor Services
+Manage third-party services utilized by your business.",

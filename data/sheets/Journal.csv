@@ -1,0 +1,785 @@
+Journal Number,Journal Number Prefix,Journal Number Suffix,Journal Date,Journal Type,Status,Journal Entity Type,Reference Number,Notes,Is Inclusive Tax,Exchange Rate,Item Order,Tax Name,Tax Percentage,Tax Amount,Tax Type,Project Name,Debit,Credit,Account,Account Code,Contact Name,Currency,Total,Description,FINREP.02 COA,FINREP.03 TRANSFER (if applies),FINREP.01 DEPARTMENT,(Deprecated) 4. COA Sub Type,PRIORITY LEVEL,STS.00 Status,(Deprecated) Subdivision by Income (Type),(Deprecated) 2. Division by Income,STS.99 Collections,FINREP.0 Company EIN
+JE-1,JE-,1,2023-09-08,Both,Published,Journal,PR20230906,PAID KAILEY 202.59,false,1.000000,1,,,0.000,Amount,,0,202.590,1006-Undeposited Funds,SRVCH-1006,,USD,202.590,CONTRACTOR PAYMENT,,,,,,,,,,
+JE-1,JE-,1,2023-09-08,Both,Published,Journal,PR20230906,PAID KAILEY 202.59,false,1.000000,2,,,0.000,Amount,,202.590,0,Contractor Payments,6070,,USD,202.590,KAILEY PAYMENT WEEK END 09062023,,,,,,,,,,
+JE-2,JE-,2,2023-09-13,Both,Published,Journal,,OPENING BALANCE FROM QBO.,false,1.000000,1,,,0.000,Amount,,34453.730,0,SRVCH Equity,5100,,USD,34453.730,BALANCE FROM QBO,,,,,,,,,,
+JE-2,JE-,2,2023-09-13,Both,Published,Journal,,OPENING BALANCE FROM QBO.,false,1.000000,2,,,0.000,Amount,,0,34453.730,Owner's Equity,5100,,USD,34453.730,,,,,,,,,,,
+JE-3,JE-,3,2023-09-01,Both,Published,Journal,,OPENING BALANCE,false,1.000000,1,,,0.000,Amount,,0,199.000,CHASE CHK 1,1001,,USD,199.000,,,,,,,,,,,
+JE-3,JE-,3,2023-09-01,Both,Published,Journal,,OPENING BALANCE,false,1.000000,2,,,0.000,Amount,,199.000,0,1006-Undeposited Funds,SRVCH-1006,,USD,199.000,,,,,,,,,,,
+JE-4,JE-,4,2023-09-16,Both,Published,Journal,RST-0000398054,THIS CLIENT PAID US TO MAKE THIS PAYMENT FOR HER AND IT WAS RETURNED BY THE BANK THEN HAVE NOT BEEN ABLE TO PAY. ,false,1.000000,1,,,0.000,Amount,,1128.960,0,Bill Pay COGS ($-Out),4301,,USD,1362.740,DEBT,,,,,,,,,,
+JE-4,JE-,4,2023-09-16,Both,Published,Journal,RST-0000398054,THIS CLIENT PAID US TO MAKE THIS PAYMENT FOR HER AND IT WAS RETURNED BY THE BANK THEN HAVE NOT BEEN ABLE TO PAY. ,false,1.000000,2,,,0.000,Amount,,225.790,0,Other Expenses,6090,,USD,1362.740,PENALTIES,,,,,,,,,,
+JE-4,JE-,4,2023-09-16,Both,Published,Journal,RST-0000398054,THIS CLIENT PAID US TO MAKE THIS PAYMENT FOR HER AND IT WAS RETURNED BY THE BANK THEN HAVE NOT BEEN ABLE TO PAY. ,false,1.000000,3,,,0.000,Amount,,7.990,0,Other Expenses,6090,,USD,1362.740,INTEREST,,,,,,,,,,
+JE-4,JE-,4,2023-09-16,Both,Published,Journal,RST-0000398054,THIS CLIENT PAID US TO MAKE THIS PAYMENT FOR HER AND IT WAS RETURNED BY THE BANK THEN HAVE NOT BEEN ABLE TO PAY. ,false,1.000000,4,,,0.000,Amount,,0,1362.740,INDOR-JAZNFASHN,RST-398054,,USD,1362.740,,,,,,,,,,,
+JE-7,JE-,7,2023-09-21,Both,Published,Journal,rounding error,"rounding error
+",false,1.000000,1,,,0.000,Amount,,0.010,0,1004-Square Clearing,SRVCH-1004,SQUARE,USD,0.010,,,,,,,,,,,
+JE-7,JE-,7,2023-09-21,Both,Published,Journal,rounding error,"rounding error
+",false,1.000000,2,,,0.000,Amount,,0,0.010,Exchange Gain or Loss,6800,SQUARE,USD,0.010,,,,,,,,,,,
+JE-10,JE-,10,2023-09-23,Both,Published,Journal,Zoho-Equity-QBO001,CLOSED FROM QBO ON 09/01 OPEN ON 09/01 ZOHO,false,1.000000,1,,,0.000,Amount,,0,73.850,IN Unemployment Tax,8113-215,,USD,73.850,,,,,,,,,,,
+JE-10,JE-,10,2023-09-23,Both,Published,Journal,Zoho-Equity-QBO001,CLOSED FROM QBO ON 09/01 OPEN ON 09/01 ZOHO,false,1.000000,2,,,0.000,Amount,,73.850,0,Salaries and Employee Wages,6-6600,,USD,73.850,,,,,,,,,,,
+JE-16,JE-,16,2023-09-01,Both,Published,Journal,,CHASE CARD 0534 FROM QBO,false,1.000000,1,,,0.000,Amount,,0,28335.200,C. RICE-VELASQUEZ,1106,,USD,28335.200,,,,,,,,,,,
+JE-16,JE-,16,2023-09-01,Both,Published,Journal,,CHASE CARD 0534 FROM QBO,false,1.000000,2,,,0.000,Amount,,28335.200,0,Opening Balance Equity,5001,,USD,28335.200,,,,,,,,,,,
+JE-17,JE-,17,2023-09-01,Both,Published,Journal,,CAPONE SPARK BALANCE FROM QBO,false,1.000000,1,,,0.000,Amount,,0,7223.040,CapOne Sparks *2035,1103,,USD,7223.040,,,,,,,,,,,
+JE-17,JE-,17,2023-09-01,Both,Published,Journal,,CAPONE SPARK BALANCE FROM QBO,false,1.000000,2,,,0.000,Amount,,7223.040,0,Opening Balance Equity,5001,,USD,7223.040,,,,,,,,,,,
+JE-15,JE-,15,2023-09-01,Both,Published,Journal,ROLAND VACA LOAN,LOAN BALANCE $1100.00,false,1.000000,1,,,0.000,Amount,,0,1100.000,ROLANDO VACA,9999VACA,,USD,1100.000,,,,,,,,,,,
+JE-15,JE-,15,2023-09-01,Both,Published,Journal,ROLAND VACA LOAN,LOAN BALANCE $1100.00,false,1.000000,2,,,0.000,Amount,,1100.000,0,Opening Balance Equity,5001,,USD,1100.000,,,,,,,,,,,
+JE-12,JE-,12,2023-09-23,Both,Published,Journal,SBA INTEREST 0123,INTEREST CHARGES,false,1.000000,1,,,0.000,Amount,,39.000,0,SBA LOAN 2313717801,8502,,USD,39.000,,,,,,,,,,,
+JE-12,JE-,12,2023-09-23,Both,Published,Journal,SBA INTEREST 0123,INTEREST CHARGES,false,1.000000,2,,,0.000,Amount,,0,39.000,INTEREST,6091,,USD,39.000,,,,,,,,,,,
+JE-18,JE-,18,2023-09-24,Both,Published,Journal,SRVCHINV-TM00004,INVOICE FROM SRVCH NEEDS CLOSED NOW THAT ITS THE SAME BANK ACCOUNT.,false,1.000000,1,,,0.000,Amount,,0,945.030,6211-PASSTHROUGH,SRVTM-6211,,USD,945.030,BILL PAY INVOICE FOR SRVTM,,001. SRVCH to SRVPM,,,,,,,,
+JE-18,JE-,18,2023-09-24,Both,Published,Journal,SRVCHINV-TM00004,INVOICE FROM SRVCH NEEDS CLOSED NOW THAT ITS THE SAME BANK ACCOUNT.,false,1.000000,2,,,0.000,Amount,,945.030,0,Rent,6024,,USD,945.030,RENT PAID,003. COGS,,,,,,,,,
+JE-19,JE-,19,2023-09-24,Both,Published,Journal,,FUND BOX JOURNAL ENTRY,false,1.000000,1,,,0.000,Amount,,0,4568.000,FUND BOX LOAN,8701,,USD,4568.000,,003. COGS,,,,,,,,,
+JE-19,JE-,19,2023-09-24,Both,Published,Journal,,FUND BOX JOURNAL ENTRY,false,1.000000,2,,,0.000,Amount,,4568.000,0,Opening Balance Equity,5001,,USD,4568.000,,003. COGS,,,,,,,,,
+JE-21,JE-,21,2023-10-01,Both,Published,Journal,,Show transfer of funds to undeposited funds account,false,1.000000,1,,,0.000,Amount,,0,2075.810,1004-Square Clearing,SRVCH-1004,,USD,2075.810,,,,,,,,,,,
+JE-21,JE-,21,2023-10-01,Both,Published,Journal,,Show transfer of funds to undeposited funds account,false,1.000000,2,,,0.000,Amount,,2075.810,0,1006-Undeposited Funds,SRVCH-1006,,USD,2075.810,,,,,,,,,,,
+JE-22,JE-,22,2023-10-13,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,3830.000,1003-Square Cash Clearing,SRVCH-1003,,USD,3830.000,,,,,,,,,,,
+JE-22,JE-,22,2023-10-13,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,3830.000,0,1006-Undeposited Funds,SRVCH-1006,,USD,3830.000,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,5890.300,6111-Accounting,SRVTM-6111,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,2,IN Tax,0.00,0.000,Amount,,0,13969.610,6112-Tax Preperations,SRVTM-6112,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,3,IN Tax,0.00,0.000,Amount,,0,1962.240,6140-DOC PREP,SRVTM-6140,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,4,IN Tax,0.00,0.000,Amount,,0,1695.100,6904-Other IN,SRVTM-6904,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,5,IN Tax,0.00,0.000,Amount,,0,109.700,6150-Commissions,SRVTM-6150,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,6,IN Tax,0.00,0.000,Amount,,0,44906.340,6211-PASSTHROUGH,SRVTM-6211,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,7,IN Tax,0.00,0.000,Amount,,0,2173.220,6904-Other IN,SRVTM-6904,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,9,,,0.000,Amount,,863.870,0,6200-Discount Income*,SRVTM-6200,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,10,,,0.000,Amount,,164.390,0,Cost of Operations,4000,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,11,,,0.000,Amount,,1587.250,0,Accounting COS,4100,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,12,,,0.000,Amount,,43595.470,0,Cost of Finance Sales,4200,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,13,,,0.000,Amount,,1680.660,0,Tax Prep COGS ($-Out),4400,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,14,,,0.000,Amount,,699.260,0,INBIZSOS COGS ($-Out),4303,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,15,,,0.000,Amount,,75.000,0,Dues and Subscriptions,6710,,USD,91251.980,Legal and Professional,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,16,,,0.000,Amount,,1502.940,0,INTEREST,6091,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,17,,,0.000,Amount,,39.990,0,Dues and Subscriptions,6710,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,18,,,0.000,Amount,,110.000,0,Security,6028,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,19,,,0.000,Amount,,2627.320,0,Bank Fees and Charges,6-6300,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,20,,,0.000,Amount,,325.570,0,Meals and Entertainment,6025,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,21,,,0.000,Amount,,33418.080,0,Salaries and Employee Wages,6-6600,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,22,,,0.000,Amount,,1537.180,0,Office Supplies,6021,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,23,,,0.000,Amount,,1125.000,0,Other Expenses,6090,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,24,,,0.000,Amount,,1900.000,0,Rent,6024,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,25,,,0.000,Amount,,0,777.040,Other Expenses,6090,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,8,IN Tax,0.00,0.000,Amount,,0,31.780,6904-Other IN,SRVTM-6904,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,26,,,0.000,Amount,,0,63.060,6199-Revenue Other,SRVCH-6199,,USD,91251.980,,,,,,,,,,,
+JE-25,JE-,25,2023-02-28,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,27,,,0.000,Amount,,0,19673.590,Opening Balance Equity,5001,,USD,91251.980,,,,,,,,,,,
+JE-26,JE-,26,2023-10-20,Both,Published,Journal,WRITEOFFRY,"Account #:
+0000RYPLUM
+Debtor Name:
+Roberto Arias Gonzalez
+Current Balance:
+1100.01
+Phone Number:
+4846810104
+SSN:
+966961617",false,1.000000,1,,,0.000,Amount,,0,1101.010,Bad Debt,6-6500,,USD,1101.010,,,,,,,,,,,
+JE-26,JE-,26,2023-10-20,Both,Published,Journal,WRITEOFFRY,"Account #:
+0000RYPLUM
+Debtor Name:
+Roberto Arias Gonzalez
+Current Balance:
+1100.01
+Phone Number:
+4846810104
+SSN:
+966961617",false,1.000000,2,,,0.000,Amount,,1101.010,0,1009-BadDebt AR,SRVTM-1009,,USD,1101.010,,,,,,,,,,,
+JE-29,JE-,29,2023-07-31,Both,Published,Journal,,These are the missing cells from July,false,1.000000,1,,,0.000,Amount,,0,6462.100,6150-Square Income,SRVCH-6150,,USD,6462.100,,,,,,,,,,,
+JE-29,JE-,29,2023-07-31,Both,Published,Journal,,These are the missing cells from July,false,1.000000,2,,,0.000,Amount,,31.060,0,Square Fees,6081,,USD,6462.100,,,,,,,,,,,
+JE-29,JE-,29,2023-07-31,Both,Published,Journal,,These are the missing cells from July,false,1.000000,3,,,0.000,Amount,,6431.040,0,1006-Undeposited Funds,SRVCH-1006,,USD,6462.100,,,,,,,,,,,
+JE-30,JE-,30,2023-08-31,Both,Published,Journal,,These are the missing cells from July,false,1.000000,1,,,0.000,Amount,,0,9909.810,6150-Square Income,SRVCH-6150,,USD,9909.810,,,,,,,,,,,
+JE-30,JE-,30,2023-08-31,Both,Published,Journal,,These are the missing cells from July,false,1.000000,2,,,0.000,Amount,,75.690,0,Square Fees,6081,,USD,9909.810,,,,,,,,,,,
+JE-30,JE-,30,2023-08-31,Both,Published,Journal,,These are the missing cells from July,false,1.000000,3,,,0.000,Amount,,9834.120,0,1006-Undeposited Funds,SRVCH-1006,,USD,9909.810,,,,,,,,,,,
+JE-32,JE-,32,2023-11-15,Both,Published,Journal,,Temporary daily loan for emergency expense to save property on 4817.00,false,1.000000,1,,,0.000,Amount,,0,1555.000,Roberet Rice,8304,Robert Rice Jr.,USD,1555.000,,,,,,,,,,,
+JE-32,JE-,32,2023-11-15,Both,Published,Journal,,Temporary daily loan for emergency expense to save property on 4817.00,false,1.000000,2,,,0.000,Amount,,1555.000,0,6150-Square Income,SRVCH-6150,Robert Rice Jr.,USD,1555.000,,,,,,,,,,,
+JE-31,JE-,31,2023-11-15,Both,Published,Journal,8177944,title loan for tesla.,false,1.000000,1,,,0.000,Amount,,0,12082.140,Title Loan Mart,8022,,USD,12701.250,Cash Loan Disbursement Charge,,,,,,,,,,
+JE-31,JE-,31,2023-11-15,Both,Published,Journal,8177944,title loan for tesla.,false,1.000000,2,,,0.000,Amount,,12082.140,0,1013-SoFi Checking,1013,Cody & Joel,USD,12701.250,Cash Loan Disbursement Deposit,,,,,,,,,,
+JE-31,JE-,31,2023-11-15,Both,Published,Journal,8177944,title loan for tesla.,false,1.000000,3,,,0.000,Amount,,0,604.110,Title Loan Mart,8022,,USD,12701.250,Origination Fee Charges,,,,,,,,,,
+JE-31,JE-,31,2023-11-15,Both,Published,Journal,8177944,title loan for tesla.,false,1.000000,4,,,0.000,Amount,,604.110,0,Bank Fees and Charges,6-6300,,USD,12701.250,Origination Fee Expense,,,,,,,,,,
+JE-31,JE-,31,2023-11-15,Both,Published,Journal,8177944,title loan for tesla.,false,1.000000,5,,,0.000,Amount,,0,15.000,Title Loan Mart,8022,,USD,12701.250,Title Fee Charges,,,,,,,,,,
+JE-31,JE-,31,2023-11-15,Both,Published,Journal,8177944,title loan for tesla.,false,1.000000,6,,,0.000,Amount,,15.000,0,Office Expenses,6020,,USD,12701.250,Title Fee Expense,,,,,,,,,,
+JE-33,JE-,33,2023-07-01,Both,Published,Journal,,cash loan,false,1.000000,1,,,0.000,Amount,,4800.000,0,1006-Undeposited Funds,SRVCH-1006,,USD,4800.000,cash from monica,,,,,,,,,,
+JE-33,JE-,33,2023-07-01,Both,Published,Journal,,cash loan,false,1.000000,2,,,0.000,Amount,,0,4800.000,MONICA HERNANDEZ,8305,,USD,4800.000,,,,,,,,,,,
+JE-35,JE-,35,2023-10-27,Both,Published,Journal,,Entry for first couple month. ,false,1.000000,1,,,0.000,Amount,,20.640,0,INTEREST,6091,,USD,66.270,August,,,,,,,,,,
+JE-35,JE-,35,2023-10-27,Both,Published,Journal,,Entry for first couple month. ,false,1.000000,2,,,0.000,Amount,,20.630,0,INTEREST,6091,,USD,66.270,September,,,,,,,,,,
+JE-35,JE-,35,2023-10-27,Both,Published,Journal,,Entry for first couple month. ,false,1.000000,3,,,0.000,Amount,,25.000,0,Bank Fees and Charges,6-6300,,USD,66.270,Late Fee,,,,,,,,,,
+JE-35,JE-,35,2023-10-27,Both,Published,Journal,,Entry for first couple month. ,false,1.000000,4,,,0.000,Amount,,0,66.270,Regional Finance,8006,,USD,66.270,,,,,,,,,,,
+JE-36,JE-,36,2023-10-20,Both,Published,Journal,,"$800.00
+Date
+Oct 20, 2023
+Loan amount
+$800.00
+Loan fee
+$130.00
+Remaining balance
+$930.00
+Deposit location
+Square Checking",false,1.000000,1,,,0.000,Amount,,0,130.000,Square Loan,8030,,USD,130.000,,,,,,,,,,,
+JE-36,JE-,36,2023-10-20,Both,Published,Journal,,"$800.00
+Date
+Oct 20, 2023
+Loan amount
+$800.00
+Loan fee
+$130.00
+Remaining balance
+$930.00
+Deposit location
+Square Checking",false,1.000000,2,,,0.000,Amount,,130.000,0,INTEREST,6091,,USD,130.000,,,,,,,,,,,
+JE-37,JE-,37,2023-11-19,Both,Published,Journal,,"Balance remaining
+$2,749.00
+Minimum remaining
+Due by Jan 18
+$152.72
+Loan amount
+$2,400.00
+Loan fee
+$349.00
+Repayment
+19.25% daily sales
+60-day min payment
+$152.72",false,1.000000,1,,,0.000,Amount,,0,349.000,Square Loan,8030,,USD,349.000,,,,,,,,,,,
+JE-37,JE-,37,2023-11-19,Both,Published,Journal,,"Balance remaining
+$2,749.00
+Minimum remaining
+Due by Jan 18
+$152.72
+Loan amount
+$2,400.00
+Loan fee
+$349.00
+Repayment
+19.25% daily sales
+60-day min payment
+$152.72",false,1.000000,2,,,0.000,Amount,,349.000,0,INTEREST,6091,,USD,349.000,,,,,,,,,,,
+JE-34,JE-,34,2023-08-23,Both,Published,Journal,112000767306,"Loan Number
+
+#112000767306
+
+Loan Name
+
+Personal Loan
+
+Loan Status
+
+ACTIVE
+
+Loan Open Date
+
+08/09/2023
+
+Loan Amount
+
+$1,500.00
+
+Term
+
+17 months
+
+APR 43.21%
+Maturity Date 01/09/2025
+Monthly Payment $119.51
+Account Balance $1,566.27",false,1.000000,1,,,0.000,Amount,,1500.000,0,Opening Balance Equity,5001,,USD,1500.000,regional finance,,,,,,,,,,
+JE-34,JE-,34,2023-08-23,Both,Published,Journal,112000767306,"Loan Number
+
+#112000767306
+
+Loan Name
+
+Personal Loan
+
+Loan Status
+
+ACTIVE
+
+Loan Open Date
+
+08/09/2023
+
+Loan Amount
+
+$1,500.00
+
+Term
+
+17 months
+
+APR 43.21%
+Maturity Date 01/09/2025
+Monthly Payment $119.51
+Account Balance $1,566.27",false,1.000000,2,,,0.000,Amount,,0,1500.000,Regional Finance,8006,,USD,1500.000,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,1,,,0.000,Amount,,0,13.500,1004-Square Clearing,SRVCH-1004,,USD,704.850,Loan Payment,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,2,,,0.000,Amount,,0,1.500,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,3,,,0.000,Amount,,0,233.250,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,4,,,0.000,Amount,,0,35.700,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,5,,,0.000,Amount,,0,17.850,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,6,,,0.000,Amount,,0,15.000,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,7,,,0.000,Amount,,0,3.450,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,8,,,0.000,Amount,,0,163.650,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,9,,,0.000,Amount,,26.100,0,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,10,,,0.000,Amount,,0,75.000,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,11,,,0.000,Amount,,0,42.000,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,12,,,0.000,Amount,,0,91.500,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,13,,,0.000,Amount,,0,12.450,1004-Square Clearing,SRVCH-1004,,USD,704.850,,,,,,,,,,,
+JE-38,JE-,38,2023-11-19,Both,Published,Journal,New Loan,Loan Payment Entries,false,1.000000,14,,,0.000,Amount,,678.750,0,Square Loan,8030,,USD,704.850,,,,,,,,,,,
+JE-39,JE-,39,2023-12-01,Both,Published,Journal,NMST-Carlos-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,1,,,0.000,Amount,,0,3150.000,Equity C.Contreras,5115,Carlos Contreras,USD,3150.000,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-39,JE-,39,2023-12-01,Both,Published,Journal,NMST-Carlos-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,2,,,0.000,Amount,,3150.000,0,SRVCH Equity,5100,Carlos Contreras,USD,3150.000,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-40,JE-,40,2023-10-31,Both,Published,Journal,CarlosNMST-Oct,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,750.000,0,Stock Deduction,8152,Carlos Contreras,USD,750.000,stock deduction for assignment,,,,,,,,,,
+JE-40,JE-,40,2023-10-31,Both,Published,Journal,CarlosNMST-Oct,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,750.000,Equity C.Contreras,5115,Carlos Contreras,USD,750.000,stock assignment for deduction,,,,,,,,,,
+JE-41,JE-,41,2023-11-01,Both,Published,Journal,CarlosNMST-Nov,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,500.000,0,Stock Deduction,8152,Carlos Contreras,USD,500.000,stock deduction for assignment,,,,,,,,,,
+JE-41,JE-,41,2023-11-01,Both,Published,Journal,CarlosNMST-Nov,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,500.000,Equity C.Contreras,5115,Carlos Contreras,USD,500.000,stock assignment for deduction,,,,,,,,,,
+JE-43,JE-,43,2023-09-30,Both,Published,Journal,TREVENMST-SEPT,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,125.000,0,Stock Deduction,8152,Treve Hernandez,USD,125.000,stock deduction for assignment,,,,,,,,,,
+JE-43,JE-,43,2023-09-30,Both,Published,Journal,TREVENMST-SEPT,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,125.000,Equity M.Contreras,5113,Treve Hernandez,USD,125.000,stock assignment for deduction,,,,,,,,,,
+JE-44,JE-,44,2023-10-31,Both,Published,Journal,TREVENMST-OCT,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,500.000,0,Stock Deduction,8152,Treve Hernandez,USD,500.000,stock deduction for assignment,,,,,,,,,,
+JE-44,JE-,44,2023-10-31,Both,Published,Journal,TREVENMST-OCT,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,500.000,Equity M.Contreras,5113,Treve Hernandez,USD,500.000,stock assignment for deduction,,,,,,,,,,
+JE-45,JE-,45,2023-11-30,Both,Published,Journal,TREVENMST-NOV,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,750.000,0,Stock Deduction,8152,Treve Hernandez,USD,750.000,stock deduction for assignment,,,,,,,,,,
+JE-45,JE-,45,2023-11-30,Both,Published,Journal,TREVENMST-NOV,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,750.000,Equity M.Contreras,5113,Treve Hernandez,USD,750.000,stock assignment for deduction,,,,,,,,,,
+JE-47,JE-,47,2023-11-01,Both,Published,Journal,VIANYNMST-NOV,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,500.000,0,Stock Deduction,8152,Vianey Bistrain,USD,500.000,stock deduction for assignment,,,,,,,,,,
+JE-47,JE-,47,2023-11-01,Both,Published,Journal,VIANYNMST-NOV,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,500.000,Equity V.Bistrain,5114,Vianey Bistrain,USD,500.000,stock assignment for deduction,,,,,,,,,,
+JE-49,JE-,49,2023-12-01,Both,Published,Journal,NMST-via-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,1,,,0.000,Amount,,0,2300.000,Equity V.Bistrain,5114,Vianey Bistrain Hernandez,USD,2300.000,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-49,JE-,49,2023-12-01,Both,Published,Journal,NMST-via-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,2,,,0.000,Amount,,2300.000,0,SRVCH Equity,5100,Vianey Bistrain Hernandez,USD,2300.000,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,1,,,0.000,Amount,,0,2089.780,6150-Square Income,SRVCH-6150,,USD,2140.100,Gross Sales,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,2,,,0.000,Amount,,240.000,0,6150-Square Income,SRVCH-6150,,USD,2140.100,Returns,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,3,,,0.000,Amount,,70.000,0,6150-Square Income,SRVCH-6150,,USD,2140.100,Discounts,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,4,,,0.000,Amount,,304.000,0,1003-Square Cash Clearing,SRVCH-1003,,USD,2140.100,Cash Clearing,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,5,,,0.000,Amount,,1475.780,0,1004-Square Clearing,SRVCH-1004,,USD,2140.100,Credit Card Clearing,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,6,,,0.000,Amount,,0,50.320,1004-Square Clearing,SRVCH-1004,,USD,2140.100,Credit Card Clearing Reduction for Fees,,,,,,,,,,
+JE-50,JE-,50,2023-10-02,Both,Published,Journal,20231002,"Square Name	Value
+Date	10/2/2023
+Gross Sales	$2,089.78 
+Returns	($240.00)
+Discounts & Comps	($70.00)
+Net Sales	$1,779.78 
+Gift Card Sales	$0.00 
+Tax	$0.00 
+Tip	$0.00 
+Refunds by Amount	$0.00 
+Total	$1,779.78 
+	
+Payments	
+Total Collected	$1,779.78 
+Cash	$304.00 
+Card	$1,475.78 
+Other	$0.00 
+Gift Card	$0.00 
+Fees	($50.32)
+Net Total	$1,729.46 ",false,1.000000,7,,,0.000,Amount,,50.320,0,Square Fees,6081,,USD,2140.100,Fees,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,1,,,0.000,Amount,,0,11540.910,6150-Square Income,SRVCH-6150,,USD,11782.300,Gross Sales,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,2,,,0.000,Amount,,534.000,0,6150-Square Income,SRVCH-6150,,USD,11782.300,Returns,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,3,,,0.000,Amount,,801.490,0,6150-Square Income,SRVCH-6150,,USD,11782.300,Discounts,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,4,,,0.000,Amount,,0,14.500,6197-Tips ($IN),SRVTM-6197,,USD,11782.300,Tips,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,5,,,0.000,Amount,,4874.080,0,1003-Square Cash Clearing,SRVCH-1003,,USD,11782.300,Cash Clearing,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,6,,,0.000,Amount,,4295.140,0,1004-Square Clearing,SRVCH-1004,,USD,11782.300,Credit Card Clearing,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,7,,,0.000,Amount,,1150.700,0,1004-Square Clearing,SRVCH-1004,,USD,11782.300,Other,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,8,,,0.000,Amount,,0,126.890,1004-Square Clearing,SRVCH-1004,,USD,11782.300,Credit Card Clearing Reduction for Fees,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,9,,,0.000,Amount,,126.890,0,Square Fees,6081,,USD,11782.300,Fees,,,,,,,,,,
+JE-51,JE-,51,2023-10-31,Both,Published,Journal,SqrJEImport,Use this to import your square journal entries.,false,1.000000,10,,,0.000,Amount,,0,100.000,1004-Square Clearing,SRVCH-1004,,USD,11782.300,misc.,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,1,,,0.000,Amount,,0,11540.910,6150-Square Income,SRVCH-6150,,USD,11782.300,Gross Sales,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,2,,,0.000,Amount,,534.000,0,6150-Square Income,SRVCH-6150,,USD,11782.300,Returns,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,3,,,0.000,Amount,,801.490,0,6150-Square Income,SRVCH-6150,,USD,11782.300,Discounts,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,4,,,0.000,Amount,,0,14.500,6197-Tips ($IN),SRVTM-6197,,USD,11782.300,Tips,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,5,,,0.000,Amount,,4874.080,0,1003-Square Cash Clearing,SRVCH-1003,,USD,11782.300,Cash Clearing,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,6,,,0.000,Amount,,4295.140,0,1004-Square Clearing,SRVCH-1004,,USD,11782.300,Credit Card Clearing,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,7,,,0.000,Amount,,1150.700,0,1004-Square Clearing,SRVCH-1004,,USD,11782.300,Other,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,8,,,0.000,Amount,,0,126.890,1004-Square Clearing,SRVCH-1004,,USD,11782.300,Credit Card Clearing Reduction for Fees,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,9,,,0.000,Amount,,126.890,0,Square Fees,6081,,USD,11782.300,Fees,,,,,,,,,,
+Sqr Entry Template,,Sqr Entry Template,2023-12-05,Both,Draft,-71,SqrJEImport,Use this to import your square journal entries.,false,1.000000,10,,,0.000,Amount,,0,100.000,1004-Square Clearing,SRVCH-1004,,USD,11782.300,misc.,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,1,,,0.000,Amount,,0,5239.900,6150-Square Income,SRVCH-6150,,USD,5364.940,Gross Sales,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,2,,,0.000,Amount,,174.000,0,6150-Square Income,SRVCH-6150,,USD,5364.940,Returns,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,3,,,0.000,Amount,,45.000,0,6150-Square Income,SRVCH-6150,,USD,5364.940,Discounts,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,4,,,0.000,Amount,,0,3.350,6197-Tips ($IN),SRVTM-6197,,USD,5364.940,Tips,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,5,,,0.000,Amount,,1262.000,0,1003-Square Cash Clearing,SRVCH-1003,,USD,5364.940,Cash Clearing,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,6,,,0.000,Amount,,3479.250,0,1004-Square Clearing,SRVCH-1004,,USD,5364.940,Credit Card Clearing,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,7,,,0.000,Amount,,232.000,0,1004-Square Clearing,SRVCH-1004,,USD,5364.940,Other,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,8,,,0.000,Amount,,0,121.690,1004-Square Clearing,SRVCH-1004,,USD,5364.940,Credit Card Clearing Reduction for Fees,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,9,,,0.000,Amount,,121.690,0,Square Fees,6081,,USD,5364.940,Fees,,,,,,,,,,
+JE-52,JE-,52,2023-11-30,Both,Published,Journal,SqrJEImport1123,Use this to import your square journal entries.,false,1.000000,10,,,0.000,Amount,,51.000,0,1004-Square Clearing,SRVCH-1004,,USD,5364.940,misc.,,,,,,,,,,
+JE-53,JE-,53,2023-11-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,5178.080,1003-Square Cash Clearing,SRVCH-1003,,USD,5178.080,,,,,,,,,,,
+JE-53,JE-,53,2023-11-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,5178.080,0,1006-Undeposited Funds,SRVCH-1006,,USD,5178.080,,,,,,,,,,,
+JE-54,JE-,54,2023-12-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,1262.000,1003-Square Cash Clearing,SRVCH-1003,,USD,1262.000,,,,,,,,,,,
+JE-54,JE-,54,2023-12-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,1262.000,0,1006-Undeposited Funds,SRVCH-1006,,USD,1262.000,,,,,,,,,,,
+JE-55,JE-,55,2023-11-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,7171.020,1004-Square Clearing,SRVCH-1004,,USD,7171.020,,,,,,,,,,,
+JE-55,JE-,55,2023-11-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,7171.020,0,1006-Undeposited Funds,SRVCH-1006,,USD,7171.020,,,,,,,,,,,
+JE-56,JE-,56,2023-12-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,3042.060,1004-Square Clearing,SRVCH-1004,,USD,3042.060,,,,,,,,,,,
+JE-56,JE-,56,2023-12-01,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,3042.060,0,1006-Undeposited Funds,SRVCH-1006,,USD,3042.060,,,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,6022.860,6111-Accounting,SRVTM-6111,,USD,83095.470,   4.1.0.0 Accounting Services,,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,2,IN Tax,0.00,0.000,Amount,,0,5920.000,6112-Tax Preperations,SRVTM-6112,,USD,83095.470,   4.2.0.0 Tax Service,,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,3,IN Tax,0.00,0.000,Amount,,0,1630.000,6140-DOC PREP,SRVTM-6140,,USD,83095.470,   4.4.0.0 Documents,,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,4,IN Tax,0.00,0.000,Amount,,0,5305.410,6199-Revenue Other,SRVCH-6199,,USD,83095.470,"   Total 4.5.0.0 *Other*
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,5,IN Tax,0.00,0.000,Amount,,0,941.600,6150-Commissions,SRVTM-6150,,USD,83095.470,"   Total 4.6.0.0 *Commissions*
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,6,IN Tax,0.00,0.000,Amount,,0,24138.930,6210-Finance,SRVTM-6210,,USD,83095.470,"   Total 4.7.0.0 *Financial*
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,7,IN Tax,0.00,0.000,Amount,,0,10389.710,6198-Other Sales,SRVTM-6198,,USD,83095.470,"   Total 4.8.0.0 Product Sales
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,8,IN Tax,0.00,0.000,Amount,,0,208.470,6210-Cash Back,SRVTM-6210,,USD,83095.470,"   4.9.0.0 Cash Back (deleted)
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,9,IN Tax,0.00,0.000,Amount,,440.450,0,6200-Discount Income*,SRVTM-6200,,USD,83095.470,"   Discounts given
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,10,IN Tax,0.00,0.000,Amount,,0,580.590,6198-Other Sales,SRVTM-6198,,USD,83095.470,"   Total Services (Deprecated)
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,11,,,0.000,Amount,,42.000,0,Cost of Services Sold,8900,,USD,83095.470,"   Total 5.1.0.0 Cost of Product Sales	$ 42.00  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,12,,,0.000,Amount,,1484.190,0,Account Fees COGS ($-Out),4101,,USD,83095.470,"   Total 5.2.0.0 Accounting COGS	$ 1,484.19  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,13,,,0.000,Amount,,38245.050,0,Bill Pay COGS ($-Out),4301,,USD,83095.470,"   Total 5.3.0.0 Cost of Finance Sales	$ 38,245.05  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,14,,,0.000,Amount,,1137.700,0,Tax Prep COGS ($-Out),4400,,USD,83095.470,"   Total 5.4.0.0 Tax Prep COGS ($$ 1,137.70  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,15,,,0.000,Amount,,6256.520,0,Bill Pay COGS ($-Out),4301,,USD,83095.470,"   Total 5.5.0.0 Cost of Service Sales 	$ 6,256.52  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,16,,,0.000,Amount,,29.950,0,Advertising And Marketing,6010,,USD,83095.470,"   00-509 Advertising & Marketing (deleted)	29.95  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,17,,,0.000,Amount,,75.000,0,Other Expenses,6090,,USD,83095.470,"   00-528 Legal & Professional Services (deleted)	75.00  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,18,,,0.000,Amount,,1058.770,0,UTILITIES,6030,,USD,83095.470,"   Total 00-530 Utilities (deleted)	$ 1,058.77  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,19,,,0.000,Amount,,158.880,0,Insurance (Other than Health),7600,,USD,83095.470,"   00-545 Insurance (deleted)	158.88  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,20,,,0.000,Amount,,1400.230,0,INTEREST,6091,,USD,83095.470,"   00-546 Interest Paid (deleted)	1,400.23  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,21,,,0.000,Amount,,39.990,0,Dues and Subscriptions,6710,,USD,83095.470,"   00-552 Dues & Subscriptions 	39.99  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,22,,,0.000,Amount,,155.000,0,Security,6028,,USD,83095.470,"   00-559 Security	155.00  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,23,,,0.000,Amount,,1638.380,0,Bank Fees and Charges,6-6300,,USD,83095.470,"   Total 00-561 Bank Charges & Fees (deleted)	$ 1,638.38  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,24,,,0.000,Amount,,313.980,0,Meals and Entertainment,6025,,USD,83095.470,"   00-569 Meals & Entertainment (deleted)	313.98  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,25,,,0.000,Amount,,474.240,0,Salaries and Employee Wages,6-6600,,USD,83095.470,"      Total 00-581 Company Contributions (deleted)	$ 474.24  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,26,,,0.000,Amount,,22665.530,0,Salaries and Employee Wages,6-6600,,USD,83095.470,"   Total 00-580 Payroll Expenses (deleted)	$ 22,665.53  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,27,,,0.000,Amount,,30.000,0,Bad Debt,6-6500,,USD,83095.470,"   00-591 Bad Debt (deleted)	30.00  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,28,,,0.000,Amount,,2539.630,0,Office Supplies,6021,,USD,83095.470,"   Office Supplies & Software (deleted)	2,539.63  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,29,,,0.000,Amount,,900.000,0,Other Expenses,6090,,USD,83095.470,"   Reimbursements (deleted)	900.00  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,30,,,0.000,Amount,,3450.000,0,Rent,6024,,USD,83095.470,"   Rent & Lease (deleted)	3,450.00  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,31,,,0.000,Amount,,511.360,0,Other Expenses,6090,,USD,83095.470,"   Taxes & Licenses (deleted)	511.36  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,32,IN Tax,0.00,0.000,Amount,,48.620,0,6198-Other Sales,SRVTM-6198,,USD,83095.470,"Total Other Income	$ 48.62  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,33,,,0.000,Amount,,0,233.620,Other Expenses,6090,,USD,83095.470,"Total Other Expenses	-$ 233.62  
+",,,,,,,,,,
+JE-57,JE-,57,2023-01-31,Both,Published,Journal,QBO202301,Import form QBO,false,1.000000,34,,,0.000,Amount,,0,27724.280,Opening Balance Equity,5001,,USD,83095.470,,,,,,,,,,,
+JE-58,JE-,58,2023-03-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,43833.440,6000-INCOME,SRVCH-6000,,USD,50980.970,,,,,,,,,,,
+JE-58,JE-,58,2023-03-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,2,,,0.000,Amount,,31517.540,0,Cost of Operations,4000,,USD,50980.970,,,,,,,,,,,
+JE-58,JE-,58,2023-03-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,3,,,0.000,Amount,,19463.430,0,EXPENSE TOT,7000,,USD,50980.970,,,,,,,,,,,
+JE-58,JE-,58,2023-03-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,5,,,0.000,Amount,,0,0.140,Other Expenses,6090,,USD,50980.970,,,,,,,,,,,
+JE-58,JE-,58,2023-03-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,4,,,0.000,Amount,,0,357.850,6199-Revenue Other,SRVCH-6199,,USD,50980.970,,,,,,,,,,,
+JE-58,JE-,58,2023-03-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,6,,,0.000,Amount,,0,6789.540,Opening Balance Equity,5001,,USD,50980.970,,,,,,,,,,,
+JE-59,JE-,59,2023-04-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,17631.290,6000-INCOME,SRVCH-6000,,USD,19695.720,,,,,,,,,,,
+JE-59,JE-,59,2023-04-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,2,,,0.000,Amount,,7825.820,0,Cost of Operations,4000,,USD,19695.720,,,,,,,,,,,
+JE-59,JE-,59,2023-04-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,3,,,0.000,Amount,,11869.900,0,EXPENSE TOT,7000,,USD,19695.720,,,,,,,,,,,
+JE-59,JE-,59,2023-04-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,4,,,0.000,Amount,,0,245.630,6199-Revenue Other,SRVCH-6199,,USD,19695.720,,,,,,,,,,,
+JE-59,JE-,59,2023-04-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,5,,,0.000,Amount,,0,1818.800,Opening Balance Equity,5001,,USD,19695.720,,,,,,,,,,,
+JE-60,JE-,60,2023-05-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,12543.890,6000-INCOME,SRVCH-6000,,USD,21346.550,,,,,,,,,,,
+JE-60,JE-,60,2023-05-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,2,,,0.000,Amount,,10177.690,0,Cost of Operations,4000,,USD,21346.550,,,,,,,,,,,
+JE-60,JE-,60,2023-05-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,3,,,0.000,Amount,,11168.860,0,EXPENSE TOT,7000,,USD,21346.550,,,,,,,,,,,
+JE-60,JE-,60,2023-05-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,4,,,0.000,Amount,,0,2683.700,6199-Revenue Other,SRVCH-6199,,USD,21346.550,,,,,,,,,,,
+JE-60,JE-,60,2023-05-31,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,5,,,0.000,Amount,,0,6118.960,Opening Balance Equity,5001,,USD,21346.550,,,,,,,,,,,
+JE-61,JE-,61,2023-06-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,9866.530,6000-INCOME,SRVCH-6000,,USD,10105.390,,,,,,,,,,,
+JE-61,JE-,61,2023-06-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,2,,,0.000,Amount,,1820.610,0,Cost of Operations,4000,,USD,10105.390,,,,,,,,,,,
+JE-61,JE-,61,2023-06-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,3,,,0.000,Amount,,6870.650,0,EXPENSE TOT,7000,,USD,10105.390,,,,,,,,,,,
+JE-61,JE-,61,2023-06-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,4,,,0.000,Amount,,0,238.860,6199-Revenue Other,SRVCH-6199,,USD,10105.390,,,,,,,,,,,
+JE-61,JE-,61,2023-06-30,Both,Published,Journal,,January Monthly Sales and Expenses Summary,false,1.000000,5,,,0.000,Amount,,1414.130,0,Opening Balance Equity,5001,,USD,10105.390,,,,,,,,,,,
+JE-62,JE-,62,2023-07-31,Both,Published,Journal,,July pnl from qbo,false,1.000000,1,IN Tax,0.00,0.000,Amount,,0,12235.180,6000-INCOME,SRVCH-6000,,USD,12236.710,,,,,,,,,,,
+JE-62,JE-,62,2023-07-31,Both,Published,Journal,,July pnl from qbo,false,1.000000,2,,,0.000,Amount,,2316.450,0,Cost of Operations,4000,,USD,12236.710,,,,,,,,,,,
+JE-62,JE-,62,2023-07-31,Both,Published,Journal,,July pnl from qbo,false,1.000000,3,,,0.000,Amount,,5589.860,0,EXPENSE TOT,7000,,USD,12236.710,,,,,,,,,,,
+JE-62,JE-,62,2023-07-31,Both,Published,Journal,,July pnl from qbo,false,1.000000,4,,,0.000,Amount,,0,1.530,6199-Revenue Other,SRVCH-6199,,USD,12236.710,,,,,,,,,,,
+JE-62,JE-,62,2023-07-31,Both,Published,Journal,,July pnl from qbo,false,1.000000,5,,,0.000,Amount,,2116.420,0,Opening Balance Equity,5001,,USD,12236.710,,,,,,,,,,,
+JE-62,JE-,62,2023-07-31,Both,Published,Journal,,July pnl from qbo,false,1.000000,6,IN Tax,0.00,0.000,Amount,,2213.980,0,6000-INCOME,SRVCH-6000,,USD,12236.710,Sales already accounted for on square journal entry,,,,,,,,,,
+JE-63,JE-,63,2023-07-01,Both,Published,Journal,,Foudners Equity Contributed Capital transfered to SRVCH. Non-monitary contribution. Valuation method attached.,false,1.000000,1,,,0.000,Amount,,0,500000.000,SRVCH Equity,5100,,USD,500000.000,,,,,,,,,,,
+JE-63,JE-,63,2023-07-01,Both,Published,Journal,,Foudners Equity Contributed Capital transfered to SRVCH. Non-monitary contribution. Valuation method attached.,false,1.000000,2,,,0.000,Amount,,500000.000,0,Opening Balance Equity,5001,,USD,500000.000,,,,,,,,,,,
+JE-64,JE-,64,2023-07-01,Both,Published,Journal,,Foudners Equity Contributed Capital transfered to SRVCH. Non-monitary contribution. Valuation method attached.,false,1.000000,1,,,0.000,Amount,,150000.000,0,SRVCH Equity,5100,,USD,150000.000,,,,,,,,,,,
+JE-64,JE-,64,2023-07-01,Both,Published,Journal,,Foudners Equity Contributed Capital transfered to SRVCH. Non-monitary contribution. Valuation method attached.,false,1.000000,2,,,0.000,Amount,,0,150000.000,Founders EQuity - Cody,5110,,USD,150000.000,,,,,,,,,,,
+JE-65,JE-,65,2023-07-01,Both,Published,Journal,,Foudners Equity Contributed Capital transfered to SRVCH. Non-monitary contribution. Valuation method attached.,false,1.000000,1,,,0.000,Amount,,150000.000,0,SRVCH Equity,5100,,USD,150000.000,,,,,,,,,,,
+JE-65,JE-,65,2023-07-01,Both,Published,Journal,,Foudners Equity Contributed Capital transfered to SRVCH. Non-monitary contribution. Valuation method attached.,false,1.000000,2,,,0.000,Amount,,0,150000.000,Founders Equity - Joel,5111,,USD,150000.000,,,,,,,,,,,
+JE-66,JE-,66,2023-12-11,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,3323.300,1004-Square Clearing,SRVCH-1004,,USD,3323.300,,,,,,,,,,,
+JE-66,JE-,66,2023-12-11,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,3323.300,0,1006-Undeposited Funds,SRVCH-1006,,USD,3323.300,,,,,,,,,,,
+JE-67,JE-,67,2023-12-11,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,1465.000,1005-Square Cash Sales,SRVCH-1005,,USD,1465.000,,,,,,,,,,,
+JE-67,JE-,67,2023-12-11,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,1465.000,0,1006-Undeposited Funds,SRVCH-1006,,USD,1465.000,,,,,,,,,,,
+JE-68,JE-,68,2023-04-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-68,JE-,68,2023-04-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-69,JE-,69,2023-05-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-69,JE-,69,2023-05-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-70,JE-,70,2023-06-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-70,JE-,70,2023-06-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-71,JE-,71,2023-07-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-71,JE-,71,2023-07-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-72,JE-,72,2023-08-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1500.000,1006-Undeposited Funds,SRVCH-1006,,USD,1500.000,,,,,,,,,,,
+JE-72,JE-,72,2023-08-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1500.000,0,Drawings,5200,,USD,1500.000,Cody,,,,,,,,,,
+JE-73,JE-,73,2023-09-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-73,JE-,73,2023-09-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-74,JE-,74,2023-10-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-74,JE-,74,2023-10-31,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-75,JE-,75,2023-11-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,1200.000,1006-Undeposited Funds,SRVCH-1006,,USD,1200.000,,,,,,,,,,,
+JE-75,JE-,75,2023-11-30,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,1200.000,0,Drawings,5200,,USD,1200.000,Cody,,,,,,,,,,
+JE-76,JE-,76,2023-12-11,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,300.000,1006-Undeposited Funds,SRVCH-1006,,USD,300.000,,,,,,,,,,,
+JE-76,JE-,76,2023-12-11,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,300.000,0,Drawings,5200,,USD,300.000,Cody,,,,,,,,,,
+JE-77,JE-,77,2023-01-31,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,1,,,0.000,Amount,,0,1550.000,Rent,6024,,USD,1660.000,,,,,,,,,,,
+JE-77,JE-,77,2023-01-31,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,2,,,0.000,Amount,,1550.000,0,Clearing,5104,,USD,1660.000,,,,,,,,,,,
+JE-77,JE-,77,2023-01-31,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,3,,,0.000,Amount,,0,110.000,Rent,6024,,USD,1660.000,,,,,,,,,,,
+JE-77,JE-,77,2023-01-31,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,4,,,0.000,Amount,,110.000,0,Clearing,5104,,USD,1660.000,,,,,,,,,,,
+JE-78,JE-,78,2023-02-28,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,1,,,0.000,Amount,,0,1550.000,Rent,6024,,USD,1550.000,,,,,,,,,,,
+JE-78,JE-,78,2023-02-28,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,2,,,0.000,Amount,,1550.000,0,Clearing,5104,,USD,1550.000,,,,,,,,,,,
+JE-79,JE-,79,2023-06-30,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,1,,,0.000,Amount,,0,223.000,Rent,6024,,USD,223.000,,,,,,,,,,,
+JE-79,JE-,79,2023-06-30,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,2,,,0.000,Amount,,223.000,0,Clearing,5104,,USD,223.000,,,,,,,,,,,
+JE-80,JE-,80,2023-07-31,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,1,,,0.000,Amount,,0,935.000,Rent,6024,,USD,935.000,,,,,,,,,,,
+JE-80,JE-,80,2023-07-31,Both,Published,Journal,Rent Exp Correction,Rent Exp Correction already accounted for on previous JE,false,1.000000,2,,,0.000,Amount,,935.000,0,Clearing,5104,,USD,935.000,,,,,,,,,,,
+JE-81,JE-,81,2023-12-03,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,400.000,1006-Undeposited Funds,SRVCH-1006,,USD,400.000,,,,,,,,,,,
+JE-81,JE-,81,2023-12-03,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,400.000,0,Drawings,5200,,USD,400.000,Cody,,,,,,,,,,
+JE-82,JE-,82,2023-12-10,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,1,,,0.000,Amount,,0,300.000,1006-Undeposited Funds,SRVCH-1006,,USD,300.000,,,,,,,,,,,
+JE-82,JE-,82,2023-12-10,Both,Published,Journal,ODWkly,Weekly drawing,false,1.000000,2,,,0.000,Amount,,300.000,0,Drawings,5200,,USD,300.000,Cody,,,,,,,,,,
+JE-83,JE-,83,2023-12-07,Both,Published,Journal,CODYINREFUND2022,PENDING TAX REFUND UNKNOWN WHERE SENT,false,1.000000,1,,,0.000,Amount,,0,7159.640,Founders EQuity - Cody,5110,,USD,7159.640,,,,,,,,,,,
+JE-83,JE-,83,2023-12-07,Both,Published,Journal,CODYINREFUND2022,PENDING TAX REFUND UNKNOWN WHERE SENT,false,1.000000,2,,,0.000,Amount,,7159.640,0,Owner's Equity,5100,,USD,7159.640,,,,,,,,,,,
+JE-84,JE-,84,2023-12-23,Both,Published,Journal,R012849037,2022 State Tax Return,false,1.000000,1,,,0.000,Amount,,0,7159.640,Owner's Equity,5100,"INDIANA DEPARTMENT OF REVENUE (INDOR, INTIME, INTAX)",USD,7159.640,Cody and Joels Return ,,,,,,,,,,
+JE-84,JE-,84,2023-12-23,Both,Published,Journal,R012849037,2022 State Tax Return,false,1.000000,2,,,0.000,Amount,,7159.640,0,1013-SoFi Checking,1013,"INDIANA DEPARTMENT OF REVENUE (INDOR, INTIME, INTAX)",USD,7159.640,Pending online deposit,,,,,,,,,,
+JE-85,JE-,85,2023-12-01,Both,Published,Journal,NMST-TREVE-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,1,,,0.000,Amount,,0,3500.000,Equity M.Contreras,5113,Treve Hernandez,USD,3500.000,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-85,JE-,85,2023-12-01,Both,Published,Journal,NMST-TREVE-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,2,,,0.000,Amount,,3500.000,0,SRVCH Equity,5100,Treve Hernandez,USD,3500.000,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-86,JE-,86,2023-12-31,Both,Published,Journal,20231231-ODCORRECTION,CORRECTING THE DISTRIBUTION FROM EXPENSE FOR TRACKING PURPOSED TO THE CORRECT EQUITY ACCOUNT.,false,1.000000,1,,,0.000,Amount,,0,10478.750,Contractor Payments,6070,Treve Hernandez,USD,10478.750,CORRECTION 6070 FOR TRACKING PURPOSES ONLY PAYMENTS ARE OD.,,,,,,,,,,
+JE-86,JE-,86,2023-12-31,Both,Published,Journal,20231231-ODCORRECTION,CORRECTING THE DISTRIBUTION FROM EXPENSE FOR TRACKING PURPOSED TO THE CORRECT EQUITY ACCOUNT.,false,1.000000,2,,,0.000,Amount,,10478.750,0,Retained Earnings,9004,Treve Hernandez,USD,10478.750,OWNERS EQUITY DISTRO REDUCING RETAINED EARNINGS.,,,,,,,,,,
+JE-87,JE-,87,2023-12-31,Both,Published,Journal,20231231-ODCORRECTION,CORRECTING THE DISTRIBUTION FROM EXPENSE FOR TRACKING PURPOSED TO THE CORRECT EQUITY ACCOUNT.,false,1.000000,1,,,0.000,Amount,,0,5550.000,Contractor Payments,6070,Vianey Bistrain Hernandez,USD,5550.000,CORRECTION 6070 FOR TRACKING PURPOSES ONLY PAYMENTS ARE OD.,,,,,,,,,,
+JE-87,JE-,87,2023-12-31,Both,Published,Journal,20231231-ODCORRECTION,CORRECTING THE DISTRIBUTION FROM EXPENSE FOR TRACKING PURPOSED TO THE CORRECT EQUITY ACCOUNT.,false,1.000000,2,,,0.000,Amount,,5550.000,0,Retained Earnings,9004,Vianey Bistrain Hernandez,USD,5550.000,OWNERS EQUITY DISTRO REDUCING RETAINED EARNINGS.,,,,,,,,,,
+JE-88,JE-,88,2023-12-31,Both,Published,Journal,20231231-ODCORRECTION,CORRECTING THE DISTRIBUTION FROM EXPENSE FOR TRACKING PURPOSED TO THE CORRECT EQUITY ACCOUNT.,false,1.000000,1,,,0.000,Amount,,0,9361.990,Janitorial Expense,6022,Carlos Contreras,USD,9361.990,CORRECTION 6070 FOR TRACKING PURPOSES ONLY PAYMENTS ARE OD.,,,,,,,,,,
+JE-88,JE-,88,2023-12-31,Both,Published,Journal,20231231-ODCORRECTION,CORRECTING THE DISTRIBUTION FROM EXPENSE FOR TRACKING PURPOSED TO THE CORRECT EQUITY ACCOUNT.,false,1.000000,2,,,0.000,Amount,,9361.990,0,Retained Earnings,9004,Carlos Contreras,USD,9361.990,OWNERS EQUITY DISTRO REDUCING RETAINED EARNINGS.,,,,,,,,,,
+JE-89,JE-,89,2023-12-31,Both,Published,Journal,2023ODRAWINGSJE,CLOSING OUT OWNERS DRAWING ACCOUNT,false,1.000000,1,,,0.000,Amount,,0,45145.910,Drawings,5200,Rice-Velasquez Enterprises,USD,45145.910,CLOSING ENTRY,,,,,,,,,,
+JE-89,JE-,89,2023-12-31,Both,Published,Journal,2023ODRAWINGSJE,CLOSING OUT OWNERS DRAWING ACCOUNT,false,1.000000,2,,,0.000,Amount,,45145.910,0,Retained Earnings,9004,Rice-Velasquez Enterprises,USD,45145.910,CLOSING ENTRY,,,,,,,,,,
+JE-90,JE-,90,2023-12-01,Both,Published,Journal,NMST-CODY-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,1,,,0.000,Amount,,0,22572.950,Founders EQuity - Cody,5110,Rice-Velasquez Enterprises,USD,22572.950,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-90,JE-,90,2023-12-01,Both,Published,Journal,NMST-CODY-231201,"Non-monetary transfer of stock as a recognition of the workers dedication, and it doesn't involve any funds changing hands. In such a case, you may not be eligible for a tax deduction, and the employee wouldn't be taxed until they sell the stock. ",false,1.000000,2,,,0.000,Amount,,22572.950,0,SRVCH Equity,5100,Rice-Velasquez Enterprises,USD,22572.950,Dec. 23 Stock Bonus Worker Dedication,,,,,,,,,,
+JE-91,JE-,91,2023-12-31,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,1,,,0.000,Amount,,0,2480.950,1005-Square Cash Sales,SRVCH-1005,,USD,2480.950,,,,,,,,,,,
+JE-91,JE-,91,2023-12-31,Both,Published,Journal,,show transfer from cash to undeposited funds,false,1.000000,2,,,0.000,Amount,,2480.950,0,1006-Undeposited Funds,SRVCH-1006,,USD,2480.950,,,,,,,,,,,
+JE-95,JE-,95,2023-08-17,Both,Published,Journal,08172023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-95,JE-,95,2023-08-17,Both,Published,Journal,08172023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-96,JE-,96,2023-08-22,Both,Published,Journal,08222023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-96,JE-,96,2023-08-22,Both,Published,Journal,08222023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-97,JE-,97,2023-09-12,Both,Published,Journal,09122023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-97,JE-,97,2023-09-12,Both,Published,Journal,09122023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-98,JE-,98,2023-09-19,Both,Published,Journal,09192023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-98,JE-,98,2023-09-19,Both,Published,Journal,09192023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-99,JE-,99,2023-09-26,Both,Published,Journal,09262023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-99,JE-,99,2023-09-26,Both,Published,Journal,09262023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-100,JE-,100,2023-10-11,Both,Published,Journal,10112023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-100,JE-,100,2023-10-11,Both,Published,Journal,10112023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-101,JE-,101,2023-10-24,Both,Published,Journal,10242023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-101,JE-,101,2023-10-24,Both,Published,Journal,10242023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-102,JE-,102,2023-10-31,Both,Published,Journal,10312023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-102,JE-,102,2023-10-31,Both,Published,Journal,10312023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-103,JE-,103,2023-11-07,Both,Published,Journal,11072023,"Correction, $5 was actually to the autosave account. ",false,1.000000,1,,,0.000,Amount,,5.000,0,1015-Sofi AutoSave,FDRS-1015,,USD,5.000,,,,,,,,,,,
+JE-103,JE-,103,2023-11-07,Both,Published,Journal,11072023,"Correction, $5 was actually to the autosave account. ",false,1.000000,2,,,0.000,Amount,,0,5.000,1014-SoFi Savings,FDRS-1014,,USD,5.000,,,,,,,,,,,
+JE-104,JE-,104,2023-10-16,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,0,250.000,1013-SoFi Checking,1013,,USD,250.000,,,,,,,,,,,
+JE-104,JE-,104,2023-10-16,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,250.000,0,Chase 9651 Clearings,ch9651,,USD,250.000,,,,,,,,,,,
+JE-105,JE-,105,2023-10-25,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,300.000,0,1013-SoFi Checking,1013,,USD,300.000,,,,,,,,,,,
+JE-105,JE-,105,2023-10-25,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,0,300.000,Chase 9651 Clearings,ch9651,,USD,300.000,,,,,,,,,,,
+JE-106,JE-,106,2023-10-27,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,100.000,0,1013-SoFi Checking,1013,,USD,100.000,,,,,,,,,,,
+JE-106,JE-,106,2023-10-27,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,0,100.000,Chase 9651 Clearings,ch9651,,USD,100.000,,,,,,,,,,,
+JE-107,JE-,107,2023-12-20,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,0,20.000,1013-SoFi Checking,1013,,USD,20.000,,,,,,,,,,,
+JE-107,JE-,107,2023-12-20,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,20.000,0,Chase 9651 Clearings,ch9651,,USD,20.000,,,,,,,,,,,
+JE-108,JE-,108,2023-12-18,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,0,100.300,1013-SoFi Checking,1013,,USD,100.300,,,,,,,,,,,
+JE-108,JE-,108,2023-12-18,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,100.300,0,Chase 9651 Clearings,ch9651,,USD,100.300,,,,,,,,,,,
+JE-109,JE-,109,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,0,428.850,1013-SoFi Checking,1013,,USD,450.630,,,,,,,,,,,
+JE-109,JE-,109,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,428.850,0,Chase 9651 Clearings,ch9651,,USD,450.630,,,,,,,,,,,
+JE-109,JE-,109,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,3,,,0.000,Amount,,0,21.780,1013-SoFi Checking,1013,,USD,450.630,,,,,,,,,,,
+JE-109,JE-,109,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,4,,,0.000,Amount,,21.780,0,Chase 9651 Clearings,ch9651,,USD,450.630,,,,,,,,,,,
+JE-110,JE-,110,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,0,628.000,1013-SoFi Checking,1013,,USD,628.000,,,,,,,,,,,
+JE-110,JE-,110,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,628.000,0,Chase 9651 Clearings,ch9651,,USD,628.000,,,,,,,,,,,
+JE-111,JE-,111,2023-12-05,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,55.000,0,1013-SoFi Checking,1013,,USD,55.000,,,,,,,,,,,
+JE-111,JE-,111,2023-12-05,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,0,55.000,Chase 9651 Clearings,ch9651,,USD,55.000,,,,,,,,,,,
+JE-112,JE-,112,2023-12-05,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,0,171.150,1013-SoFi Checking,1013,,USD,171.150,,,,,,,,,,,
+JE-112,JE-,112,2023-12-05,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,171.150,0,Chase 9651 Clearings,ch9651,,USD,171.150,,,,,,,,,,,
+JE-113,JE-,113,2023-12-04,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,50.000,0,1013-SoFi Checking,1013,,USD,50.000,,,,,,,,,,,
+JE-113,JE-,113,2023-12-04,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,0,50.000,Chase 9651 Clearings,ch9651,,USD,50.000,,,,,,,,,,,
+JE-114,JE-,114,2023-11-17,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,52.000,0,1013-SoFi Checking,1013,,USD,52.000,,,,,,,,,,,
+JE-114,JE-,114,2023-11-17,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,0,52.000,Chase 9651 Clearings,ch9651,,USD,52.000,,,,,,,,,,,
+JE-115,JE-,115,2023-09-13,Both,Published,Journal,,CHANGE FROM INCORRECT ACCOUNT TO CORRECT ONE.,false,1.000000,1,,,0.000,Amount,,231.260,0,1000-Current Assets,SRVCH-1000,,USD,231.260,,,,,,,,,,,
+JE-115,JE-,115,2023-09-13,Both,Published,Journal,,CHANGE FROM INCORRECT ACCOUNT TO CORRECT ONE.,false,1.000000,2,,,0.000,Amount,,0,231.260,1006-Undeposited Funds,SRVCH-1006,,USD,231.260,,,,,,,,,,,
+JE-116,JE-,116,2023-10-31,Both,Published,Journal,,CORRECTION TO RECONCILE ACCOUNT UNABLE TO FIND THE DIFFERENCE. ,false,1.000000,1,,,0.000,Amount,,0,106.120,1013-SoFi Checking,1013,,USD,106.120,,,,,,,,,,,
+JE-116,JE-,116,2023-10-31,Both,Published,Journal,,CORRECTION TO RECONCILE ACCOUNT UNABLE TO FIND THE DIFFERENCE. ,false,1.000000,2,,,0.000,Amount,,106.120,0,Reconciliation Discrepancies,6720,,USD,106.120,,,,,,,,,,,
+JE-117,JE-,117,2023-12-31,Both,Published,Journal,,RECONCILTION ERROR,false,1.000000,1,,,0.000,Amount,,0,691.420,1013-SoFi Checking,1013,,USD,691.420,,,,,,,,,,,
+JE-117,JE-,117,2023-12-31,Both,Published,Journal,,RECONCILTION ERROR,false,1.000000,2,,,0.000,Amount,,691.420,0,Reconciliation Discrepancies,6720,,USD,691.420,,,,,,,,,,,
+JE-118,JE-,118,2023-05-30,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,1000.000,0,CHASE CHK 1,1001,,USD,1000.000,,,,,,,,,,,
+JE-118,JE-,118,2023-05-30,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,0,1000.000,Chase 9651 Clearings,ch9651,,USD,1000.000,,,,,,,,,,,
+JE-119,JE-,119,2023-06-08,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,700.000,CHASE CHK 1,1001,,USD,700.000,,,,,,,,,,,
+JE-119,JE-,119,2023-06-08,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,700.000,0,Chase 9651 Clearings,ch9651,,USD,700.000,,,,,,,,,,,
+JE-120,JE-,120,2023-07-06,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,15.000,0,CHASE CHK 1,1001,,USD,15.000,,,,,,,,,,,
+JE-120,JE-,120,2023-07-06,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,0,15.000,Chase 9651 Clearings,ch9651,,USD,15.000,,,,,,,,,,,
+JE-121,JE-,121,2023-07-16,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,264.510,CHASE CHK 1,1001,,USD,264.510,,,,,,,,,,,
+JE-121,JE-,121,2023-07-16,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,264.510,0,Chase 9651 Clearings,ch9651,,USD,264.510,,,,,,,,,,,
+JE-122,JE-,122,2023-07-16,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,203.500,CHASE CHK 1,1001,,USD,203.500,,,,,,,,,,,
+JE-122,JE-,122,2023-07-16,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,203.500,0,Chase 9651 Clearings,ch9651,,USD,203.500,,,,,,,,,,,
+JE-123,JE-,123,2023-07-24,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,152.670,CHASE CHK 1,1001,,USD,152.670,,,,,,,,,,,
+JE-123,JE-,123,2023-07-24,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,152.670,0,Chase 9651 Clearings,ch9651,,USD,152.670,,,,,,,,,,,
+JE-124,JE-,124,2023-07-25,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,712.470,CHASE CHK 1,1001,,USD,712.470,,,,,,,,,,,
+JE-124,JE-,124,2023-07-25,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,712.470,0,Chase 9651 Clearings,ch9651,,USD,712.470,,,,,,,,,,,
+JE-125,JE-,125,2023-08-05,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,407.120,CHASE CHK 1,1001,,USD,407.120,,,,,,,,,,,
+JE-125,JE-,125,2023-08-05,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,407.120,0,Chase 9651 Clearings,ch9651,,USD,407.120,,,,,,,,,,,
+JE-126,JE-,126,2023-08-10,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,1,,,0.000,Amount,,0,213.740,CHASE CHK 1,1001,,USD,213.740,,,,,,,,,,,
+JE-126,JE-,126,2023-08-10,Both,Published,Journal,,CORRECTION TO CHASE CHK1 OPENING BALANCE WAS 9/1/23 TRANSFER MADE IN ERROR. ,false,1.000000,2,,,0.000,Amount,,213.740,0,Chase 9651 Clearings,ch9651,,USD,213.740,,,,,,,,,,,
+JE-128,JE-,128,2023-09-08,Both,Published,Journal,,CORRECTIONS,false,1.000000,1,,,0.000,Amount,,15.000,0,CHASE CHK 1,1001,,USD,15.000,,,,,,,,,,,
+JE-128,JE-,128,2023-09-08,Both,Published,Journal,,CORRECTIONS,false,1.000000,2,,,0.000,Amount,,0,15.000,Chase 9651 Clearings,ch9651,,USD,15.000,,,,,,,,,,,
+JE-129,JE-,129,2023-12-31,Both,Published,Journal,,CLOSING ENTRY - ACCOUNT CLOSED,false,1.000000,1,,,0.000,Amount,,238.560,0,CHASE CHK 1,1001,,USD,238.560,,,,,,,,,,,
+JE-129,JE-,129,2023-12-31,Both,Published,Journal,,CLOSING ENTRY - ACCOUNT CLOSED,false,1.000000,2,,,0.000,Amount,,0,238.560,CHASE ACCT 0522,0522,,USD,238.560,,,,,,,,,,,
+JE-130,JE-,130,2023-09-01,Both,Published,Journal,,"Balance out undeposited funds account due to discrepancies. 
+",false,1.000000,1,,,0.000,Amount,,0,1318.150,Chase 9651 Clearings,ch9651,,USD,1318.150,,,,,,,,,,,
+JE-130,JE-,130,2023-09-01,Both,Published,Journal,,"Balance out undeposited funds account due to discrepancies. 
+",false,1.000000,2,,,0.000,Amount,,1318.150,0,1006-Undeposited Funds,SRVCH-1006,,USD,1318.150,,,,,,,,,,,
+JE-131,JE-,131,2023-10-01,Both,Published,Journal,,"Balance out undeposited funds account due to discrepancies. 
+",false,1.000000,1,,,0.000,Amount,,0,440.860,Chase 9651 Clearings,ch9651,,USD,440.860,,,,,,,,,,,
+JE-131,JE-,131,2023-10-01,Both,Published,Journal,,"Balance out undeposited funds account due to discrepancies. 
+",false,1.000000,2,,,0.000,Amount,,440.860,0,1006-Undeposited Funds,SRVCH-1006,,USD,440.860,,,,,,,,,,,
+JE-132,JE-,132,2023-12-31,Both,Published,Journal,,"Balance out undeposited funds account due to discrepancies. 
+",false,1.000000,1,,,0.000,Amount,,0,1213.080,Chase 9651 Clearings,ch9651,,USD,1213.080,,,,,,,,,,,
+JE-132,JE-,132,2023-12-31,Both,Published,Journal,,"Balance out undeposited funds account due to discrepancies. 
+",false,1.000000,2,,,0.000,Amount,,1213.080,0,1006-Undeposited Funds,SRVCH-1006,,USD,1213.080,,,,,,,,,,,
+JE-133,JE-,133,2023-12-31,Both,Published,Journal,,ACCOUNT CLOSING ENTRY,false,1.000000,1,,,0.000,Amount,,0,534.120,CHASE CHK 2,1010,,USD,534.120,,,,,,,,,,,
+JE-133,JE-,133,2023-12-31,Both,Published,Journal,,ACCOUNT CLOSING ENTRY,false,1.000000,2,,,0.000,Amount,,534.120,0,Reconciliation Discrepancies,6720,,USD,534.120,,,,,,,,,,,
+JE-134,JE-,134,2023-12-31,Both,Published,Journal,,CLOSING ENTRY TO CLOSE OUT CORRECTIONS,false,1.000000,1,,,0.000,Amount,,0,3007.090,1006-Undeposited Funds,SRVCH-1006,,USD,3007.090,,,,,,,,,,,
+JE-134,JE-,134,2023-12-31,Both,Published,Journal,,CLOSING ENTRY TO CLOSE OUT CORRECTIONS,false,1.000000,2,,,0.000,Amount,,3007.090,0,Reconciliation Discrepancies,6720,,USD,3007.090,,,,,,,,,,,
+JE-135,JE-,135,2024-01-19,Both,Published,Journal,,closing entry,false,1.000000,1,,,0.000,Amount,,0,763.000,1005-Square Cash Sales,SRVCH-1005,,USD,763.000,,,,,,,,,,,
+JE-135,JE-,135,2024-01-19,Both,Published,Journal,,closing entry,false,1.000000,2,,,0.000,Amount,,763.000,0,1006-Undeposited Funds,SRVCH-1006,,USD,763.000,,,,,,,,,,,
+JE-137,JE-,137,2024-01-19,Both,Published,Journal,,Correction,false,1.000000,1,,,0.000,Amount,,449.480,0,1010-Petty Cash,SRVCH-1010,,USD,449.480,,,,,,,,,,,
+JE-137,JE-,137,2024-01-19,Both,Published,Journal,,Correction,false,1.000000,2,,,0.000,Amount,,0,449.480,Reconciliation Discrepancies,6720,,USD,449.480,,,,,,,,,,,
+JE-138,JE-,138,2023-12-31,Both,Published,Journal,,Balance on Capital One Credit Card sps,false,1.000000,1,,,0.000,Amount,,0,2238.000,Personal SPS - Capital One Credit Card 5178 (CLOSED),5178059535211016,,USD,2238.000,,,,,,,,,,,99. Personal Cody or Joel (Dispursment)
+JE-138,JE-,138,2023-12-31,Both,Published,Journal,,Balance on Capital One Credit Card sps,false,1.000000,2,,,0.000,Amount,,2238.000,0,Opening Balance Equity,5001,,USD,2238.000,,,,,,,,,,,99. Personal Cody or Joel (Dispursment)
+JE-139,JE-,139,2023-12-31,Both,Published,Journal,,Balance on Capital One Credit Card sps,false,1.000000,1,,,0.000,Amount,,0,4736.000,Personal - Capital One QuickSilver (CLOSED),4003448436998587,,USD,4736.000,,,,,,,,,,,99. Personal Cody or Joel (Dispursment)
+JE-139,JE-,139,2023-12-31,Both,Published,Journal,,Balance on Capital One Credit Card sps,false,1.000000,2,,,0.000,Amount,,4736.000,0,Opening Balance Equity,5001,,USD,4736.000,,,,,,,,,,,99. Personal Cody or Joel (Dispursment)
+JE-140,JE-,140,2023-08-01,Both,Published,Journal,91896805,labcorb fill,false,1.000000,1,,,0.000,Amount,,1579.200,0,Disp. Cody,99990002,Rice-Velasquez Enterprises,USD,1579.200,medical,,,,,,,,,,
+JE-140,JE-,140,2023-08-01,Both,Published,Journal,91896805,labcorb fill,false,1.000000,2,,,0.000,Amount,,0,1579.200,Labcorp Debt,labcorp,,USD,1579.200,,,,,,,,,,,
+JE-141,JE-,141,2023-12-31,Both,Published,Journal,91896805,Amazon Account Joel,false,1.000000,1,,,0.000,Amount,,1285.070,0,Disp. Cody,99990002,Rice-Velasquez Enterprises,USD,1285.070,spending,,,,,,,,,,
+JE-141,JE-,141,2023-12-31,Both,Published,Journal,91896805,Amazon Account Joel,false,1.000000,2,,,0.000,Amount,,0,1285.070,Personal - Amazon Store Card 8729,8729,,USD,1285.070,,,,,,,,,,,
+JE-142,JE-,142,2024-01-31,Both,Published,Journal,CarlosNMST-Oct,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,1056.000,0,Stock Deduction,8152,,USD,1056.000,stock deduction for assignment,,,,,,,,,,
+JE-142,JE-,142,2024-01-31,Both,Published,Journal,CarlosNMST-Oct,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,1056.000,Equity C.Contreras,5115,,USD,1056.000,stock assignment for deduction,,,,,,,,,,
+JE-143,JE-,143,2023-12-31,Both,Published,Journal,VIANYNMST-NOV,Stock deducted assignment.,false,1.000000,1,,,0.000,Amount,,802.870,0,Stock Deduction,8152,Vianey Bistrain,USD,802.870,stock deduction for assignment,,,,,,,,,,
+JE-143,JE-,143,2023-12-31,Both,Published,Journal,VIANYNMST-NOV,Stock deducted assignment.,false,1.000000,2,,,0.000,Amount,,0,802.870,Equity V.Bistrain,5114,Vianey Bistrain,USD,802.870,stock assignment for deduction,,,,,,,,,,
+JE-144,JE-,144,2023-12-31,Both,Published,Journal,,Closing Entry,false,1.000000,1,,,0.000,Amount,,0,34483.450,SRVCH Equity,5100,,USD,34483.450,BALANCE FROM QBO,,,,,,,,,,
+JE-144,JE-,144,2023-12-31,Both,Published,Journal,,Closing Entry,false,1.000000,2,,,0.000,Amount,,34483.450,0,Owner's Equity,5100,,USD,34483.450,,,,,,,,,,,
+JE-145,JE-,145,2023-12-31,Both,Published,Journal,,"Correcting entry, robert has 5000 of stock not a debt to the investor. ",false,1.000000,1,,,0.000,Amount,,5000.000,0,Roberet Rice,8304,Robert Rice Jr.,USD,5000.000,,,,,,,,,,,
+JE-145,JE-,145,2023-12-31,Both,Published,Journal,,"Correcting entry, robert has 5000 of stock not a debt to the investor. ",false,1.000000,2,,,0.000,Amount,,0,5000.000,Equity R. Rice,5112,Robert Rice Jr.,USD,5000.000,,,,,,,,,,,
+JE-146,JE-,146,2023-12-31,Both,Published,Journal,,closing entry,false,1.000000,1,,,0.000,Amount,,0,742.770,Drawings,5200,,USD,742.770,,,,,,,,,,,
+JE-146,JE-,146,2023-12-31,Both,Published,Journal,,closing entry,false,1.000000,2,,,0.000,Amount,,742.770,0,Founders EQuity - Cody,5110,,USD,742.770,,,,,,,,,,,
+JE-147,JE-,147,2023-12-31,Both,Published,Journal,0788-0623,BMO HARRIS NOTICE WITH BALANCE ADJUSTMENT,false,1.000000,1,,,0.000,Amount,,3704.300,0,Opening Balance Equity,5001,Rice-Velasquez Enterprises,USD,3704.300,,,,,,,,,,,
+JE-147,JE-,147,2023-12-31,Both,Published,Journal,0788-0623,BMO HARRIS NOTICE WITH BALANCE ADJUSTMENT,false,1.000000,2,,,0.000,Amount,,0,3704.300,BMO Harris Credit Card 0924 - CODY,CC0111-0924,Rice-Velasquez Enterprises,USD,3704.300,,,,,,,,,,,
+JE-148,JE-,148,2024-02-05,Both,Published,Journal,,SNOR,false,1.000000,1,,,0.000,Amount,,0,100.000,1006-Undeposited Funds,SRVCH-1006,Rice-Velasquez Enterprises,USD,100.000,,,,,,,,,,,
+JE-148,JE-,148,2024-02-05,Both,Published,Journal,,SNOR,false,1.000000,2,,,0.000,Amount,,100.000,0,Drawings,5200,Rice-Velasquez Enterprises,USD,100.000,,,,,,,,,,,
+JE-149,JE-,149,2023-11-21,Both,Published,Journal,,Error in statement? Unsure. ,false,1.000000,1,,,0.000,Amount,,1260.000,0,FCFCU CHECKING,66153,Rice-Velasquez Enterprises,USD,2520.000,,,,,,,,,,,
+JE-149,JE-,149,2023-11-21,Both,Published,Journal,,Error in statement? Unsure. ,false,1.000000,2,,,0.000,Amount,,0,1260.000,1010-Petty Cash,SRVCH-1010,Rice-Velasquez Enterprises,USD,2520.000,,,,,,,,,,,
+JE-149,JE-,149,2023-11-21,Both,Published,Journal,,Error in statement? Unsure. ,false,1.000000,3,,,0.000,Amount,,0,1260.000,Reconciliation Discrepancies,6720,Rice-Velasquez Enterprises,USD,2520.000,,,,,,,,,,,
+JE-149,JE-,149,2023-11-21,Both,Published,Journal,,Error in statement? Unsure. ,false,1.000000,4,,,0.000,Amount,,1260.000,0,1010-Petty Cash,SRVCH-1010,Rice-Velasquez Enterprises,USD,2520.000,,,,,,,,,,,
+JE-150,JE-,150,2023-10-10,Both,Published,Journal,,MISSING FROM TRANSACTIONS LISTED ON BANK STATEMENT,false,1.000000,1,,,0.000,Amount,,262.100,0,1008-SRVTM.Pro,SRVCH-1008,,USD,262.100,,,,,,,,,,,
+JE-150,JE-,150,2023-10-10,Both,Published,Journal,,MISSING FROM TRANSACTIONS LISTED ON BANK STATEMENT,false,1.000000,2,,,0.000,Amount,,0,262.100,1006-Undeposited Funds,SRVCH-1006,,USD,262.100,,,,,,,,,,,
+JE-151,JE-,151,2023-09-16,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,1,,,0.000,Amount,,0,4.560,1008-SRVTM.Pro,SRVCH-1008,,USD,4.560,,,,,,,,,,,
+JE-151,JE-,151,2023-09-16,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,2,,,0.000,Amount,,4.560,0,Reconciliation Discrepancies,6720,,USD,4.560,,,,,,,,,,,
+JE-152,JE-,152,2023-10-08,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,1,,,0.000,Amount,,0,2.190,1008-SRVTM.Pro,SRVCH-1008,,USD,2.190,,,,,,,,,,,
+JE-152,JE-,152,2023-10-08,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,2,,,0.000,Amount,,2.190,0,Reconciliation Discrepancies,6720,,USD,2.190,,,,,,,,,,,
+JE-153,JE-,153,2023-10-09,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,1,,,0.000,Amount,,0,10.000,1008-SRVTM.Pro,SRVCH-1008,,USD,10.000,,,,,,,,,,,
+JE-153,JE-,153,2023-10-09,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,2,,,0.000,Amount,,10.000,0,Reconciliation Discrepancies,6720,,USD,10.000,,,,,,,,,,,
+JE-154,JE-,154,2023-10-31,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,1,,,0.000,Amount,,357.350,0,1008-SRVTM.Pro,SRVCH-1008,,USD,357.350,,,,,,,,,,,
+JE-154,JE-,154,2023-10-31,Both,Published,Journal,,RECONCILE ERROR ON TRANSACTIONS,false,1.000000,2,,,0.000,Amount,,0,357.350,Reconciliation Discrepancies,6720,,USD,357.350,,,,,,,,,,,
+JE-155,JE-,155,2024-03-17,Both,Published,Journal,91896805,"Collection Notice from Labcorp
+Laboratory Corporation of America
+TAX ID# : 13-3757370
+321331601560
+08/01/23
+DAMIEN CARES CLINIC
+You can easily satisfy this obligation by:
+1) Calling 1-800-845-6167;
+2) Paying by check using the envelope provided; or
+3) Paying by check or credit card online at labcorp.com/billing.
+PTLCA24064 021354 01 01 00
+SALEV ECIR*C ****
+32133160
+1560 ****",false,1.000000,1,,,0.000,Amount,,0,134.400,Labcorp Debt,labcorp,Lab Corp,USD,134.400,,,,,,,,,,,
+JE-155,JE-,155,2024-03-17,Both,Published,Journal,91896805,"Collection Notice from Labcorp
+Laboratory Corporation of America
+TAX ID# : 13-3757370
+321331601560
+08/01/23
+DAMIEN CARES CLINIC
+You can easily satisfy this obligation by:
+1) Calling 1-800-845-6167;
+2) Paying by check using the envelope provided; or
+3) Paying by check or credit card online at labcorp.com/billing.
+PTLCA24064 021354 01 01 00
+SALEV ECIR*C ****
+32133160
+1560 ****",false,1.000000,2,,,0.000,Amount,,134.400,0,Disp. Cody,99990002,,USD,134.400,,,,,,,,,,,
+JE-156,JE-,156,2024-03-17,Both,Published,Journal,LTR-20240226,NOTICE FOR LATE PAYMENT OF 418.46,false,1.000000,1,,,0.000,Amount,,418.460,0,FCFCU HOME LOAN 2 1520,8-1520,,USD,418.460,LETTER NOTICE,,,,,,,,,,
+JE-156,JE-,156,2024-03-17,Both,Published,Journal,LTR-20240226,NOTICE FOR LATE PAYMENT OF 418.46,false,1.000000,2,,,0.000,Amount,,0,418.460,FCFCU HOME LOAN 2 1520,8-1520,,USD,418.460,LETTER NOTICE,,,,,,,,,,
+JE-161,JE-,161,2024-01-19,Both,Published,Journal,,Correction,false,1.000000,1,,,0.000,Amount,,0,449.480,1010-Petty Cash,SRVCH-1010,,USD,449.480,,,,,,,,,,,
+JE-161,JE-,161,2024-01-19,Both,Published,Journal,,Correction,false,1.000000,2,,,0.000,Amount,,449.480,0,Reconciliation Discrepancies,6720,,USD,449.480,,,,,,,,,,,
+JE-162,JE-,162,2023-12-31,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,1,,,0.000,Amount,,81.240,0,1010-Petty Cash,SRVCH-1010,,USD,81.240,,,,,,,,,,,
+JE-162,JE-,162,2023-12-31,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,2,,,0.000,Amount,,0,81.240,Reconciliation Discrepancies,6720,,USD,81.240,,,,,,,,,,,
+JE-163,JE-,163,2024-01-31,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,1,,,0.000,Amount,,117.510,0,1010-Petty Cash,SRVCH-1010,,USD,117.510,,,,,,,,,,,
+JE-163,JE-,163,2024-01-31,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,2,,,0.000,Amount,,0,117.510,Reconciliation Discrepancies,6720,,USD,117.510,,,,,,,,,,,
+JE-164,JE-,164,2024-02-29,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,1,,,0.000,Amount,,11.760,0,1010-Petty Cash,SRVCH-1010,,USD,11.760,,,,,,,,,,,
+JE-164,JE-,164,2024-02-29,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,2,,,0.000,Amount,,0,11.760,Reconciliation Discrepancies,6720,,USD,11.760,,,,,,,,,,,
+JE-165,JE-,165,2024-03-31,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,1,,,0.000,Amount,,32.950,0,1010-Petty Cash,SRVCH-1010,,USD,32.950,,,,,,,,,,,
+JE-165,JE-,165,2024-03-31,Both,Published,Journal,,Reconcile discrepancy due to expense management portal entry errors. ,false,1.000000,2,,,0.000,Amount,,0,32.950,Reconciliation Discrepancies,6720,,USD,32.950,,,,,,,,,,,
+JE-166,JE-,166,2024-03-04,Both,Published,Journal,,Correcting Expense Entry Error,false,1.000000,1,,,0.000,Amount,,183.150,0,1012-CHASE SECURE BANKING,1012,,USD,183.150,,,,,,,,,,,
+JE-166,JE-,166,2024-03-04,Both,Published,Journal,,Correcting Expense Entry Error,false,1.000000,2,,,0.000,Amount,,0,183.150,Reconciliation Discrepancies,6720,,USD,183.150,,,,,,,,,,,
+JE-167,JE-,167,2024-02-22,Both,Published,Journal,,Expense entry error,false,1.000000,1,,,0.000,Amount,,35.930,0,1012-CHASE SECURE BANKING,1012,,USD,35.930,,,,,,,,,,,
+JE-167,JE-,167,2024-02-22,Both,Published,Journal,,Expense entry error,false,1.000000,2,,,0.000,Amount,,0,35.930,Reconciliation Discrepancies,6720,,USD,35.930,,,,,,,,,,,
+JE-168,JE-,168,2023-12-31,Both,Published,Journal,,Expense Entry Error,false,1.000000,1,,,0.000,Amount,,77.250,0,1012-CHASE SECURE BANKING,1012,,USD,191.010,,,,,,,,,,,
+JE-168,JE-,168,2023-12-31,Both,Published,Journal,,Expense Entry Error,false,1.000000,2,,,0.000,Amount,,71.690,0,1012-CHASE SECURE BANKING,1012,,USD,191.010,,,,,,,,,,,
+JE-168,JE-,168,2023-12-31,Both,Published,Journal,,Expense Entry Error,false,1.000000,3,,,0.000,Amount,,42.070,0,1012-CHASE SECURE BANKING,1012,,USD,191.010,,,,,,,,,,,
+JE-168,JE-,168,2023-12-31,Both,Published,Journal,,Expense Entry Error,false,1.000000,4,,,0.000,Amount,,0,191.010,Reconciliation Discrepancies,6720,,USD,191.010,,,,,,,,,,,
+JE-169,JE-,169,2024-01-02,Both,Published,Journal,,Expense Entry Error,false,1.000000,1,,,0.000,Amount,,930.000,0,1012-CHASE SECURE BANKING,1012,,USD,930.000,,,,,,,,,,,
+JE-169,JE-,169,2024-01-02,Both,Published,Journal,,Expense Entry Error,false,1.000000,2,,,0.000,Amount,,0,930.000,Reconciliation Discrepancies,6720,,USD,930.000,,,,,,,,,,,
+JE-158,JE-,158,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,1,,,0.000,Amount,,428.850,0,1013-SoFi Checking,1013,,USD,450.630,,,,,,,,,,,
+JE-158,JE-,158,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,2,,,0.000,Amount,,0,428.850,Chase 9651 Clearings,ch9651,,USD,450.630,,,,,,,,,,,
+JE-158,JE-,158,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,3,,,0.000,Amount,,21.780,0,1013-SoFi Checking,1013,,USD,450.630,,,,,,,,,,,
+JE-158,JE-,158,2023-12-08,Both,Published,Journal,,"TRANSFERED TO THE INCORRECT ACCOUNT MOVING TO CLEARING.
+",false,1.000000,4,,,0.000,Amount,,0,21.780,Chase 9651 Clearings,ch9651,,USD,450.630,,,,,,,,,,,
+JE-159,JE-,159,2023-12-31,Both,Published,Journal,,Correcting Discrepency,false,1.000000,1,,,0.000,Amount,,330.200,0,1013-SoFi Checking,1013,,USD,330.200,,,,,,,,,,,
+JE-159,JE-,159,2023-12-31,Both,Published,Journal,,Correcting Discrepency,false,1.000000,2,,,0.000,Amount,,0,330.200,Reconciliation Discrepancies,6720,,USD,330.200,,,,,,,,,,,
+JE-160,JE-,160,2023-12-31,Both,Published,Journal,,Correcting Discrpencies,false,1.000000,1,,,0.000,Amount,,450.630,0,Chase 9651 Clearings,ch9651,,USD,450.630,,,,,,,,,,,
+JE-160,JE-,160,2023-12-31,Both,Published,Journal,,Correcting Discrpencies,false,1.000000,2,,,0.000,Amount,,0,450.630,Reconciliation Discrepancies,6720,,USD,450.630,,,,,,,,,,,
+JE-157,JE-,157,2023-12-31,Both,Published,Journal,,RECONCILTION ERROR,false,1.000000,1,,,0.000,Amount,,691.420,0,1013-SoFi Checking,1013,,USD,691.420,,,,,,,,,,,
+JE-157,JE-,157,2023-12-31,Both,Published,Journal,,RECONCILTION ERROR,false,1.000000,2,,,0.000,Amount,,0,691.420,Reconciliation Discrepancies,6720,,USD,691.420,,,,,,,,,,,
+JE-170,JE-,170,2023-12-31,Both,Published,Journal,,CLOSING OUT THIS ACCOUNT WILL ENTER PAYMENT MANUALLY WAS CREATING DOUBLE ENTRIES. ,false,1.000000,1,,,0.000,Amount,,532.490,0,1006-Undeposited Funds,SRVCH-1006,,USD,532.490,,,,,,,,,,,
+JE-170,JE-,170,2023-12-31,Both,Published,Journal,,CLOSING OUT THIS ACCOUNT WILL ENTER PAYMENT MANUALLY WAS CREATING DOUBLE ENTRIES. ,false,1.000000,2,,,0.000,Amount,,0,532.490,1004-Square Clearing,SRVCH-1004,,USD,532.490,,,,,,,,,,,
+JE-172,JE-,172,2023-11-30,Both,Published,Journal,,DUE TO EXPENSE ENTRY ERRORS.,false,1.000000,1,,,0.000,Amount,,63.540,0,1008-SRVTM.Pro,SRVCH-1008,,USD,63.540,,,,,,,,,,,
+JE-172,JE-,172,2023-11-30,Both,Published,Journal,,DUE TO EXPENSE ENTRY ERRORS.,false,1.000000,2,,,0.000,Amount,,0,63.540,Reconciliation Discrepancies,6720,,USD,63.540,,,,,,,,,,,
+JE-173,JE-,173,2023-12-31,Both,Published,Journal,,DUE TO EXPENSE ENTRY ERRORS AND DEPOSIT DUPLICATIONS,false,1.000000,1,,,0.000,Amount,,2241.030,0,1008-SRVTM.Pro,SRVCH-1008,,USD,2241.030,,,,,,,,,,,
+JE-173,JE-,173,2023-12-31,Both,Published,Journal,,DUE TO EXPENSE ENTRY ERRORS AND DEPOSIT DUPLICATIONS,false,1.000000,2,,,0.000,Amount,,0,2241.030,Reconciliation Discrepancies,6720,,USD,2241.030,,,,,,,,,,,
+JE-174,JE-,174,2024-03-26,Both,Published,Journal,,CHECK WAS DEPOSITED TO CODYS ACCOUNT,false,1.000000,1,,,0.000,Amount,,0,1400.000,1006-Undeposited Funds,SRVCH-1006,,USD,1400.000,,,,,,,,,,,
+JE-174,JE-,174,2024-03-26,Both,Published,Journal,,CHECK WAS DEPOSITED TO CODYS ACCOUNT,false,1.000000,2,,,0.000,Amount,,1400.000,0,Disp. Cody,99990002,,USD,1400.000,,,,,,,,,,,

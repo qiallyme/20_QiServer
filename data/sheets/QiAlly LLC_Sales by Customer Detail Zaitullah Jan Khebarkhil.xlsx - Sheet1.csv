@@ -1,0 +1,308 @@
+Sales by Customer Detail,,,,,,,,,,
+QiAlly LLC,,,,,,,,,,
+"January-December, 2025",,,,,,,,,,
+,,,,,,,,,,
+,Customer,Transaction date,Transaction type,Num,Product/Service full name,Line description,Quantity,Sales price,Amount,Balance
+Rent Charges,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,01/01/2025,Invoice,1001,Rent Charges,Portion of property use reimbursement.,1.00,300.00,300.00,300.00
+,Zaitullah Jan Khebarkhil,02/01/2025,Invoice,1002,Rent Charges,Portion of property use reimbursement.,1.00,300.00,300.00,600.00
+,Zaitullah Jan Khebarkhil,03/01/2025,Invoice,1003,Rent Charges,Portion of property use reimbursement.,1.00,300.00,300.00,900.00
+,Zaitullah Jan Khebarkhil,04/01/2025,Invoice,1004,Rent Charges,Portion of property use reimbursement.,1.00,300.00,300.00,"1,200.00"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,Rent Charges,Portion of property use reimbursement.,1.00,300.00,300.00,"1,500.00"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1026,Rent Charges,Standard Rent,1.00,650.00,650.00,"2,150.00"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1026,Rent Charges,Discount,1.00,-350.00,-350.00,"1,800.00"
+Total for Rent Charges,,,,,,,7.00,,"$1,800.00",
+Car Pay,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,01/01/2025,Invoice,1001,Car Pay,,1.00,800.00,800.00,800.00
+,Zaitullah Jan Khebarkhil,02/01/2025,Invoice,1002,Car Pay,,1.00,800.00,800.00,"1,600.00"
+,Zaitullah Jan Khebarkhil,03/01/2025,Invoice,1003,Car Pay,"$900 is the monthly rent of the car charging home included, supercharger billed back.",1.00,800.00,800.00,"2,400.00"
+,Zaitullah Jan Khebarkhil,04/01/2025,Invoice,1004,Car Pay,,1.00,800.00,800.00,"3,200.00"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,Car Pay,,1.00,800.00,800.00,"4,000.00"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1026,Car Pay,Standard Rate,1.00,900.00,900.00,"4,900.00"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1026,Car Pay,Discount,1.00,-100.00,-100.00,"4,800.00"
+Total for Car Pay,,,,,,,7.00,,"$4,800.00",
+Favors,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,01/01/2025,Invoice,1001,Favors,,1.00,80.00,80.00,80.00
+,Zaitullah Jan Khebarkhil,02/01/2025,Invoice,1002,Favors,04/13/2024; 04/16/2024; 04/18/2024,1.00,25.00,25.00,105.00
+,Zaitullah Jan Khebarkhil,02/01/2025,Invoice,1002,Favors,Water,1.00,5.00,5.00,110.00
+,Zaitullah Jan Khebarkhil,03/01/2025,Invoice,1003,Favors,,1.00,40.00,40.00,150.00
+,Zaitullah Jan Khebarkhil,04/01/2025,Invoice,1004,Favors,,1.00,50.00,50.00,200.00
+,Zaitullah Jan Khebarkhil,04/21/2025,Invoice,1012,Favors,2.4,1.00,60.00,60.00,260.00
+,Zaitullah Jan Khebarkhil,06/05/2025,Invoice,1042,Favors,,1.00,30.00,30.00,290.00
+Total for Favors,,,,,,,7.00,,$290.00,
+Passthrough,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,04/08/2025,Invoice,1007,Passthrough,Bill or Cash20250408-11:57:03PMProvided Cash for Zelle,1.00,47.00,47.00,47.00
+,Zaitullah Jan Khebarkhil,04/08/2025,Invoice,1007,Passthrough,Bill or CashProvided Cash for Zelle at20250410-2:39:49pm,1.00,71.00,71.00,118.00
+,Zaitullah Jan Khebarkhil,04/08/2025,Invoice,1010,Passthrough,Bill or CashNotes say he will zelle it. receipt from 04/11/2025 at 2:47:22am,1.00,30.00,30.00,148.00
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1050,Passthrough,Bill or Cash $41 cash given to zai to zell me. ,1.00,41.00,41.00,189.00
+Total for Passthrough,,,,,,,4.00,,$189.00,
+,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,13.33,13.33
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.33,14.66
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,8.87,23.53
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,0.89,24.42
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,17.75,42.17
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.78,43.95
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,8.92,52.87
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,0.89,53.76
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,11.58,65.34
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.16,66.50
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,13.29,79.79
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.33,81.12
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.86,82.98
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.43,84.41
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for VESTA  *AT&T PREPAID,,,5.11,89.52
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US,,,1.37,90.89
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,10.19,101.08
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.02,102.10
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,,Discount,-199.72,5.00%,-9.99,92.11
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1013,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,13.43,105.54
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1013,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.34,106.88
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1013,,Shipping,,,0.23,107.11
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,11.34,118.45
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.13,119.58
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,,Discount,,,-35.00,84.58
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,19.27,103.85
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.93,105.78
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,,Discount,,,-35.00,70.78
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,38.30,109.08
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,3.83,112.91
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,,Discount,,,-42.13,70.78
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,14.45,14.45,85.23
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.45,1.45,86.68
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,15.45,15.45,102.13
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.55,1.55,103.68
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,15.72,15.72,119.40
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.57,1.57,120.97
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,VESTA *AT&T PREPAID XXX-XXX-3007 OR 01/15,,51.12,51.12,172.09
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,VESTA *AT&T PREPAID XXX-XXX3007 OR 02/13,,51.12,51.12,223.21
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,20.81,20.81,244.02
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,17.95,17.95,261.97
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,14.42,14.42,276.39
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 01/26,,14.60,14.60,290.99
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 01/22,,21.25,21.25,312.24
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 01/22,,16.03,16.03,328.27
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 01/29,,13.58,13.58,341.85
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 01/31,,10.74,10.74,352.59
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/03,,11.82,11.82,364.41
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/03,,15.73,15.73,380.14
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/14,,12.53,12.53,392.67
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/14,,12.98,12.98,405.65
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/16,,17.52,17.52,423.17
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/21,,13.17,13.17,436.34
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/25,,10.72,10.72,447.06
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/24,,13.84,13.84,460.90
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 02/27,,12.84,12.84,473.74
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 03/04,,13.26,13.26,487.00
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 03/04,,0.55,0.55,487.55
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 03/06,,15.58,15.58,503.13
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 03/07,,11.24,11.24,514.37
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,VESTA *AT&T PREPAID XXX-XXX-3007 OR 03/15,,51.12,51.12,565.49
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 03/18,,9.23,9.23,574.72
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,TESLA SUPERCHARGER US XXX-XXX3752 CA 03/18,,12.64,12.64,587.36
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/03,,1.18,1.18,588.54
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 01/22,,2.13,2.13,590.67
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 01/22,,1.60,1.60,592.27
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.80,1.80,594.07
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 01/29,,1.36,1.36,595.43
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for VESTA *AT&T PREPAID XXX-XXX-3007 OR 01/15,,5.11,5.11,600.54
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 01/31,,1.07,1.07,601.61
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 01/26,,1.46,1.46,603.07
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,2.08,2.08,605.15
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/21,,1.32,1.32,606.47
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.44,1.44,607.91
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for VESTA *AT&T PREPAID XXX-XXX3007 OR 02/13,,5.11,5.11,613.02
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/14,,1.25,1.25,614.27
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/03,,1.57,1.57,615.84
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/14,,1.30,1.30,617.14
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/24,,1.38,1.38,618.52
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/25,,1.07,1.07,619.59
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/27,,1.28,1.28,620.87
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 02/16,,1.75,1.75,622.62
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 03/04,,1.33,1.33,623.95
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 03/04,,0.06,0.06,624.01
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 03/06,,1.56,1.56,625.57
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 03/07,,1.12,1.12,626.69
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for VESTA *AT&T PREPAID XXX-XXX-3007 OR 03/15,,5.11,5.11,631.80
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 03/18,,0.92,0.92,632.72
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,10% markup for TESLA SUPERCHARGER US XXX-XXX3752 CA 03/18,,1.26,1.26,633.98
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1024,,Discount,,,-46.62,587.36
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1027,,ZelleÂ® Payment to Zaitullah K. Tof,,78.00,78.00,665.36
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1027,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,18.08,18.08,683.44
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1027,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,10.71,10.71,694.15
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1027,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,12.07,12.07,706.22
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1028,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,13.22,719.44
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1028,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,9.41,728.85
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1028,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,11.65,740.50
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1028,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,7.87,748.37
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1028,,TESLA SUPERCHARGER US XXX-XXX3752 CA 04/28,,,14.41,762.78
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1028,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,20.67,783.45
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1029,,Zelle payment to Zaitullah Jan JPM99b6flv8z,,,220.00,"1,003.45"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,14.45,"1,017.90"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,15.45,"1,033.35"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,15.72,"1,049.07"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,6.76,"1,055.83"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.45,"1,057.28"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.55,"1,058.83"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,1.57,"1,060.40"
+,Zaitullah Jan Khebarkhil,05/01/2025,Invoice,1051,,Discount,,,-4.57,"1,055.83"
+,Zaitullah Jan Khebarkhil,05/14/2025,Invoice,1032,,,,,15.10,"1,070.93"
+,Zaitullah Jan Khebarkhil,05/14/2025,Invoice,1032,,Zelle payment to Zaitullah Jan JPM99b6gs83x,,,10.00,"1,080.93"
+,Zaitullah Jan Khebarkhil,05/14/2025,Invoice,1032,,10% markup for Zelle payment to Zaitullah Jan JPM99b6gs83x,,,1.00,"1,081.93"
+,Zaitullah Jan Khebarkhil,05/14/2025,Invoice,1032,,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,9.48,"1,091.41"
+,Zaitullah Jan Khebarkhil,05/14/2025,Invoice,1032,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,,0.95,"1,092.36"
+,Zaitullah Jan Khebarkhil,05/14/2025,Invoice,1032,,Discount,,,-1.95,"1,090.41"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,0.97,0.97,"1,091.38"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.14,1.14,"1,092.52"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.11,1.11,"1,093.63"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,1.28,1.28,"1,094.91"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,,10% markup for TESLA SUPERCHARGER US TESLA SUPERCHARGER US,,0.78,0.78,"1,095.69"
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,,Discount,,,-5.28,"1,090.41"
+Total for --,,,,,,,-199.72,,"$1,090.41",
+Tesla Super Charger,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,18.57,18.57,18.57
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,14.26,14.26,32.83
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,Tesla Super Charger,TESLA SUPERCHARGER US,1.00,13.68,13.68,46.51
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,9.65,9.65,56.16
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,11.35,11.35,67.51
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,11.11,11.11,78.62
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,12.76,12.76,91.38
+,Zaitullah Jan Khebarkhil,06/01/2025,Invoice,1037,Tesla Super Charger,TESLA SUPERCHARGER US TESLA SUPERCHARGER US,1.00,7.84,7.84,99.22
+Total for Tesla Super Charger,,,,,,,8.00,,$99.22,
+Bill Payment,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1006,Bill Payment,VESTA  *AT&T PREPAID,1.00,51.11,51.11,51.11
+,Zaitullah Jan Khebarkhil,04/14/2025,Invoice,1011,Bill Payment,ATT PHONE BILL,1.00,51.11,51.11,102.22
+Total for Bill Payment,,,,,,,2.00,,$102.22,
+Late fee,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 24, 2025",,,1.00,1.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 25, 2025",,,1.00,2.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 26, 2025",,,1.00,3.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 27, 2025",,,1.00,4.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 28, 2025",,,1.00,5.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 29, 2025",,,1.00,6.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on Apr 30, 2025",,,1.00,7.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 1, 2025",,,1.00,8.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 2, 2025",,,1.00,9.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 3, 2025",,,1.00,10.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 4, 2025",,,1.00,11.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 5, 2025",,,1.00,12.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 6, 2025",,,1.00,13.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 7, 2025",,,1.00,14.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 8, 2025",,,1.00,15.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 9, 2025",,,1.00,16.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 10, 2025",,,1.00,17.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 11, 2025",,,1.00,18.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 12, 2025",,,1.00,19.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 13, 2025",,,1.00,20.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 14, 2025",,,1.00,21.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 15, 2025",,,1.00,22.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 16, 2025",,,1.00,23.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 17, 2025",,,1.00,24.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 18, 2025",,,1.00,25.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 19, 2025",,,1.00,26.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 20, 2025",,,1.00,27.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 21, 2025",,,1.00,28.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 22, 2025",,,1.00,29.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 23, 2025",,,1.00,30.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 24, 2025",,,1.00,31.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 25, 2025",,,1.00,32.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 26, 2025",,,1.00,33.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 28, 2025",,,1.00,34.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1014,Late fee,"Flat fee - Applied on May 29, 2025",,,1.00,35.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 24, 2025",,,1.00,36.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 25, 2025",,,1.00,37.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 26, 2025",,,1.00,38.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 27, 2025",,,1.00,39.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 28, 2025",,,1.00,40.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 29, 2025",,,1.00,41.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on Apr 30, 2025",,,1.00,42.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 1, 2025",,,1.00,43.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 2, 2025",,,1.00,44.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 3, 2025",,,1.00,45.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 4, 2025",,,1.00,46.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 5, 2025",,,1.00,47.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 6, 2025",,,1.00,48.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 7, 2025",,,1.00,49.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 8, 2025",,,1.00,50.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 9, 2025",,,1.00,51.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 10, 2025",,,1.00,52.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 11, 2025",,,1.00,53.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 12, 2025",,,1.00,54.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 13, 2025",,,1.00,55.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 14, 2025",,,1.00,56.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 15, 2025",,,1.00,57.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 16, 2025",,,1.00,58.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 17, 2025",,,1.00,59.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 18, 2025",,,1.00,60.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 19, 2025",,,1.00,61.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 20, 2025",,,1.00,62.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 21, 2025",,,1.00,63.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 22, 2025",,,1.00,64.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 23, 2025",,,1.00,65.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 24, 2025",,,1.00,66.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 25, 2025",,,1.00,67.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 26, 2025",,,1.00,68.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 28, 2025",,,1.00,69.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1015,Late fee,"Flat fee - Applied on May 29, 2025",,,1.00,70.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 24, 2025",,,1.00,71.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 25, 2025",,,1.00,72.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 26, 2025",,,1.00,73.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 27, 2025",,,1.00,74.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 28, 2025",,,1.00,75.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 29, 2025",,,1.00,76.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Apr 30, 2025",,,1.00,77.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 1, 2025",,,1.00,78.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 2, 2025",,,1.00,79.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 3, 2025",,,1.00,80.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 4, 2025",,,1.00,81.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 5, 2025",,,1.00,82.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 6, 2025",,,1.00,83.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 7, 2025",,,1.00,84.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 8, 2025",,,1.00,85.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 9, 2025",,,1.00,86.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 10, 2025",,,1.00,87.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 11, 2025",,,1.00,88.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 12, 2025",,,1.00,89.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 13, 2025",,,1.00,90.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 14, 2025",,,1.00,91.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 15, 2025",,,1.00,92.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 16, 2025",,,1.00,93.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 17, 2025",,,1.00,94.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 18, 2025",,,1.00,95.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 19, 2025",,,1.00,96.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 20, 2025",,,1.00,97.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 21, 2025",,,1.00,98.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 22, 2025",,,1.00,99.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 23, 2025",,,1.00,100.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 24, 2025",,,1.00,101.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 25, 2025",,,1.00,102.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 26, 2025",,,1.00,103.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 28, 2025",,,1.00,104.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 29, 2025",,,1.00,105.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 30, 2025",,,1.00,106.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on May 31, 2025",,,1.00,107.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 1, 2025",,,1.00,108.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 2, 2025",,,1.00,109.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 3, 2025",,,1.00,110.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 4, 2025",,,1.00,111.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 5, 2025",,,1.00,112.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 6, 2025",,,1.00,113.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 7, 2025",,,1.00,114.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1016,Late fee,"Flat fee - Applied on Jun 8, 2025",,,1.00,115.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,Late fee,"Flat fee - Applied on Jun 5, 2025",,,1.00,116.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,Late fee,"Flat fee - Applied on Jun 6, 2025",,,1.00,117.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,Late fee,"Flat fee - Applied on Jun 7, 2025",,,1.00,118.00
+,Zaitullah Jan Khebarkhil,04/20/2025,Invoice,1017,Late fee,"Flat fee - Applied on Jun 8, 2025",,,1.00,119.00
+,Zaitullah Jan Khebarkhil,04/21/2025,Invoice,1012,Late fee,"Flat fee - Applied on Jun 5, 2025",,,1.00,120.00
+,Zaitullah Jan Khebarkhil,04/21/2025,Invoice,1012,Late fee,"Flat fee - Applied on Jun 6, 2025",,,1.00,121.00
+,Zaitullah Jan Khebarkhil,04/21/2025,Invoice,1012,Late fee,"Flat fee - Applied on Jun 7, 2025",,,1.00,122.00
+,Zaitullah Jan Khebarkhil,04/21/2025,Invoice,1012,Late fee,"Flat fee - Applied on Jun 8, 2025",,,1.00,123.00
+Total for Late fee,,,,,,,0.00,,$123.00,
+Cash to Zai,,,,,,,,,,
+,Zaitullah Jan Khebarkhil,06/05/2025,Invoice,1041,Cash to Zai,,1.00,60.00,60.00,60.00
+Total for Cash to Zai,,,,,,,1.00,,$60.00,
+,TOTAL,,,,,,-163.72,,"$8,553.85",
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"Accrual Basis Wednesday, June 11, 2025 09:03 PM GMTZ",,,,,,,,,,

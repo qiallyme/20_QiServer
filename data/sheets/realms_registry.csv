@@ -1,0 +1,10 @@
+realm,realm_slug,enabled,routing_priority,default_sensitivity,description
+QiVault,qivault,true,90,internal,"Knowledge universe. Canonical notes, specs, SOPs, diagrams."
+QiPersonal,qipersonal,true,80,confidential,"Private life universe. Personal docs, journals, home ops."
+QiBusiness,qibusiness,true,85,internal,"Business universe for all ventures + founders docs + brand assets."
+QiClients,qiclients,true,95,client_confidential,"Client universes. Each client is a realm instance under this root."
+QiPlayground,qiplayground,true,60,internal,"Semi-organized sandbox for experiments, random projects, prototypes."
+QiResearch,qiresearch,true,70,internal,"Raw intake + sources + research notes. Keeps QiVault clean."
+Archives,archives,true,10,restricted,"Cold/retired universes. Read-only by default."
+QiPublish,qipublish,false,50,public,"Public release candidates, outbound content, publishing surfaces."
+QiLegal,qilegal,false,75,restricted,"High-stakes legal/immigration universe. Extra access controls."

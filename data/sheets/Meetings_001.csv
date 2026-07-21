@@ -1,0 +1,197 @@
+Record Id,Host.id,Title,From,Location,Contact Name.id,Related To.id,Created By.id,Modified By.id,Created Time,Modified Time,Description,To,Repeat,Reminder,Currency,Exchange Rate,All day,Check-In Time,Check-In By.id,Check-In Comment,Check-In Sub-Locality,Check-In City,Check-In State,Check-In Country,Latitude,Longitude,Zip Code,Check-In Address,Checked In Status,Layout.id,From,To,Tag,User Modified Time,System Related Activity Time,User Related Activity Time,System Modified Time,Participants Reminder,Record Status,BookingId,Booking Summary,UID,Recurrence Id
+zcrm_5861855000002649001,zcrm_5861855000000432001,Amadeo diaz and 30 min meeting,2023-11-06 17:00:00,,zcrm_5861855000000544254,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-06 15:39:33,2024-04-15 15:49:30,,2023-11-06 17:30:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2023-11-06 17:00:00,2023-11-06 17:30:00,,,,,2024-04-15 15:49:30,,Available,SR-00006,https://srvgroup.zohobookings.com/#/customer/4513906000000043067/invoice/fd195952e04ec04a025f0b652ae1ff9c59df9d63dde80d08de52df7dfb84ad3a,5861855000002649001,
+zcrm_5861855000002963003,zcrm_5861855000000432001,AES Alfonso,2023-11-13 09:00:00,Online Meeting( Powered by Zoho Meeting ),zcrm_5861855000000835299,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-12 20:40:13,2023-11-12 20:40:26,,2023-11-13 10:00:00,,2023-11-13 13:45:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2023-11-13 09:00:00,2023-11-13 10:00:00,,,,,2023-11-12 20:40:26,,Available,,,5861855000002963003,
+zcrm_5861855000003189011,zcrm_5861855000000432001,Letter,2023-11-17 13:00:00,Indy Mall,,zcrm_5861855000003184001,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-17 10:30:05,2023-11-17 10:30:33,,2023-11-17 13:30:00,,2023-11-17 17:50:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2023-11-17 13:00:00,2023-11-17 13:30:00,,,,,2023-11-17 10:30:33,,Available,,,5861855000003189011,
+zcrm_5861855000004915001,zcrm_5861855000000432001,SRV Daily Huddle,2023-12-29 10:30:00,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-29 07:39:18,2023-12-29 07:39:18,,2023-12-29 10:55:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2023-12-29 10:30:00,2023-12-29 10:55:00,,,,,,,Available,,,ec0018d7b57047068604075dfd201a8d@zoho.com,
+zcrm_5861855000004966001,zcrm_5861855000000432001,Daily Huddle - BE READY,2023-12-30 12:30:00,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-30 10:47:27,2023-12-30 10:48:05,https://forms.zohopublic.com/SRVGroupco/form/SRVDailyHuddle/formperma/_ALml51XmvxpQojt5S9KhwkU_gAKhgBhLfRl594D3yY,2023-12-30 13:30:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2023-12-30 12:30:00,2023-12-30 13:30:00,,,,,2023-12-30 10:48:05,,Available,,,38a154b439c7490c8a9b502878aec48e@zoho.com,
+zcrm_5861855000005013110,zcrm_5861855000001909384,ISEAL SOLUTION REVIEW,2023-12-31 16:00:00,Srv Indy,zcrm_5861855000005013013,zcrm_5861855000005013091,zcrm_5861855000000432001,zcrm_5861855000001909384,2023-12-31 14:39:16,2023-12-31 17:38:53,,2023-12-31 17:00:00,,2023-12-31 20:45:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2023-12-31 16:00:00,2023-12-31 17:00:00,,2023-12-31 17:38:53,,,,,Available,,,5861855000005013110,
+zcrm_5861855000005032001,zcrm_5861855000000432001,cody and Drive-Time,2024-01-01 11:15:00,Traveing,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-01 11:12:23,2024-01-01 11:12:29,"Customer Info
+Name : cody
+Email : cody@srvgroup.co
+Contact Number : +13173397947
+Signed Policy and MVR Authorization Done? : Yes
+Reason : Office Supply Run
+Booking ID : SRVTM3-0000000007
+
+Service Info
+Service Name : Drive-Time
+Service Description : Rates based on 8 hours ""Day"" each hour is equivalent to $3.62. Work related miles that are submitted correctly and approved will not be added as taxable benefits.",2024-01-01 12:25:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-01 11:15:00,2024-01-01 12:25:00,,,,,2024-01-01 11:12:29,,Available,,,61d343c4bfe74dfe8dfb2b512c50c5e9@zoho.com,
+zcrm_5861855000005034001,zcrm_5861855000000432001,cody and Drive-Time,2024-01-01 11:15:00,Traveing,zcrm_5861855000000455002,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-01 11:12:31,2024-01-31 06:05:12,"Customer Additional Info
+Signed Policy and MVR Authorization Done? : Yes
+Reason : Office Supply Run",2024-01-01 12:25:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-01 11:15:00,2024-01-01 12:25:00,,,,,2024-01-31 06:05:12,,Available,SRVTM3-0000000007,https://srvgroup.zohobookings.com/#/customer/4513906000000305820/invoice/4c8e5e333a48b9c926efdea530c56ebb69c2b986e7edc1c8f24ac713a6fd277c,5861855000005034001,
+zcrm_5861855000005193001,zcrm_5861855000000432001,Milton Gutierrez and 30 min meeting,2024-01-05 16:00:00,,zcrm_5861855000000545249,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-04 16:47:34,2024-01-04 16:47:34,"Notes
+Preparación de I589 tarda entre 1-2 horas. Costo es $300.00",2024-01-05 16:30:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-05 16:00:00,2024-01-05 16:30:00,,,,,,,Available,SR-00008,https://srvgroup.zohobookings.com/#/customer/4513906000000043067/invoice/c40d8a9923b1bd159409ec1f4ec2b1edec2ac68c8912a63eab9dea0c9daa36d8,5861855000005193001,
+zcrm_5861855000005204001,zcrm_5861855000000432001,Carlos and Drive-Time,2024-01-04 18:45:00,Travel,zcrm_5861855000005203001,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-04 18:45:35,2024-01-04 18:45:35,"Customer Additional Info
+Signed Policy and MVR Authorization Done? : No
+Reason : Other (NOT-Personal)",2024-01-04 19:55:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-04 18:45:00,2024-01-04 19:55:00,,,,,,,Available,SRVTM3-0000000009,https://srvgroup.zohobookings.com/#/customer/4513906000000305820/invoice/1e626bbed575ba0b5a1be1d7f68b5d770fcb25823713455b8d601f183ffe49a1,5861855000005204001,
+zcrm_5861855000005471001,zcrm_5861855000001909384,Daniela Garcia Gonzalez,2024-01-13 14:00:00,"INDY BACK OFFICE, Booth 730, OFFICE INDY AT IDM, INDY OFFICES",,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-11 15:22:23,2024-01-11 15:22:23,"EIN: 37-200-2452
+Wants to file taxes for this year. She also added that the years 2022 - 2023\, began the process but DIDN'T submit.",2024-01-13 15:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-13 14:00:00,2024-01-13 15:00:00,,,,,,,Available,,,748ddd4478964ea7841d73fac35686d9@zoho.com,
+zcrm_5861855000005503001,zcrm_5861855000000600001,ALONSO MUNOZ MENDEZ and ITIN,2024-01-12 17:00:00,"Indy-Indiana Discount Mall Isle 7 Local 730
+3585 Commercial Drive
+Indianapolis, IN 46222",zcrm_5861855000000854162,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-11 20:30:32,2024-01-11 20:30:32,,2024-01-12 19:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-12 17:00:00,2024-01-12 19:00:00,,,,,,,Available,SR-00010,https://srvgroup.zohobookings.com/#/customer/4513906000000150016/invoice/ca5a961fd040c8ee1b0648620018002b8e80aa5ea268b3b44f96ede7fac23955,5861855000005503001,
+zcrm_5861855000005506001,zcrm_5861855000001909384,ITIN - ALONSO MUNOZ MENDEZ,2024-01-12 17:00:00,"Indy-Indiana Discount Mall Isle 7 Local 7303585 Commercial DriveIndianapolis, IN 46222",,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-11 20:34:15,2024-01-11 20:34:15,"Appointment Summary : 
+
+Booking ID : SR-00010
+Booking Summary URL : https://srvgroup.zohobookings.com/#/srvgroupco/invoice/ca5a961fd040c8ee1b0648620018002b8e80aa5ea268b3b44f96ede7fac23955
+
+Service Info : EL SENOR MUNOZ TIENE INTERES EN TRAMITAR SI EIN Y POSIBLEMENTE LAS PLACAS PARA SU CARRO. 
+
+Service Name : EIN",2024-01-12 18:30:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-12 17:00:00,2024-01-12 18:30:00,,,,,,,Available,,,SR-00010,
+zcrm_5861855000006015001,zcrm_5861855000000432001,Delfina Sanchez and Tax Impuestos Negocio LLC,2024-01-24 11:05:00,"Indy-Indiana Discount Mall Isle 7 Local 730
+3585 Commercial Drive
+Indianapolis, IN 46222",zcrm_5861855000000835114,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 22:12:18,2024-01-24 10:27:34,"Customer Additional Info
+Purpose : Business Tax returns",2024-01-24 12:25:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-24 11:05:00,2024-01-24 12:25:00,,,,,2024-01-24 10:27:34,,Available,SR-00011,https://srvgroup.zohobookings.com/#/customer/4513906000000342242/invoice/7a0d7c7c9251d5ada760102d3e15fbb2fadbd64df1193c851ecba9cb3e005eed,5861855000006015001,
+zcrm_5861855000006056001,zcrm_5861855000000432001,"CRM Training - Intake, Tax Module, Wizards Etc.",2024-01-23 22:00:00,https://meeting.zoho.com/meeting/meeting-start?key=1042163282&amp;email=cody@srvgroup.co&amp;x-meeting-org=828588460,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-23 10:11:54,2024-01-23 10:12:07,"Start Link : 
+
+https://meeting.zoho.com/meeting/meeting-start?key=1042163282&email=cody%40srvgroup.co&x-meeting-org=828588460
+ 
+Note : This link is unique to you, it should not be shared with others.
+
+
+Once you start the meeting, you can choose either your computer audio (VoIP) or your phone for audio transmission.
+
+
+If you select the phone option, the dial-in number, access code and PIN will be displayed on your screen.",2024-01-24 00:30:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-01-23 22:00:00,2024-01-24 00:30:00,,,,,2024-01-23 10:12:07,,Available,,,4162937000000090003,
+zcrm_5861855000006777001,zcrm_5861855000000600001,Clemente and Tax Impuestos Individual,2024-02-03 13:50:00,"Indy-Indiana Discount Mall Isle 7 Local 730
+3585 Commercial Drive
+Indianapolis, IN 46222",zcrm_5861855000006776001,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 13:33:18,2024-02-03 13:33:18,"Notes
+Es para lo del tramite de matrimonial",2024-02-03 14:35:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-02-03 13:50:00,2024-02-03 14:35:00,,,,,,,Available,SR-00012,https://srvgroup.zohobookings.com/#/customer/4513906000000342016/invoice/e2eaa2159b7dc405938cad04a753af5ee3b3700903fb573566fa0529fc14bb5c,5861855000006777001,
+zcrm_5861855000007152001,zcrm_5861855000000432001,Appointment for mr english,2024-02-17 11:00:00,,,,zcrm_5861855000000600001,zcrm_5861855000000432001,2024-02-10 18:16:35,2024-02-10 20:58:50,Unknown appt reason.,2024-02-17 11:59:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-02-17 11:00:00,2024-02-17 11:59:00,,2024-02-10 20:58:37,,,2024-02-10 20:58:50,,Available,,,5861855000007152001,
+zcrm_5861855000007188001,zcrm_5861855000004627001,delfina sanchez and Tax Impuestos Negocio LLC,2024-02-11 14:05:00,"Indy-Indiana Discount Mall Isle 7 Local 730
+3585 Commercial Drive
+Indianapolis, IN 46222",zcrm_5861855000000835114,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-11 01:16:36,2024-02-11 01:16:36,"Customer Additional Info
+Purpose : LLC and individual taxes 2023",2024-02-11 15:25:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-02-11 14:05:00,2024-02-11 15:25:00,,,,,,,Available,SR-00013,https://srvgroup.zohobookings.com/#/customer/4513906000000342242/invoice/f03765fe459629a0146ba2645ac430aaa1e9653db0d37ec11cde5894afb02296,5861855000007188001,
+zcrm_5861855000007246003,zcrm_5861855000000432001,Meeting Kondor,2024-02-12 15:00:00,Discount Mall,zcrm_5861855000000546334,zcrm_5861855000003323014,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 12:36:42,2024-06-30 21:33:05,,2024-02-12 16:30:00,,2024-02-12 19:30:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-02-12 15:00:00,2024-02-12 16:30:00,,,,,2024-06-30 21:33:05,,Available,,,5861855000007246003,
+zcrm_5861855000007412001,zcrm_5861855000000432001,Taxes,2024-02-17 13:00:00,Indy,zcrm_5861855000000854620,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-15 06:25:30,2024-02-15 06:25:30,,2024-02-17 13:30:00,,2024-02-17 17:00:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-02-17 13:00:00,2024-02-17 13:30:00,,,,,,,Available,,,5861855000007412001,
+zcrm_5861855000007731001,zcrm_5861855000000432001,Cody Rice-Velasquez and Dejan Gjurchinovski - V2 Cloud,2024-02-21 15:00:00,https://us02web.zoom.us/j/89913772802,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-21 04:34:15,2024-02-21 15:07:40,"Event Name: Onboarding with V2 Cloud
+
+Welcome to your free onboarding!
+
+
+We will do your setup together until you are all up and running.
+
+
+We look forward to talking with you!
+
+The Customer Success Team
+
+Location: This is a Zoom web conference.
+
+You can join this meeting from your computer, tablet, or smartphone.
+https://us02web.zoom.us/j/89913772802
+
+One tap mobile:
++1 204 272 7920,,89913772802#
++1 438 809 7799,,89913772802#
+
+You can also dial in using your phone.
+CA: +1 204 272 7920, +1 438 809 7799, +1 587 328 1099, +1 647 374 4685, +1 647 558 0588, +1 778 907 2071, +1 780 666 0144
+Meeting ID: 899-137-72802
+
+Additional Dial-In Numbers:
+US: +1 646 931 3860, +1 929 205 6099, +1 301 715 8592, +1 305 224 1968, +1 309 205 3325, +1 312 626 6799, +1 386 347 5053, +1 507 473 4847, +1 564 217 2000, +1 669 444 9171, +1 669 900 6833, +16892781000, +1 719 359 4580, +1 253 205 0468, +1 253 215 8782, +1 346 248 7799, +1 360 209 5623
+
+Find your local number: https://us02web.zoom.us/u/kdYKgOp2om
+
+Need to make changes to this event?
+Cancel: https://calendly.com/cancellations/607bddfc-f5c2-40a3-9972-c820b3d37829
+Reschedule: https://calendly.com/reschedulings/607bddfc-f5c2-40a3-9972-c820b3d37829",2024-02-21 16:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-02-21 15:00:00,2024-02-21 16:00:00,,,,,2024-02-21 15:07:40,,Available,,,01se6i53d6j83tv721rdflhpj4@google.com,
+zcrm_5861855000008364007,zcrm_5861855000004627001,tax,2024-03-02 16:30:00,oficina,,,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-02 16:00:12,2024-03-02 16:50:14,,2024-03-02 17:30:00,,2024-03-02 21:15:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-03-02 16:30:00,2024-03-02 17:30:00,,2024-03-02 16:50:14,,,,,Available,,,5861855000008364007,
+zcrm_5861855000008404024,zcrm_5861855000000432001,Nuevo Reunión,2024-03-02 16:00:00,OFICINA,,,zcrm_5861855000004627001,zcrm_5861855000000432001,2024-03-02 13:39:38,2024-03-02 13:59:40,TAXES,2024-03-02 17:00:00,,2024-03-02 20:55:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-03-02 16:00:00,2024-03-02 17:00:00,,2024-03-02 13:59:40,,,,"[{""period"":""minutes"",""unit"":""5"",""remind"":""before""}]",Available,,,5861855000008404024,
+zcrm_5861855000008404073,zcrm_5861855000004627001,TAXES,2024-03-02 14:30:00,OOFICINA,,,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-02 14:15:34,2024-03-02 14:15:34,,2024-03-02 15:00:00,,2024-03-02 19:15:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-03-02 14:30:00,2024-03-02 15:00:00,,,,,,,Available,,,5861855000008404073,
+zcrm_5861855000008404139,zcrm_5861855000004627001,tax,2024-03-04 15:00:00,oficina,,,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-03 19:03:48,2024-03-03 19:03:48,,2024-03-04 16:00:00,,2024-03-04 19:45:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-03-04 15:00:00,2024-03-04 16:00:00,,,,,,,Available,,,5861855000008404139,
+zcrm_5861855000009325001,zcrm_5861855000008366001,Delia Diaz - Tax Service 2024 - Basic Serv.,2024-03-18 15:00:00,Indy Office,zcrm_5861855000009338001,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 14:22:35,2024-03-18 15:16:38,"<div>Delia Elizabeth Diaz Diaz<br></div><div>Service: Tax Service 2024 - Impuestos Basico<br></div><div>Email: <a target=""_blank"" href=""mailto:deliaelizabethdiaz@outlook.com"">deliaelizabethdiaz@outlook.com</a><br></div><div>Phone: 317-373-3942<br></div><div>Note: All documents client sent are in CRM contact&nbsp;</div><div><br></div>",2024-03-18 16:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-03-18 15:00:00,2024-03-18 16:00:00,arrived,2024-03-18 15:16:38,,,2024-03-16 20:06:29,,Available,,,7b1779526c364a18bbc5e23a41bfb574@zoho.com,
+zcrm_5861855000009331001,zcrm_5861855000008366001,Victor Herrera - Tax Service 2024 - Basico,2024-03-18 16:00:00,Indy Office,zcrm_5861855000009338095,,zcrm_5861855000000432001,zcrm_5861855000008366001,2024-03-16 14:28:58,2024-03-18 04:42:19,<div>Name: PENDING<br></div><div>Service:&nbsp; Tax Service 2024 - PENDING<br></div><div>Email: PENDING<br></div><div>Phone: PENDING<br></div><div>Notes: Client Delia Diaz reserved appointment slot for a friend that will be filing his taxes with us the same day after her. Informed client to send information and W2 of the person. Will add to CRM once I received.&nbsp;</div>,2024-03-18 17:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-03-18 16:00:00,2024-03-18 17:00:00,,2024-03-18 04:42:19,,,2024-03-16 20:06:07,,Available,,,1efef1ffddc8402e97eb881175ed0acd@zoho.com,
+zcrm_5861855000009455058,zcrm_5861855000000432001,Ravil Finish Taxes,2024-03-18 17:00:00,Indy,zcrm_5861855000000547798,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 15:35:24,2024-03-18 15:35:24,finish return,2024-03-18 18:00:00,,2024-03-18 20:45:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-03-18 17:00:00,2024-03-18 18:00:00,,,,,,,Available,,,5861855000009455058,
+zcrm_5861855000009959001,zcrm_5861855000004627001,Tax bisnes,2024-03-28 18:00:00,Oficina,zcrm_5861855000000835089,zcrm_5861855000000540491,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-21 18:38:04,2024-03-21 18:38:04,tax,2024-03-28 19:30:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-03-28 18:00:00,2024-03-28 19:30:00,,,,,,,Available,,,5861855000009959001,
+zcrm_5861855000010108121,zcrm_5861855000008366001,Luis Mario Pedro - Tax 2024 Basic,2024-03-30 14:00:00,Indy Office,zcrm_5861855000010108002,zcrm_5861855000010108021,zcrm_5861855000008366001,zcrm_5861855000008366001,2024-03-23 18:40:20,2024-03-23 18:52:11,"Client brought passport, W2 and ITIN. Paid in cash. Scheduled for meeting next saturday.",2024-03-30 15:00:00,,2024-03-30 17:30:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-03-30 14:00:00,2024-03-30 15:00:00,,2024-03-23 18:52:11,,,,"[{""period"":""days"",""unit"":""1"",""remind"":""before""}]",Available,,,5861855000010108121,
+zcrm_5861855000010773002,zcrm_5861855000000432001,CHUBBY BUNNY and Consulta,2024-04-01 13:15:00,,zcrm_5861855000009255001,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-02 08:24:01,2024-04-02 08:24:01,,2024-04-01 13:45:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-04-01 13:15:00,2024-04-01 13:45:00,,,,,,,Available,SR-00019,https://srvgroup.zohobookings.com/#/customer/4513906000000547046/invoice/f36c4f23f58e8aea43a48ccecd55c837fcdd15e9ceece7066b205d5262d70a0e,5861855000010773002,
+zcrm_5861855000010870001,zcrm_5861855000000432001,Arleth Job Request,2024-04-02 15:00:00,Online Meeting( Powered by Zoho Meeting ),,zcrm_5861855000016243022,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-02 18:26:45,2024-09-10 15:27:06,Discuss work order (PO),2024-04-02 19:00:00,,2024-04-02 18:45:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-04-02 15:00:00,2024-04-02 19:00:00,"Vendor,Bookkeeping,Accounting,arrived",2024-04-02 18:28:02,,2024-04-02 18:28:26,2024-09-10 15:27:06,"[{""period"":""minutes"",""unit"":""0"",""remind"":""before""}]",Available,,,5861855000010870001,
+zcrm_5861855000012637016,zcrm_5861855000000432001,Nazar with Nazar,2024-04-26 14:00:00,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-26 06:07:47,2024-04-26 06:07:47,,2024-04-26 15:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-04-26 14:00:00,2024-04-26 15:00:00,,,,,,,Available,,,C0EFDFAA-45EC-4856-960B-4EEB09C10112,
+zcrm_5861855000014979001,zcrm_5861855000000432001,LIBERTY CONSOLIDATION LOAN CALL,2024-06-21 09:30:00,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-21 06:53:51,2024-06-21 06:53:51,,2024-06-21 10:00:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-06-21 09:30:00,2024-06-21 10:00:00,,,,,,,Available,,,e06302d1793b4a15bba9e79a5a270bf9@google.com,
+zcrm_5861855000015092001,zcrm_5861855000000432001,Meeting with Cody at SRV1ne,2024-06-25 18:36:00,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-25 18:32:34,2024-06-25 18:32:34,"Topic : Meeting with Cody at SRV1ne 
+Presenter : cody@srv1ne.com 
+Meeting Key : 1064565866 
+ 
+Description : Meeting Agenda
+1. **Introduction (2 minutes)**
+   - Greet the client and briefly outline the meeting purpose.
+2. **Client Information Update (5 minutes)**
+   - Confirm full name, address, marital status, and ITIN number.
+3. **Income Details (10 minutes)**
+   - Discuss sources of income.
+   - Ensure all necessary documentation (W-2, 1099, etc.) is received.
+4. **Deductions and Credits (10 minutes)**
+   - Identify deductible expenses.
+   - Discuss eligibility for any tax credits.
+5. **Special Situations (5 minutes)**
+   - Review any significant events during the year.
+   - Address any pending IRS issues.
+6. **ITIN Renewal (5 minutes)**
+   - Confirm required documentation for ITIN renewal.
+   - Note the expiration date of the current ITIN.
+7. **Q&A and Additional Notes (3 minutes)**
+   - Answer any client questions.
+   - Take note of any additional details or comments.
+8. **Conclusion (2 minutes)**
+   - Summarize the key points discussed.
+   - Outline the next steps and follow-up actions.
+Total Time: 40 minutes
+This agenda will help keep the meeting focused and ensure that all important topics are covered. 
+ 
+Participant : luisemunoz97@gmail.com 
+ 
+To Start the meeting : 
+https://meeting.zoho.com/meeting/meeting-start?key=1064565866&email=cody@srv1ne.com",2024-06-25 19:21:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-06-25 18:36:00,2024-06-25 19:21:00,,,,,,,Available,,,9titu5vc0aqkb9vmf9b10f1rak@google.com,
+zcrm_5861855000015095001,zcrm_5861855000000432001,Meeting with Cody at SRV1ne,2024-06-25 18:36:00,https://meeting.zoho.com/meeting/meeting-start?key=1064565866&amp;email=cody@srv1ne.com&amp;x-meeting-org=828588460,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-25 18:32:37,2024-06-25 18:32:45,"Meeting Agenda
+1. **Introduction (2 minutes)**
+   - Greet the client and briefly outline the meeting purpose.
+2. **Client Information Update (5 minutes)**
+   - Confirm full name, address, marital status, and ITIN number.
+3. **Income Details (10 minutes)**
+   - Discuss sources of income.
+   - Ensure all necessary documentation (W-2, 1099, etc.) is received.
+4. **Deductions and Credits (10 minutes)**
+   - Identify deductible expenses.
+   - Discuss eligibility for any tax credits.
+5. **Special Situations (5 minutes)**
+   - Review any significant events during the year.
+   - Address any pending IRS issues.
+6. **ITIN Renewal (5 minutes)**
+   - Confirm required documentation for ITIN renewal.
+   - Note the expiration date of the current ITIN.
+7. **Q&A and Additional Notes (3 minutes)**
+   - Answer any client questions.
+   - Take note of any additional details or comments.
+8. **Conclusion (2 minutes)**
+   - Summarize the key points discussed.
+   - Outline the next steps and follow-up actions.
+Total Time: 40 minutes
+This agenda will help keep the meeting focused and ensure that all important topics are covered.
+ 
+
+Start Link : 
+
+https://meeting.zoho.com/meeting/meeting-start?key=1064565866&email=cody%40srv1ne.com&x-meeting-org=828588460
+ 
+Note : This link is unique to you, it should not be shared with others.
+
+
+Once you start the meeting, you can choose either your computer audio (VoIP) or your phone for audio transmission.
+
+
+If you select the phone option, the dial-in number, access code and PIN will be displayed on your screen.",2024-06-25 19:21:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-06-25 18:36:00,2024-06-25 19:21:00,,,,,2024-06-25 18:32:45,,Available,,,4162937000000147009,
+zcrm_5861855000016493002,zcrm_5861855000000432001,Zai - Doordash Payment Missing,2024-09-16 14:00:00,Online Meeting ( Powered by Zoho Meeting ),zcrm_5861855000011834014,zcrm_5861855000011982021,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-09-13 17:07:27,2024-09-13 17:07:27,Call doordash for pay.,2024-09-16 15:00:00,,2024-09-16 18:00:00.0,USD,1.000000000,false,,,,,,,,,,,,PLANNED,,2024-09-16 14:00:00,2024-09-16 15:00:00,,,,,,"[{""period"":""minutes"",""unit"":""0"",""remind"":""before""}]",Available,,,5861855000016493002,
+zcrm_5861855000016718001,zcrm_5861855000000432001,Magic for Business with cody,2024-10-04 14:45:00,https://meet.google.com/nrd-hpkj-ifx,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-10-04 04:02:08,2024-10-04 04:02:08,"<p>Hi cody- we'll be talking about the following:</p><p></p><p>- Areas of your business that could use the most support from us</p><p>- Type of tasks (recurring and/or general) that you would like to delegate</p><p>- What (if any) experience/expertise your EA would benefit from having (to best support you)</p><p>- Timeline for hire</p><p></p>
+Join link for Google Meet : https://meet.google.com/nrd-hpkj-ifx
+<br><b>Need to make changes?</b><br><ul><li>Reschedule:&nbsp;<a href=""https://app.hubspot.com/meetings/alex-wilson/round-robin?rescheduleId=0541a81fa3e0cfeaed52673edbf2f2bd&ms=1"">https://app.hubspot.com/meetings/alex-wilson/round-robin?rescheduleId=0541a81fa3e0cfeaed52673edbf2f2bd&ms=1</a></li><li>Cancel:&nbsp;<a href=""https://app.hubspot.com/meetings/alex-wilson/round-robin?cancelId=0541a81fa3e0cfeaed52673edbf2f2bd&ms=1"">https://app.hubspot.com/meetings/alex-wilson/round-robin?cancelId=0541a81fa3e0cfeaed52673edbf2f2bd&ms=1</a></li></ul>
+
+Phone number: 3173397947
+
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+Join with Google Meet: https://meet.google.com/nrd-hpkj-ifx
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+
+Please do not edit this section.
+-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",2024-10-04 15:15:00,,,USD,1.000000000,false,,,,,,,,,,,,PLANNED,zcrm_5861855000000091057,2024-10-04 14:45:00,2024-10-04 15:15:00,,,,,,,Available,,,p6k3bvc65kq8pn73gnkfubei14@google.com,

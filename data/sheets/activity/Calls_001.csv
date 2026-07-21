@@ -1,0 +1,1288 @@
+Record Id,Call Owner.id,Subject,Call Type,Call Purpose,Contact Name.id,Related To.id,Call Start Time,Call Duration,Call Duration (in seconds),Description,Call Result,Created By.id,Modified By.id,Created Time,Modified Time,Reminder,Layout.id,Tag,ClickToCall,User Modified Time,System Related Activity Time,User Related Activity Time,System Modified Time,Outgoing Call Status,Scheduled in CRM,Call Agenda,Caller ID,Dialled Number,Customer Number,Voice Recording,Record Status
+zcrm_5861855000000601009,zcrm_5861855000000432001,Outgoing call to CODY RICE-VELASQUEZ (+13173397947),Outbound,Demo,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-18 13:51:21,00:00,0,Was a test.,Not interested,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-18 13:51:54,2024-04-02 16:37:12,,zcrm_5861855000000091005,,false,2024-04-02 16:37:12,,,,Completed,False,Testing,+18333463446,,+13173397947,,Available
+zcrm_5861855000000602001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000544171,,2023-09-18 13:51:21,00:00,0,"Source number	-	+1 8333463446 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	00:00 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-18 13:52:06,2023-09-18 13:52:06,,zcrm_5861855000000091005,,false,,2023-09-18 13:52:27,,,Completed,False,,,,,,Available
+zcrm_5861855000000659001,zcrm_5861855000000432001,Call Plate Ready for Pickup and Add Costs,Outbound,Administrative,zcrm_5861855000000854656,,2023-09-21 14:00:00,02:00,120,Claudia called and advised on costs and client did not seem upset.,Interested,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-21 15:22:26,2024-01-13 13:59:23,,zcrm_5861855000000091005,,false,,,,2024-01-13 13:59:23,Completed,False,,,,,,Available
+zcrm_5861855000000678002,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-21 19:23:09,00:10,10,"Source number	-	+1 8333463446 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	00:10 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695338589_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-21 19:24:16,2023-09-21 19:24:16,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695338589_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000000679001,zcrm_5861855000000432001,Outgoing call to CODY RICE-VELASQUEZ (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-21 19:23:09,00:10,10,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-21 19:23:53,2023-09-21 19:31:45,,zcrm_5861855000000091005,,false,,,,2023-09-21 19:31:45,Completed,False,,+18333463446,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695338589_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000000772001,zcrm_5861855000000432001,Incoming call from CODY RICE-VELASQUEZ (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-23 12:52:12,00:07,7,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-23 12:53:21,2023-09-23 13:00:19,,zcrm_5861855000000091005,,false,,,,2023-09-23 13:00:19,,,,,+18332036789,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695487965_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000000773001,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-23 12:52:12,01:02,62,"Source number	-	+1 3173397947 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	01:02 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695487965_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-23 12:53:40,2023-09-23 12:53:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695487965_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000000782002,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-23 13:38:26,01:51,111,"Source number	-	+1 3173397947 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	01:51 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695490762_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-23 13:40:40,2023-09-23 13:40:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695490762_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000000783001,zcrm_5861855000000432001,Incoming call from CODY RICE-VELASQUEZ (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-09-23 13:38:26,00:22,22,Test,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-23 13:40:11,2023-09-23 13:41:01,,zcrm_5861855000000091005,,false,,,,2023-09-23 13:41:01,,,,,+18332036789,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1695490762_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000000943001,zcrm_5861855000000432001,Outgoing call to 101,Outbound,,,,2023-09-28 19:35:45,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-28 19:35:46,2023-09-28 19:35:46,,zcrm_5861855000000091005,,false,,,,,Completed,False,,100,,101,,Available
+zcrm_5861855000000951001,zcrm_5861855000000432001,Outgoing call to 101,Outbound,,,,2023-09-28 20:20:17,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-28 20:20:21,2023-09-28 20:20:21,,zcrm_5861855000000091005,,false,,,,,Completed,False,,100,,101,,Available
+zcrm_5861855000001085001,zcrm_5861855000000432001,Incoming call from Luis Alvarenga Garcia (+3177376277),Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-02 13:55:46,02:09,129,"CALLED TO INQUIRE ON EMAIL, SENT EMAIL TO CLIENT, AND QUESTIONS ON INVOICE, ADVISED I WOULD DOUBLE CHECK THE PRICE LIKE WE DISCUSSED.",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-02 13:59:17,2023-10-02 14:07:59,,zcrm_5861855000000091005,,false,,,,2023-10-02 14:07:59,,,,,+18332036789,+3177376277,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=3177376277_1696269395_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000001086001,zcrm_5861855000000432001,Incoming call from +1 3177376277,Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-02 13:55:46,03:29,209,"Source number	-	+1 3177376277 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	03:29 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=3177376277_1696269395_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-02 13:59:26,2023-10-02 13:59:26,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=3177376277_1696269395_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000001319006,zcrm_5861855000000561002,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000001081004,zcrm_5861855000003831009,2023-10-09 15:01:47,02:44,164,"Source number	-	+1 3173397947 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	02:44 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=3173397947_1696878157_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-09 15:04:45,2024-07-01 08:25:10,,zcrm_5861855000000091005,,false,,,,2024-07-01 08:25:10,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=3173397947_1696878157_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000001321001,zcrm_5861855000000561002,Incoming call from CODY RICE-VELASQUEZ (+3173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-10-09 15:01:47,01:15,75,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-10-09 15:04:31,2023-10-09 15:27:59,,zcrm_5861855000000091005,,false,,,,2023-10-09 15:27:59,,,,,+18332036789,+3173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=3173397947_1696878157_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000001852018,zcrm_5861855000000561002,Incoming call from Luis Alvarenga Garcia (+13177376277),Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-22 15:03:14,01:09,69,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-10-22 15:07:22,2023-10-22 15:07:56,,zcrm_5861855000000091005,,false,,,,2023-10-22 15:07:56,,,,,+18332036789,+13177376277,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698001444_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000001876004,zcrm_5861855000000561002,Incoming call from Luis Alvarenga Garcia (+13177376277),Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-22 15:55:57,01:33,93,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-10-22 15:58:44,2023-10-22 16:00:40,,zcrm_5861855000000091005,,false,,,,2023-10-22 16:00:40,,,,,+18332036789,+13177376277,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698004607_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000001893001,zcrm_5861855000000561002,Incoming call from +1 3177376277,Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-22 15:03:14,04:05,245,"Source number	-	+1 3177376277 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	04:05 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698001444_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-22 15:07:24,2023-10-22 15:07:24,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698001444_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000001894001,zcrm_5861855000000561002,Incoming call from +1 3177376277,Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-22 15:55:57,02:44,164,"Source number	-	+1 3177376277 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	02:44 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698004607_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-22 15:58:54,2023-10-22 15:58:54,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698004607_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000001894006,zcrm_5861855000000561002,Incoming call from +1 7657019950,Inbound,,zcrm_5861855000000854261,,2023-10-23 16:46:31,03:39,219,"Source number	-	+1 7657019950 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	03:39 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17657019950_1698094041_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-23 16:50:24,2023-10-23 16:50:24,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17657019950_1698094041_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000001917003,zcrm_5861855000000561002,"Incoming call from Mejia Aguiluz, Belkis A (+17657019950)",Inbound,,zcrm_5861855000000854261,,2023-10-23 16:46:31,02:14,134,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-10-23 16:50:07,2023-10-23 17:00:07,,zcrm_5861855000000091005,,false,,,,2023-10-23 17:00:07,,,,,+18332036789,+17657019950,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17657019950_1698094041_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000002076001,zcrm_5861855000000432001,Outgoing call to +1 3176527124,Outbound,,,,2023-10-26 16:01:56,00:00,0,"Source number	-	+1 8332036789 
+Destination number	-	+1 3176527124 
+Call type	-	Outbound 
+Duration	-	00:00 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-26 16:02:48,2023-10-26 16:02:48,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,,Available
+zcrm_5861855000002198006,zcrm_5861855000000561002,Incoming call from +1 3177376277,Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-28 13:45:04,03:08,188,"Source number	-	+1 3177376277 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	03:08 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698515154_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-28 13:48:48,2023-10-28 13:48:48,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698515154_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000002203003,zcrm_5861855000000561002,Incoming call from Luis Alvarenga Garcia (+13177376277),Inbound,,zcrm_5861855000000545610,zcrm_5861855000000540479,2023-10-28 13:45:04,01:46,106,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-10-28 13:48:15,2023-10-28 13:49:03,,zcrm_5861855000000091005,,false,,,,2023-10-28 13:49:03,,,,,+18332036789,+13177376277,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177376277_1698515154_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000002520001,zcrm_5861855000000561002,Incoming call from +14252403319,Inbound,,,,2023-11-02 15:33:28,01:55,115,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-11-02 15:36:08,2023-11-02 15:40:40,,zcrm_5861855000000091005,,false,,,,2023-11-02 15:40:40,,,,,+18332036789,+14252403319,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698953631_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000002521001,zcrm_5861855000000561002,Incoming call from +1 4252403319,Inbound,,,,2023-11-02 15:33:28,02:55,175,"Source number	-	+1 4252403319 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	02:55 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698953631_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-02 15:36:29,2023-11-02 15:36:29,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698953631_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000002521007,zcrm_5861855000000561002,Incoming call from +1 4252403319,Inbound,,,,2023-11-02 16:43:32,05:10,310,"Source number	-	+1 4252403319 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	05:10 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698957835_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-02 16:49:00,2023-11-02 16:49:00,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698957835_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000002522001,zcrm_5861855000000561002,Outgoing call to +14252403319,Outbound,,,,2023-11-02 15:36:22,00:00,0,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-11-02 15:36:41,2023-11-02 15:36:41,,zcrm_5861855000000091005,,false,,,,,Completed,False,,+18332036789,,+14252403319,,Available
+zcrm_5861855000002524001,zcrm_5861855000000561002,Incoming call from +14252403319,Inbound,,,,2023-11-02 15:36:32,04:12,252,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-11-02 15:41:32,2023-11-02 15:46:30,,zcrm_5861855000000091005,,false,,,,2023-11-02 15:46:30,,,,,+18332036789,+14252403319,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698953815_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000002525001,zcrm_5861855000000561002,Incoming call from +1 4252403319,Inbound,,,,2023-11-02 15:36:32,04:55,295,"Source number	-	+1 4252403319 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	04:55 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698953815_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-02 15:41:59,2023-11-02 15:41:59,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698953815_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000002525006,zcrm_5861855000000561002,Incoming call from +1 4252403319,Inbound,,,,2023-11-02 19:06:49,05:32,332,"Source number	-	+1 4252403319 
+Destination number	-	+1 8332036789 
+Call type	-	Inbound 
+Duration	-	05:32 
+Handled by	-	claudia@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698966431_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-02 19:12:35,2023-11-02 19:12:35,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698966431_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000002530001,zcrm_5861855000000561002,Incoming call from +14252403319,Inbound,,,,2023-11-02 16:43:32,01:55,115,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-11-02 16:48:46,2023-11-02 16:52:46,,zcrm_5861855000000091005,,false,,,,2023-11-02 16:52:46,,,,,+18332036789,+14252403319,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698957835_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000002532001,zcrm_5861855000000561002,Incoming call from +14252403319,Inbound,,,,2023-11-02 19:06:49,04:51,291,,,zcrm_5861855000000561002,zcrm_5861855000000561002,2023-11-02 19:12:24,2023-11-02 19:13:57,,zcrm_5861855000000091005,,false,,,,2023-11-02 19:13:57,,,,,+18332036789,+14252403319,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14252403319_1698966431_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000002561004,zcrm_5861855000000432001,Outgoing call to Trevor Babauta (+13174749013),Outbound,,zcrm_5861855000000544199,,2023-11-05 15:21:42,00:08,8,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-05 15:22:23,2023-11-05 15:23:52,,zcrm_5861855000000091005,,false,,,,2023-11-05 15:23:52,Completed,False,,+18332036789,,+13174749013,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174749013_1699215702_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000002607001,zcrm_5861855000000432001,Outgoing call to +1 3174749013,Outbound,,zcrm_5861855000000544199,,2023-11-05 15:21:42,00:08,8,"Source number	-	+1 8332036789 
+Destination number	-	+1 3174749013 
+Call type	-	Outbound 
+Duration	-	00:08 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174749013_1699215702_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-05 15:22:46,2023-11-09 09:27:01,,zcrm_5861855000000091005,,false,,,,2023-11-09 09:27:01,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174749013_1699215702_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000002607006,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,,2023-11-05 15:28:44,00:19,19,"Source number	-	+1 8332036789 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	00:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1699216124_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-05 15:29:46,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1699216124_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000002608001,zcrm_5861855000000432001,Outgoing call to CODY RICE-VELASQUEZ (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-11-05 15:28:44,00:19,19,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-05 15:29:38,2023-11-05 15:31:06,,zcrm_5861855000000091005,,false,,,,2023-11-05 15:31:06,Completed,False,,+18332036789,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1699216124_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000002914003,zcrm_5861855000000432001,Outgoing call to 101,Outbound,,,,2023-11-12 07:21:47,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-12 07:21:49,2023-11-12 07:21:49,,zcrm_5861855000000091005,,false,,,,,Completed,False,,100,,101,,Available
+zcrm_5861855000003188011,zcrm_5861855000000432001,Outgoing call to Gabby Torres,Outbound,Project,zcrm_5861855000001338001,zcrm_5861855000003184001,2023-11-17 10:30:09,00:00,0,,Interested,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-17 10:30:27,2023-11-17 10:30:27,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,,Available
+zcrm_5861855000003815001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-12-02 15:49:21,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-02 15:49:36,2023-12-02 15:49:36,,zcrm_5861855000000091005,,false,,,,,Completed,False,,+18332036789,,+13173397947,,Available
+zcrm_5861855000003816001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,,2023-12-02 15:49:21,00:00,0,"Source number	-	+1 8332036789 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	00:00 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-02 15:50:00,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,,Available
+zcrm_5861855000003817001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-12-02 15:49:50,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-02 15:50:02,2023-12-02 15:50:02,,zcrm_5861855000000091005,,false,,,,,Completed,False,,+13177569969,,+13173397947,,Available
+zcrm_5861855000003993001,zcrm_5861855000000432001,Incoming call from cody.rice@srv-tm.com (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-12-06 23:26:55,00:06,6,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-06 23:31:02,2023-12-06 23:31:58,,zcrm_5861855000000091005,,false,,,,2023-12-06 23:31:58,,,,,+13177569969,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1701923237_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000004355002,zcrm_5861855000000432001,Incoming call from +1 3179199804,Inbound,,zcrm_5861855000000854593,,2023-12-16 12:06:35,02:22,142,"Source number	-	+1 3179199804 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:22 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179199804_1702746417_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-16 12:09:09,2023-12-16 12:09:09,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179199804_1702746417_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000004929001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13177569969),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2023-12-29 11:25:04,00:49,49,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-29 11:25:56,2023-12-29 11:26:24,,zcrm_5861855000000091005,,false,,,,2023-12-29 11:26:24,Completed,False,,+18332036789,,+13177569969,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1703867104_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000004930001,zcrm_5861855000000432001,Outgoing call to +1 3177569969,Outbound,,zcrm_5861855000000547260,,2023-12-29 11:25:04,00:49,49,"Source number	-	+1 8332036789 
+Destination number	-	+1 3177569969 
+Call type	-	Outbound 
+Duration	-	00:49 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1703867104_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-29 11:26:18,2023-12-29 11:26:18,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1703867104_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000004978001,zcrm_5861855000000432001,Incoming call from Selvin Ronaldo Recinos De Leon (+14783965098),Inbound,,zcrm_5861855000000854667,,2023-12-30 13:37:37,00:54,54,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-30 13:41:09,2023-12-30 13:41:53,,zcrm_5861855000000091005,,false,,,,2023-12-30 13:41:53,,,,,+13177569969,+14783965098,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14783965098_1703961586_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000004979001,zcrm_5861855000000432001,Incoming call from +1 4783965098,Inbound,,zcrm_5861855000000854667,,2023-12-30 13:37:37,03:28,208,"Source number	-	+1 4783965098 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:28 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14783965098_1703961586_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-30 13:41:34,2023-12-30 13:41:34,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14783965098_1703961586_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000005174001,zcrm_5861855000000432001,Incoming call from +14328188391,Inbound,,,,2024-01-04 14:11:13,06:57,417,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-04 14:21:35,2024-01-04 14:22:38,,zcrm_5861855000000091005,,false,,,,2024-01-04 14:22:38,,,,,+13177569969,+14328188391,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14328188391_1704395601_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000005175001,zcrm_5861855000000432001,Incoming call from +1 4328188391,Inbound,,,,2024-01-04 14:11:13,10:24,624,"Source number	-	+1 4328188391 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	10:24 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14328188391_1704395601_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-04 14:22:08,2024-01-04 14:22:08,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14328188391_1704395601_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000005216011,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-07 19:49:24,02:25,145,"Source number	-	+1 3173397947 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:25 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704675092_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-07 19:52:09,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704675092_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005218015,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-07 19:43:26,00:04,4,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	00:04 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704674601_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-07 19:44:08,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704674601_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005242003,zcrm_5861855000000432001,Incoming call from cody.rice@srv-tm.com (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-07 19:49:24,00:06,6,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-07 19:51:51,2024-01-07 19:52:18,,zcrm_5861855000000091005,,false,,,,2024-01-07 19:52:18,,,,,+13177569969,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704675092_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005280003,zcrm_5861855000000432001,Incoming call from cody.rice@srv-tm.com (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-07 20:07:31,00:05,5,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-07 20:08:48,2024-01-07 20:09:44,,zcrm_5861855000000091005,,false,,,,2024-01-07 20:09:44,,,,,+13177569969,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704676118_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005309001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-07 19:43:26,00:04,4,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-07 19:43:55,2024-01-07 19:44:43,,zcrm_5861855000000091005,,false,,,,2024-01-07 19:44:43,Completed,False,,+13177569969,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704674601_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005310001,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-07 20:07:31,01:39,99,"Source number	-	+1 3173397947 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:39 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704676118_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-07 20:09:40,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704676118_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005337001,zcrm_5861855000000432001,Incoming call from cody.rice@srv-tm.com (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-08 14:44:50,00:20,20,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-08 14:46:25,2024-01-08 14:47:35,,zcrm_5861855000000091005,,false,,,,2024-01-08 14:47:35,,,,,+13177569969,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704743155_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005338001,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-08 14:44:50,01:31,91,"Source number	-	+1 3173397947 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:31 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704743155_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-08 14:46:48,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704743155_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005388002,zcrm_5861855000000432001,Outgoing call to +1 3177659969,Outbound,,,,2024-01-09 18:06:35,00:08,8,"Source number	-	+1 3177569969 
+Destination number	-	+1 3177659969 
+Call type	-	Outbound 
+Duration	-	00:08 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177659969_1704841595_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 18:06:52,2024-01-09 18:06:52,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177659969_1704841595_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005389001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-09 14:26:33,01:17,77,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	01:17 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704828393_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 14:28:29,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704828393_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005390001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-09 14:33:18,01:23,83,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	01:23 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704828798_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 14:35:30,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704828798_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005390006,zcrm_5861855000000432001,Incoming call from +1 3179654622,Inbound,,zcrm_5861855000011834014,,2024-01-09 14:38:16,01:37,97,"Source number	-	+1 3179654622 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:37 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179654622_1704829161_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 14:40:30,2024-07-24 14:28:23,,zcrm_5861855000000091005,,false,,,,2024-07-24 14:28:23,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179654622_1704829161_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005393001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-09 15:04:01,01:41,101,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	01:41 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704830641_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 15:07:02,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704830641_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005393006,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-09 15:05:38,01:13,73,"Source number	-	+1 3173397947 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:13 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704830803_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 15:07:31,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704830803_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005394001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000000455002,zcrm_5861855000002800001,2024-01-09 15:36:17,01:36,96,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	01:36 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704832577_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-09 15:38:37,2024-01-31 06:05:12,,zcrm_5861855000000091005,,false,,,,2024-01-31 06:05:12,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1704832577_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005437001,zcrm_5861855000000432001,Incoming call from +1 3025968504,Inbound,,,,2024-01-10 15:15:35,07:57,477,"Source number	-	+1 3025968504 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	07:57 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13025968504_1704917800_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-10 15:23:46,2024-01-10 15:23:46,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13025968504_1704917800_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005468002,zcrm_5861855000000432001,Incoming call from +1 3179098714,Inbound,,,,2024-01-11 14:05:19,08:47,527,"Source number	-	+1 3179098714 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	08:47 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179098714_1704999983_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-11 14:14:12,2024-01-11 14:14:12,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179098714_1704999983_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005469001,zcrm_5861855000000432001,Incoming call from +1 3178284339,Inbound,,,,2024-01-11 14:26:09,02:04,124,"Source number	-	+1 3178284339 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:04 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1705001233_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-11 14:28:44,2024-01-11 14:28:44,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1705001233_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005480001,zcrm_5861855000000432001,Incoming call from +1 3109740871,Inbound,,zcrm_5861855000000854162,,2024-01-11 15:54:56,07:07,427,"Source number	-	+1 3109740871 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	07:07 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13109740871_1705006561_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-11 16:02:24,2024-01-11 16:02:24,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13109740871_1705006561_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005544002,zcrm_5861855000000432001,Incoming call from +1 3173626107,Inbound,,,,2024-01-13 14:56:48,05:56,356,"Source number	-	+1 3173626107 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:56 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173626107_1705175873_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-13 15:02:52,2024-01-13 15:02:52,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173626107_1705175873_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005621001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-15 02:43:11,00:31,31,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-15 02:43:56,2024-01-15 02:45:06,,zcrm_5861855000000091005,,false,,,,2024-01-15 02:45:06,Completed,False,,+13177569969,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705304591_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005622001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000010180018,zcrm_5861855000010180015,2024-01-15 02:43:11,00:31,31,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	00:31 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705304591_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-15 02:44:19,2024-03-25 15:42:27,,zcrm_5861855000000091005,,false,,,,2024-03-25 15:42:27,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705304591_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005665001,zcrm_5861855000000432001,Outgoing call to Treve El Mero (+17708376086),Outbound,,zcrm_5861855000000835257,,2024-01-16 17:23:03,00:19,19,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-16 17:23:57,2024-01-16 17:24:09,,zcrm_5861855000000091005,,false,,,,2024-01-16 17:24:09,Completed,False,,+13177569969,,+17708376086,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1705443783_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005667001,zcrm_5861855000000432001,Outgoing call to +1 7708376086,Outbound,,zcrm_5861855000000835257,,2024-01-16 17:23:03,00:19,19,"Source number	-	+1 3177569969 
+Destination number	-	+1 7708376086 
+Call type	-	Outbound 
+Duration	-	00:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1705443783_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-16 17:24:27,2024-01-16 17:24:27,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1705443783_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005668001,zcrm_5861855000000432001,Outgoing call to Treve El Mero (+17708376086),Outbound,,zcrm_5861855000000835257,,2024-01-16 17:24:01,00:19,19,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-16 17:24:32,2024-01-16 17:25:24,,zcrm_5861855000000091005,,false,,,,2024-01-16 17:25:24,Completed,False,,+13177569969,,+17708376086,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1705443841_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005669001,zcrm_5861855000000432001,Outgoing call to +1 7708376086,Outbound,,zcrm_5861855000000835257,,2024-01-16 17:24:01,00:19,19,"Source number	-	+1 3177569969 
+Destination number	-	+1 7708376086 
+Call type	-	Outbound 
+Duration	-	00:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1705443841_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-16 17:24:57,2024-01-16 17:24:57,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1705443841_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005702001,zcrm_5861855000000432001,Incoming call from +13176048457,Inbound,,,,2024-01-17 14:31:14,07:17,437,Called to discuss taxes for 2023 questions for texas. been exactly 6 months in texas and Indiana.,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-17 14:39:25,2024-01-17 14:40:15,,zcrm_5861855000000091005,,false,,,,2024-01-17 14:40:15,,,,,+18332036789,+13176048457,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176048457_1705519896_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000005706001,zcrm_5861855000000432001,Incoming call from +13176048457,Inbound,,,,2024-01-17 14:39:32,00:43,43,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-17 14:42:02,2024-01-17 14:42:53,,zcrm_5861855000000091005,,false,,,,2024-01-17 14:42:53,,,,,+18332036789,+13176048457,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176048457_1705520394_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000005797001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000010180018,zcrm_5861855000010180015,2024-01-18 12:11:55,01:26,86,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	01:26 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705597915_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 12:16:11,2024-03-25 15:42:27,,zcrm_5861855000000091005,,false,,,,2024-03-25 15:42:27,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705597915_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005801001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-18 12:11:55,01:26,86,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 12:29:17,2024-01-18 12:32:38,,zcrm_5861855000000091005,,false,,,,2024-01-18 12:32:38,Completed,False,,+13177569969,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705597915_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005822001,zcrm_5861855000000432001,Outgoing call to 901,Outbound,,,,2024-01-18 15:31:53,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 15:31:54,2024-01-18 15:31:54,,zcrm_5861855000000091005,,false,,,,,Completed,False,,100,,901,,Available
+zcrm_5861855000005823001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-18 15:40:03,01:24,84,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 15:42:02,2024-01-18 15:43:11,,zcrm_5861855000000091005,,false,,,,2024-01-18 15:43:11,Completed,False,,+13177569969,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705610403_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005824001,zcrm_5861855000000432001,Outgoing call to +1 3173397947,Outbound,,zcrm_5861855000010180018,zcrm_5861855000010180015,2024-01-18 15:40:03,01:24,84,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173397947 
+Call type	-	Outbound 
+Duration	-	01:24 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705610403_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 15:42:25,2024-03-25 15:42:27,,zcrm_5861855000000091005,,false,,,,2024-03-25 15:42:27,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173397947_1705610403_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005828001,zcrm_5861855000000432001,Outgoing call to 902,Outbound,,,,2024-01-18 16:29:22,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 16:29:24,2024-01-18 16:29:24,,zcrm_5861855000000091005,,false,,,,,Completed,False,,100,,902,,Available
+zcrm_5861855000005880001,zcrm_5861855000000432001,Outgoing call to +18666867211,Outbound,,,,2024-01-19 13:12:21,01:21,81,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-19 13:13:46,2024-01-19 13:15:25,,zcrm_5861855000000091005,,false,,,,2024-01-19 13:15:25,Completed,False,,+13177569969,,+18666867211,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1705687941_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005882001,zcrm_5861855000000432001,Outgoing call to +1 8666867211,Outbound,,,,2024-01-19 13:12:21,01:21,81,"Source number	-	+1 3177569969 
+Destination number	-	+1 8666867211 
+Call type	-	Outbound 
+Duration	-	01:21 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1705687941_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-19 13:14:10,2024-01-19 13:14:10,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1705687941_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005889001,zcrm_5861855000000432001,Incoming call from ISAEL VILLAVERDE (+13175523166),Inbound,,zcrm_5861855000005013013,,2024-01-19 14:11:49,03:05,185,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-19 14:16:17,2024-01-19 14:17:56,,zcrm_5861855000000091005,,false,,,,2024-01-19 14:17:56,,,,,+13177569969,+13175523166,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175523166_1705691574_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000005890001,zcrm_5861855000000432001,Incoming call from +1 3175523166,Inbound,,zcrm_5861855000005013013,zcrm_5861855000005013020,2024-01-19 14:11:49,04:25,265,"Source number	-	+1 3175523166 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:25 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175523166_1705691574_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-19 14:16:46,2024-01-19 14:16:46,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175523166_1705691574_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000005903001,zcrm_5861855000000432001,Incoming call from +18885880719,Inbound,,,,2024-01-19 15:39:28,13:08,788,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-19 15:53:23,2024-01-19 15:54:50,,zcrm_5861855000000091005,,false,,,,2024-01-19 15:54:50,,,,,+18332036789,+18885880719,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18885880719_1705696790_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000005949001,zcrm_5861855000000432001,Outgoing call to Andersson Alexander Rivera Cruz LLC (+14632567716),Outbound,,,zcrm_5861855000000540469,2024-01-21 13:23:49,22:16,1336,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-21 13:46:37,2024-01-21 13:47:20,,zcrm_5861855000000091005,,false,,,,2024-01-21 13:47:20,Completed,False,,+13177569969,,+14632567716,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632567716_1705861429_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000005950001,zcrm_5861855000000432001,Outgoing call to +1 4632567716,Outbound,,zcrm_5861855000005944001,zcrm_5861855000000540469,2024-01-21 13:23:49,22:16,1336,"Source number	-	+1 3177569969 
+Destination number	-	+1 4632567716 
+Call type	-	Outbound 
+Duration	-	22:16 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632567716_1705861429_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-21 13:46:54,2024-01-21 13:46:54,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632567716_1705861429_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000005976001,zcrm_5861855000000432001,Incoming call from +1 3025968504,Inbound,,,,2024-01-22 10:09:42,08:30,510,"Source number	-	+1 3025968504 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	08:30 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13025968504_1705936247_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 10:18:16,2024-01-22 10:18:16,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13025968504_1705936247_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000005977001,zcrm_5861855000000432001,Incoming call from +13025968504,Inbound,,,,2024-01-22 10:09:42,07:08,428,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 10:19:13,2024-01-22 10:20:43,,zcrm_5861855000000091005,,false,,,,2024-01-22 10:20:43,,,,,+13177569969,+13025968504,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13025968504_1705936247_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000005985001,zcrm_5861855000000432001,Incoming call from +1 2013901832,Inbound,,,,2024-01-22 10:36:34,64:57,3897,"Source number	-	+1 2013901832 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:04:57 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12013901832_1705937859_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 11:41:56,2024-01-22 11:41:56,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12013901832_1705937859_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000005985006,zcrm_5861855000000432001,Incoming call from +1 2013901832,Inbound,,,,2024-01-22 12:28:52,02:08,128,"Source number	-	+1 2013901832 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:08 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 12:31:30,2024-01-22 12:31:30,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006101001,zcrm_5861855000000432001,Incoming call from +18666867211,Inbound,,,,2024-01-24 09:18:01,00:17,17,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-24 09:19:59,2024-01-24 09:20:23,,zcrm_5861855000000091005,,false,,,,2024-01-24 09:20:23,,,,,+13177569969,+18666867211,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706105946_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006102001,zcrm_5861855000000432001,Incoming call from +1 8666867211,Inbound,,,,2024-01-24 09:18:01,01:55,115,"Source number	-	+1 8666867211 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:55 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706105946_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-24 09:20:23,2024-01-24 09:20:23,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706105946_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006105001,zcrm_5861855000000432001,Incoming call from +18666867211,Inbound,,,,2024-01-24 09:26:33,14:23,863,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-24 09:42:16,2024-01-24 09:43:33,,zcrm_5861855000000091005,,false,,,,2024-01-24 09:43:33,,,,,+13177569969,+18666867211,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706106458_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006106001,zcrm_5861855000000432001,Incoming call from +1 8666867211,Inbound,,,,2024-01-24 09:26:33,15:40,940,"Source number	-	+1 8666867211 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	15:40 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706106458_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-24 09:42:27,2024-01-24 09:42:27,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706106458_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006111002,zcrm_5861855000000432001,Incoming call from +1 2018455400,Inbound,,,,2024-01-24 14:07:49,09:25,565,"Source number	-	+1 2018455400 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	09:25 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1706123333_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-24 14:17:40,2024-01-24 14:17:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1706123333_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006112001,zcrm_5861855000000432001,Incoming call from +12018455400,Inbound,,,,2024-01-24 14:07:49,08:07,487,Call to debt consolidators follow up on confirming needs.,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-24 14:17:17,2024-01-24 14:18:09,,zcrm_5861855000000091005,,false,,,,2024-01-24 14:18:09,,,,,+13177569969,+12018455400,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1706123333_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006160001,zcrm_5861855000000600001,Incoming call from +13174420172,Inbound,,,,2024-01-25 12:46:03,02:40,160,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-01-25 12:50:04,2024-01-25 12:52:12,,zcrm_5861855000000091005,,false,,,,2024-01-25 12:52:12,,,,,+13177569969,+13174420172,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174420172_1706204828_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006161001,zcrm_5861855000000600001,Incoming call from +1 3174420172,Inbound,,,,2024-01-25 12:46:03,04:06,246,"Source number	-	+1 3174420172 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:06 
+Handled by	-	treve@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174420172_1706204828_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-25 12:51:37,2024-01-25 12:51:37,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174420172_1706204828_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006167001,zcrm_5861855000000600001,Incoming call from +14258769120,Inbound,,,,2024-01-25 15:55:38,00:01,1,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-01-25 15:57:03,2024-01-25 15:57:03,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+14258769120,,Available
+zcrm_5861855000006168001,zcrm_5861855000000600001,Incoming call from +1 4258769120,Inbound,,,,2024-01-25 15:55:38,03:00,180,"Source number	-	+1 4258769120 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:00 
+Handled by	-	treve@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-25 15:59:05,2024-01-25 15:59:05,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006232007,zcrm_5861855000000600001,Incoming call from +1 8666867211,Inbound,,,,2024-01-27 11:48:28,02:54,174,"Source number	-	+1 8666867211 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:54 
+Handled by	-	treve@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 11:51:43,2024-01-27 11:51:43,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006232012,zcrm_5861855000000432001,Incoming call from +1 4632302461,Inbound,,zcrm_5861855000000546328,,2024-01-27 12:21:11,02:11,131,"Source number	-	+1 4632302461 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:11 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 12:23:47,2024-01-27 12:23:47,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006234002,zcrm_5861855000000432001,Incoming call from +1 8666867211,Inbound,,,,2024-01-26 12:35:01,06:49,409,"Source number	-	+1 8666867211 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:49 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706290566_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-26 12:42:38,2024-01-26 12:42:38,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706290566_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006235001,zcrm_5861855000000432001,Incoming call from +18666867211,Inbound,,,,2024-01-26 12:35:01,05:20,320,,,zcrm_5861855000000432001,zcrm_5861855000000600001,2024-01-26 12:41:48,2024-01-26 12:42:48,,zcrm_5861855000000091005,,false,,,,2024-01-26 12:42:48,,,,,+13177569969,+18666867211,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18666867211_1706290566_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006245001,zcrm_5861855000000432001,Outgoing call to +15633878900,Outbound,,,,2024-01-26 15:48:51,03:14,194,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-26 15:52:08,2024-01-26 15:52:53,,zcrm_5861855000000091005,,false,,,,2024-01-26 15:52:53,Completed,False,,+13177569969,,+15633878900,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15633878900_1706302131_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000006247001,zcrm_5861855000000432001,Outgoing call to +1 5633878900,Outbound,,,,2024-01-26 15:48:51,03:14,194,"Source number	-	+1 3177569969 
+Destination number	-	+1 5633878900 
+Call type	-	Outbound 
+Duration	-	03:14 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15633878900_1706302131_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-26 15:52:23,2024-01-26 15:52:23,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15633878900_1706302131_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000006251008,zcrm_5861855000000432001,Incoming call from Dennis Andrea Salcedo Lenis (+14632302461),Inbound,,zcrm_5861855000000546328,,2024-01-27 12:32:59,02:50,170,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 12:37:12,2024-01-27 12:38:10,,zcrm_5861855000000091005,,false,,,,2024-01-27 12:38:10,,,,,+13177569969,+14632302461,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632302461_1706376844_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006272007,zcrm_5861855000000432001,Incoming call from +1 4632302461,Inbound,,zcrm_5861855000000546328,,2024-01-27 12:32:59,04:10,250,"Source number	-	+1 4632302461 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:10 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632302461_1706376844_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 12:37:18,2024-01-27 12:37:18,,zcrm_5861855000000091005,,false,,,2024-01-27 13:28:22,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632302461_1706376844_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006286001,zcrm_5861855000000600001,Incoming call from Oscar Manzo Barradas (+12563241101),Inbound,,zcrm_5861855000000545165,,2024-01-27 10:34:54,00:01,1,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-01-27 10:36:18,2024-01-27 10:36:18,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+12563241101,,Available
+zcrm_5861855000006287001,zcrm_5861855000000600001,Incoming call from +1 2563241101,Inbound,,zcrm_5861855000000854321,,2024-01-27 10:34:54,01:57,117,"Source number	-	+1 2563241101 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:57 
+Handled by	-	treve@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 10:37:10,2024-01-27 10:37:10,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006287006,zcrm_5861855000000432001,Incoming call from +1 4632302461,Inbound,,zcrm_5861855000000546328,,2024-01-27 12:11:20,02:32,152,"Source number	-	+1 4632302461 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:32 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 12:14:16,2024-01-27 12:14:16,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006287011,zcrm_5861855000000600001,Incoming call from +1 6317402217,Inbound,,zcrm_5861855000000854723,,2024-01-27 12:31:16,05:23,323,"Source number	-	+1 6317402217 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:23 
+Handled by	-	treve@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=16317402217_1706376741_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 12:36:48,2024-01-27 12:36:48,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=16317402217_1706376741_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006289001,zcrm_5861855000000600001,Incoming call from Oscar Manzo Barradas (+12563241101),Inbound,,zcrm_5861855000000545165,,2024-01-27 10:39:08,00:01,1,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-01-27 10:40:30,2024-01-27 10:40:30,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+12563241101,,Available
+zcrm_5861855000006290001,zcrm_5861855000000600001,Incoming call from +1 2563241101,Inbound,,zcrm_5861855000000854321,,2024-01-27 10:39:08,01:50,110,"Source number	-	+1 2563241101 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:50 
+Handled by	-	treve@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 10:41:10,2024-01-27 10:41:10,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006292001,zcrm_5861855000000432001,Incoming call from Dennis Andrea Salcedo Lenis (+14632302461),Inbound,,zcrm_5861855000000546328,,2024-01-27 12:11:20,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 12:12:45,2024-01-27 12:12:45,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+14632302461,,Available
+zcrm_5861855000006293001,zcrm_5861855000000600001,Incoming call from Yessenia Romero (+16317402217),Inbound,,zcrm_5861855000000854723,,2024-01-27 12:31:16,04:04,244,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-01-27 12:36:42,2024-01-27 12:37:02,,zcrm_5861855000000091005,,false,,,,2024-01-27 12:37:02,,,,,+13177569969,+16317402217,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=16317402217_1706376741_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006352001,zcrm_5861855000000432001,Outgoing call to cody.rice@srv-tm.com (+13177569969),Outbound,,zcrm_5861855000000455002,zcrm_5861855000000454002,2024-01-29 11:41:24,07:59,479,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 11:49:27,2024-01-29 11:50:32,,zcrm_5861855000000091005,,false,,,,2024-01-29 11:50:32,Completed,False,,+13177569969,,+13177569969,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1706546482_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000006353001,zcrm_5861855000000432001,Outgoing call to +1 3177569969,Outbound,,zcrm_5861855000005351017,,2024-01-29 11:41:24,07:59,479,"Source number	-	+1 3177569969 
+Destination number	-	+1 3177569969 
+Call type	-	Outbound 
+Duration	-	07:59 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1706546482_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 11:49:54,2024-01-29 11:49:54,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1706546482_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000006355010,zcrm_5861855000000432001,Incoming call from +13175230240,Inbound,,,,2024-01-29 13:55:27,04:05,245,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 14:00:55,2024-01-29 14:02:14,,zcrm_5861855000000091005,,false,,,,2024-01-29 14:02:14,,,,,+13177569969,+13175230240,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175230240_1706554592_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006357001,zcrm_5861855000000432001,Incoming call from +13174420172,Inbound,,,,2024-01-29 12:21:17,03:02,182,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 12:30:16,2024-01-29 12:31:31,,zcrm_5861855000000091005,,false,,,,2024-01-29 12:31:31,,,,,+13177569969,+13174420172,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174420172_1706548942_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006358001,zcrm_5861855000000432001,Incoming call from +1 3174420172,Inbound,,,,2024-01-29 12:21:17,08:57,537,"Source number	-	+1 3174420172 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	08:57 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174420172_1706548942_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 12:30:30,2024-01-29 12:30:30,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174420172_1706548942_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006360006,zcrm_5861855000000432001,Incoming call from +1 3175230240,Inbound,,,,2024-01-29 13:55:27,05:26,326,"Source number	-	+1 3175230240 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:26 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175230240_1706554592_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 14:01:13,2024-01-29 14:01:13,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175230240_1706554592_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006398002,zcrm_5861855000000432001,Incoming call from +1 3177922216,Inbound,,zcrm_5861855000000854101,,2024-01-29 18:34:45,09:29,569,"Source number	-	+1 3177922216 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	09:29 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177922216_1706571349_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 18:44:46,2024-01-29 18:44:46,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177922216_1706571349_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006410001,zcrm_5861855000000432001,Incoming call from Katherin Jimenez Guardado (+13177922216),Inbound,,zcrm_5861855000000854101,,2024-01-29 18:34:45,07:59,479,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-29 18:44:16,2024-02-05 19:31:22,,zcrm_5861855000000091005,,false,,,,2024-02-05 19:31:22,,,,,+13177569969,+13177922216,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177922216_1706571349_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006612006,zcrm_5861855000000600001,Incoming call from +1 3173452557,Inbound,,zcrm_5861855000000854281,,2024-02-01 14:23:02,04:58,298,"Source number	-	+1 3173452557 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:58 
+Handled by	-	treve@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173452557_1706815446_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 14:28:08,2024-02-01 14:28:08,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173452557_1706815446_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006622003,zcrm_5861855000000432001,Incoming call from +17655862096,Inbound,,,,2024-02-01 11:56:30,04:54,294,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 12:02:53,2024-02-02 03:08:50,,zcrm_5861855000000091005,,false,,,,2024-02-02 03:08:50,,,,,+13177569969,+17655862096,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17655862096_1706806655_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006628001,zcrm_5861855000000432001,Incoming call from +1 7655862096,Inbound,,,,2024-02-01 11:56:30,06:19,379,"Source number	-	+1 7655862096 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17655862096_1706806655_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 12:03:26,2024-02-01 12:03:26,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17655862096_1706806655_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006631001,zcrm_5861855000000432001,Incoming call from Moises Ramirez (+13173452557),Inbound,,zcrm_5861855000000854281,,2024-02-01 12:15:51,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 12:17:16,2024-02-01 12:17:16,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+13173452557,,Available
+zcrm_5861855000006632001,zcrm_5861855000000432001,Incoming call from +1 3173452557,Inbound,,zcrm_5861855000000854281,,2024-02-01 12:15:51,02:59,179,"Source number	-	+1 3173452557 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:59 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 12:18:57,2024-02-01 12:18:57,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006633001,zcrm_5861855000000432001,Incoming call from +1 3173452557,Inbound,,zcrm_5861855000000854281,,2024-02-01 12:47:33,03:00,180,"Source number	-	+1 3173452557 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:00 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 12:51:00,2024-02-01 12:51:00,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006636001,zcrm_5861855000000600001,Incoming call from Moises Ramirez (+13173452557),Inbound,,zcrm_5861855000000854281,,2024-02-01 14:23:02,01:58,118,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-02-01 14:26:25,2024-02-02 03:23:26,,zcrm_5861855000000091005,,false,,,,2024-02-02 03:23:26,,,,,+13177569969,+13173452557,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173452557_1706815446_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006670008,zcrm_5861855000001909384,Call scheduled with David Malagon Rosas,Outbound,Prospecting,zcrm_5861855000000546344,,2024-02-02 13:00:00,,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 23:40:25,2024-02-01 23:40:25,2024-02-02 17:50:00.0,,,false,,,,,Overdue,True,Client is contact us for completing his taxes please reach out and advise on what we need preferably have the client submit all documents and information prior to their appointment,,,,,Available
+zcrm_5861855000006703017,zcrm_5861855000000432001,Incoming call from Saida Funes (+13174014845),Inbound,,zcrm_5861855000000547180,,2024-02-05 15:21:36,06:21,381,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 15:29:28,2024-02-05 15:30:20,,zcrm_5861855000000091005,,false,,,,2024-02-05 15:30:20,,,,,+13177569969,+13174014845,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174014845_1707164560_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006711004,zcrm_5861855000000600001,Incoming call from +1 3179387229,Inbound,,,,2024-02-04 15:15:55,01:53,113,"Source number	-	+1 3179387229 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:53 
+Handled by	-	treve@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-04 15:18:14,2024-02-04 15:18:14,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000006719001,zcrm_5861855000000432001,Incoming call from Blanca Guerrero Luna (+13178649780),Inbound,,zcrm_5861855000000835785,,2024-02-02 16:41:03,02:47,167,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-02 16:45:22,2024-03-15 16:43:09,,zcrm_5861855000000091005,,false,,,,2024-03-15 16:43:09,,,,,+13177569969,+13178649780,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178649780_1706910128_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006720001,zcrm_5861855000000432001,Incoming call from +1 3178649780,Inbound,,zcrm_5861855000000835785,,2024-02-02 16:41:03,04:15,255,"Source number	-	+1 3178649780 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:15 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178649780_1706910128_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-02 16:45:28,2024-02-02 16:45:28,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178649780_1706910128_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006720006,zcrm_5861855000000432001,Outgoing call to +1 7867570113,Outbound,,zcrm_5861855000000854113,,2024-02-03 13:09:23,00:33,33,"Source number	-	+1 3177569969 
+Destination number	-	+1 7867570113 
+Call type	-	Outbound 
+Duration	-	00:33 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17867570113_1706983763_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 13:10:25,2024-02-03 13:10:25,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17867570113_1706983763_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000006744005,zcrm_5861855000000432001,Incoming call from +13176886196,Inbound,,,,2024-02-05 17:42:07,06:04,364,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 17:49:37,2024-02-05 17:50:45,,zcrm_5861855000000091005,,false,,,,2024-02-05 17:50:45,,,,,+13177569969,+13176886196,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176886196_1707172991_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006745003,zcrm_5861855000000600001,Incoming call from Alberto Lopez Mezo (+14633450180),Inbound,,zcrm_5861855000006230006,,2024-02-03 13:25:47,00:56,56,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-02-03 13:28:56,2024-02-03 13:29:27,,zcrm_5861855000000091005,,false,,,,2024-02-03 13:29:27,,,,,+13177569969,+14633450180,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1706984812_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006751011,zcrm_5861855000000600001,Incoming call from +1 4633450180,Inbound,,zcrm_5861855000006230006,,2024-02-03 13:25:47,03:07,187,"Source number	-	+1 4633450180 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:07 
+Handled by	-	treve@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1706984812_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 13:29:26,2024-02-03 13:29:26,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1706984812_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006757011,zcrm_5861855000000432001,Incoming call from +1 3176886196,Inbound,,,,2024-02-05 17:42:07,07:27,447,"Source number	-	+1 3176886196 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	07:27 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176886196_1707172991_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 17:49:50,2024-02-05 17:49:50,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176886196_1707172991_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006767001,zcrm_5861855000000432001,Outgoing call to Jorge Luis Juarez Agurcia (+17867570113),Outbound,,zcrm_5861855000000854113,,2024-02-03 13:09:23,00:33,33,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 13:10:15,2024-02-03 13:10:51,,zcrm_5861855000000091005,,false,,,,2024-02-03 13:10:51,Completed,False,,+13177569969,,+17867570113,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17867570113_1706983763_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000006767021,zcrm_5861855000000432001,Incoming call from +13175651215,Inbound,,,,2024-02-05 15:39:27,00:55,55,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 15:41:48,2024-02-05 15:43:01,,zcrm_5861855000000091005,,false,,,,2024-02-05 15:43:01,,,,,+13177569969,+13175651215,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175651215_1707165632_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006774007,zcrm_5861855000000600001,Incoming call from +13179387229,Inbound,,,,2024-02-04 15:15:55,00:01,1,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-02-04 15:17:16,2024-02-04 15:17:16,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+13179387229,,Available
+zcrm_5861855000006811006,zcrm_5861855000000600001,Incoming call from +1 3179387229,Inbound,,,,2024-02-04 15:21:25,02:41,161,"Source number	-	+1 3179387229 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:41 
+Handled by	-	treve@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179387229_1707078149_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-04 15:24:14,2024-02-04 15:24:14,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179387229_1707078149_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006812001,zcrm_5861855000000600001,Incoming call from +13179387229,Inbound,,,,2024-02-04 15:21:25,01:24,84,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-02-04 15:24:09,2024-02-04 15:25:18,,zcrm_5861855000000091005,,false,,,,2024-02-04 15:25:18,,,,,+13177569969,+13179387229,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179387229_1707078149_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006831002,zcrm_5861855000000432001,Incoming call from +1 3174014845,Inbound,,zcrm_5861855000000547180,,2024-02-05 15:21:36,07:49,469,"Source number	-	+1 3174014845 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	07:49 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174014845_1707164560_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 15:29:55,2024-02-05 15:29:55,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174014845_1707164560_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006831011,zcrm_5861855000000432001,Incoming call from +1 3175651215,Inbound,,,,2024-02-05 15:39:27,02:19,139,"Source number	-	+1 3175651215 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175651215_1707165632_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 15:42:27,2024-02-05 15:42:27,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13175651215_1707165632_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006831016,zcrm_5861855000000432001,Outgoing call to +1 3174069945,Outbound,,,,2024-02-05 17:15:05,03:43,223,"Source number	-	+1 3177569969 
+Destination number	-	+1 3174069945 
+Call type	-	Outbound 
+Duration	-	03:43 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174069945_1707171305_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 17:19:09,2024-02-05 17:19:09,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174069945_1707171305_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000006832003,zcrm_5861855000000432001,Outgoing call to +13174069945,Outbound,,,,2024-02-05 17:15:05,03:43,223,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 17:18:53,2024-02-05 17:19:32,,zcrm_5861855000000091005,,false,,,,2024-02-05 17:19:32,Completed,False,,+13177569969,,+13174069945,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174069945_1707171305_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000006978001,zcrm_5861855000000432001,Incoming call from +13177929652,Inbound,,,,2024-02-08 14:04:13,01:15,75,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 14:06:51,2024-02-08 14:07:37,,zcrm_5861855000000091005,,false,,,,2024-02-08 14:07:37,,,,,+13177569969,+13177929652,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177929652_1707419118_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006979001,zcrm_5861855000000432001,Incoming call from +1 3177929652,Inbound,,,,2024-02-08 14:04:13,02:47,167,"Source number	-	+1 3177929652 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:47 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177929652_1707419118_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 14:07:09,2024-02-08 14:07:09,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177929652_1707419118_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006979006,zcrm_5861855000000432001,Incoming call from +1 3177929652,Inbound,,,,2024-02-08 19:06:34,05:31,331,"Source number	-	+1 3177929652 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:31 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177929652_1707437259_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 19:12:31,2024-02-08 19:12:31,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177929652_1707437259_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000006984001,zcrm_5861855000000432001,Incoming call from +13179415433,Inbound,,,,2024-02-08 15:32:00,01:54,114,SUSANA CORTEZ FOR TEMPLATE FOR RENT AGREEMENT.,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 15:34:42,2024-02-08 15:35:41,,zcrm_5861855000000091005,,false,,,,2024-02-08 15:35:41,,,,,+18332036789,+13179415433,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179415433_1707424342_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000006986005,zcrm_5861855000000600001,Incoming call from +13179415433,Inbound,,,,2024-02-08 16:40:51,00:47,47,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-02-08 16:42:43,2024-02-08 16:43:22,,zcrm_5861855000000091005,,false,,,,2024-02-08 16:43:22,,,,,+18332036789,+13179415433,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179415433_1707428472_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007000003,zcrm_5861855000000432001,Incoming call from Guadalupe Quevedo (+13177668405),Inbound,,zcrm_5861855000000835783,,2024-02-08 19:01:12,02:11,131,"WANTS APPOINTMENT ON SATURDAY, WILL STOP BY TO DROP OFF PAPERS THEN CHECK BACK.",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 19:04:53,2024-02-08 19:06:31,,zcrm_5861855000000091005,,false,,,,2024-02-08 19:06:31,,,,,+13177569969,+13177668405,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177668405_1707436937_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007008001,zcrm_5861855000000432001,Incoming call from +1 3177668405,Inbound,,zcrm_5861855000000835783,,2024-02-08 19:01:12,03:39,219,"Source number	-	+1 3177668405 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:39 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177668405_1707436937_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 19:04:59,2024-02-08 19:04:59,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177668405_1707436937_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007010001,zcrm_5861855000000432001,Incoming call from +13177929652,Inbound,,,,2024-02-08 19:06:34,03:57,237,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 19:12:00,2024-02-08 19:12:59,,zcrm_5861855000000091005,,false,,,,2024-02-08 19:12:59,,,,,+13177569969,+13177929652,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177929652_1707437259_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007099001,zcrm_5861855000000600001,Incoming call from Alberto Lopez Mezo (+14633450180),Inbound,,zcrm_5861855000006230006,,2024-02-09 17:40:07,00:42,42,,,zcrm_5861855000000600001,zcrm_5861855000000600001,2024-02-09 17:42:12,2024-02-09 17:52:34,,zcrm_5861855000000091005,,false,,,,2024-02-09 17:52:34,,,,,+13177569969,+14633450180,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1707518472_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007101001,zcrm_5861855000000600001,Incoming call from +1 4633450180,Inbound,,zcrm_5861855000006776001,,2024-02-09 17:40:07,02:02,122,"Source number	-	+1 4633450180 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:02 
+Handled by	-	treve@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1707518472_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-09 17:52:08,2024-02-09 17:52:08,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1707518472_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007105001,zcrm_5861855000000432001,Outgoing call to Alberto Lopez Mezo (+14633450180),Outbound,,zcrm_5861855000006230006,,2024-02-09 18:40:29,00:49,49,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-09 18:41:34,2024-02-09 18:42:24,,zcrm_5861855000000091005,,false,,,,2024-02-09 18:42:24,Completed,False,,+13177569969,,+14633450180,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1707522029_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007106001,zcrm_5861855000000432001,Outgoing call to +1 4633450180,Outbound,,zcrm_5861855000006776001,,2024-02-09 18:40:29,00:49,49,"Source number	-	+1 3177569969 
+Destination number	-	+1 4633450180 
+Call type	-	Outbound 
+Duration	-	00:49 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1707522029_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-09 18:41:50,2024-02-09 18:41:50,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1707522029_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007180006,zcrm_5861855000000432001,Incoming call from Mirella Yrene Herrera Salazar (+13177667285),Inbound,,zcrm_5861855000000854276,,2024-02-11 16:43:45,00:39,39,,,zcrm_5861855000000432001,zcrm_5861855000001909384,2024-02-11 16:45:47,2024-02-19 06:40:04,,zcrm_5861855000000091005,,false,,,,2024-02-19 06:40:04,,,,,+13177569969,+13177667285,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177667285_1707687889_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007207001,zcrm_5861855000000432001,Incoming call from +1 3177667285,Inbound,,zcrm_5861855000000854276,,2024-02-11 16:43:45,01:59,119,"Source number	-	+1 3177667285 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:59 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177667285_1707687889_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-11 16:46:07,2024-02-11 16:46:07,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177667285_1707687889_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007239006,zcrm_5861855000000432001,Outgoing call to +1 8886926841,Outbound,,,,2024-02-12 19:03:20,07:16,436,"Source number	-	+1 3177569969 
+Destination number	-	+1 8886926841 
+Call type	-	Outbound 
+Duration	-	07:16 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18886926841_1707782600_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 19:10:56,2024-02-12 19:10:56,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18886926841_1707782600_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007241001,zcrm_5861855000000432001,Incoming call from AMALIA ROMERO (+18722330905),Inbound,,zcrm_5861855000003515048,zcrm_5861855000003515027,2024-02-12 09:14:04,21:02,1262,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 09:36:32,2024-02-18 22:52:21,,zcrm_5861855000000091005,,false,,,,2024-02-18 22:52:21,,,,,+13177569969,+18722330905,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18722330905_1707747309_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007242001,zcrm_5861855000000432001,Incoming call from +1 8722330905,Inbound,,zcrm_5861855000003515048,zcrm_5861855000003515027,2024-02-12 09:14:04,22:25,1345,"Source number	-	+1 8722330905 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	22:25 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18722330905_1707747309_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 09:37:02,2024-02-18 22:52:21,,zcrm_5861855000000091005,,false,,,,2024-02-18 22:52:21,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18722330905_1707747309_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007252017,zcrm_5861855000000432001,Incoming call from Vanessa Nachari Ortiz (+13177714114),Inbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-02-12 16:02:52,01:45,105,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 16:06:05,2024-03-21 02:48:44,,zcrm_5861855000000091005,,false,,,,2024-03-21 02:48:44,,,,,+13177569969,+13177714114,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1707771837_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007267006,zcrm_5861855000000432001,Incoming call from +1 3177714114,Inbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-02-12 16:02:52,03:10,190,"Source number	-	+1 3177714114 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:10 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1707771837_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 16:18:30,2024-03-21 02:48:44,,zcrm_5861855000000091005,,false,,,,2024-03-21 02:48:44,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1707771837_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007275009,zcrm_5861855000000432001,Outgoing call to +18886926841,Outbound,,,,2024-02-12 19:03:20,07:16,436,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 19:10:38,2024-02-12 19:11:27,,zcrm_5861855000000091005,,false,,,,2024-02-12 19:11:27,Completed,False,,+13177569969,,+18886926841,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18886926841_1707782600_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007357001,zcrm_5861855000000432001,Incoming call from +1 4632567716,Inbound,,zcrm_5861855000005944001,zcrm_5861855000000540469,2024-02-14 09:38:47,04:09,249,"Source number	-	+1 4632567716 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:09 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632567716_1707921592_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-14 09:43:04,2024-02-14 09:43:04,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632567716_1707921592_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007358001,zcrm_5861855000000432001,Incoming call from Andersson Alexander Rivera Cruz LLC (+14632567716),Inbound,,zcrm_5861855000005944001,zcrm_5861855000000540469,2024-02-14 09:38:47,02:43,163,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-14 09:43:37,2024-02-14 09:44:11,,zcrm_5861855000000091005,,false,,,,2024-02-14 09:44:11,,,,,+13177569969,+14632567716,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632567716_1707921592_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007363001,zcrm_5861855000000432001,Incoming call from +1 3174011272,Inbound,,,,2024-02-14 10:16:59,10:05,605,"Source number	-	+1 3174011272 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	10:05 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1707923884_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-14 10:27:10,2024-02-14 10:27:10,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1707923884_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007364001,zcrm_5861855000000432001,Incoming call from +13174011272,Inbound,,,,2024-02-14 10:16:59,08:42,522,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-14 10:27:14,2024-02-14 10:27:26,,zcrm_5861855000000091005,,false,,,,2024-02-14 10:27:26,,,,,+13177569969,+13174011272,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1707923884_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007446001,zcrm_5861855000000432001,Incoming call from +12018455400,Inbound,,,,2024-02-15 13:59:34,13:01,781,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-15 14:14:05,2024-02-15 14:18:59,,zcrm_5861855000000091005,,false,,,,2024-02-15 14:18:59,,,,,+13177569969,+12018455400,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1708023638_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007447001,zcrm_5861855000000432001,Incoming call from +1 2018455400,Inbound,,,,2024-02-15 13:59:34,14:29,869,"Source number	-	+1 2018455400 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	14:29 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1708023638_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-15 14:18:57,2024-02-15 14:18:57,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1708023638_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007454007,zcrm_5861855000000432001,Incoming call from +1 3173893901,Inbound,,zcrm_5861855000000545295,,2024-02-15 17:27:24,02:17,137,"Source number	-	+1 3173893901 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:17 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-15 17:30:11,2024-02-15 17:30:11,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007459001,zcrm_5861855000000432001,Outgoing call to Martin Arias (+13173841465),Outbound,,zcrm_5861855000000547284,zcrm_5861855000000540509,2024-02-15 16:41:28,02:33,153,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-15 16:44:05,2024-02-15 17:55:18,,zcrm_5861855000000091005,,false,,,,2024-02-15 17:55:18,Completed,False,,+13177569969,,+13173841465,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173841465_1708033288_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007462001,zcrm_5861855000000432001,Outgoing call to +1 3173841465,Outbound,,zcrm_5861855000000547284,zcrm_5861855000000540509,2024-02-15 16:41:28,02:33,153,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173841465 
+Call type	-	Outbound 
+Duration	-	02:33 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173841465_1708033288_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-15 17:54:43,2024-02-15 17:54:43,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173841465_1708033288_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007490001,zcrm_5861855000000432001,Outgoing call to +15042193634,Outbound,,,,2024-02-16 11:47:25,03:09,189,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 11:51:07,2024-02-16 11:52:33,,zcrm_5861855000000091005,,false,,,,2024-02-16 11:52:33,Completed,False,,+13177569969,,+15042193634,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15042193634_1708102045_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007492001,zcrm_5861855000000432001,Outgoing call to +1 5042193634,Outbound,,,,2024-02-16 11:47:25,03:09,189,"Source number	-	+1 3177569969 
+Destination number	-	+1 5042193634 
+Call type	-	Outbound 
+Duration	-	03:09 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15042193634_1708102045_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 11:51:16,2024-02-16 11:51:16,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15042193634_1708102045_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007492006,zcrm_5861855000000432001,Incoming call from +1 5042193634,Inbound,,,,2024-02-16 12:28:00,02:58,178,"Source number	-	+1 5042193634 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:58 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 12:31:20,2024-02-16 12:31:20,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007492011,zcrm_5861855000000432001,Outgoing call to +1 3179094023,Outbound,,zcrm_5861855000000835169,,2024-02-16 13:32:38,01:31,91,"Source number	-	+1 3177569969 
+Destination number	-	+1 3179094023 
+Call type	-	Outbound 
+Duration	-	01:31 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179094023_1708108358_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 13:35:33,2024-02-16 13:35:33,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179094023_1708108358_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007501006,zcrm_5861855000000432001,Outgoing call to +1 8886926841,Outbound,,,,2024-02-17 13:30:26,03:13,193,"Source number	-	+1 3177569969 
+Destination number	-	+1 8886926841 
+Call type	-	Outbound 
+Duration	-	03:13 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18886926841_1708194626_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-17 13:34:06,2024-02-17 13:34:06,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18886926841_1708194626_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007502001,zcrm_5861855000000432001,Incoming call from +13177929652,Inbound,,,,2024-02-16 12:33:05,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 12:34:27,2024-02-16 12:34:27,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+13177929652,,Available
+zcrm_5861855000007503001,zcrm_5861855000000432001,Incoming call from +1 3177929652,Inbound,,,,2024-02-16 12:33:05,02:57,177,"Source number	-	+1 3177929652 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:57 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 12:36:20,2024-02-16 12:36:20,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007503006,zcrm_5861855000000432001,Outgoing call to +1 5042193634,Outbound,,,,2024-02-17 13:58:25,03:01,181,"Source number	-	+1 3177569969 
+Destination number	-	+1 5042193634 
+Call type	-	Outbound 
+Duration	-	03:01 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15042193634_1708196305_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-17 14:01:39,2024-02-17 14:01:39,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15042193634_1708196305_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007506001,zcrm_5861855000000432001,Outgoing call to Julio Montero (+13179094023),Outbound,,zcrm_5861855000000544326,zcrm_5861855000000846011,2024-02-16 13:32:38,01:31,91,Call client follow up on a suspected miscommunication it would appear that this is not the same person so we are not sure who was at the office yesterday claiming that they had received their E I N debt and it's been six months,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 13:34:28,2024-02-16 13:37:12,,zcrm_5861855000000091005,,false,,,,2024-02-16 13:37:12,Completed,False,,+13177569969,,+13179094023,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179094023_1708108358_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007512048,zcrm_5861855000000432001,"Call scheduled with Bellorini Calvo, Maryury",Outbound,Administrative,zcrm_5861855000000835598,,2024-02-17 16:00:00,,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 14:14:58,2024-02-16 15:00:36,2024-02-17 20:55:00.0,,,false,,,,,Overdue,True,FOLLOW UP ON MISSED CALL,,,,,Available
+zcrm_5861855000007512060,zcrm_5861855000001909384,Call scheduled with Marcos G Velazquez Roblero,Outbound,Prospecting,zcrm_5861855000000545330,,2024-02-16 15:00:00,,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 14:17:41,2024-02-16 14:17:41,2024-02-16 20:00:00.0,,,false,,,,,Overdue,True,,,,,,Available
+zcrm_5861855000007512072,zcrm_5861855000000600001,Call scheduled with Nayeli Maribel Gomez,Outbound,Prospecting,zcrm_5861855000000545223,,2024-02-16 15:00:00,,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-16 14:18:02,2024-02-16 14:18:02,2024-02-16 19:55:00.0,,,false,,,,,Overdue,True,,,,,,Available
+zcrm_5861855000007527010,zcrm_5861855000000432001,Outgoing call to +15042193634,Outbound,,,,2024-02-17 13:58:25,03:01,181,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-17 14:01:37,2024-02-17 14:02:22,,zcrm_5861855000000091005,,false,,,,2024-02-17 14:02:22,Completed,False,,+13177569969,,+15042193634,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=15042193634_1708196305_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007547001,zcrm_5861855000000432001,Outgoing call to +18886926841,Outbound,,,,2024-02-17 13:30:26,03:13,193,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-17 13:33:41,2024-02-17 13:34:44,,zcrm_5861855000000091005,,false,,,,2024-02-17 13:34:44,Completed,False,,+13177569969,,+18886926841,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18886926841_1708194626_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007667002,zcrm_5861855000000432001,Incoming call from +14256352970,Inbound,,,,2024-02-19 15:10:13,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-19 15:11:40,2024-02-19 15:11:40,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+14256352970,,Available
+zcrm_5861855000007683001,zcrm_5861855000000432001,Incoming call from +1 4256352970,Inbound,,,,2024-02-19 15:10:13,03:03,183,"Source number	-	+1 4256352970 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:03 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-19 15:13:54,2024-02-19 15:13:54,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007715001,zcrm_5861855000000432001,Incoming call from Armando and Tonya Delgado (+13172000275),Inbound,,zcrm_5861855000000835587,,2024-02-20 13:34:37,02:46,166,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-20 13:41:18,2024-02-20 13:41:59,,zcrm_5861855000000091005,,false,,,,2024-02-20 13:41:59,,,,,+13177569969,+13172000275,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172000275_1708454141_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007716001,zcrm_5861855000000432001,Incoming call from +1 3172000275,Inbound,,zcrm_5861855000000835587,,2024-02-20 13:34:37,06:38,398,"Source number	-	+1 3172000275 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:38 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172000275_1708454141_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-20 13:41:47,2024-02-20 13:41:47,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172000275_1708454141_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007717003,zcrm_5861855000000432001,Incoming call from +13177985764,Inbound,,,,2024-02-20 14:10:04,06:20,380,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-20 14:24:43,2024-02-20 14:25:55,,zcrm_5861855000000091005,,false,,,,2024-02-20 14:25:55,,,,,+18332036789,+13177985764,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177985764_1708456226_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007828001,zcrm_5861855000000432001,Outgoing call to +13173501857,Outbound,,,,2024-02-22 14:12:03,07:33,453,"Per the rep, I will have to pay the $1500 to get my car out however the auction prep fee was $300 which will come off, so I need about $1200, they are open 24 hours a day for releasing the car.",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-22 14:19:39,2024-02-22 14:50:06,,zcrm_5861855000000091005,,false,,,,2024-02-22 14:50:06,Completed,False,,+13177569969,,+13173501857,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173501857_1708629123_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000007832001,zcrm_5861855000000432001,Outgoing call to +1 3173501857,Outbound,,,,2024-02-22 14:12:03,07:33,453,"Source number	-	+1 3177569969 
+Destination number	-	+1 3173501857 
+Call type	-	Outbound 
+Duration	-	07:33 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173501857_1708629123_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-22 14:48:48,2024-02-22 14:48:48,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173501857_1708629123_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000007889004,zcrm_5861855000000432001,Incoming call from +1 3178284339,Inbound,,,,2024-02-24 14:40:54,02:57,177,"Source number	-	+1 3178284339 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:57 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-24 14:44:14,2024-02-24 14:44:14,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007890001,zcrm_5861855000000432001,Incoming call from Selvin Ronaldo Recinos De Leon (+14783965098),Inbound,,zcrm_5861855000000854667,,2024-02-23 14:17:29,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-23 14:18:53,2024-02-23 14:18:53,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+14783965098,,Available
+zcrm_5861855000007892001,zcrm_5861855000000432001,Incoming call from +1 4783965098,Inbound,,zcrm_5861855000000854667,,2024-02-23 14:17:29,02:08,128,"Source number	-	+1 4783965098 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:08 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-23 14:21:45,2024-02-23 14:21:45,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007894001,zcrm_5861855000000432001,Incoming call from +1 4783965098,Inbound,,zcrm_5861855000000854667,,2024-02-23 14:26:48,02:55,175,"Source number	-	+1 4783965098 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:55 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-23 14:31:47,2024-02-23 14:31:47,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007894006,zcrm_5861855000000432001,Incoming call from +1 8445661086,Inbound,,,,2024-02-23 17:07:06,01:21,81,"Source number	-	+1 8445661086 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:21 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-23 17:09:01,2024-02-23 17:09:01,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007906006,zcrm_5861855000000432001,Incoming call from +1 8445663411,Inbound,,,,2024-02-23 19:31:14,01:21,81,"Source number	-	+1 8445663411 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:21 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-23 19:33:05,2024-02-23 19:33:05,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000007911001,zcrm_5861855000000432001,Incoming call from +18445663411,Inbound,,,,2024-02-23 19:31:14,00:02,2,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-23 19:32:38,2024-02-23 19:32:38,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+18445663411,,Available
+zcrm_5861855000007916004,zcrm_5861855000000432001,Incoming call from +13178284339,Inbound,,,,2024-02-24 15:28:39,01:49,109,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-24 15:31:57,2024-02-24 15:33:05,,zcrm_5861855000000091005,,false,,,,2024-02-24 15:33:05,,,,,+13177569969,+13178284339,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1708806584_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007934001,zcrm_5861855000000432001,Incoming call from +18556025167,Inbound,,,,2024-02-24 13:09:34,00:04,4,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-24 13:11:04,2024-02-24 13:11:33,,zcrm_5861855000000091005,,false,,,,2024-02-24 13:11:33,,,,,+13177569969,+18556025167,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18556025167_1708798238_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000007935001,zcrm_5861855000000432001,Incoming call from +1 8556025167,Inbound,,,,2024-02-24 13:09:34,01:27,87,"Source number	-	+1 8556025167 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:27 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18556025167_1708798238_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-24 13:11:27,2024-02-24 13:11:27,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18556025167_1708798238_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000007937001,zcrm_5861855000000432001,Incoming call from +13178284339,Inbound,,,,2024-02-24 14:40:54,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-24 14:42:15,2024-02-24 14:42:15,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+13178284339,,Available
+zcrm_5861855000007938001,zcrm_5861855000000432001,Incoming call from +1 3178284339,Inbound,,,,2024-02-24 15:28:39,03:59,239,"Source number	-	+1 3178284339 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:59 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1708806584_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-24 15:32:50,2024-02-24 15:32:50,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1708806584_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008045001,zcrm_5861855000000432001,Incoming call from +18445624050,Inbound,,,,2024-02-26 14:20:20,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 14:21:44,2024-02-26 14:21:44,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+18445624050,,Available
+zcrm_5861855000008046001,zcrm_5861855000000432001,Incoming call from +1 8445624050,Inbound,,,,2024-02-26 14:20:20,01:40,100,"Source number	-	+1 8445624050 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:40 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 14:22:33,2024-02-26 14:22:33,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008053001,zcrm_5861855000000432001,Incoming call from +1 8004468848,Inbound,,,,2024-02-26 15:04:27,02:37,157,"Source number	-	+1 8004468848 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:37 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 15:07:36,2024-02-26 15:07:36,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008060001,zcrm_5861855000000432001,Incoming call from Claudia Ortega Ramirez (+15709212779),Inbound,,zcrm_5861855000000835637,,2024-02-26 15:34:58,00:01,1,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 15:37:26,2024-02-26 15:37:26,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+15709212779,,Available
+zcrm_5861855000008061001,zcrm_5861855000000432001,Incoming call from +1 5709212779,Inbound,,zcrm_5861855000000835637,,2024-02-26 15:34:58,04:03,243,"Source number	-	+1 5709212779 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:03 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 15:40:08,2024-02-26 15:40:08,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008062001,zcrm_5861855000000432001,Incoming call from +13464574638,Inbound,,,,2024-02-26 15:46:36,00:04,4,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 15:48:03,2024-02-26 15:49:08,,zcrm_5861855000000091005,,false,,,,2024-02-26 15:49:08,,,,,+13177569969,+13464574638,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13464574638_1708980461_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000008064001,zcrm_5861855000000432001,Incoming call from +1 3464574638,Inbound,,,,2024-02-26 15:46:36,01:24,84,"Source number	-	+1 3464574638 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:24 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13464574638_1708980461_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-26 15:48:38,2024-02-26 15:48:38,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13464574638_1708980461_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008289001,zcrm_5861855000000432001,Incoming call from +17656249008,Inbound,,,,2024-02-29 10:02:45,28:29,1709,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 10:33:33,2024-02-29 10:35:31,,zcrm_5861855000000091005,,false,,,,2024-02-29 10:35:31,,,,,+13177569969,+17656249008,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17656249008_1709219030_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000008290001,zcrm_5861855000000432001,Incoming call from +1 7656249008,Inbound,,,,2024-02-29 10:02:45,30:58,1858,"Source number	-	+1 7656249008 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	30:58 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17656249008_1709219030_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 10:34:18,2024-02-29 10:34:18,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17656249008_1709219030_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008292002,zcrm_5861855000000432001,Incoming call from +1 3173667810,Inbound,,zcrm_5861855000003240001,zcrm_5861855000000540496,2024-02-29 13:46:42,01:50,110,"Source number	-	+1 3173667810 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:50 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 13:48:40,2024-02-29 13:48:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008298001,zcrm_5861855000000432001,Incoming call from Maria Susana Cortez Vides (+13173667810),Inbound,,zcrm_5861855000003240001,zcrm_5861855000000540496,2024-02-29 13:44:37,00:08,8,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 13:46:04,2024-02-29 13:47:05,,zcrm_5861855000000091005,,false,,,,2024-02-29 13:47:05,,,,,+13177569969,+13173667810,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173667810_1709232342_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000008299001,zcrm_5861855000000432001,Incoming call from +1 3173667810,Inbound,,zcrm_5861855000003240001,zcrm_5861855000000540496,2024-02-29 13:44:37,01:55,115,"Source number	-	+1 3173667810 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:55 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173667810_1709232342_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 13:46:41,2024-02-29 13:46:41,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173667810_1709232342_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008307001,zcrm_5861855000000432001,Incoming call from Pedro Pablo Rodriguez Kanzler (+13177349998),Inbound,,zcrm_5861855000000854589,,2024-02-29 19:22:25,01:24,84,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 19:25:14,2024-02-29 19:26:01,,zcrm_5861855000000091005,,false,,,,2024-02-29 19:26:01,,,,,+13177569969,+13177349998,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177349998_1709252610_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000008308001,zcrm_5861855000000432001,Incoming call from +1 3177349998,Inbound,,zcrm_5861855000000854589,,2024-02-29 19:22:25,02:46,166,"Source number	-	+1 3177349998 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:46 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177349998_1709252610_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 19:25:27,2024-02-29 19:25:27,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177349998_1709252610_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008347006,zcrm_5861855000000432001,Incoming call from +1 3175239598,Inbound,,zcrm_5861855000000835778,,2024-03-01 12:15:48,02:04,124,"Source number	-	+1 3175239598 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:04 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-01 12:21:53,2024-03-01 12:21:53,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008347012,zcrm_5861855000000432001,Incoming call from +1 2018455400,Inbound,,,,2024-03-01 14:07:03,02:29,149,"Source number	-	+1 2018455400 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:29 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-01 14:10:06,2024-03-01 14:10:06,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008347027,zcrm_5861855000000432001,Incoming call from +1 7656249008,Inbound,,,,2024-03-03 13:07:02,02:10,130,"Source number	-	+1 7656249008 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:10 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-03 13:09:39,2024-03-03 13:09:39,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008348001,zcrm_5861855000000432001,Incoming call from +1 3175239598,Inbound,,zcrm_5861855000000835778,,2024-03-01 12:15:48,02:04,124,"Source number	-	+1 3175239598 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:04 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-01 12:21:52,2024-03-01 12:21:52,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008348011,zcrm_5861855000000432001,Incoming call from +1 4633450180,Inbound,,zcrm_5861855000008404044,,2024-03-02 18:04:03,01:46,106,"Source number	-	+1 4633450180 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:46 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1709420707_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-02 18:06:14,2024-03-02 18:06:14,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1709420707_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008349001,zcrm_5861855000000432001,Incoming call from +1 3175239598,Inbound,,zcrm_5861855000000835778,,2024-03-01 12:18:54,02:24,144,"Source number	-	+1 3175239598 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:24 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-01 12:25:23,2024-03-01 12:25:23,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008350001,zcrm_5861855000000432001,Incoming call from +1 3175239598,Inbound,,zcrm_5861855000000835778,,2024-03-01 12:18:54,02:24,144,"Source number	-	+1 3175239598 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:24 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-01 12:25:23,2024-03-01 12:25:23,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008350007,zcrm_5861855000000432001,Incoming call from +1 3179690668,Inbound,,,,2024-03-03 14:09:52,02:05,125,"Source number	-	+1 3179690668 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:05 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-03 14:12:15,2024-03-03 14:12:15,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008350017,zcrm_5861855000000432001,Incoming call from +1 4787965426,Inbound,,zcrm_5861855000000546815,,2024-03-03 19:29:13,02:00,120,"Source number	-	+1 4787965426 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:00 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14787965426_1709512218_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-03 19:31:34,2024-03-03 19:31:34,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14787965426_1709512218_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008351001,zcrm_5861855000000432001,Incoming call from +1 5164012032,Inbound,,,,2024-03-01 12:55:25,02:00,120,"Source number	-	+1 5164012032 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:00 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-01 12:57:57,2024-03-01 12:57:57,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008357016,zcrm_5861855000000432001,Incoming call from +1 4633450180,Inbound,,zcrm_5861855000006776001,,2024-03-02 13:34:57,02:14,134,"Source number	-	+1 4633450180 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:14 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1709404562_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-02 13:37:36,2024-03-02 13:37:36,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1709404562_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008467002,zcrm_5861855000000432001,Incoming call from +52 6461265856,Inbound,,,,2024-03-04 19:14:38,02:51,171,"Source number	-	+52 6461265856 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:51 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=526461265856_1709597743_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-04 19:17:58,2024-03-04 19:17:58,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=526461265856_1709597743_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008494002,zcrm_5861855000000432001,Incoming call from +1 3178869010,Inbound,,,,2024-03-04 17:34:25,01:25,85,"Source number	-	+1 3178869010 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:25 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178869010_1709591730_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-04 17:36:12,2024-03-04 17:36:12,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178869010_1709591730_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008495001,zcrm_5861855000000432001,Incoming call from +1 6313140322,Inbound,,,,2024-03-04 15:43:05,03:33,213,"Source number	-	+1 6313140322 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:33 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=16313140322_1709585049_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-04 15:48:54,2024-03-04 15:48:54,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=16313140322_1709585049_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008521001,zcrm_5861855000000432001,Incoming call from +52 6461265856,Inbound,,,,2024-03-04 18:07:21,02:35,155,"Source number	-	+52 6461265856 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:35 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-04 18:10:50,2024-03-04 18:10:50,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008521006,zcrm_5861855000000432001,Incoming call from +1 3172095775,Inbound,,zcrm_5861855000000544832,,2024-03-04 19:34:51,06:12,372,"Source number	-	+1 3172095775 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:12 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1709598956_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-04 19:41:09,2024-03-04 19:41:09,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1709598956_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008554006,zcrm_5861855000000432001,Incoming call from +1 3174016804,Inbound,,,,2024-03-05 17:30:04,04:36,276,"Source number	-	+1 3174016804 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:36 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174016804_1709677869_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-05 17:35:01,2024-03-05 17:35:01,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174016804_1709677869_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008554016,zcrm_5861855000000432001,Incoming call from +1 3172133029,Inbound,,zcrm_5861855000005203001,,2024-03-05 19:59:32,02:53,173,"Source number	-	+1 3172133029 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:53 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172133029_1709686836_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-05 20:02:42,2024-03-05 20:02:42,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172133029_1709686836_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008565001,zcrm_5861855000000432001,Incoming call from +1 3178284339,Inbound,,,,2024-03-05 17:51:01,03:27,207,"Source number	-	+1 3178284339 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:27 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1709679126_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-05 17:54:41,2024-03-05 17:54:41,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178284339_1709679126_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008579002,zcrm_5861855000000432001,Incoming call from +1 3177714114,Inbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-03-06 16:54:20,03:21,201,"Source number	-	+1 3177714114 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:21 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1709762125_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-06 16:58:05,2024-03-21 02:48:44,,zcrm_5861855000000091005,,false,,,,2024-03-21 02:48:44,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1709762125_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008579012,zcrm_5861855000000432001,Incoming call from +1 3177714114,Inbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-03-07 14:38:49,02:32,152,"Source number	-	+1 3177714114 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:32 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 14:42:53,2024-03-21 02:48:44,,zcrm_5861855000000091005,,false,,,,2024-03-21 02:48:44,,,,,,,,Available
+zcrm_5861855000008579017,zcrm_5861855000000432001,Incoming call from +1 3177714114,Inbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-03-07 14:42:23,01:49,109,"Source number	-	+1 3177714114 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:49 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1709840608_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 14:45:53,2024-03-21 02:48:44,,zcrm_5861855000000091005,,false,,,,2024-03-21 02:48:44,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1709840608_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008580018,zcrm_5861855000000432001,Incoming call from +1 5616670762,Inbound,,,,2024-03-07 16:08:21,02:31,151,"Source number	-	+1 5616670762 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:31 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 16:15:34,2024-03-07 16:15:34,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008581001,zcrm_5861855000000432001,Incoming call from +1 3366084938,Inbound,,,,2024-03-06 12:21:07,05:46,346,"Source number	-	+1 3366084938 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:46 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13366084938_1709745732_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-06 12:27:38,2024-03-06 12:27:38,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13366084938_1709745732_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008587002,zcrm_5861855000000432001,Incoming call from +1 5616670762,Inbound,,,,2024-03-07 16:08:21,02:31,151,"Source number	-	+1 5616670762 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:31 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 16:15:34,2024-03-07 16:15:34,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008587007,zcrm_5861855000000432001,Incoming call from +1 5616670762,Inbound,,,,2024-03-07 16:12:38,01:37,97,"Source number	-	+1 5616670762 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:37 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 16:19:06,2024-03-07 16:19:06,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008588007,zcrm_5861855000000432001,Incoming call from +1 5616670762,Inbound,,,,2024-03-07 16:10:58,01:28,88,"Source number	-	+1 5616670762 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:28 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 16:17:05,2024-03-07 16:17:05,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008621002,zcrm_5861855000000432001,Incoming call from +1 3172502637,Inbound,,zcrm_5861855000000835114,,2024-03-07 16:54:20,02:18,138,"Source number	-	+1 3172502637 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:18 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 16:59:13,2024-03-07 16:59:13,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008637001,zcrm_5861855000000432001,Incoming call from +1 2018455400,Inbound,,,,2024-03-07 15:16:12,05:39,339,"Source number	-	+1 2018455400 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:39 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1709842637_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 15:22:56,2024-03-07 15:22:56,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12018455400_1709842637_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008641001,zcrm_5861855000000432001,Incoming call from +1 5616670762,Inbound,,,,2024-03-07 16:06:29,01:46,106,"Source number	-	+1 5616670762 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:46 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 16:12:34,2024-03-07 16:12:34,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008679007,zcrm_5861855000000432001,Incoming call from +1 3176524746,Inbound,,,,2024-03-08 17:35:25,04:48,288,"Source number	-	+1 3176524746 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:48 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176524746_1709937389_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 17:40:46,2024-03-08 17:40:46,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13176524746_1709937389_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008679013,zcrm_5861855000000432001,Incoming call from +1 3174011272,Inbound,,,,2024-03-09 10:12:12,03:49,229,"Source number	-	+1 3174011272 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:49 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 10:16:25,2024-03-09 10:16:25,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008679018,zcrm_5861855000000432001,Incoming call from +1 3179707726,Inbound,,zcrm_5861855000008481205,,2024-03-09 11:10:58,02:01,121,"Source number	-	+1 3179707726 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:01 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 11:13:31,2024-03-09 11:13:31,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008679023,zcrm_5861855000000432001,Incoming call from +1 3179690668,Inbound,,,,2024-03-09 16:33:05,02:05,125,"Source number	-	+1 3179690668 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:05 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 16:35:40,2024-03-09 16:35:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008680007,zcrm_5861855000000432001,Incoming call from +1 9565915705,Inbound,,,,2024-03-08 13:53:45,02:15,135,"Source number	-	+1 9565915705 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:15 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=19565915705_1709924090_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 13:56:20,2024-03-08 13:56:20,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=19565915705_1709924090_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008681007,zcrm_5861855000000432001,Incoming call from +1 4632408598,Inbound,,zcrm_5861855000004943044,,2024-03-08 13:33:27,01:53,113,"Source number	-	+1 4632408598 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:53 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 13:35:48,2024-03-08 13:35:48,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008685001,zcrm_5861855000000432001,Incoming call from +1 3174011272,Inbound,,,,2024-03-08 13:08:04,04:18,258,"Source number	-	+1 3174011272 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:18 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1709921349_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 13:12:47,2024-03-08 13:12:47,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1709921349_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008685006,zcrm_5861855000000432001,Incoming call from +1 3174011272,Inbound,,,,2024-03-09 10:16:06,04:56,296,"Source number	-	+1 3174011272 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:56 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1709997431_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 10:21:26,2024-03-09 10:21:26,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13174011272_1709997431_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008686001,zcrm_5861855000000432001,Incoming call from +1 3172502637,Inbound,,zcrm_5861855000000835114,,2024-03-08 13:10:17,04:06,246,"Source number	-	+1 3172502637 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:06 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172502637_1709921481_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 13:14:46,2024-03-08 13:14:46,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172502637_1709921481_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008686011,zcrm_5861855000000432001,Incoming call from +1 3172502637,Inbound,,zcrm_5861855000000835114,,2024-03-08 18:04:24,03:22,202,"Source number	-	+1 3172502637 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:22 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172502637_1709939128_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 18:08:20,2024-03-08 18:08:20,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172502637_1709939128_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008687002,zcrm_5861855000000432001,Incoming call from +1 3179707726,Inbound,,zcrm_5861855000008481205,,2024-03-09 11:13:20,01:44,104,"Source number	-	+1 3179707726 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:44 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 11:15:31,2024-03-09 11:15:31,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008688001,zcrm_5861855000000432001,Incoming call from +1 3177349998,Inbound,,zcrm_5861855000000854589,,2024-03-08 14:09:29,06:39,399,"Source number	-	+1 3177349998 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:39 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 14:16:51,2024-03-08 14:16:51,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008688006,zcrm_5861855000000432001,Incoming call from +1 3177349998,Inbound,,zcrm_5861855000000854589,,2024-03-08 14:55:38,02:17,137,"Source number	-	+1 3177349998 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:17 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-08 14:58:25,2024-03-08 14:58:25,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000008899001,zcrm_5861855000000432001,Incoming call from +13178486729,Inbound,,,,2024-03-11 17:37:51,00:11,11,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 17:42:47,2024-03-11 17:50:00,,zcrm_5861855000000091005,,false,,,,2024-03-11 17:50:00,,,,,+13177569969,+13178486729,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13178486729_1710193136_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000008902001,zcrm_5861855000000432001,Incoming call from +1 3178486729,Inbound,,,,2024-03-11 17:37:51,06:32,392,"Source number	-	+1 3178486729 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:32 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178486729_1710193136_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 17:49:09,2024-03-11 17:49:09,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178486729_1710193136_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008902006,zcrm_5861855000000432001,Incoming call from +1 3178486729,Inbound,,,,2024-03-11 17:45:45,04:52,292,"Source number	-	+1 3178486729 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:52 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178486729_1710193610_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 18:12:40,2024-03-11 18:12:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13178486729_1710193610_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008902011,zcrm_5861855000000432001,Incoming call from +1 3173667810,Inbound,,zcrm_5861855000003240001,zcrm_5861855000000540496,2024-03-11 17:51:51,03:00,180,"Source number	-	+1 3173667810 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:00 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173667810_1710193976_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 18:17:12,2024-03-11 18:17:12,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173667810_1710193976_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000008904001,zcrm_5861855000000432001,Incoming call from +13178486729,Inbound,,,,2024-03-11 17:45:45,03:34,214,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 17:50:40,2024-03-11 18:12:46,,zcrm_5861855000000091005,,false,,,,2024-03-11 18:12:46,,,,,+13177569969,+13178486729,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13178486729_1710193610_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000008906001,zcrm_5861855000000432001,Incoming call from Maria Susana Cortez Vides (+13173667810),Inbound,,zcrm_5861855000003240001,zcrm_5861855000000540496,2024-03-11 17:51:51,01:38,98,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 17:54:55,2024-03-11 18:17:54,,zcrm_5861855000000091005,,false,,,,2024-03-11 18:17:54,,,,,+13177569969,+13173667810,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13173667810_1710193976_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009123004,zcrm_5861855000000432001,Incoming call from +1 7656249008,Inbound,,,,2024-03-14 12:58:05,11:47,707,"Source number	-	+1 7656249008 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	11:47 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17656249008_1710435550_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-14 13:10:17,2024-03-14 13:10:17,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17656249008_1710435550_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009130001,zcrm_5861855000000432001,Incoming call from +1 7656249008,Inbound,,,,2024-03-14 12:26:45,01:42,102,"Source number	-	+1 7656249008 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:42 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-14 12:28:42,2024-03-14 12:28:42,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000009131001,zcrm_5861855000000432001,Incoming call from +17656249008,Inbound,,,,2024-03-14 12:58:05,10:28,628,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-14 13:09:56,2024-03-14 13:10:53,,zcrm_5861855000000091005,,false,,,,2024-03-14 13:10:53,,,,,+13177569969,+17656249008,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=17656249008_1710435550_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009224002,zcrm_5861855000000432001,Incoming call from +1 4632002656,Inbound,,,,2024-03-15 20:12:09,02:00,120,"Source number	-	+1 4632002656 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:00 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 20:14:37,2024-03-15 20:14:37,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000009234001,zcrm_5861855000000432001,Incoming call from JOHANA CASTILLO (+13177922985),Inbound,,zcrm_5861855000006756001,,2024-03-15 16:04:27,04:54,294,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 16:10:44,2024-03-15 16:11:27,,zcrm_5861855000000091005,,false,,,,2024-03-15 16:11:27,,,,,+13177569969,+13177922985,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13177922985_1710533131_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009235001,zcrm_5861855000000432001,Incoming call from +1 3177922985,Inbound,,zcrm_5861855000006756001,,2024-03-15 16:04:27,06:19,379,"Source number	-	+1 3177922985 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177922985_1710533131_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 16:11:12,2024-03-15 16:11:12,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177922985_1710533131_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009235006,zcrm_5861855000000432001,Incoming call from +1 4632002656,Inbound,,,,2024-03-15 20:14:31,01:28,88,"Source number	-	+1 4632002656 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:28 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 20:16:07,2024-03-15 20:16:07,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000009268001,zcrm_5861855000000432001,Incoming call from +1 8882004112,Inbound,,,,2024-03-15 18:26:11,02:56,176,"Source number	-	+1 8882004112 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:56 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 18:29:22,2024-03-15 18:29:22,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000009300037,zcrm_5861855000000432001,Incoming call from Cody Cody Rice-Velasquez (+13173397947),Inbound,,zcrm_5861855000000455002,zcrm_5861855000001975347,2024-03-18 03:24:32,00:03,3,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 03:26:06,2024-03-18 03:26:06,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+13173397947,,Available
+zcrm_5861855000009301012,zcrm_5861855000000432001,Incoming call from +1 4632002656,Inbound,,,,2024-03-16 18:04:03,02:26,146,"Source number	-	+1 4632002656 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:26 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632002656_1710626707_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 18:06:53,2024-03-16 18:06:53,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632002656_1710626707_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009302002,zcrm_5861855000000432001,Incoming call from +1 4632002656,Inbound,,,,2024-03-16 18:07:41,02:51,171,"Source number	-	+1 4632002656 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:51 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632002656_1710626925_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 18:10:58,2024-03-16 18:10:58,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14632002656_1710626925_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009306023,zcrm_5861855000000432001,Incoming call from Robyn Rice-Foster (+13172095775),Inbound,,zcrm_5861855000000544832,,2024-03-16 19:38:56,15:59,959,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 19:56:18,2024-03-16 19:56:42,,zcrm_5861855000000091005,,false,,,,2024-03-16 19:56:42,,,,,+13177569969,+13172095775,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13172095775_1710632401_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009310002,zcrm_5861855000000432001,Incoming call from +1 3172095775,Inbound,,zcrm_5861855000000544832,,2024-03-16 19:34:37,04:00,240,"Source number	-	+1 3172095775 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:00 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1710632141_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 19:39:08,2024-03-16 19:39:08,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1710632141_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009310007,zcrm_5861855000000432001,Incoming call from +1 3172095775,Inbound,,zcrm_5861855000000544832,,2024-03-16 19:38:56,17:23,1043,"Source number	-	+1 3172095775 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	17:23 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1710632401_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 19:56:40,2024-03-16 19:56:40,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1710632401_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009351065,zcrm_5861855000004627001,Llamada saliente a 100,Outbound,,,,2024-03-18 03:23:41,00:00,0,,,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-18 03:23:43,2024-03-18 03:23:43,,zcrm_5861855000000091005,,false,,,,,Completed,False,,901,,100,,Available
+zcrm_5861855000009354001,zcrm_5861855000000432001,Incoming call from +14632002656,Inbound,,,,2024-03-16 18:04:03,00:11,11,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 18:05:56,2024-03-16 18:06:59,,zcrm_5861855000000091005,,false,,,,2024-03-16 18:06:59,,,,,+13177569969,+14632002656,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=14632002656_1710626707_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009356001,zcrm_5861855000000432001,Incoming call from +14632002656,Inbound,,,,2024-03-16 18:07:41,01:29,89,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 18:10:35,2024-03-16 18:11:20,,zcrm_5861855000000091005,,false,,,,2024-03-16 18:11:20,,,,,+13177569969,+14632002656,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=14632002656_1710626925_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009358006,zcrm_5861855000000432001,Incoming call from Robyn Rice-Foster (+13172095775),Inbound,,zcrm_5861855000000544832,,2024-03-16 19:34:37,02:43,163,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 19:38:40,2024-03-16 19:39:25,,zcrm_5861855000000091005,,false,,,,2024-03-16 19:39:25,,,,,+13177569969,+13172095775,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13172095775_1710632141_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009364069,zcrm_5861855000000432001,Incoming call from OBIDIO ENRIQUE ORELLANA PAJARES LLC (+13177569969),Inbound,,zcrm_5861855000007060115,,2024-03-18 04:31:24,00:07,7,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 04:32:55,2024-03-18 04:32:55,,zcrm_5861855000000091005,,false,,,,,,,,,+13177569969,+13177569969,,Available
+zcrm_5861855000009370014,zcrm_5861855000000432001,Incoming call from +1 3173397947,Inbound,,zcrm_5861855000010180018,zcrm_5861855000010180015,2024-03-18 03:24:32,01:33,93,"Source number	-	+1 3173397947 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:33 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 03:26:16,2024-03-25 15:42:27,,zcrm_5861855000000091005,,false,,,,2024-03-25 15:42:27,,,,,,,,Available
+zcrm_5861855000009395001,zcrm_5861855000000432001,Incoming call from +1 3177569969,Inbound,,zcrm_5861855000000544744,,2024-03-18 04:31:24,02:06,126,"Source number	-	+1 3177569969 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:06 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 04:33:53,2024-03-18 04:33:53,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000009436020,zcrm_5861855000000432001,Incoming call from Ravil Aracen:Ravil Aracen Bartolo (+13179690668),Inbound,,zcrm_5861855000000547798,,2024-03-18 15:31:37,01:31,91,"consulta, 3 de marzo y ravil arazer.",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 15:34:37,2024-03-18 15:35:32,,zcrm_5861855000000091005,,false,,,,2024-03-18 15:35:32,,,,,+13177569969,+13179690668,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13179690668_1710790362_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009463001,zcrm_5861855000000432001,Incoming call from +1 3179690668,Inbound,,zcrm_5861855000000547798,,2024-03-18 15:31:37,03:00,180,"Source number	-	+1 3179690668 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:00 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179690668_1710790362_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-18 15:35:07,2024-03-18 15:35:07,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179690668_1710790362_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009572001,zcrm_5861855000004627001,Llamada saliente a 100,Outbound,,,,2024-03-19 14:26:43,00:00,0,,,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-19 14:27:19,2024-03-19 14:27:19,,zcrm_5861855000000091005,,false,,,,,Completed,False,,901,,100,,Available
+zcrm_5861855000009832053,zcrm_5861855000000432001,Outgoing call to OBIDIO ENRIQUE ORELLANA PAJARES LLC (+13177569969),Outbound,,zcrm_5861855000007060115,,2024-03-21 12:10:32,12:47,767,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 12:23:25,2024-03-21 12:23:44,,zcrm_5861855000000091005,,false,,,,2024-03-21 12:23:44,Completed,False,,+13177569969,,+13177569969,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=828604746_37598000000006043_13177569969_1711038082.wav&mode=play,Available
+zcrm_5861855000009836038,zcrm_5861855000000432001,Outgoing call to OBIDIO ENRIQUE ORELLANA PAJARES LLC (+13177569969),Outbound,,zcrm_5861855000007060115,,2024-03-21 12:11:13,03:07,187,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 12:14:27,2024-03-21 12:14:50,,zcrm_5861855000000091005,,false,,,,2024-03-21 12:14:50,Completed,False,,+13177569969,,+13177569969,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13177569969_1711037471_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000009844049,zcrm_5861855000000432001,Outgoing call to 901,Outbound,,,,2024-03-21 12:09:37,00:00,0,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 12:10:07,2024-03-21 12:10:07,,zcrm_5861855000000091005,,false,,,,,Completed,False,,100,,901,,Available
+zcrm_5861855000009863002,zcrm_5861855000000432001,Outgoing call to +1 3177569969,Outbound,,zcrm_5861855000000544744,,2024-03-21 12:11:13,03:07,187,"Source number	-	+1 3177569969 
+Destination number	-	+1 3177569969 
+Call type	-	Outbound 
+Duration	-	03:07 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1711037471_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 12:14:38,2024-03-21 12:14:38,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1711037471_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000009864002,zcrm_5861855000000432001,Outgoing call to +1 3177569969,Outbound,,zcrm_5861855000000544744,,2024-03-21 12:10:32,12:47,767,"Source number	-	+1 3177569969 
+Destination number	-	+1 3177569969 
+Call type	-	Outbound 
+Duration	-	12:47 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1711037432_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 12:23:39,2024-03-21 12:23:39,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177569969_1711037432_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000009884040,zcrm_5861855000000432001,Incoming call from +13177010752,Inbound,,,,2024-03-21 19:28:56,37:01,2221,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 20:07:24,2024-03-21 20:08:20,,zcrm_5861855000000091005,,false,,,,2024-03-21 20:08:20,,,,,+13177569969,+13177010752,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13177010752_1711063801_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000009912002,zcrm_5861855000000432001,Incoming call from +1 4633450180,Inbound,,zcrm_5861855000006776001,,2024-03-21 17:40:44,04:38,278,"Source number	-	+1 4633450180 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:38 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1711057309_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 17:45:55,2024-03-21 17:45:55,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14633450180_1711057309_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009912012,zcrm_5861855000000432001,Incoming call from +1 3177010752,Inbound,,,,2024-03-21 19:28:56,38:34,2314,"Source number	-	+1 3177010752 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	38:34 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177010752_1711063801_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 20:07:42,2024-03-21 20:07:42,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177010752_1711063801_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000009921042,zcrm_5861855000000432001,Outgoing call to Cody Cody Rice-Velasquez (+13173397947),Outbound,,zcrm_5861855000000455002,zcrm_5861855000001975347,2024-03-21 21:04:07,01:48,108,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 21:06:03,2024-03-21 21:06:11,,zcrm_5861855000000091005,,false,,,,2024-03-21 21:06:11,Completed,False,,+13177569969,,+13173397947,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13173397947_1711069447_828604746_37598000000003015.wav&mode=play,Available
+zcrm_5861855000009927017,zcrm_5861855000000432001,Incoming call from Alberto Lopez Mezo (+14633450180),Inbound,,zcrm_5861855000006230006,,2024-03-21 17:40:44,03:16,196,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 17:45:26,2024-03-21 17:46:09,,zcrm_5861855000000091005,,false,,,,2024-03-21 17:46:09,,,,,+13177569969,+14633450180,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=14633450180_1711057309_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000010042036,zcrm_5861855000000432001,Incoming call from +12248035473,Inbound,,,,2024-03-22 14:41:42,03:00,180,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-22 14:47:54,2024-03-22 14:49:20,,zcrm_5861855000000091005,,false,,,,2024-03-22 14:49:20,,,,,+13177569969,+12248035473,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=12248035473_1711132968_828604746_37598000000006043.wav&mode=play,Available
+zcrm_5861855000010056119,zcrm_5861855000004627001,Llamada saliente a Goyo Orozco (+13179702929),Outbound,,zcrm_5861855000009611024,,2024-03-23 12:15:55,02:01,121,,,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-23 12:18:02,2024-03-23 12:18:42,,zcrm_5861855000000091005,,false,,,,2024-03-23 12:18:42,Completed,False,,+13177569969,,+13179702929,https://voice.zoho.com/rest/json/zv/logs/voicerecording?recording_filename=13179702929_1711210555_828604746_37598000000296013.wav&mode=play,Available
+zcrm_5861855000010073022,zcrm_5861855000004627001,Outgoing call to +1 3179702929,Outbound,,zcrm_5861855000000546162,,2024-03-23 12:15:55,02:01,121,"Source number	-	+1 3177569969 
+Destination number	-	+1 3179702929 
+Call type	-	Outbound 
+Duration	-	02:01 
+Handled by	-	carlos@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179702929_1711210555_828604746_37598000000296013.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-23 12:18:13,2024-03-23 12:18:13,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13179702929_1711210555_828604746_37598000000296013.wav&mode=download,Available
+zcrm_5861855000010081001,zcrm_5861855000000432001,Incoming call from +1 2248035473,Inbound,,,,2024-03-22 14:41:42,06:08,368,"Source number	-	+1 2248035473 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:08 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12248035473_1711132968_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-22 14:48:06,2024-03-22 14:48:06,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=12248035473_1711132968_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000010501002,zcrm_5861855000000432001,Outgoing call to +1 4637103847,Outbound,,zcrm_5861855000000835290,,2024-03-31 15:18:50,23:27,1407,"Source number	-	+1 3177569969 
+Destination number	-	+1 4637103847 
+Call type	-	Outbound 
+Duration	-	23:27 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14637103847_1711912730_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-31 15:42:51,2024-03-31 15:42:51,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14637103847_1711912730_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000010506001,zcrm_5861855000000432001,Incoming call from +1 3173549319,Inbound,,,,2024-03-29 17:27:16,03:38,218,"Source number	-	+1 3173549319 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:38 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173549319_1711747700_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-29 17:31:24,2024-03-29 17:31:24,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173549319_1711747700_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000010515002,zcrm_5861855000000432001,Incoming call from +1 3177929652,Inbound,,,,2024-03-31 14:15:51,02:05,125,"Source number	-	+1 3177929652 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:05 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-31 14:18:14,2024-03-31 14:18:14,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000010533002,zcrm_5861855000000432001,Incoming call from +1 3177714114,Inbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-03-30 14:45:15,02:06,126,"Source number	-	+1 3177714114 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:06 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1711824380_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 14:47:28,2024-03-30 14:47:28,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1711824380_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000010535001,zcrm_5861855000000432001,Outgoing call to +1 3177714114,Outbound,,zcrm_5861855000000835261,zcrm_5861855000000454005,2024-03-30 15:22:06,00:30,30,"Source number	-	+1 3177569969 
+Destination number	-	+1 3177714114 
+Call type	-	Outbound 
+Duration	-	00:30 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1711826526_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 15:23:04,2024-03-30 15:23:04,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13177714114_1711826526_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000010548001,zcrm_5861855000000432001,Incoming call from +1 4637103847,Inbound,,zcrm_5861855000000835290,,2024-03-30 16:50:50,04:52,292,"Source number	-	+1 4637103847 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:52 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14637103847_1711831915_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 16:56:13,2024-03-30 16:56:13,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=14637103847_1711831915_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000010958001,zcrm_5861855000000432001,Incoming call from +1 3173837300,Inbound,,,,2024-04-04 14:07:42,01:48,108,"Source number	-	+1 3173837300 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:48 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173837300_1712254127_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-04 14:09:55,2024-04-04 14:09:55,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13173837300_1712254127_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000010959001,zcrm_5861855000000432001,Incoming call from +1 7866815127,Inbound,,zcrm_5861855000000544267,,2024-04-04 14:49:50,02:43,163,"Source number	-	+1 7866815127 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	02:43 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17866815127_1712256655_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-04 14:53:01,2024-04-04 14:53:01,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17866815127_1712256655_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000010988001,zcrm_5861855000000432001,Incoming call from +1 3178680266,Inbound,,zcrm_5861855000009338095,,2024-04-05 12:10:29,03:03,183,"Source number	-	+1 3178680266 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	03:03 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-05 12:14:09,2024-04-05 12:14:09,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000010996001,zcrm_5861855000000432001,Incoming call from +1 3173733942,Inbound,,zcrm_5861855000009338001,,2024-04-05 12:38:22,06:51,411,"Source number	-	+1 3173733942 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	06:51 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-05 12:45:43,2024-04-05 12:45:43,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000010997001,zcrm_5861855000000432001,Incoming call from +1 3173733942,Inbound,,zcrm_5861855000009338001,,2024-04-05 12:45:27,04:29,269,"Source number	-	+1 3173733942 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	04:29 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-05 12:50:13,2024-04-05 12:50:13,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000011001001,zcrm_5861855000000432001,Incoming call from +1 3173733942,Inbound,,zcrm_5861855000009338001,,2024-04-05 12:54:20,01:34,94,"Source number	-	+1 3173733942 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:34 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-05 12:56:13,2024-04-05 12:56:13,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000011009001,zcrm_5861855000000432001,Incoming call from +1 3172502637,Inbound,,zcrm_5861855000000835114,,2024-04-05 14:04:03,01:50,110,"Source number	-	+1 3172502637 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	01:50 
+Handled by	-	cody@srvgroup.co",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-05 14:06:27,2024-04-05 14:06:27,,zcrm_5861855000000091005,,false,,,,,,,,,,,,Available
+zcrm_5861855000011345002,zcrm_5861855000000432001,Outgoing call to +1 3172133029,Outbound,,zcrm_5861855000005203001,,2024-04-11 12:53:25,00:17,17,"Source number	-	+1 3177569969 
+Destination number	-	+1 3172133029 
+Call type	-	Outbound 
+Duration	-	00:17 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172133029_1712854405_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 12:54:28,2024-04-11 12:54:28,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172133029_1712854405_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000011346001,zcrm_5861855000000432001,Outgoing call to +1 3172095775,Outbound,,zcrm_5861855000000544832,,2024-04-11 12:15:26,00:26,26,"Source number	-	+1 3177569969 
+Destination number	-	+1 3172095775 
+Call type	-	Outbound 
+Duration	-	00:26 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1712852126_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 12:16:24,2024-04-11 12:16:24,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172095775_1712852126_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000011353001,zcrm_5861855000000432001,Outgoing call to +1 7708376086,Outbound,,zcrm_5861855000000835257,,2024-04-11 12:49:07,00:19,19,"Source number	-	+1 3177569969 
+Destination number	-	+1 7708376086 
+Call type	-	Outbound 
+Duration	-	00:19 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1712854147_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 12:49:58,2024-04-11 12:49:58,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=17708376086_1712854147_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000011353011,zcrm_5861855000000432001,Incoming call from +1 8182357656,Inbound,,zcrm_5861855000010886001,,2024-04-11 19:03:22,05:09,309,"Source number	-	+1 8182357656 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	05:09 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18182357656_1712876667_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 19:08:46,2024-04-11 19:08:46,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18182357656_1712876667_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000011354001,zcrm_5861855000000432001,Outgoing call to +1 3172133029,Outbound,,zcrm_5861855000005203001,,2024-04-11 12:51:14,00:23,23,"Source number	-	+1 3177569969 
+Destination number	-	+1 3172133029 
+Call type	-	Outbound 
+Duration	-	00:23 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172133029_1712854274_828604746_37598000000003015.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 12:52:28,2024-04-11 12:52:28,,zcrm_5861855000000091005,,false,,,,,Completed,False,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=13172133029_1712854274_828604746_37598000000003015.wav&mode=download,Available
+zcrm_5861855000011381001,zcrm_5861855000000432001,Incoming call from +1 8182357656,Inbound,,zcrm_5861855000010886001,,2024-04-11 18:48:14,11:35,695,"Source number	-	+1 8182357656 
+Destination number	-	+1 3177569969 
+Call type	-	Inbound 
+Duration	-	11:35 
+Handled by	-	cody@srvgroup.co 
+Call recording	-	https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18182357656_1712875759_828604746_37598000000006043.wav&mode=download",,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 19:00:14,2024-04-11 19:00:14,,zcrm_5861855000000091005,,false,,,,,,,,,,,https://voice.zoho.com/rest/json/zv/logs/recording?recording_filename=18182357656_1712875759_828604746_37598000000006043.wav&mode=download,Available
+zcrm_5861855000016211001,zcrm_5861855000000432001,Call scheduled with Emmanuel A Dos Reis Rodriguez,Outbound,General Inquiries,zcrm_5861855000000546255,,2024-08-27 14:40:00,,,,,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-08-27 01:35:55,2024-08-27 01:35:55,2024-08-27 18:40:00.0,zcrm_5861855000000091005,,false,,,,,Overdue,True,,,,,,Available

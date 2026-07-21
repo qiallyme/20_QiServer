@@ -1,0 +1,69 @@
+Code,Category Description,FILE CODE FILES,Parent Category,Sub Category
+100-PERS,Personal Information,,,
+110-PERS-ID,"110 - Identity Documents (e.g.,,,
+120-PERS-BIO,"120 - Biographic Information (e.g.,,,
+130-PERS-MISC,"130 - Miscellaneous Personal Records (e.g.,,,
+200-FORM,Immigration Forms and Applications,,,
+210-FORM-PET,"210 - Petitions (e.g.,,,
+220-FORM-ADJ,"220 - Adjustment and Consular Processing Documents (e.g.,,,
+230-FORM-WAV,"230 - Waivers (e.g.,,,
+240-FORM-EA,"240 - Employment and Authorization Forms (e.g.,,,
+250-FORM-MISC,"250 - Miscellaneous Immigration Forms (e.g.,,,
+300-EVID,Supporting Evidence,,,
+310-EVID-HARD,"310 - Hardship Evidence (e.g.,,,
+320-EVID-REL,"320 - Relationship Evidence (e.g.,,,
+330-EVID-COM,"330 - Community Ties (e.g.,,,
+340-EVID-MISC,"340 - Miscellaneous Supporting Evidence (e.g.,,,
+400-LEGAL,Legal and Case Records,,,
+410-LEGAL-IMM,"410 - Immigration History (e.g.,,,
+420-LEGAL-CRIM,"420 - Criminal or Civil Records (e.g.,,,
+430-LEGAL-LIT,"430 - Litigation or Appeals (e.g.,,,
+440-LEGAL-MISC,"440 - Miscellaneous Legal Records (e.g.,,,
+500-CORR,Attorney Correspondence,,,
+510-CORR-STRAT,"510 - Legal Strategy and Notes (e.g.,,,
+520-CORR-COM,"520 - Correspondence (e.g.,,,
+530-CORR-UPDT,"530 - Updates and Notices (e.g.,,,
+600-RES,Resources and References,,,
+610-RES-LEGAL,"610 - Legal and Policy Guides (e.g.,,,
+620-RES-COM,"620 - Community and Support Resources (e.g.,,,
+630-RES-TEMPL,"630 - Forms and Templates (e.g.,,,
+640-RES-MISC,"640 - Miscellaneous Resources (e.g.,,,
+700-ASYLUM,Asylum Case,,,
+700.1-ASYLUM-INTAKE,"700.1 - Asylum Intake Documents (e.g.,,,
+700.2-ASYLUM-EVID,"700.2 - Asylum Evidence and Supporting Documents (e.g.,,,
+700.3-ASYLUM-DECISION,"700.3 - Asylum Decision Documents (e.g.,,,
+260-FORM DS260,,,,
+100-PERS,Personal Information,,,"110-PERS-ID (110-PERS-ID%20179f84a0440280dd91b0db51ba665721.csv)
+110-PERS-ID,"110 - Identity Documents (e.g.,Passport copies,National ID)",
+230-FORM-WAV,"230 - Waivers (e.g.,I-601,I-601A,I-212)"
+120-PERS-BIO,"120 - Biographic Information (e.g.,Birth certificates,Marriage certificates)",
+210-FORM-PET,"210 - Petitions (e.g.,I-130,I-140,I-360)"
+130-PERS-MISC,"130 - Miscellaneous Personal Records (e.g.,Photos,Personal statements)",
+220-FORM-ADJ,"220 - Adjustment and Consular Processing Documents (e.g.,I-485,DS-260)",
+200-FORM,Immigration Forms and Applications,,,"210-FORM-PET (210-FORM-PET%20179f84a04402809bbd72dc91c78a47f0.csv)
+430-LEGAL-LIT,"430 - Litigation or Appeals (e.g.,Court filings,Briefs,Appeal decisions)"
+440-LEGAL-MISC,"440 - Miscellaneous Legal Records (e.g.,Legal consultations,Case-related legal docs)",
+300-EVID,Supporting Evidence,,,"310-EVID-HARD (310-EVID-HARD%20179f84a044028050a3bdeebaacdd2072.csv)
+500-CORR,Attorney Correspondence,,,"510-CORR-STRAT (510-CORR-STRAT%20179f84a044028076b134e21f5ee23b95.csv)
+250-FORM-MISC,"250 - Miscellaneous Immigration Forms (e.g.,I-589,I-751)",
+240-FORM-EA,"240 - Employment and Authorization Forms (e.g.,I-765,I-131)",
+320-EVID-REL,"320 - Relationship Evidence (e.g.,Marriage certificates,Joint financial records,Photos)"
+340-EVID-MISC,"340 - Miscellaneous Supporting Evidence (e.g.,Educational records,Employment letters)",
+310-EVID-HARD,"310 - Hardship Evidence (e.g.,Medical records,Financial hardship documents)",
+420-LEGAL-CRIM,"420 - Criminal or Civil Records (e.g.,Police reports,Court documents)",
+400-LEGAL,Legal and Case Records,,,"410-LEGAL-IMM (410-LEGAL-IMM%20179f84a0440280daae0de28a4f1cf9e3.csv)
+330-EVID-COM,"330 - Community Ties (e.g.,Letters from community members,Proof of involvement)",
+410-LEGAL-IMM,"410 - Immigration History (e.g.,Previous visas,I-94 records)",
+600-RES,Resources and References,,,"610-RES-LEGAL (610-RES-LEGAL%20179f84a0440280e6a480fe6cba37bf11.csv)
+700.3-ASYLUM-DECISION,"700.3 - Asylum Decision Documents (e.g.,Immigration judge rulings,Appeal decisions)",
+630-RES-TEMPL,"630 - Forms and Templates (e.g.,Blank forms,Template letters)",
+520-CORR-COM,"520 - Correspondence (e.g.,Letters,Emails with client or immigration authorities)",
+530-CORR-UPDT,"530 - Updates and Notices (e.g.,Status updates,Notices from immigration authorities)",
+510-CORR-STRAT,"510 - Legal Strategy and Notes (e.g.,Legal briefs,Strategy outlines)",
+700.2-ASYLUM-EVID,"700.2 - Asylum Evidence and Supporting Documents (e.g.,Affidavits,Witness statements)",
+700-ASYLUM,Asylum Case,,,"700.1-ASYLUM-INTAKE (700%201-ASYLUM-INTAKE%20179f84a0440280ceac7ffd60e4b5d0f9.csv)
+700.1-ASYLUM-INTAKE,"700.1 - Asylum Intake Documents (e.g.,Asylum application,Initial statements)",
+640-RES-MISC,"640 - Miscellaneous Resources (e.g.,Country conditions reports,News articles)",
+610-RES-LEGAL,"610 - Legal and Policy Guides (e.g.,Immigration law manuals,USCIS guidelines)",
+620-RES-COM,"620 - Community and Support Resources (e.g.,Community support organizations)",,600-RES (600-RES%20179f84a0440280268a98dcb9e4c23908.csv)
+260-FORM DS260,,,,

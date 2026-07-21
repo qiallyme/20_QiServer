@@ -1,0 +1,7 @@
+version,sensitivity,classification,default_visibility,allowed_realms,mask_rules,notes
+1,public,standard,all,all,none,"Default open content."
+1,internal,system_darkmatter,admins_only,QiOS|QiBusiness,hide_in_clients,"System substrates, registries, infra. Never route outside DM."
+1,confidential,client_private,client_owner_only,QiClients,mask_non_owner,"Client owned. Visible only to owner + admins."
+1,restricted,legal_hold,admins_only,QiLegal|Archives,lock_no_merge,"No dedupe merges or deletes without explicit approval."
+1,secret,personal_health,self_only,QiPersonal,mask_everyone_else,"Personal sensitive data. Do not surface in shared UIs."
+1,export,rendered_output,all,all,none,"Non-canonical outputs (html/json/csv renders). Stored as assets unless flagged schema."

@@ -1,0 +1,94 @@
+"Quantum Innova People Inc.
+Expense Details
+
+From 01/01/2024 To 12/31/2024",,,,,,,,,,,,,
+status,date,transaction_number,vendor_name,account_name,customer_name,amount,amount_with_tax,transaction_type,transaction_id,vendor_id,customer_id,receipt_name,expense.CF.Request Receipt Affidavit
+nonbillable,2024-07-26,,Cody-SRVONE LLC,4701-Business License,QHR Internal,11,11,expense,5454236000000362097,5454236000000118003,5454236000000337095,8_2_2024 (3).pdf,
+nonbillable,2024-07-29,,Cody-SRVONE LLC,4203-Software Subscription,QHR Internal,23.23,23.23,expense,5454236000000338153,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 144734.png,
+nonbillable,2024-07-30,,Cody-SRVONE LLC,4011-Online Ads,QHR Internal,14.52,14.52,expense,5454236000000485209,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 144803.png,
+nonbillable,2024-08-01,,Cody-SRVONE LLC,5102A-Postage,QHR Internal,10,10,expense,5454236000000338117,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 144828.png,
+nonbillable,2024-08-05,,Cody-SRVONE LLC,4011-Online Ads,QHR Internal,2.03,2.03,expense,5454236000000485301,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 141131.png,
+nonbillable,2024-08-08,,Cody-SRVONE LLC,4203-Software Subscription,QHR Internal,11,11,expense,5454236000000362073,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 144903.png,
+nonbillable,2024-08-08,,Cody-SRVONE LLC,4203-Software Subscription,QHR Internal,45,45,expense,5454236000000485313,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 142247.png,
+nonbillable,2024-08-09,,Cody-SRVONE LLC,4203-Software Subscription,QHR Internal,43.55,43.55,expense,5454236000000485325,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 142330.png,
+nonbillable,2024-08-10,,Cody-SRVONE LLC,4905-Telephone Expense,QHR Internal,20,20,expense,5454236000000362527,5454236000000118003,5454236000000337095,Screenshot 2024-08-17 011920.png,
+nonbillable,2024-08-11,,Cody-SRVONE LLC,4701-Business License,QHR Internal,97.04,97.04,expense,5454236000000362109,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 145019.png,
+nonbillable,2024-08-13,,Cody-SRVONE LLC,4905-Telephone Expense,QHR Internal,39,39,expense,5454236000000513327,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 145426.png,
+nonbillable,2024-08-13,,Cody-SRVONE LLC,4905-Telephone Expense,QHR Internal,2,2,expense,5454236000000513349,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 145810.png,
+nonbillable,2024-08-14,,Cody-SRVONE LLC,4905-Telephone Expense,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,20,20,expense,5454236000000259005,5454236000000118003,5454236000000115003,ZE_8140928.jpg,
+nonbillable,2024-08-22,,Cody-SRVONE LLC,Printing and Stationery,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,39.58,39.58,expense,5454236000000485277,5454236000000118003,5454236000000115003,Screenshot 2024-08-23 140924.png,
+nonbillable,2024-08-23,,Cody-SRVONE LLC,Printing and Stationery,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,4.59,4.59,expense,5454236000000485233,5454236000000118003,5454236000000115003,Screenshot 2024-08-23 145055.png,
+nonbillable,2024-08-23,,Cody-SRVONE LLC,Printing and Stationery,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,5.34,5.34,expense,5454236000000485255,5454236000000118003,5454236000000115003,Screenshot 2024-08-23 140625.png,
+nonbillable,2024-08-23,,Cody-SRVONE LLC,4203-Software Subscription,QHR Internal,45.52,45.52,expense,5454236000000485663,5454236000000118003,5454236000000337095,Screenshot 2024-08-23 144632.png,
+nonbillable,2024-08-29,,Long Horns,4851-Meals with Clients,,69.77,74.65,expense,5454236000000630003,5454236000001526217,,ZE_8290797.jpg,
+nonbillable,2024-09-07,,Zoho Corp,4203-Software Subscription,,15,15,expense,5454236000000863063,5454236000000109003,,610538421.pdf,
+nonbillable,2024-09-10,,,4850-Deductible Meals,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,9.16,9.16,expense,5454236000001298027,,5454236000000115003,ZE_9240152.jpg,
+nonbillable,2024-09-11,,,4850-Deductible Meals,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,38.9,38.9,expense,5454236000001298041,,5454236000000115003,ZE_9240855.jpg,
+nonbillable,2024-09-14,,,4203-Software Subscription,SRV1ne,92.19,92.19,expense,5454236000001109037,,5454236000000121003,ZE_9140611.jpg,
+reimbursed,2024-09-23,,DD Doordash Dashmart,4852-Meals During Travel,SRV1ne,71.98,71.98,expense,5454236000001318038,5454236000001318007,5454236000000121003,,false
+nonbillable,2024-09-25,,,4852-Meals During Travel,SRV1ne,40.22,40.22,expense,5454236000001316029,,5454236000000121003,ZE_9250561.jpg,
+unbilled,2024-09-25,,Expedia.com,4803-Hotel and Lodging,SRV1ne,18.75,18.75,expense,5454236000001900150,5454236000001900119,5454236000000121003,,false
+nonbillable,2024-09-26,,Motel 6,4803-Hotel and Lodging,,40,40,expense,5454236000002307172,5454236000002307055,,,
+nonbillable,2024-09-28,,,4852-Meals During Travel,SRV1ne,33.89,33.89,expense,5454236000001499069,,5454236000000121003,DoorDash Food Delivery & Takeout - From Restaurants Near You 333.pdf,
+nonbillable,2024-09-30,,,4852-Meals During Travel,SRV1ne,22.51,22.51,expense,5454236000001499021,,5454236000000121003,DoorDash Food Delivery & Takeout - From Restaurants Near You.pdf,false
+nonbillable,2024-09-30,,,4852-Meals During Travel,SRV1ne,14.7,14.7,expense,5454236000001506019,,5454236000000121003,09302024_003.jpg,false
+reimbursed,2024-09-30,,,4852-Meals During Travel,SRV1ne,43.75,43.75,expense,5454236000001506045,,5454236000000121003,09302024_001.jpg,false
+reimbursed,2024-09-30,,Walgreens,4852-Meals During Travel,SRV1ne,46.35,46.35,expense,5454236000002339168,5454236000002339150,5454236000000121003,,true
+nonbillable,2024-10-02,,,4850-Deductible Meals,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,38.35,38.35,expense,5454236000002308063,,5454236000000115003,10212024_018.jpg,
+nonbillable,2024-10-02,,SquareUp,5109-Bank Fees and Charges,,0.01,0.01,expense,5454236000002480115,5454236000002339493,,,false
+nonbillable,2024-10-02,,,4803-Hotel and Lodging,SRV1ne,40,40,expense,5454236000002484177,,5454236000000121003,,
+nonbillable,2024-10-04,,,4851-Meals with Clients,,19.62,19.62,expense,5454236000002308147,,,10212024_008.jpg,
+nonbillable,2024-10-06,,,4852-Meals During Travel,,3.47,3.47,expense,5454236000002506057,,,Attachments_20241103093754742.jpg,
+nonbillable,2024-10-07,,,4851-Meals with Clients,,50.21,50.21,expense,5454236000002308135,,,10212024_007.jpg,
+nonbillable,2024-10-07,,,4851-Meals with Clients,,50.21,50.21,expense,5454236000002480540,,,,false
+nonbillable,2024-10-08,,,4850-Deductible Meals,,10.08,10.08,expense,5454236000002308003,,,10212024_010.jpg,
+nonbillable,2024-10-08,,Motel 6,4803-Hotel and Lodging,,40,40,expense,5454236000002480419,5454236000002307055,,,false
+nonbillable,2024-10-09,,McDonald's,4850-Deductible Meals,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,16.43,16.43,expense,5454236000002480477,5454236000001900205,5454236000000115003,,false
+nonbillable,2024-10-11,,,4012-Offline Ads,,36.5,36.5,expense,5454236000001790011,,,invoice-04301-30985396.pdf,
+nonbillable,2024-10-11,,,4026-Cosmetic,,12,12,expense,5454236000002308123,,,10212024_006.jpg,
+nonbillable,2024-10-15,,Canva,4011-Online Ads,,36.5,36.5,expense,5454236000002480167,5454236000002480021,,,false
+nonbillable,2024-10-15,,Zoho Corp,4905-Telephone Expense,,5,5,expense,5454236000002480235,5454236000000109003,,,false
+nonbillable,2024-10-15,,GSuite,IT and Internet Expenses,,61.7,61.7,expense,5454236000002480505,5454236000002344042,,,false
+nonbillable,2024-10-16,,Quicken,4203-Software Subscription,SRV1ne,71.91,71.91,expense,5454236000001931041,5454236000002339924,5454236000000121003,Screenshot 2024-10-16 142755.png,false
+nonbillable,2024-10-16,,,4850-Deductible Meals,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,91.76,91.76,expense,5454236000002308027,,5454236000000115003,10212024_012.jpg,
+nonbillable,2024-10-17,,Motel 6,4803-Hotel and Lodging,,40,40,expense,5454236000002480453,5454236000002307055,,,false
+nonbillable,2024-10-17,,Chilis,4850-Deductible Meals,,91.76,91.76,expense,5454236000002480566,5454236000002344004,,,false
+nonbillable,2024-10-17,,,4203-Software Subscription,SRV1ne,71.91,71.91,expense,5454236000002484501,,5454236000000121003,,
+nonbillable,2024-10-21,,Indy Famous Pancake House,4851-Meals with Clients,,121.92,121.92,expense,5454236000002480616,5454236000002339884,,,false
+nonbillable,2024-10-21,,Quicken,4203-Software Subscription,,43.13,43.13,expense,5454236000002480638,5454236000002339924,,,false
+nonbillable,2024-10-21,,OpenAi,4203.Artificial Intelligence Systems,,10,10,expense,5454236000002480660,5454236000002339804,,,false
+nonbillable,2024-10-21,,The Alexander,4851-Meals with Clients,,78.22,78.22,expense,5454236000002480682,5454236000002344082,,,false
+nonbillable,2024-10-21,,Tacos,4851-Meals with Clients,,38.07,38.07,expense,5454236000002480704,5454236000002339844,,,false
+nonbillable,2024-10-21,,The Snug,4851-Meals with Clients,,47.06,47.06,expense,5454236000002480726,5454236000002339220,,,false
+nonbillable,2024-10-25,,USPS,5102-Postage and Shipping,,6.64,6.64,expense,5454236000002480752,5454236000002464053,,,false
+nonbillable,2024-10-27,,,4852-Meals During Travel,,25.41,25.41,expense,5454236000002308433,,,Screensho.jpg,false
+nonbillable,2024-10-30,,Indiana Secretary of State,4701-Business License,,95,95,expense,5454236000002480275,5454236000002480257,,,false
+nonbillable,2024-10-30,,Indiana Secretary of State,4701-Business License,,20,20,expense,5454236000002480297,5454236000002480257,,,false
+nonbillable,2024-10-31,,,5100-Other Expenses,,4.94,4.94,expense,5454236000002486326,,,,false
+nonbillable,2024-10-31,,Indiana Secretary of State,5109-Bank Fees and Charges,,2.04,2.04,expense,5454236000002517011,5454236000002480257,,,false
+nonbillable,2024-10-31,,Indiana Secretary of State,5109-Bank Fees and Charges,,1,1,expense,5454236000002517052,5454236000002480257,,,false
+nonbillable,2024-11-01,,The Garden Table,4851-Meals with Clients,,33.25,33.25,expense,5454236000002486282,5454236000002486264,,,false
+nonbillable,2024-11-01,,McDonald's,4850-Deductible Meals,,7.72,7.72,expense,5454236000002486302,5454236000001900205,,,false
+nonbillable,2024-11-04,,G-Suite,4203-Software Subscription,,28.39,28.39,expense,5454236000002859140,5454236000002859122,,,false
+nonbillable,2024-11-04,,McDonald's,4852-Meals During Travel,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,4.45,4.45,expense,5454236000002885162,5454236000001900205,5454236000000115003,,false
+nonbillable,2024-11-04,,Average Joe's and Mine Card,4850-Deductible Meals,,5.27,5.27,expense,5454236000002885205,5454236000002486246,,,false
+nonbillable,2024-11-06,,,5109-Bank Fees and Charges,,36,36,expense,5454236000002713001,,,,false
+nonbillable,2024-11-07,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,104.85,104.85,expense,5454236000002622013,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-8393874-0813813.pdf,false
+nonbillable,2024-11-07,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,427.96,427.96,expense,5454236000002623005,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-4743601-6761014.pdf,false
+nonbillable,2024-11-07,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,573.62,573.62,expense,5454236000002625011,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-4192554-6614613.pdf,false
+nonbillable,2024-11-07,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,64.19,64.19,expense,5454236000002634009,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-5478049-6445822.pdf,false
+nonbillable,2024-11-07,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,116.63,116.63,expense,5454236000002635019,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-9840066-8221859.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,128.38,128.38,expense,5454236000002622039,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-3959046-2313018.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,64.19,64.19,expense,5454236000002623031,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-9511078-5621046.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,85.59,85.59,expense,5454236000002624019,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-1678932-7824231.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,25.67,25.67,expense,5454236000002625037,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-7657166-3992264.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,4.91,4.91,expense,5454236000002631007,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-1554846-3181859.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,64.19,64.19,expense,5454236000002632015,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-9511078-5621046.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,19.24,19.24,expense,5454236000002636015,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-6937429-5239455.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,18.18,18.18,expense,5454236000002639007,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-6360181-1025856.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,23.37,23.37,expense,5454236000002640015,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-0641315-1615463.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,16,16,expense,5454236000002644009,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-3189006-1829846.pdf,false
+nonbillable,2024-11-08,,Amazon Prime,4600-Cost of Goods Sold,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,4.91,4.91,expense,5454236000002655029,5454236000000375031,5454236000000115003,Amazon.com+-+Order+113-1546833-7498613.pdf,false
+nonbillable,2024-11-12,,Best Buy,4852-Meals During Travel,,2.45,2.45,expense,5454236000002885245,5454236000002885227,,,false
+nonbillable,2024-11-12,,McDonald's,4851-Meals with Clients,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,18.37,18.37,expense,5454236000002885267,5454236000001900205,5454236000000115003,,false
+nonbillable,2024-11-15,,Starbucks,4851-Meals with Clients,Office Pride Commercial Cleaning Services of Indianapolis-Carmel,38.86,38.86,expense,5454236000003010005,5454236000001100001,5454236000000115003,,true

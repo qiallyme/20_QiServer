@@ -1,0 +1,141 @@
+General Ledger,,,,,,,,,,
+Cody Rice-Velasquez,,,,,,,,,,
+"January-December, 2025",,,,,,,,,,
+,,,,,,,,,,
+,Distribution account,Transaction date,Transaction type,Num,Name,Memo/Description,Split account,Amount,Balance,Adj
+Accounts Receivable (A/R),,,,,,,,,,
+,Accounts Receivable (A/R),01/01/2025,Invoice,1012,Zaitullah Jan Khebarkhil,,,"1,311.81","1,311.81",No
+,Accounts Receivable (A/R),01/01/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-40.00,"1,271.81",No
+,Accounts Receivable (A/R),01/02/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-100.00,"1,171.81",No
+,Accounts Receivable (A/R),01/04/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,121.81",No
+,Accounts Receivable (A/R),01/04/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,071.81",No
+,Accounts Receivable (A/R),01/05/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-30.00,"1,041.81",No
+,Accounts Receivable (A/R),01/10/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,991.81,No
+,Accounts Receivable (A/R),01/14/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-80.00,911.81,No
+,Accounts Receivable (A/R),01/14/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,861.81,No
+,Accounts Receivable (A/R),01/14/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,811.81,No
+,Accounts Receivable (A/R),01/18/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-80.00,731.81,No
+,Accounts Receivable (A/R),01/18/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,681.81,No
+,Accounts Receivable (A/R),01/18/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,631.81,No
+,Accounts Receivable (A/R),01/27/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,581.81,No
+,Accounts Receivable (A/R),01/27/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-40.00,541.81,No
+,Accounts Receivable (A/R),01/31/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-16.00,525.81,No
+,Accounts Receivable (A/R),01/31/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-100.00,425.81,No
+,Accounts Receivable (A/R),02/01/2025,Invoice,1013,Zaitullah Jan Khebarkhil,,,"1,100.00","1,525.81",No
+,Accounts Receivable (A/R),02/01/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,475.81",No
+,Accounts Receivable (A/R),02/03/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-20.00,"1,455.81",No
+,Accounts Receivable (A/R),02/03/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,405.81",No
+,Accounts Receivable (A/R),02/11/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-300.00,"1,105.81",No
+,Accounts Receivable (A/R),02/14/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-40.00,"1,065.81",No
+,Accounts Receivable (A/R),02/23/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-100.00,965.81,No
+,Accounts Receivable (A/R),02/25/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-100.00,865.81,No
+,Accounts Receivable (A/R),02/25/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-1.00,864.81,No
+,Accounts Receivable (A/R),02/27/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-100.00,764.81,No
+,Accounts Receivable (A/R),02/27/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-20.00,744.81,No
+,Accounts Receivable (A/R),03/01/2025,Invoice,1014,Zaitullah Jan Khebarkhil,,,"1,200.80","1,945.61",No
+,Accounts Receivable (A/R),03/01/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,895.61",No
+,Accounts Receivable (A/R),03/01/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,845.61",No
+,Accounts Receivable (A/R),03/07/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-70.00,"1,775.61",No
+,Accounts Receivable (A/R),03/10/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-100.00,"1,675.61",No
+,Accounts Receivable (A/R),03/14/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,625.61",No
+,Accounts Receivable (A/R),03/16/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,575.61",No
+,Accounts Receivable (A/R),03/17/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-40.00,"1,535.61",No
+,Accounts Receivable (A/R),03/17/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-30.00,"1,505.61",No
+,Accounts Receivable (A/R),03/18/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,"1,455.61",No
+,Accounts Receivable (A/R),03/19/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-16.00,"1,439.61",No
+,Accounts Receivable (A/R),03/20/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-37.00,"1,402.61",No
+,Accounts Receivable (A/R),03/21/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-37.00,"1,365.61",No
+,Accounts Receivable (A/R),03/23/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-25.00,"1,340.61",No
+,Accounts Receivable (A/R),03/23/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-297.00,"1,043.61",No
+,Accounts Receivable (A/R),03/26/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-20.00,"1,023.61",No
+,Accounts Receivable (A/R),03/28/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-20.00,"1,003.61",No
+,Accounts Receivable (A/R),03/30/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-30.00,973.61,No
+,Accounts Receivable (A/R),03/30/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,923.61,No
+,Accounts Receivable (A/R),04/02/2025,Invoice,1001,Zaitullah Jan Khebarkhil,,,305.00,"1,228.61",No
+,Accounts Receivable (A/R),04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-30.00,"1,198.61",No
+,Accounts Receivable (A/R),04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-0.54,"1,198.07",No
+,Accounts Receivable (A/R),04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-23.00,"1,175.07",No
+,Accounts Receivable (A/R),04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-291.46,883.61,No
+,Accounts Receivable (A/R),04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,SoFi Checking *7940,-50.00,833.61,No
+,Accounts Receivable (A/R),04/09/2025,Invoice,1002,Zaitullah Jan Khebarkhil,,,305.00,"1,138.61",No
+Total for Accounts Receivable (A/R),,,,,,,,"$1,138.61",,
+Sales,,,,,,,,,,
+,Sales,01/01/2025,Invoice,1012,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),300.00,300.00,No
+,Sales,01/01/2025,Invoice,1012,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),800.00,"1,100.00",No
+,Sales,01/01/2025,Invoice,1012,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),80.00,"1,180.00",No
+,Sales,02/01/2025,Invoice,1013,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),300.00,"1,480.00",No
+,Sales,02/01/2025,Invoice,1013,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),800.00,"2,280.00",No
+,Sales,03/01/2025,Invoice,1014,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),300.00,"2,580.00",No
+,Sales,03/01/2025,Invoice,1014,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),800.00,"3,380.00",No
+,Sales,04/02/2025,Invoice,1001,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),70.00,"3,450.00",No
+,Sales,04/02/2025,Invoice,1001,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),185.00,"3,635.00",No
+,Sales,04/02/2025,Invoice,1001,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),5.00,"3,640.00",No
+,Sales,04/02/2025,Invoice,1001,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),5.00,"3,645.00",No
+,Sales,04/09/2025,Invoice,1002,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),70.00,"3,715.00",No
+,Sales,04/09/2025,Invoice,1002,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),185.00,"3,900.00",No
+,Sales,04/09/2025,Invoice,1002,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"3,950.00",No
+Total for Sales,,,,,,,,"$3,950.00",,
+TESLA CHARGING CLEARING ACCOUNT,,,,,,,,,,
+,TESLA CHARGING CLEARING ACCOUNT,01/01/2025,Invoice,1012,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),-131.81,-131.81,No
+,TESLA CHARGING CLEARING ACCOUNT,03/01/2025,Invoice,1014,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),-100.80,-232.61,No
+,TESLA CHARGING CLEARING ACCOUNT,04/02/2025,Invoice,1001,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),-40.00,-272.61,No
+Total for TESLA CHARGING CLEARING ACCOUNT,,,,,,,,-$272.61,,
+SoFi Checking *7940,,,,,,,,,,
+,Beginning Balance,,,,,,,,-175.00,
+,SoFi Checking *7940,01/01/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),40.00,-135.00,No
+,SoFi Checking *7940,01/02/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),100.00,-35.00,No
+,SoFi Checking *7940,01/04/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,15.00,No
+,SoFi Checking *7940,01/04/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,65.00,No
+,SoFi Checking *7940,01/05/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),30.00,95.00,No
+,SoFi Checking *7940,01/10/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,145.00,No
+,SoFi Checking *7940,01/14/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),80.00,225.00,No
+,SoFi Checking *7940,01/14/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,275.00,No
+,SoFi Checking *7940,01/14/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,325.00,No
+,SoFi Checking *7940,01/18/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),80.00,405.00,No
+,SoFi Checking *7940,01/18/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,455.00,No
+,SoFi Checking *7940,01/18/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,505.00,No
+,SoFi Checking *7940,01/27/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,555.00,No
+,SoFi Checking *7940,01/27/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),40.00,595.00,No
+,SoFi Checking *7940,01/31/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),16.00,611.00,No
+,SoFi Checking *7940,01/31/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),100.00,711.00,No
+,SoFi Checking *7940,02/01/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,761.00,No
+,SoFi Checking *7940,02/03/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),20.00,781.00,No
+,SoFi Checking *7940,02/03/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,831.00,No
+,SoFi Checking *7940,02/11/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),300.00,"1,131.00",No
+,SoFi Checking *7940,02/14/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),40.00,"1,171.00",No
+,SoFi Checking *7940,02/23/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),100.00,"1,271.00",No
+,SoFi Checking *7940,02/25/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),100.00,"1,371.00",No
+,SoFi Checking *7940,02/25/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),1.00,"1,372.00",No
+,SoFi Checking *7940,02/27/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),100.00,"1,472.00",No
+,SoFi Checking *7940,02/27/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),20.00,"1,492.00",No
+,SoFi Checking *7940,03/01/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"1,542.00",No
+,SoFi Checking *7940,03/01/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"1,592.00",No
+,SoFi Checking *7940,03/07/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),70.00,"1,662.00",No
+,SoFi Checking *7940,03/10/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),100.00,"1,762.00",No
+,SoFi Checking *7940,03/14/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"1,812.00",No
+,SoFi Checking *7940,03/16/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"1,862.00",No
+,SoFi Checking *7940,03/17/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),40.00,"1,902.00",No
+,SoFi Checking *7940,03/17/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),30.00,"1,932.00",No
+,SoFi Checking *7940,03/18/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"1,982.00",No
+,SoFi Checking *7940,03/19/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),16.00,"1,998.00",No
+,SoFi Checking *7940,03/20/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),37.00,"2,035.00",No
+,SoFi Checking *7940,03/21/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),37.00,"2,072.00",No
+,SoFi Checking *7940,03/23/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),25.00,"2,097.00",No
+,SoFi Checking *7940,03/23/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),297.00,"2,394.00",No
+,SoFi Checking *7940,03/26/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),20.00,"2,414.00",No
+,SoFi Checking *7940,03/28/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),20.00,"2,434.00",No
+,SoFi Checking *7940,03/30/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),30.00,"2,464.00",No
+,SoFi Checking *7940,03/30/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"2,514.00",No
+,SoFi Checking *7940,04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),30.00,"2,544.00",No
+,SoFi Checking *7940,04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),0.54,"2,544.54",No
+,SoFi Checking *7940,04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),23.00,"2,567.54",No
+,SoFi Checking *7940,04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),291.46,"2,859.00",No
+,SoFi Checking *7940,04/05/2025,Payment,,Zaitullah Jan Khebarkhil,,Accounts Receivable (A/R),50.00,"2,909.00",No
+Total for SoFi Checking *7940,,,,,,,,"$3,084.00",,
+Retained Earnings,,,,,,,,,,
+,Beginning Balance,,,,,,,,-175.00,
+Total for Retained Earnings,,,,,,,,$0.00,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"Accrual Basis Friday, April 18, 2025 04:26 AM GMTZ",,,,,,,,,,

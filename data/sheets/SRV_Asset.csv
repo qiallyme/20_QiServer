@@ -1,0 +1,90 @@
+Record ID,Created Time,Last Modified Time,CF.SRV Asset Name,CF.Asset ID,CF.Asset Status,CF.Asset Location,CF.SRV Asset Vehicle Checkbox,CF.Asset Year,"CF.Asset Make or Brand, Model and or Type",CF.Asset Serial Number,CF.Asset Category,CF.Asset Sub-Category,CF.Asset Condition,CF.Date Purchased,CF.Date Warranty Expiry,CF.Date Retired,CF.Price Purchased (Cost),CF.Vendor,CF.Depreciation Method,CF.Depreciation Rate (Percent),CF.Depreciation Notes,CF.Responsible Person,CF.Price Estimated Current Value,CF.SRV Asset Assignment Lookup,CF.IT - IP Address,CF.IT - Hardware Specs,CF.IT - Software License,CF.IT - Recurring Total Costs (If Any),CF.Asset Notes,CF.Asset Description,CF.Asset Owner,CF.Depreciation Accumulated (Currency),CF.IT-MAC ADDRESS
+4476661000001466008,2023-12-02 16:46:03,2023-12-02 16:47:57,TP_LINK_EXTENDER,SRVASST7600,Active - In Use,ABOVE OFFICE IN MALL,false,2023,TPLINK MODEL RE105,Y2340L9006691,IT Equipment,IT Equipment-Network,Used-Excellent,2023-11-16,,,19.99,Amazon,Straight-Line (Equal Annual Depreciation),100.000000,EXPENSE,CODY,19.99,,,,,,,TPLINK FOR WIFI PROGRAM,Cody Rice-Velasquez,,5C:62:8B:EA:E7:2A
+4476661000001581737,2023-12-08 18:41:35,2023-12-08 18:42:11,Wirless Keyboard,SRVASST7644,Active - In Use,Lafayette - Conference Room,false,2023,Arteck,WKW0001,Miscellaneous,,,,,,25.73,,,,,CODY@SRVGROUP.CO,25.73,,,,,,,,,,
+4476661000001581729,2023-12-08 18:41:35,2023-12-08 18:42:11,TP-Link TL-SG105 - 5 Port,SRVASST7643,Active - In Use,Lafayette - Print Room,false,2023,TP-Link,TL-SG105,Miscellaneous,,,2022-09-16,,,17.99,,,,,CODY@SRVGROUP.CO,17.99,,,,,,,,,,
+4476661000001581721,2023-12-08 18:41:35,2023-12-08 18:42:11,TCL 50-inch,SRVASST7642,Active - In Use,Lafayette - FOH,false,2023,TCL,50S455,Miscellaneous,,,,,,289.99,,,,,CODY@SRVGROUP.CO,289.99,,,,,,,,,,
+4476661000001581713,2023-12-08 18:41:35,2023-12-08 18:42:11,TCL 32-inch (4),SRVASST7641,Active - In Use,"Lafayette, IN",false,2023,TCL,32S33504,Miscellaneous,,,,,,148.00,,,,,CODY@SRVGROUP.CO,148.00,,,,,,,,,,
+4476661000001581705,2023-12-08 18:41:35,2023-12-08 18:42:11,TCL 32-inch (3),SRVASST7640,Active - In Use,"Lafayette, IN",false,2023,TCL,32S33503,Miscellaneous,,,,,,148.00,,,,,CODY@SRVGROUP.CO,148.00,,,,,,,,,,
+4476661000001581697,2023-12-08 18:41:34,2023-12-08 18:42:11,TCL 32-inch (2),SRVASST7639,Active - In Use,"Lafayette, IN",false,2023,TCL,32S33502,Miscellaneous,,,,,,148.00,,,,,CODY@SRVGROUP.CO,148.00,,,,,,,,,,
+4476661000001581689,2023-12-08 18:41:34,2023-12-08 18:42:11,TCL 32-inch (1),SRVASST7638,Active - In Use,Lafayette - Play Room,false,2023,TCL,32S33501,Miscellaneous,,,,,,148.00,,,,,CODY@SRVGROUP.CO,148.00,,,,,,,,,,
+4476661000001581680,2023-12-08 18:41:34,2023-12-08 18:42:11,SRV_IPAD_LAF_002,SRVASST7637,Active - In Use,Lafayette - FOH,false,2023,Apple,A2197/MK2K3LLIA,Miscellaneous,,,2023-01-12,,,257.35,,,,,CODY@SRVGROUP.CO,257.35,,,Brand ‎Apple Series ‎Apple iPad Item model number ‎A2197 Operating System ‎IOS Item Weight ‎1 pounds Product Dimensions ‎10 x 8 x 6 inches Item Dimensions LxWxH ‎10 x 8 x 6 inches Color ‎Space Gray Rear Webcam Resolution ‎1.2 MP Processor Brand ‎Apple Flash Memory Size ‎32 GB Power Source ‎Battery Powered Voltage ‎230 Volts Batteries ‎1 Lithium Ion batteries required. (included),,,,,,,
+4476661000001581671,2023-12-08 18:41:34,2023-12-08 18:42:11,SRV_IPAD_LAF_001,SRVASST7636,Active - In Use,Lafayette - FOH,false,2023,Apple,MW742LL/A2197,Miscellaneous,,,2023-01-12,,,257.35,,,,,CODY@SRVGROUP.CO,257.35,,,Correction ASIN B08264XHCZ UNSPSC Code 43211509,,,,,,,
+4476661000001581662,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV_IPAD_INDY_002,SRVASST7635,Active - In Use,"Indianapolis, IN",false,2023,Apple,A2197/F9GCLW92MF3M,Miscellaneous,,,2023-01-12,,,257.35,,,,,CODY@SRVGROUP.CO,257.35,,,ASIN B08264XHCZ UNSPSC Code 43211509 Brand ‎Apple Series ‎Apple iPad Item model number ‎A2197 Operating System ‎IOS Item Weight ‎1 pounds Product Dimensions ‎10 x 8 x 6 inches Item Dimensions LxWxH ‎10 x 8 x 6 inches Color ‎Space Gray Rear Webcam Resolution ‎1.2 MP Processor Brand ‎Apple Flash Memory Size ‎32 GB Power Source ‎Battery Powered Voltage ‎230 Volts Batteries ‎1 Lithium Ion batteries required. (included),,,,,,,
+4476661000001581653,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV_IPAD_INDY_001,SRVASST7634,Active - In Use,"Indianapolis, IN",false,2023,Apple,A2197/F9GCLV08MF3M,Miscellaneous,,,2023-01-12,,,257.35,,,,,CODY@SRVGROUP.CO,257.35,,,ASIN B08264XHCZ UNSPSC Code 43211509 Brand ‎Apple Series ‎Apple iPad Item model number ‎A2197 Operating System ‎IOS Item Weight ‎1 pounds Product Dimensions ‎10 x 8 x 6 inches Item Dimensions LxWxH ‎10 x 8 x 6 inches Color ‎Space Gray Rear Webcam Resolution ‎1.2 MP Processor Brand ‎Apple Flash Memory Size ‎32 GB Power Source ‎Battery Powered Voltage ‎230 Volts Batteries ‎1 Lithium Ion batteries required. (included),,,,,,,
+4476661000001581644,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-INDY-DT003,SRVASST7633,Active - In Use,"Indianapolis, IN",false,2023,HP,HP EliteDesk 800 G3 Mini 35w_02,Miscellaneous,,,2022-11-17,,,155.97,,,,,CODY@SRVGROUP.CO,155.97,,,Serial No. 8CG83113Q Product No. FBA16XLW32CT,,,,,,,
+4476661000001581636,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-INDY-DT002,SRVASST7632,Active - In Use,"Indianapolis, IN",false,2023,DELL USED,SRVINDYDT001,Miscellaneous,,,2022-11-17,,,300.00,,,,,CODY@SRVGROUP.CO,300.00,,,,,,,,,,
+4476661000001581627,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-INDY-DT001,SRVASST7631,Active - In Use,"Indianapolis, IN",false,2023,HP,HP EliteDesk 800 G3 Mini 35w_01,Miscellaneous,,,2022-11-17,,,155.97,,,,,CODY@SRVGROUP.CO,155.97,,,Serial No. 8CG8081SV3 Product No. 1VR53UC#ABA,,,,,,,
+4476661000001581619,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-DP-INDY-27-006,SRVASST7630,Active - In Use,"Indianapolis, IN",false,2023,Phillips,272E1CA_06,Miscellaneous,,,2022-11-17,,,168.95,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581611,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-DP-INDY-27-005,SRVASST7629,Active - In Use,"Indianapolis, IN",false,2023,Phillips,272E1CA_05,Miscellaneous,,,2022-11-17,,,168.95,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581603,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-DP-INDY-27-004,SRVASST7628,Active - In Use,"Indianapolis, IN",false,2023,Phillips,272E1CA_04,Miscellaneous,,,2022-11-17,,,168.95,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581595,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-DP-INDY-27-003,SRVASST7627,Active - In Use,"Indianapolis, IN",false,2023,Phillips,272E1CA_03,Miscellaneous,,,2022-11-17,,,168.95,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581587,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-DP-INDY-27-002,SRVASST7626,Active - In Use,"Indianapolis, IN",false,2023,Phillips,272E1CA_02,Miscellaneous,,,2022-11-17,,,168.95,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581579,2023-12-08 18:41:34,2023-12-08 18:42:12,SRV-DP-INDY-27-001,SRVASST7625,Active - In Use,"Indianapolis, IN",false,2023,Phillips,272E1CA_01,Miscellaneous,,,2022-11-17,,,168.95,,,,,CODY@SRVGROUP.CO,168.95,,,,,,,,,,
+4476661000001581571,2023-12-08 18:41:34,2023-12-08 18:42:12,"Moto G play 2023 case with HD screen protector, Motorola",SRVASST7624,Active - In Use,"Indianapolis, IN",false,2023,Moto G,X003L9HOL1,Miscellaneous,,,2023-11-03,,,109.98,,,,,CODY@SRVGROUP.CO,109.98,,,,,,,,,,
+4476661000001581563,2023-12-08 18:41:34,2023-12-08 18:42:12,Lafayette Safe Key 0223-02,SRVASST7623,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK011,Miscellaneous,,,2022-09-15,,,0.00,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581555,2023-12-08 18:41:33,2023-12-08 18:42:12,Lafayette Safe Key 0223-01,SRVASST7622,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK010,Miscellaneous,,,2022-09-15,,,0.00,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581547,2023-12-08 18:41:33,2023-12-08 18:42:12,Lafayette Manager Office Key 004,SRVASST7621,Active - In Use,"Lafayette, IN - Safe",false,2023,HOME DEPOT,LFDK006,Miscellaneous,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581539,2023-12-08 18:41:33,2023-12-08 18:42:12,Lafayette Manager Office Key 003,SRVASST7620,Active - In Use,"Lafayette, IN - Safe",false,2023,HOME DEPOT,LFDK005,Miscellaneous,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581386,2023-12-08 18:41:32,2023-12-08 18:44:02,4k Conference Camera,SRVASST7601,Active - Reserved,STORAGE AT OWNERS HOME,false,2023,TONGVEO,ASIN-B09MLTY7J9,IT Equipment,IT Equipment-Peripherals,New-Opened,2023-01-01,,,155.00,Amazon,Straight-Line (Equal Annual Depreciation),20.000000,,CODY@SRVGROUP.CO,155.00,,,,,,,,Cody Rice-Velasquez,31.00,
+4476661000001882001,2023-12-28 05:27:30,2023-12-28 05:27:30,DELL INSPIRON15 3511,SRVASST7645,Inactive - In Repair,SHADOW POINTE,false,2022,DELL,ST-GYGN8R3 EX-28205196303,Electronics,Computers-Laptops,New-Sealed,,,,599.00,Amazon,Straight-Line (Equal Annual Depreciation),20.000000,STRAIGHT LINE 5 YEAR,CODY,399.00,,,,DIGITAL,0.00,STOPPED WORKING WHEN RETURNED BY GABBY,DELL INSPIRON LAPTOP ORIGINAL FOR JOEL BUT NEEDED TO USE IN OFFICE. ,Cody Rice-Velasquez,100.00,
+4476661000001882057,2023-12-28 05:45:09,2023-12-28 05:45:09,GREENG2 MINI DESKTOP,SRVASST7646,Inactive - In Repair,SHADOW POINTE,false,2020,DISCOVERY TECHNOLOGY GREEN LIFE,5095H1CF40397,Electronics,Computers-Desktops,New-Opened,,,,399.00,Amazon,Straight-Line (Equal Annual Depreciation),20.000000,,CODY RICE-VELASQUEZ,99.00,SRVASSTAS000003,,,,,,,Cody Rice-Velasquez,,
+4476661000001581394,2023-12-08 18:41:32,2023-12-28 06:10:53,Bluetooth Headset,SRVASST7602,Active - In Use,"Lafayette, IN",false,2023,LEVN,BTHEAD0001,,,,,,,59.99,,,,,CODY@SRVGROUP.CO,59.99,,,,,,,,,,
+4476661000001581402,2023-12-08 18:41:32,2023-12-28 06:10:53,Children Leisure Sofa - Gray,SRVASST7603,Active - In Use,Lafayette - Play Room,false,2023,AMAZON,LFDK012,,,,,,,99.99,,,,,CODY@SRVGROUP.CO,0.00,,,,,,,,,,
+4476661000001581418,2023-12-08 18:41:32,2023-12-28 06:10:53,iPhone_7,SRVASST7605,Active - In Use,"Indianapolis, IN",false,2023,iPhone_7,MN9D2LL/A,,,,,,,130.00,,,,,CODY@SRVGROUP.CO,130.00,,,,,,,,,,
+4476661000001581426,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_001,SRVASST7606,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_02,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,,,,,,,,
+4476661000001581434,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_002,SRVASST7607,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_01,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,,,,,,,,
+4476661000001581442,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_003,SRVASST7608,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_03,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,,,,,,,,
+4476661000001581450,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_004,SRVASST7609,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_04,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,,,,,,,,
+4476661000001581458,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_005,SRVASST7610,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_06,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,,,,,,,,
+4476661000001581466,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_006,SRVASST7611,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_05,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,Extra,,,,,,,
+4476661000001581475,2023-12-08 18:41:33,2023-12-28 06:10:53,Key_Back_INDY_007,SRVASST7612,Active - In Use,"Indianapolis, IN",false,2023,J mk Brass,989396-mex_07,,,,2022-12-03,,,3.72,,,,,CODY@SRVGROUP.CO,3.72,,,,,,,,,,
+4476661000001581483,2023-12-08 18:41:33,2023-12-28 06:10:53,Lafayette Front Door Key 001,SRVASST7613,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK001,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581491,2023-12-08 18:41:33,2023-12-28 06:10:54,Lafayette Front Door Key 002,SRVASST7614,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK002,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581499,2023-12-08 18:41:33,2023-12-28 06:10:54,Lafayette Front Door Key 003,SRVASST7615,Active - In Use,"Lafayette, IN - Safe",false,2023,HOME DEPOT,LFDK008,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581507,2023-12-08 18:41:33,2023-12-28 06:10:54,Lafayette Front Door Key 004,SRVASST7616,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK007,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581515,2023-12-08 18:41:33,2023-12-28 06:10:54,Lafayette Front Door Key 005,SRVASST7617,Active - In Use,"Lafayette, IN - Safe",false,2023,HOME DEPOT,LFDK004,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581523,2023-12-08 18:41:33,2023-12-28 06:10:54,Lafayette Manager Office Key 001,SRVASST7618,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK009,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001581531,2023-12-08 18:41:33,2023-12-28 06:10:54,Lafayette Manager Office Key 002,SRVASST7619,Active - In Use,"Lafayette, IN",false,2023,HOME DEPOT,LFDK003,,,,2022-09-15,,,3.33,,,,,CODY@SRVGROUP.CO,3.33,,,,,,,,,,
+4476661000001882149,2023-12-28 07:47:47,2023-12-28 07:47:47,HEADSET RED,SRVASST7647,Active - Reserved,GREENIE SRVHUB KIT,false,,,NA,IT Equipment,IT Equipment-Peripherals,Used-Excellent,,,,20.00,,Straight-Line (Equal Annual Depreciation),,,CODY,5.00,,,,,,,,,,
+4476661000001882157,2023-12-28 07:48:50,2023-12-28 07:48:50,HDMI CABLE 4FT,SRVASST7648,Active - Reserved,GREENIE SRVHUB KIT,false,,,NAHDMI,IT Equipment,IT Equipment-Peripherals,Used-Excellent,,,,10.00,,Straight-Line (Equal Annual Depreciation),,,CODY,,,,,,,,,,,
+4476661000001882165,2023-12-28 07:49:06,2023-12-28 07:49:06,HDMI CABLE 5FT,SRVASST7649,Active - Reserved,GREENIE SRVHUB KIT,false,,,NAHDMI2,IT Equipment,IT Equipment-Peripherals,Used-Excellent,,,,10.00,,Straight-Line (Equal Annual Depreciation),,,CODY,,,,,,,,,,,
+4476661000001882173,2023-12-28 07:49:33,2023-12-28 07:49:33,ETHERNET 5FT,SRVASST7650,Active - Reserved,GREENIE SRVHUB KIT,false,,,NAETH001,IT Equipment,IT Equipment-Peripherals,Used-Excellent,,,,10.00,,Straight-Line (Equal Annual Depreciation),,,CODY,,,,,,,,,,,
+4476661000001882181,2023-12-28 07:50:36,2023-12-28 07:50:36,HD CAMERA WITH COVER USB,SRVASST7651,Active - In Use,GREENIE SRVHUB KIT,false,,,SRVASST7651,Miscellaneous,IT Equipment-Network,Used-Good,,,,5.00,,Straight-Line (Equal Annual Depreciation),,,CODY,,,,,,,,,,,
+4476661000001882189,2023-12-28 07:53:27,2023-12-28 07:53:27,SRVHUB KIT - GREENIE MINI,SRVASST7652,Inactive - In Storage,SHADOW POINTE,false,2023,GREENIE MINI KIT,SRVASST7652,Electronics,Computers-Desktops,Used-Excellent,,,,0.00,,,,,CODY,,,,,,,"SRVHUB KIT - GREENIE MINI
+1. GREENIE MINI DESKTOP - RENEWED
+2. GREENIE MINI POWER SUPLLY
+3. HEADSET
+4. HDMI X 2
+5. WEB CAM
+6. ETHERNET","KIT FOR DESKTOP
+SRVHUB KIT - GREENIE MINI
+1. GREENIE MINI DESKTOP - RENEWED
+2. GREENIE MINI POWER SUPLLY
+3. HEADSET
+4. HDMI X 2
+5. WEB CAM
+6. ETHERNET",,,
+4476661000001581410,2023-12-08 18:41:32,2023-12-28 08:30:07,HP ELITEDESK 800 G3 MINI 35W,SRVASST7604,Active - In Use,INDY OFFICE,false,2023,HP ELITE DESK,8CG7501CBF,Electronics,Computers-Desktops,Used-Excellent,,,,156.98,Amazon,,,,CODY@SRVGROUP.CO,156.98,SRVASSTAS000003,,,,,,,,,
+4476661000001904025,2023-12-29 10:55:25,2023-12-29 10:55:25,TP_LINK_EXTENDER_03,SRVASST7653,Active - In Use,INDY OFFICE,false,2023,AC750 MESH WIFI RE220,Y239029000107,IT Equipment,IT Equipment-Network,Used-Excellent,2023-12-29,,,16.99,Amazon,Straight-Line (Equal Annual Depreciation),100.000000,EXPENSE,CODY,16.99,,5C:E9:31:A4:42:D0,,TPLINK,,TO EXTEND CAMERAS,TPLINK FOR WIFI CAMERAS,Cody Rice-Velasquez,16.99,5C:E9:31:A4:42:D0
+4476661000001905001,2023-12-29 11:18:34,2023-12-29 11:31:23,TP_LINK_EXTENDER_02,SRVASST7654,Active - In Use,INDY OFFICE,false,2023,AC750 MESH WIFI RE220,1234556678,IT Equipment,IT Equipment-Network,Used-Excellent,2023-12-29,,,16.99,Amazon,Straight-Line (Equal Annual Depreciation),100.000000,EXPENSE,CODY,16.99,,,,TPLINK,,TO EXTEND CAMERAS,TPLINK FOR WIFI CAMERAS,Cody Rice-Velasquez,16.99,
+4476661000002310009,2024-01-13 03:58:02,2024-01-13 03:58:02,"MICROSOFT SURFACE PRO 7 - 12.3""",SRVASST7655,Active - In Use,CODYS POSSESION,false,2021,MICROSOFT SURFACE,038921505153,Electronics,Computers-Laptops,Used-Good,2021-05-03,2022-05-03,,1575.00,Amazon,Straight-Line (Equal Annual Depreciation),100.000000,EXPENSED IN YEAR ONE.,CODY RICE-VELASQUEZ,1000.00,,,"Device name	SRVSURFACEPRO
+Processor	Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz
+Installed RAM	16.0 GB (15.6 GB usable)
+Device ID	ADFE1C63-724C-4FA9-AB70-8BAA79F57D11
+Product ID	00330-63104-32299-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	Pen and touch support with 10 touch points",Edition	Windows 11 Pro Version	23H2 Installed on	‎4/‎1/‎2023 OS build	22631.3007 Serial number	038921505153 Experience	Windows Feature Experience Pack 1000.22681.1000.0,0.00,"Protocol:	Unknown
+Security type:	Unknown
+Manufacturer:	Intel Corporation
+Description:	Intel(R) Wi-Fi 6 AX201 160MHz
+Driver version:	22.230.0.8
+Network channel:	7929972
+Link speed (Receive/Transmit):	6000/26000 (Kps)
+Link-local IPv6 address:	fe80::efd0:8189:78a4:11ff%16
+IPv4 DNS servers:	192.168.12.181 (Unencrypted)
+Physical address (MAC):	2E-31-83-57-3B-E0",,Cody Rice-Velasquez,1575.00,2E-31-83-57-3B-E0
+4476661000002402005,2024-01-18 12:57:27,2024-01-18 12:57:27,EAP225-Outdoor-5C-62-8B-46-77-BA,SRVASST7656,Active - In Use,Indy Office,false,2024,TP-Link,Y234068002794,IT Equipment,IT Equipment-Network,New-Opened,2024-01-17,2025-01-16,,59.99,Amazon,Straight-Line (Equal Annual Depreciation),20.000000,,Cody Rice-Velasquez,,,10.1.10.71,"EAP225-Outdoor-5C-62-8B-46-77-BA
+5.1.0 Build 20220926 Rel. 62456(5553)
+3.0
+100Mbps - FD
+2024-01-18 12:56:25",NA,0.00,Outdoor/indoor 300,,Cody Rice-Velasquez,,5C-62-8B-46-77-BA

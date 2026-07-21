@@ -1,0 +1,198 @@
+Invoice Date,Invoice ID,Invoice Number,Invoice Status,Customer ID,Total,Balance,Adjustment,Adjustment Description,Last Payment Date,Payment Terms,Item Name,Item Desc,Quantity,Discount,Discount Amount,Item Total,Usage unit,Item Price,Product ID,Brand,Sales Order Number,subscription_id,Expense Reference ID,Recurrence Name,PayPal,Authorize.Net,Google Checkout,Payflow Pro,Stripe,Paytm,2Checkout,Braintree,Forte,WorldPay,Payments Pro,Square,WePay,Razorpay,ICICI EazyPay,GoCardless,Partial Payments,Billing Attention,Billing Address,Billing Street2,Billing City,Billing State,Billing Country,Billing Code,Billing Phone,Billing Fax,Shipping Attention,Shipping Address,Shipping Street2,Shipping City,Shipping State,Shipping Country,Shipping Code,Shipping Fax,Shipping Phone Number,Project ID,Project Name,Round Off,Sales person,Subject,Primary Contact EmailID,Primary Contact Mobile,Primary Contact Phone,Estimate Number,Custom Charges,Shipping Bill#,Shipping Bill Date,Shipping Bill Total,PortCode,Account,Account Code,CF.Accounting Team Split
+2025-01-27,5894415000000188021,INV-000002,Closed,5894415000000242664,149,0,0,Adjustment,2025-01-27,0,Individual Return (1040),Preparation and filing of a standard individual tax return (Form 1040).,1,0.00,0.000,149,,149,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,,,,,,,,,,Revenue,01001,false
+2025-01-29,5894415000000197038,INV-000003,Closed,5894415000000194005,500,0,0,Adjustment,2025-01-29,0,,"Accounting Package with System for 2024 199*12 = $2388
+System Fee 50*12 = $600
+Activation Fee $249
+Activation Fee Waived (-$249)
+Total = $2,988
+Pay in full discount  (- $388)
+Deposit (-$500)
+Balance: $2100
+Pago 1 - $700 Feb 15th
+Pago 2 - $700 Mar 15st
+Pago 3 - $700 Apr 15st",1,0.00,0.000,500,,500,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,tacopolis28@gmail.com,9176245414,,QT-000001,,,,,,Revenue,01001,true
+2025-01-31,5894415000000222003,INV-000004,Closed,5894415000000211048,300,0,20.8,Tip,2025-01-31,0,Business Owner Return,Complete tax filing and advisory services for business owners.,1,20.00,69.800,279.2,,349,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,ortizamadeo317@gmail.com,13177174023,,,,,,,,Revenue,01001,true
+2025-01-31,5894415000000223023,INV-000005,Overdue,5894415000000194005,700,700,0,Adjustment,,15,,"Accounting Package with System for 2024 199*12 = $2388
+System Fee 50*12 = $600
+Activation Fee $249
+Activation Fee Waived (-$249)
+Total = $2,988
+Pay in full discount  (- $388)
+Deposit (-$500)
+Balance: $2100
+Pago 1 - $700 Feb 15th
+Pago 2 - $700 Mar 15st
+Pago 3 - $700 Apr 15st
+",1,0.00,0.000,700,,700,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,true,,4857 W 38th St,,Indianapolis,Indiana,U.S.A,46254,,,,,,,,,,,,,,0,Cody Rice-Velasquez,Pago 1 - $700 Feb 15th,tacopolis28@gmail.com,9176245414,,,,,,,,Revenue,01001,true
+2025-01-31,5894415000000223054,INV-000006,Open,5894415000000194005,700,700,0,Adjustment,,43,,"Accounting Package with System for 2024 199*12 = $2388
+System Fee 50*12 = $600
+Activation Fee $249
+Activation Fee Waived (-$249)
+Total = $2,988
+Pay in full discount  (- $388)
+Deposit (-$500)
+Balance: $2100
+Pago 1 - $700 Feb 15th
+Pago 2 - $700 Mar 15st
+Pago 3 - $700 Apr 15st
+",1,0.00,0.000,700,,700,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,true,,4857 W 38th St,,Indianapolis,Indiana,U.S.A,46254,,,,,,,,,,,,,,0,Cody Rice-Velasquez,Pago 2 - $700 Mar 15st,tacopolis28@gmail.com,9176245414,,,,,,,,Revenue,01001,true
+2025-01-31,5894415000000223066,INV-000007,Closed,5894415000000194005,700,0,0,Adjustment,2025-02-24,74,,"Accounting Package with System for 2024 199*12 = $2388
+System Fee 50*12 = $600
+Activation Fee $249
+Activation Fee Waived (-$249)
+Total = $2,988
+Pay in full discount  (- $388)
+Deposit (-$500)
+Balance: $2100
+Pago 1 - $700 Feb 15th
+Pago 2 - $700 Mar 15st
+Pago 3 - $700 Apr 15st
+",1,0.00,0.000,700,,700,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,true,,4857 W 38th St,,Indianapolis,Indiana,U.S.A,46254,,,,,,,,,,,,,,0,Cody Rice-Velasquez,Pago 3 - $700 Apr 15st,tacopolis28@gmail.com,9176245414,,,,,,,,Revenue,01001,true
+2025-02-01,5894415000000232001,INV-000008,Overdue,5894415000000211005,2199,199,0,Tip,2025-02-04,2,Accounting Plus Package,"Payment Options
+Option 1: Pay in Full (Best Value)
+Total After Discounts: $2,199
+Activation Fee Waived
+Pay with Zelle: $2,199
+Pay with Card (3% Fee): $2,265
+---
+Option 2: 4 Equal Payments
+Due Date	Zelle Payment	Card Payment (3%)
+Feb 01	$799	$823
+Mar 01	$799	$823
+Apr 01	$799	$823
+May 01	$799	$823
+Total	$3,196	$3,292
+---
+Option 3: Monthly Payments
+Activation Fee: $249
+Monthly Charge: $249
+Zelle: $249
+Card (3% Fee): $262",1,0.00,0.000,2199,,2199,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,Indianapolis,IN,United States,,,,,,,,,,,,,,,0,Crystal V.,,brotherspainting8990@yahoo.com,3173403499,3173403499,,,,,,,Revenue,01001,true
+2025-02-01,5894415000000232051,INV-000009,Closed,5894415000000211048,198,0,0,Tip,2025-02-21,0,Accounting Core,Jan-Feb,2,0.00,0.000,198,,99,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,ortizamadeo317@gmail.com,13177174023,,,,,,,,Revenue,01001,true
+2025-02-02,5894415000000242023,INV-000010,Closed,5894415000000242003,130,0,0,Tip,2025-02-02,0,Contractor Return (1040wSchC),Preparation and filing of tax returns for contractors with Schedule C.,1,0.00,119.000,130,,249,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,Rodriguez.carlos124@yahoo.com,317-306-6484,,,,,,,,Revenue,01001,false
+2025-02-01,5894415000000242856,INV-000011,Closed,5894415000000227046,130,0,0,Tip,2025-02-01,0,Individual Return (1040),Preparation and filing of a standard individual tax return (Form 1040).,1,0.00,19.000,130,,149,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,,,,,,,,,,Revenue,01001,false
+2025-02-01,5894415000000242938,INV-000012,Closed,5894415000000231005,239,0,0,Tip,2025-02-01,0,Contractor Return (1040wSchC),Preparation and filing of tax returns for contractors with Schedule C.,1,20.00,59.800,239.2,,299,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.2,Cody Rice-Velasquez,,,3175995974,,,,,,,,Revenue,01001,false
+2025-02-04,5894415000000338072,INV-000013,Closed,5894415000000202033,165,0,0,Tip,2025-02-04,0,Head of Household (HOH),Specialized filing for taxpayers qualifying as Head of Household.,1,17.00,33.830,165.17,,199,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,120 E Market St,,Indianapolis,IN,United States,46204,,,,,,,,,,,,,,-0.17,Cody Rice-Velasquez,,vianey.hdz029@gmail.com,,,,,,,,,Revenue,01001,false
+2025-02-06,5894415000000428003,INV-000014,Overdue,5894415000000424026,244,114,-25,DEPOSIT,2025-02-06,0,Contractor Return (1040wSchC),Preparation and filing of tax returns for contractors with Schedule C.,1,0.00,30.000,269,,299,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,HELMUT.ZAPATA@GMAIL.COM,4632809199,,,,,,,,Revenue,01001,true
+2025-02-08,5894415000000469017,INV-000015,Closed,5894415000000202033,249,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,0.000,249,,249,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,120 E Market St,,Indianapolis,IN,United States,46204,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,vianey.hdz029@gmail.com,,,,,,,,,Revenue,01001,false
+2025-02-08,5894415000000469075,INV-000016,Closed,5894415000000240037,810,0,0,DEPOSIT,2025-02-08,0,Accounting Plus Package,"YEAR	MONTHS	BOOKS	SYSTEM	TOTAL	QBO DISC	DISC	TOTAL2	MONTHLY	IN FULL	4 PAYMENTS
+2023	6	 $199 	 $50 	 $1,494 	 $(300)	 $(238.80)	 $400.00 	 $66.67 	 $340.00 	 $85.00 
+2024	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+2025	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+Total	30	 $597 	 $150 	 $7,470 	 $(1,500)	 $(1,194.00)	 $4,220.80 	 $385.07 	 $3,587.68 	 $896.92 
+							 $-   	299	3588	3229.2
+								199		810
+									New Total	 $3,240.00 
+									Savings	 $4,230.00 
+									8-Feb	 $810.00 
+									8-Mar	 $810.00 
+									8-Apr	 $810.00 
+									5-Aug	 $810.00 
+									Total	 $3,240.00 
+",1,0.00,0.000,810,,810,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,indytaping.317@gmail.com,+1 3175239598,,,,,,,,Revenue,01001,true
+2025-03-08,5894415000000469140,INV-000017,Open,5894415000000240037,810,810,0,DEPOSIT,,0,Accounting Plus Package,"YEAR	MONTHS	BOOKS	SYSTEM	TOTAL	QBO DISC	DISC	TOTAL2	MONTHLY	IN FULL	4 PAYMENTS
+2023	6	 $199 	 $50 	 $1,494 	 $(300)	 $(238.80)	 $400.00 	 $66.67 	 $340.00 	 $85.00 
+2024	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+2025	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+Total	30	 $597 	 $150 	 $7,470 	 $(1,500)	 $(1,194.00)	 $4,220.80 	 $385.07 	 $3,587.68 	 $896.92 
+							 $-   	299	3588	3229.2
+								199		810
+									New Total	 $3,240.00 
+									Savings	 $4,230.00 
+									8-Feb	 $810.00 
+									8-Mar	 $810.00 
+									8-Apr	 $810.00 
+									5-Aug	 $810.00 
+									Total	 $3,240.00 
+",1,0.00,0.000,810,,810,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,indytaping.317@gmail.com,+1 3175239598,,,,,,,,Revenue,01001,true
+2025-04-08,5894415000000469171,INV-000018,Open,5894415000000240037,810,810,0,DEPOSIT,,0,Accounting Plus Package,"YEAR	MONTHS	BOOKS	SYSTEM	TOTAL	QBO DISC	DISC	TOTAL2	MONTHLY	IN FULL	4 PAYMENTS
+2023	6	 $199 	 $50 	 $1,494 	 $(300)	 $(238.80)	 $400.00 	 $66.67 	 $340.00 	 $85.00 
+2024	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+2025	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+Total	30	 $597 	 $150 	 $7,470 	 $(1,500)	 $(1,194.00)	 $4,220.80 	 $385.07 	 $3,587.68 	 $896.92 
+							 $-   	299	3588	3229.2
+								199		810
+									New Total	 $3,240.00 
+									Savings	 $4,230.00 
+									8-Feb	 $810.00 
+									8-Mar	 $810.00 
+									8-Apr	 $810.00 
+									5-Aug	 $810.00 
+									Total	 $3,240.00 
+",1,0.00,0.000,810,,810,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,indytaping.317@gmail.com,+1 3175239598,,,,,,,,Revenue,01001,true
+2025-05-08,5894415000000469202,INV-000019,Open,5894415000000240037,810,810,0,DEPOSIT,,0,Accounting Plus Package,"YEAR	MONTHS	BOOKS	SYSTEM	TOTAL	QBO DISC	DISC	TOTAL2	MONTHLY	IN FULL	4 PAYMENTS
+2023	6	 $199 	 $50 	 $1,494 	 $(300)	 $(238.80)	 $400.00 	 $66.67 	 $340.00 	 $85.00 
+2024	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+2025	12	 $199 	 $50 	 $2,988 	 $(600)	 $(477.60)	 $1,910.40 	 $159.20 	 $1,623.84 	 $405.96 
+Total	30	 $597 	 $150 	 $7,470 	 $(1,500)	 $(1,194.00)	 $4,220.80 	 $385.07 	 $3,587.68 	 $896.92 
+							 $-   	299	3588	3229.2
+								199		810
+									New Total	 $3,240.00 
+									Savings	 $4,230.00 
+									8-Feb	 $810.00 
+									8-Mar	 $810.00 
+									8-Apr	 $810.00 
+									5-Aug	 $810.00 
+									Total	 $3,240.00 
+",1,0.00,0.000,810,,810,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,indytaping.317@gmail.com,+1 3175239598,,,,,,,,Revenue,01001,true
+2025-02-08,5894415000000469941,INV-000020,Closed,5894415000000469927,299,0,0,DEPOSIT,2025-02-08,0,Contractor Return (1040wSchC),Preparation and filing of tax returns for contractors with Schedule C.,1,0.00,0.000,299,,299,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Arleth Granados,,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505129,INV-000021,Closed,5894415000000505050,57,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,11.860,57.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505141,INV-000022,Closed,5894415000000505050,57,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,11.860,57.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505153,INV-000023,Closed,5894415000000505050,57,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,11.860,57.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505165,INV-000024,Closed,5894415000000505050,57,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,11.860,57.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505177,INV-000025,Closed,5894415000000505050,57,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,11.860,57.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505189,INV-000026,Closed,5894415000000505050,57,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,11.860,57.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505201,INV-000027,Closed,5894415000000505050,58,0,0,DEPOSIT,2025-02-09,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,10.860,58.14,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,-0.14,Cody Rice-Velasquez,ITIN COA,,,,,,,,,,Revenue,01001,false
+2025-02-09,5894415000000505729,INV-000028,Closed,5894415000000202033,150,0,0,DEPOSIT,2025-02-09,0,Individual Return (1040),Preparation and filing of a standard individual tax return (Form 1040).,1,0.00,0.000,150,,150,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,120 E Market St,,Indianapolis,IN,United States,46204,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,vianey.hdz029@gmail.com,,,,,,,,,Revenue,01001,false
+2025-02-10,5894415000000512142,INV-000029,Closed,5894415000000512115,169,0,0,DEPOSIT,2025-02-10,0,Head of Household (HOH),Specialized filing for taxpayers qualifying as Head of Household.,1,0.00,0.000,169,,169,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,claudiamitchelxx@gmail.com,8129466135,,,,,,,,Revenue,01001,false
+2025-02-11,5894415000000552034,INV-000030,Closed,5894415000000294665,30,0,0,DEPOSIT,2025-02-11,0,Estimate,,1,0.00,0.000,30,,30,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,true,,5241 Hillsboro Dr A13,,Indianapolis,IN,,46224,,,,,,,,,,,,,,0,Cody Rice-Velasquez,Estimate,romeroray90@gmail.com,3179699500,,,,,,,,Revenue,01001,false
+2025-02-11,5894415000000552128,INV-000031,Closed,5894415000000552101,149,0,0,DEPOSIT,2025-02-11,0,Individual Return (1040),Preparation and filing of a standard individual tax return (Form 1040).,1,0.00,0.000,149,,149,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,2024 RETURN,chavezsil73@gmail.com,3178504330,,,,,,,,Revenue,01001,false
+2025-02-11,5894415000000552261,INV-000032,Overdue,5894415000000552189,75,50,0,DEPOSIT,2025-02-11,0,Passport Photo,"Include taking picture, editing and one print, additional prints are $5 a piece. ",3,0.00,0.000,75,,25,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,Payables,120 E Market St Ste 950,,Indianapolis,Indiana,U.S.A,46204,,,Payables,120 E Market St Ste 950,,Indianapolis,Indiana,U.S.A,46204,,,,,0,Cody Rice-Velasquez,Passport photos one client paid directly.,crystal@iisitax.com,,,,,,,,,Other Income,07000,false
+2025-02-14,5894415000000691003,INV-000033,PartiallyPaid,5894415000000690003,822,422,0,DEPOSIT,2025-02-14,14,Individual Return (1040),Preparation and filing of a standard individual tax return (Form 1040).,1,0.00,0.000,822,,822,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Crystal V.,2022-2024 Tax Preparer,CHONY0723@ICLOUD.COM,5135097047,,,,,,,,Revenue,01001,true
+2025-02-15,5894415000000696017,INV-000034,Closed,5894415000000594353,725,0,0,Electronic Payment Fee,2025-02-15,0,,"Pro Accounting Package Plus
+Total 2025 $3199
+Total 2024 $199 100% Comp
+Activation $199 20% Comp
+System Act $50 20% Comp
+Total: $2899
+Payment 1 02/15/2025 $725.00
+Payment 2 03/15/2025 $725.00
+Payment 3 04/15/2025 $725.00
+Payment 4 05/15/2025 $725.00",1,0.00,0.000,725,,725,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,1912 N ABMONDSON AVE,,INDIANAPOLIS,IN,,46219,,,,,,,,,,,,,,0,Arleth Granados,,2020.oscarllm@gmail.com,3179898361,,,,,,,,Revenue,01001,true
+2025-03-15,5894415000000696047,INV-000035,Open,5894415000000594353,740,740,14.5,Electronic Payment Fee,,0,,"Pro Accounting Package Plus
+Total 2025 $3199
+Total 2024 $199 100% Comp
+Activation $199 20% Comp
+System Act $50 20% Comp
+Total: $2899
+Payment 1 02/15/2025 $725.00
+Payment 2 03/15/2025 $725.00
+Payment 3 04/15/2025 $725.00
+Payment 4 05/15/2025 $725.00",1,0.00,0.000,725,,725,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,1912 N ABMONDSON AVE,,INDIANAPOLIS,IN,,46219,,,,,,,,,,,,,,0.5,Arleth Granados,,2020.oscarllm@gmail.com,3179898361,,,,,,,,Revenue,01001,true
+2025-04-15,5894415000000696075,INV-000036,Open,5894415000000594353,740,740,14.5,Electronic Payment Fee,,0,,"Pro Accounting Package Plus
+Total 2025 $3199
+Total 2024 $199 100% Comp
+Activation $199 20% Comp
+System Act $50 20% Comp
+Total: $2899
+Payment 1 02/15/2025 $725.00
+Payment 2 03/15/2025 $725.00
+Payment 3 04/15/2025 $725.00
+Payment 4 05/15/2025 $725.00",1,0.00,0.000,725,,725,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,1912 N ABMONDSON AVE,,INDIANAPOLIS,IN,,46219,,,,,,,,,,,,,,0.5,Arleth Granados,,2020.oscarllm@gmail.com,3179898361,,,,,,,,Revenue,01001,true
+2025-05-15,5894415000000696103,INV-000037,Open,5894415000000594353,740,740,14.5,Electronic Payment Fee,,0,,"Pro Accounting Package Plus
+Total 2025 $3199
+Total 2024 $199 100% Comp
+Activation $199 20% Comp
+System Act $50 20% Comp
+Total: $2899
+Payment 1 02/15/2025 $725.00
+Payment 2 03/15/2025 $725.00
+Payment 3 04/15/2025 $725.00
+Payment 4 05/15/2025 $725.00",1,0.00,0.000,725,,725,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,1912 N ABMONDSON AVE,,INDIANAPOLIS,IN,,46219,,,,,,,,,,,,,,0.5,Arleth Granados,,2020.oscarllm@gmail.com,3179898361,,,,,,,,Revenue,01001,true
+2025-02-19,5894415000000774030,INV-000038,Closed,5894415000000774003,188,0,-18,Discount,2025-02-19,0,Contractor Return (1040wSchC),Preparation and filing of tax returns for contractors with Schedule C.,1,0.00,0.000,199,,199,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,victorcaledron502@gmail.com,3179708376,,,,,,,,Revenue,01001,false
+2025-02-19,5894415000000774030,INV-000038,Closed,5894415000000774003,188,0,-18,Discount,2025-02-19,0,Electronic Payment Fee 3%,,1,0.00,0.000,7,,7,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,victorcaledron502@gmail.com,3179708376,,,,,,,,Other Income,07000,false
+2025-02-19,5894415000000774062,INV-000039,Closed,5894415000000773882,200,0,-49,Discount,2025-02-19,0,Contractor Return (1040wSchC),Preparation and filing of tax returns for contractors with Schedule C.,1,0.00,0.000,249,,249,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,,,,,,,,,,,Revenue,01001,false
+2025-02-20,5894415000000775103,INV-000040,Overdue,5894415000000202019,50,50,0,Discount,,0,ITIN COA Only,Application service for obtaining an Individual Taxpayer Identification Number (ITIN).,1,0.00,19.000,50,,69,#N/A,,,,,,false,false,false,false,true,false,false,false,false,false,false,true,false,false,false,false,true,,,,,,,,,,,,,,,,,,,,,0,Cody Rice-Velasquez,$50 for ITIN you asked me to invoice you for from before. ,bbyarleth333@gmail.com,+1 3179829376,3179829376,,,,,,,Revenue,01001,false
+2025-02-19,5894415000000791003,Square-000001,Closed,5894415000000790039,378,0,0,,2025-02-19,0,,Net Credit Card Sales from 01/21/2025 to 02/19/2025,1,0.00,0.000,388,,388,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,,,,,,,,,,,,,,,,,,,,,0.19,,,,,,,,,,,,Revenue,01001,false
+2025-02-19,5894415000000791003,Square-000001,Closed,5894415000000790039,378,0,0,,2025-02-19,0,,Square Processing Fee,1,0.00,0.000,-10.19,,-10.19,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,,,,,,,,,,,,,,,,,,,,,0.19,,,,,,,,,,,,Square Fees,01030,false
+2025-02-21,5894415000000793292,INV-000041,Closed,5894415000000552189,25,0,0,Discount,2025-02-21,0,Passport Photo,"Include taking picture, editing and one print, additional prints are $5 a piece. ",1,0.00,0.000,25,,25,#N/A,,,,,,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,false,true,Payables,120 E Market St Ste 950,,Indianapolis,Indiana,U.S.A,46204,,,Payables,120 E Market St Ste 950,,Indianapolis,Indiana,U.S.A,46204,,,,,0,Arleth Granados,,crystal@iisitax.com,,,,,,,,,Other Income,07000,false

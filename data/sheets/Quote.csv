@@ -1,0 +1,121 @@
+Quote Date,Quote ID,Quote Number,Quote Status,Customer ID,Expiry Date,PurchaseOrder,Currency Code,Exchange Rate,Discount Type,Is Discount Before Tax,Entity Discount Percent,Is Inclusive Tax,SubTotal,Total,Adjustment,Notes,Terms & Conditions,Subject,Customer Name,Project Name,Project ID,Sales person,Billing Address,Billing City,Billing State,Billing Country,Billing Code,Billing Fax,Template Name,Adjustment Description,Estimate Level Tax Authority,Estimate Level Tax Exemption Reason,Estimate Level Tax Type,Estimate Level Tax,Estimate Level Tax %,Shipping Address,Shipping City,Shipping State,Shipping Country,Shipping Code,Shipping Fax,Source,Reference ID,Last Sync Time,Entity Discount Amount,Shipping Charge,Shipping Charge Tax ID,Shipping Charge Tax Amount,Shipping Charge Tax Name,Shipping Charge Tax %,Shipping Charge Tax Type,Shipping Charge Tax Exemption Code,Item Name,Item Desc,Quantity,Discount,Discount Amount,Item Tax Amount,Item Total,Product ID,Account,SKU,Usage unit,Item Price,Tax ID,Item Tax,Item Tax %,Item Tax Type,Item Tax Authority,Item Tax Exemption Reason,FINREP.02 COA,FINREP.03 TRANSFER (if applies),FINREP.01 DEPARTMENT,(Deprecated) 4. COA Sub Type,PRIORITY LEVEL,STS.00 Status,(Deprecated) Subdivision by Income (Type),(Deprecated) 2. Division by Income,STS.99 Collections,FINREP.0 Company EIN
+2023-11-17,4476661000001123015,QT-000001,invoiced,4476661000001123001,,,USD,1.00,item_level,true,0.00,false,100.00,100.00,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,,JUAN JOSE REYES RAMIREZ,,,Cody Rice-Velasquez,,,,,,,Standard Template,Adjustment,INDIANA DEPARTMENT OF REVENUE,SERVICE FEE,,,,,,,,,,1,,,0.0,0.00,,,,,,,,PODER NOTARIZADO Y APOSTILLADO,1.00,0.00,80.000,0.00,100.00,,,,,180.00,,,,,,SERVICE FEE,,,,,,,,,,
+2023-12-31,4476661000001906031,QT-000003,invoiced,4476661000001906019,,,USD,1.00,item_level,true,0.00,false,900.00,900.00,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,,"ISAEL CONSTRUCTION, LLC",,,Cody Rice-Velasquez,,,,,,,Standard Template,,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,,,,,,,5,5861855000005013091,,0.0,0.00,,,,,,,"ISAEL COMPANY, PLATES AND ITIN","CONSULTATION FOR ISAEL VILLAVERDE - ISAEL CONSTRUCTION LLC
+The Opportunity: The client purchased a vehicle in their company name, as they are unable to register under the name or for use of company vehicle. In order to register the vehicle in Indiana, the state required a valid EIN (federal id number) and active registration with the state. Additionally the clients ITIN is Expired and will need this to file there taxes this year. 
+OUR SOLUTION
+1. Company Registration Reactivation Price: $300
+A. Registration with the state is dissolved for not filing required filings.
+B. Client does not have EIN letter - never Received.
+Description: Reactivating a company's registration is crucial for maintaining its legal status and ability to conduct business including registering the vehicle with the Bmv. We handle the complexities of reactivation with the state, ensuring all paperwork is accurately completed using the existing company information. This process is essential for compliance and avoiding potential legal issues or additional delays in registering the vehicle. 
+Our Service: We review the company's current status, complete necessary forms, and submit them to the Indiana Business Registration office. Our team ensures that all documentation aligns with the original company information to maintain consistency and avoid discrepancies. 
+
+**** 1-3 semanas, in rare occasions longer due to IRS not processing requests upon receipt.***
+2. BMV Plates: $300 (BMV fees not included)
+A. Complete all forms and filing and payment to the BMV on behalf of the client. 
+   - Description: Acquiring BMV plates is a mandatory step for legally operating a vehicle. Our service simplifies this process by handling the necessary documentation and liaising with the BMV. We ensure that all requirements are met for a smooth and hassle-free experience.
+   - Our Service: We coordinate with the dealer to obtain electronic records and submit them to the BMV. We then assist the client in meeting all the criteria for plating the car, including temporary plate issuance. Our involvement streamlines the process, ensuring all steps are completed correctly and promptly.
+
+**** 1-3 semanas for the temporary plate but the bmv by law can take up to 45 days from the filing date.***
+3. ITIN Renewal: $300 (Includes both the itin app, tax prep and coa for doc)
+A. Registration with the state is dissolved for not filing required filings.
+B. Client does not have EIN letter - never Received. 
+   - Description: The ITIN (Individual Taxpayer Identification Number) renewal is essential for non-U.S. citizens to comply with U.S. tax laws. It's especially important for those who don't have a Social Security Number but need to file taxes. Renewing the ITIN is crucial for legal and financial reasons.
+   - Our Service: We guide the client through the ITIN renewal process, ensuring all forms are accurately completed and submitted. This service can be conveniently aligned with tax filing to streamline the client's financial responsibilities. We provide expert advice and support throughout the process to ensure compliance with tax laws.
+Note: The prices mentioned are for our services only and do not include any external fees (like BMV fees) that might be applicable. The duration for each service can vary based on individual cases and external processing times.
+These descriptions provide your client with a clear understanding of the value and steps involved in each service, highlighting the convenience and expertise your services offer.",1.00,0.00,0.000,0.00,900.00,,,,,900.00,4476661000000442039,IN Tax,0.00,ItemAmount,INDIANA DEPARTMENT OF REVENUE,,,,,,,,,,,
+2024-01-18,4476661000002396463,QT-000004,expired,4476661000000150151,2024-01-31,,USD,1.00,entity_level,true,0.00,false,249.98,249.98,0.00,"ESTE PAQUETA INCLUYE COMPRA DE LAS CAMARAS, CABLES, TARJETAS MEDIA, Y DISPOSITIVOS PARA COLGAR LAS CAMARAS, SERAN COLGADOS EXTRATEGICAMENTE. ",https://srvgroup.co/terms-of-service,,Fenixx LLC,SEGURIDAD FENIXX,4476661000002396459,Cody Rice-Velasquez,3585 COMMERCIAL DR STE 706,INDIANAPOLIS,IN,,,,Standard Template,Adjustment,INDIANA DEPARTMENT OF REVENUE,SERVICE FEE,,,,,,,,1,,1,,,0.000,0.00,,,,,,,Camera Systems-Two-Pack/Pan3,2 CAMERA + 2 MEMORY CARD + NECESARY BRACKETS & CABLES **INCLUDES INSTALL**,1.00,0.00,0.0,0.00,149.99,4476661000002312218,6198-Other Sales,CAM-TWO-PAN,Quantity,149.99,,,,,,SERVICE FEE,,,,,,,,,,
+2024-01-18,4476661000002396463,QT-000004,expired,4476661000000150151,2024-01-31,,USD,1.00,entity_level,true,0.00,false,249.98,249.98,0.00,"ESTE PAQUETA INCLUYE COMPRA DE LAS CAMARAS, CABLES, TARJETAS MEDIA, Y DISPOSITIVOS PARA COLGAR LAS CAMARAS, SERAN COLGADOS EXTRATEGICAMENTE. ",https://srvgroup.co/terms-of-service,,Fenixx LLC,SEGURIDAD FENIXX,4476661000002396459,Cody Rice-Velasquez,3585 COMMERCIAL DR STE 706,INDIANAPOLIS,IN,,,,Standard Template,Adjustment,INDIANA DEPARTMENT OF REVENUE,SERVICE FEE,,,,,,,,1,,1,,,0.000,0.00,,,,,,,Camera Systems-One/Pan3,1 CAMERA + 1 MEMORY CARD + NECESARY BRACKETS & CABLES **INCLUDES INSTALL**,1.00,0.00,0.0,0.00,79.99,4476661000002312214,6198-Other Sales,CAM-ONE-PAN,Quantity,79.99,,,,,,SERVICE FEE,002. Income,,,,002. MED / IMPORTANT BUT CAN WAIT,1. Active,,,,1. SRV Tax & MultiService LLC - 83-3405181
+2024-01-18,4476661000002396463,QT-000004,expired,4476661000000150151,2024-01-31,,USD,1.00,entity_level,true,0.00,false,249.98,249.98,0.00,"ESTE PAQUETA INCLUYE COMPRA DE LAS CAMARAS, CABLES, TARJETAS MEDIA, Y DISPOSITIVOS PARA COLGAR LAS CAMARAS, SERAN COLGADOS EXTRATEGICAMENTE. ",https://srvgroup.co/terms-of-service,,Fenixx LLC,SEGURIDAD FENIXX,4476661000002396459,Cody Rice-Velasquez,3585 COMMERCIAL DR STE 706,INDIANAPOLIS,IN,,,,Standard Template,Adjustment,INDIANA DEPARTMENT OF REVENUE,SERVICE FEE,,,,,,,,1,,1,,,0.000,0.00,,,,,,,,MENSUAL: WIFI DE CAMARAS.,4.00,0.00,0.0,0.00,20.00,,,,,5.00,,,,,,SERVICE FEE,,,,,,,,,,
+2024-02-17,4476661000003221003,QT-000006,invoiced,4476661000000786259,,,USD,1.00,item_level,true,0.00,false,220.00,220.00,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,,House Account,,,Cody Rice-Velasquez,,,,,,,Standard Template,,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,,,,,,,5,5861855000007559003,,0.0,0.00,,,,,,,"TAX RETURN 2023 BIZ, EIC, 5 DEP AND NO OTHER FORMS.",,1.00,0.00,0.000,0.00,220.00,,,,,220.00,4476661000000442039,IN Tax,0.00,ItemAmount,INDIANA DEPARTMENT OF REVENUE,,,,,,,,,,,
+2024-02-18,4476661000003237003,QT-000007,expired,4476661000000786259,2024-02-29,claudia2023,USD,1.00,entity_level,true,0.00,false,170.00,170.00,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,Preparacion de Impuestos,House Account,,,Cody Rice-Velasquez,,,,,,,Standard Template,CC Fees,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,,,,,,,1,,,10.000,0.00,,,,,,,Tax - Basic,Con dependientes,1.00,0.00,0.0,0.00,170.00,4476661000002855005,6112-Tax Preperations,TAX,Quantity,180.00,,,,,,SERVICE,002. Income,,Sales,,,,,,,1. SRV Tax & MultiService LLC - 83-3405181
+2024-04-12,4476661000005141001,QT-000010,invoiced,4476661000005140107,,,USD,1.00,entity_level,true,10.00,false,360.00,360.00,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Ty-Ron C Johnson,,,Cody Rice-Velasquez,3223 Bristlecone Ct,Indianapolis,Indiana,,,,Standard Template,Adjustment,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,,,,,,,3,,,0.0,0.00,,,,,,,Tax A. El Trabajador,Forma 1040 con estado,1.00,0.00,0.0,0.00,135.00,4476661000002855005,6112-Tax Preperations,TAX,Quantity,150.00,,,,,,SERVICE,002. Income,,Sales,,,,,,,1. SRV Tax & MultiService LLC - 83-3405181
+2024-04-12,4476661000005141001,QT-000010,invoiced,4476661000005140107,,,USD,1.00,entity_level,true,10.00,false,360.00,360.00,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Ty-Ron C Johnson,,,Cody Rice-Velasquez,3223 Bristlecone Ct,Indianapolis,Indiana,,,,Standard Template,Adjustment,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,,,,,,,3,,,0.0,0.00,,,,,,,Tax C. El Contractista,,1.00,0.00,0.0,0.00,225.00,4476661000005072399,6198-Other Sales,,,250.00,4476661000000442039,IN Tax,0.00,ItemAmount,INDIANA DEPARTMENT OF REVENUE,,,,,,,,,,,
+2024-05-04,4476661000005927013,QT-000011,sent,4476661000000177017,,,USD,1.00,item_level,true,0.00,false,123.75,123.75,0.00,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Zaitullah,,,,701 E 21st St Apt 20,Indianapolis,Indiana,U.S.A,46202,,Standard Template,CLIENT COST FOOD,INDIANA DEPARTMENT OF REVENUE,SERVICE FEE,,,,701 E 21st St Apt 20,Indianapolis,Indiana,U.S.A,46202,,3,,,0.0,0.00,,,,,,,[## 290 ##] 49D33-2404-CM-010529 - INDIANA VS. ZAITULLAH JAN KHEBARKHIL,,1.25,0.00,0.000,0.00,123.75,,,,,99.00,,,,,,SERVICE FEE,,,,,,,,,,
+2024-06-25,4476661000010107001,QT-000012,draft,4476661000007945511,,000007,USD,1.00,item_level,true,0.00,false,150.60,178.07,17.48,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Munoz Cleaning Corp LLC,,,Cody Rice-Velasquez,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,Standard Template,SERVICE FEE,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,3,,,0.0,9.99,,,,,,,,"Project 4: Ongoing Business Support with SRV1ne 360 Plan
+Estimate #000007
+
+Estimate expiration date
+Never
+Customer
+Luis Munoz Altamirano
+luisemunoz97@gmail.com
+317-853-0057
+Summary:
+
+Objective: Provide continuous business support through the SRV1ne 360 plan to ensure smooth operation and compliance.
+Steps:
+Set up the SRV1ne 360 plan tailored to the client's business needs.
+Offer regular consultations and support for business operations, tax filings, and compliance.
+Prepare and submit necessary business reports and filings on a timely basis.
+Provide guidance on deductible expenses and eligibility for tax credits.
+Maintain accurate records and documentation for all business transactions.
+Address any special situations or significant events during the year.
+Ensure ongoing support for the client's business, adapting to any changes or new requirements.
+Let me know if you need more details or have any questions!",1.00,0.00,87.400,0.00,150.60,,,,,238.00,,,,,,SERVICE,,,,,,,,,,
+2024-06-25,4476661000010107001,QT-000012,draft,4476661000007945511,,000007,USD,1.00,item_level,true,0.00,false,150.60,178.07,17.48,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Munoz Cleaning Corp LLC,,,Cody Rice-Velasquez,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,Standard Template,SERVICE FEE,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,3,,,0.0,9.99,,,,,,,,ACTIVATION,1.00,100.00,199.000,0.00,0.00,,,,,199.00,4476661000000442039,IN Tax,0.00,ItemAmount,INDIANA DEPARTMENT OF REVENUE,,,,,,,,,,,
+2024-08-29,4476661000010104003,QT-000013,draft,4476661000007945511,,000007,USD,1.00,item_level,true,0.00,false,113.51,130.00,6.50,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Munoz Cleaning Corp LLC,,,Cody Rice-Velasquez,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,Standard Template,SERVICE FEE,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,3,,,0.0,9.99,,,,,,,,"$130.00
+Hide total details
+Estimate total
+Service date
+August 21, 2024
+Payment 4 of 5$130.00
+Discount Dollar($16.49)
+Subtotal$113.51
+Tax$0.00
+Online Service Fee (5%)$6.50
+Shipping Fee$9.99
+Total$130.00
+LM
+Luis Munoz Altamirano
+Recent activity
+Show more
+Pending
+Estimate email viewed
+July 28
+Estimate email viewed
+July 24
+Estimate email viewed
+July 18
+Payment 4 of 5
+Estimate #000008
+
+Estimate date
+June 25, 2024
+Estimate expiration date
+Never
+Customer
+Luis Munoz Altamirano
+luisemunoz97@gmail.com
+317-853-0057",1.00,0.00,16.490,0.00,113.51,,,,,130.00,,,,,,SERVICE,,,,,,,,,,
+2024-08-29,4476661000010104019,QT-000014,draft,4476661000007945511,,000007,USD,1.00,item_level,true,0.00,false,36.51,53.00,6.50,Looking forward for your business.,https://srvgroup.co/terms-of-service,,Munoz Cleaning Corp LLC,,,Cody Rice-Velasquez,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,Standard Template,SERVICE FEE,INDIANA DEPARTMENT OF REVENUE,,ItemAmount,IN Tax,0.00,7305 Nantucket Court Apt 2C,Indianapolis,Indiana,,,,3,,,0.0,9.99,,,,,,,,"Estimate for Luis Munoz Altamirano
+$53.00
+Hide total details
+Estimate total
+Service date
+August 31, 2024
+Payment 5 of 5$130.00
+Discount Dollar($93.49)
+Subtotal$36.51
+Tax$0.00
+Online Service Fee (5%)$6.50
+Shipping Fee$9.99
+Total$53.00
+LM
+Luis Munoz Altamirano
+Recent activity
+Pending
+Estimate email viewed
+July 18
+Estimate email viewed
+June 25
+Payment 4 of 5
+Estimate #000009
+
+Estimate date
+June 25, 2024
+Estimate expiration date
+Never
+Customer
+Luis Munoz Altamirano
+luisemunoz97@gmail.com
+317-853-0057",1.00,0.00,93.490,0.00,36.51,,,,,130.00,,,,,,SERVICE,,,,,,,,,,

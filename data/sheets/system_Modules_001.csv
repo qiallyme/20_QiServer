@@ -1,0 +1,70 @@
+Module Id,Name,Label,Api Name,Singular Label,Module Type,Web Link,Visibility,Parent Module Id,Modified By,Modified Time
+zcrm_6789162000000002175,Leads,Leads,Leads,Lead,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002177,Accounts,Companies,Accounts,Company,1,,1,,zcrm_6789162000000560001,2025-08-01 08:19:29
+zcrm_6789162000000002179,Contacts,Contacts,Contacts,Contact,1,,1,,zcrm_6789162000000560001,2025-08-03 11:07:22
+zcrm_6789162000000002181,Potentials,Engagements,Deals,Engagement,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:45
+zcrm_6789162000000002183,Campaigns,Campaigns,Campaigns,Campaign,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002191,Users,Users,users,User,1,,1,,,
+zcrm_6789162000000002193,Tasks,Tasks,Tasks,Task,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002195,Events,Meetings,Events,Meeting,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002197,Notes,Notes,Notes,Note,1,,1,,zcrm_6789162000000560001,2025-05-14 18:28:54
+zcrm_6789162000000002199,Competitors,Competitors,Competitors,Competitor,1,,1,,,
+zcrm_6789162000000002201,Forecasts,Forecasts,Forecasts,Forecast,1,,1,,zcrm_6789162000000560001,2025-08-01 08:20:48
+zcrm_6789162000000002209,Cases,Service Tickets,Cases,Service Ticket,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002211,Solutions,Solutions,Solutions,Solution,1,,1,,zcrm_6789162000000560001,2025-08-01 08:20:48
+zcrm_6789162000000002213,Products,Products,Products,Product,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002215,Vendors,Vendors,Vendors,Vendor,1,,1,,zcrm_6789162000000560001,2025-08-01 08:21:29
+zcrm_6789162000000002217,PriceBooks,Price Books,Price_Books,Price Book,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002219,Quotes,Quotes,Quotes,Quote,1,,1,,zcrm_6789162000000560001,2025-08-01 08:19:29
+zcrm_6789162000000002221,SalesOrders,Sales Orders,Sales_Orders,Sales Order,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002223,PurchaseOrders,Purchase Orders,Purchase_Orders,Purchase Order,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000002225,Invoices,Invoices,Invoices,Invoice,1,,1,,zcrm_6789162000000560001,2025-08-01 08:19:29
+zcrm_6789162000000002227,Attachments,Attachments,Attachments,Attachment,1,,1,,,
+zcrm_6789162000000014163,Emails,Emails,Emails,Email,1,,1,,zcrm_6789162000000560001,2025-08-01 08:20:48
+zcrm_6789162000000033015,Calls,Calls,Calls,Call,1,,1,,zcrm_6789162000000560001,2025-08-01 08:19:29
+zcrm_6789162000000077007,Visits,Visits,Visits,Visit,1,,1,,zcrm_6789162000000560001,2025-08-01 08:20:48
+zcrm_6789162000000163001,DealContactRole,Deal Contact Role,DealContactRole,Deal Contact Role,1,,1,,,
+zcrm_6789162000000173001,AccountProductRelations,Account Product Relation,AccountProductRelations,Account Product Relations,1,,1,,,
+zcrm_6789162000000173013,LeadProductRelations,Lead Product Relation,LeadProductRelations,Lead Product Relations,1,,1,,,
+zcrm_6789162000000173025,ContactProductRelations,Contact Product Relation,ContactProductRelations,Contact Product Relations,1,,1,,,
+zcrm_6789162000000173037,DealProductRelations,Deal Product Relation,DealProductRelations,Deal Product Relations,1,,1,,,
+zcrm_6789162000000174001,DealHistory,Stage History,DealHistory,Stage History,9,,1,zcrm_6789162000000002181,,
+zcrm_6789162000000212001,Invitees,Invitees,Invitees,Invitee,1,,1,,,
+zcrm_6789162000000233001,QuotedItems,Quoted Items,Quoted_Items,Quoted Items,7,,10236,zcrm_6789162000000002219,,
+zcrm_6789162000000233419,OrderedItems,Ordered Items,Ordered_Items,Ordered Items,7,,10236,zcrm_6789162000000002221,,
+zcrm_6789162000000233837,PurchaseItems,Purchase Items,Purchase_Items,Purchase Items,7,,10236,zcrm_6789162000000002223,,
+zcrm_6789162000000234255,InvoicedItems,Invoiced Items,Invoiced_Items,Invoiced Items,7,,10236,zcrm_6789162000000002225,,
+zcrm_6789162000000236713,Profiles,Profiles,Profiles,Profile,1,,1,,,
+zcrm_6789162000000236737,Roles,Roles,Roles,Role,1,,1,,,
+zcrm_6789162000000257140,Modules,Modules,Modules,Module,1,,1,,,
+zcrm_6789162000000264016,Fields,Fields,Fields,Field,1,,1,,,
+zcrm_6789162000000295101,Territories,Territories,Territories,Territory,1,,1,,,
+zcrm_6789162000000503060,TeamSelling,Team Selling,Team_Selling__s,Team Selling,1,,2,zcrm_6789162000000002181,,
+zcrm_6789162000000801067,CustomModule1,Notes Insights,Notes_Insights__s,Notes Insight,4,,6142,zcrm_6789162000000002197,zcrm_6789162000000560001,2025-05-14 18:28:54
+zcrm_6789162000000802246,CustomModule2,Leads Insights,Leads_Insights__s,Leads Insight,4,,6142,zcrm_6789162000000002175,zcrm_6789162000000560001,2025-05-14 18:28:55
+zcrm_6789162000000803367,CustomModule3,Contacts Insights,Contacts_Insights__s,Contacts Insight,4,,6142,zcrm_6789162000000002179,zcrm_6789162000000560001,2025-05-14 18:28:56
+zcrm_6789162000000804512,Global Fileupload,Global Fileupload,Global_Fileupload__s,Global Fileupload,1,,14334,,,
+zcrm_6789162000000804558,Fileupload1,Call Transcription,File_Upload_1__s,Call Transcription,1,,2046,zcrm_6789162000000804512,zcrm_6789162000000560001,2025-05-14 18:29:38
+zcrm_6789162000000804802,Services,Services,Services__s,Service,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000804806,Appointments,Appointments,Appointments__s,Appointment,1,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000811338,LinkingModule2,Appointments Rescheduled History,Appointments_Rescheduled_History__s,Appointments Rescheduled History,9,,1,zcrm_6789162000000804806,,
+zcrm_6789162000000909012,CustomModule4,Contracts,zohocontracts__Contracts,Contracts,4,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000987066,CustomModule6,ZohoSign Documents,zohosign__ZohoSign_Documents,ZohoSign Documents,4,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000998295,CustomModule7,ZohoSign Recipients,zohosign__ZohoSign_Recipients,ZohoSign Recipients,4,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000000999524,CustomModule8,ZohoSign Document Events,zohosign__ZohoSign_Document_Events,ZohoSign Document Events,4,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000001283357,LinkingModule3,Account Credentials,Account_Credentials,Account Credentials,7,,10236,zcrm_6789162000000002177,zcrm_6789162000000560001,2025-05-22 01:55:20
+zcrm_6789162000001389571,CustomModule9,Client Resource Centers,Client_Resource_Centers,Client Resource Center,4,,1,,zcrm_6789162000000560001,2025-08-01 08:20:48
+zcrm_6789162000001396188,Global Imageupload,Global Imageupload,Global_Imageupload__s,Global Imageupload,1,,14334,,,
+zcrm_6789162000001418433,LinkingModule4,Status History,Status_History,Status History,9,,1,zcrm_6789162000000002209,zcrm_6789162000000560001,2025-05-26 00:45:47
+zcrm_6789162000001618074,LinkingModule5,Subform 2,Subform_2,Subform 2,7,,10236,zcrm_6789162000000002225,zcrm_6789162000000560001,2025-05-31 01:14:10
+zcrm_6789162000001628062,CustomModule5,Payments,Payments,Payment,4,,1,,zcrm_6789162000000560001,2025-08-01 08:22:16
+zcrm_6789162000001629679,Fileupload2,Payment File,File_Upload_2__s,Payment File,1,,2046,zcrm_6789162000000804512,zcrm_6789162000000560001,2025-05-31 01:20:41
+zcrm_6789162000001725699,Fileupload3,Job File,File_Upload_3__s,Job File,1,,2046,zcrm_6789162000000804512,zcrm_6789162000000560001,2025-06-02 17:23:10
+zcrm_6789162000002457002,CustomModule14,qimessages,qimessages,qimessage,4,,1,,zcrm_6789162000000560001,2025-08-01 08:19:05
+zcrm_6789162000002458751,Fileupload4,qiMessage files,File_Upload_4__s,qiMessage files,1,,2046,zcrm_6789162000000804512,zcrm_6789162000000560001,2025-07-03 15:36:45
+zcrm_6789162000002459176,LinkingModule6,qiMessage Status History,qiMessage_Status_History,qiMessage Status History,9,,1,zcrm_6789162000002457002,zcrm_6789162000000560001,2025-07-03 15:40:29
+zcrm_6789162000003063002,CustomModule10,Flow Docs,Flow_Docs,Flow Doc,4,,1,,zcrm_6789162000000560001,2025-08-03 11:31:11
+zcrm_6789162000003065170,Imageupload1,Letter Image,Image_Upload_1__s,Letter Image,1,,2046,zcrm_6789162000001396188,zcrm_6789162000000560001,2025-08-03 11:12:12
+zcrm_6789162000003065290,Fileupload5,Letter File,File_Upload_5__s,Letter File,1,,2046,zcrm_6789162000000804512,zcrm_6789162000000560001,2025-08-03 11:12:13
+zcrm_6789162000003065345,Imageupload2,Translation Image,Image_Upload_2__s,Translation Image,1,,2046,zcrm_6789162000001396188,zcrm_6789162000000560001,2025-08-03 11:14:19
+zcrm_6789162000003065363,Fileupload6,Translation File,File_Upload_6__s,Translation File,1,,2046,zcrm_6789162000000804512,zcrm_6789162000000560001,2025-08-03 11:14:19

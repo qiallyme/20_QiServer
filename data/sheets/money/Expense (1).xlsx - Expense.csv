@@ -1,0 +1,26 @@
+Expense Date,Expense Description,Expense Account,Expense Account Code,Paid Through,Paid Through Account Code,Vendor,Vendor Number,Project Name,Entry Number,Currency Code,Exchange Rate,Mileage Rate,Mileage Unit,Distance,Start Odometer Reading,End Odometer Reading,Mileage Type,Vehicle Name,Claimant Email,Expense Amount,Total,Reference#,Is Billable,Customer Name,Customer Number,Expense Reference ID,Recurrence Name,ExpenseReport Name,Is Reimbursable
+2025-01-24,"Shirts, Decals Ect.",Advertising And Marketing,,Valera Clearing,930,InovaFlow,VEN-00002,,1,USD,1,0,,,,,NonMileage,,,246.75,246.750,000002,false,,,5894415000000244288,,,false
+2025-02-01,Rent Deposit for Office,Rent Expense,,Valera Clearing,930,Market Street Suites 9,VEN-00003,,2,USD,1,0,,,,,NonMileage,,,750.00,750.000,,false,,,5894415000000274015,,,false
+2025-02-01,February Rent,Rent Expense,,Valera Clearing,930,Market Street Suites 9,VEN-00003,,3,USD,1,0,,,,,NonMileage,,,750.00,750.000,,false,,,5894415000000274037,,,false
+2025-02-02,"Items Ordered	Price
+1 of: Avery Jan-Dec 12 Tab Dividers for 3 Ring Binders, Customizable Table of Contents, Multicolor Tabs, 6 Sets (11830)
+Sold by: Amazon.com Services, Inc
+Supplied by: Other",Office Supplies,4010,Cody Clearing,940,Amazon,VEN-00004,,4,USD,1,0,,,,,NonMileage,,,14.76,14.760,111-0214110-1205004,false,,,5894415000000274096,,,false
+2025-02-02,"Items Ordered	Price
+1 of: 100PCS in 50 Sets, Drywall Anchors and Premium Drywall Screws, Wall Anchors for Drywall Heavy Duty, Dry Wall Anchors and Screws kit, #8x1-1/4'' Self Drilling Anchor Screws, 75LBS Hanging, HnoaTovy
+Sold by: HANKOOKER (seller profile)
+Supplied by: Other",Repairs and Maintenance,,Cody Clearing,940,Amazon,VEN-00004,,5,USD,1,0,,,,,NonMileage,,,5.34,5.340,111-7194322-5421007,false,,,5894415000000274124,,,false
+2025-02-02,"Items Ordered	Price
+1 of: Canon KP-108IN 3 Color Ink Cassette and 108 Sheets 4 x 6 Paper Glossy for SELPHY CP1300, CP1200, CP910, CP900, CP760, CP770, CP780 CP800. Bonus: Quality Photo Microfiber Cloth
+Sold by: CONTINENTAL SUPPLY (seller profile) | Product question? Ask Seller
+Supplied by: Other",Office Supplies,4010,Cody Clearing,940,Amazon,VEN-00004,,6,USD,1,0,,,,,NonMileage,,,34.21,34.210,111-4166288-4806620,false,,,5894415000000274152,,,false
+2025-02-02,Missing Receipt. Affidavit Sent 2.3.2025,Office Supplies,4010,Valera Clearing,930,Amazon,VEN-00004,,7,USD,1,0,,,,,NonMileage,,,47.07,47.070,,false,,,5894415000000274202,,,false
+2025-01-25,"UT Online 1040 - Renewal	$588.00
+Total:	$588.00
+Paid	$588.00",System Licenses,,Valera Clearing,930,Tax Wise Ultimate Tax,VEN-00005,,8,USD,1,0,,,,,NonMileage,,,588.00,588.000,125222,false,,,5894415000000274336,,,false
+2025-01-18,Service : Bigin Plan: Bigin 360 Users 1 Payment Duration : Monthly Start,System Licenses,,Cody Clearing,940,ZOHO,VEN-00006,,9,USD,1,0,,,,,NonMileage,,,21.00,21.000,50100215525,false,,,5894415000000274420,,,false
+2025-01-22,,Telephone Expense,,Cody Clearing,940,ZOHO,VEN-00006,,10,USD,1,0,,,,,NonMileage,,,2.00,2.000,50100228211,false,,,5894415000000274466,,,false
+2025-01-24,,System Licenses,,Cody Clearing,940,ZOHO,VEN-00006,,11,USD,1,0,,,,,NonMileage,,,16.94,16.940,50100234702,false,,,5894415000000274490,,,false
+2025-02-03,,Telephone Expense,,Cody Clearing,940,ZOHO,VEN-00006,,12,USD,1,0,,,,,NonMileage,,,20.00,20.000,50100234887,false,,,5894415000000274514,,,false
+2025-01-29,Zoho Practice Plan : Standard Payment Duration : Monthly,System Licenses,,Cody Clearing,940,ZOHO,VEN-00006,,13,USD,1,0,,,,,NonMileage,,,30.00,30.000,50100251246,false,,,5894415000000274538,,,false
+2025-02-03,,Other Expenses,,Expenses Planned,,,,,14,USD,1,0,,,,,NonMileage,,,1.00,1.000,,false,,,5894415000000274673,,,false

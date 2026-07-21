@@ -1,0 +1,903 @@
+Record Id,Note Owner.id,Note Title,Note Content,Parent.id,Parent Id.Module,Created By.id,Modified By.id,Created Time,Modified Time,Record Status,Associated_Id
+zcrm_5861855000000584003,zcrm_5861855000000432001,,"Got it, Cody. Thanks for the update. Here's the corrected timeline and next steps:
+
+**Revised Timeline**
+1. **March 15, 2023**: Initial ITIN application submitted by client
+2. **July 11**: Notice received about missing info
+3. **August 3**: Resubmitted package with new COA and W7
+4. **August 25**: Deadline for resubmission
+5. **September 17**: Notification received saying no response to July 11 notice
+
+**Next Steps**
+1. **Review Records**: Confirm you have evidence of sending the August 3rd package—tracking info, email confirmations, etc.
+  
+2. **Reach Out**: Contact the appropriate department or person ASAP. Be prepared to escalate if needed and have all evidence ready.
+  
+3. **Document Interactions**: Note down the names of people you speak to, what they say, and any next steps they promise.
+
+4. **Follow-Up**: If they provide a resolution time frame, make a note to follow up if you don’t hear back within that period.
+
+**Client Text Message Template**
+```text
+¡Hola! ?
+Quick update: There's been a hiccup with your ITIN application. We're on it and will keep you in the loop.
+¡Muchas gracias! ??
+- Equipo SRV
+```
+
+**Opinions & Suggestions**
+- A more robust tracking system for applications might help prevent such issues.
+- A client guide for handling such notices could be a valuable addition to your client resources.
+
+Let me know if you need more help!",zcrm_5861855000000544255,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-17 14:31:50,2023-09-17 14:31:50,Available,
+zcrm_5861855000000603001,zcrm_5861855000000432001,No answer,Test call,zcrm_5861855000000602001,Calls,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-18 13:52:27,2023-09-18 13:52:27,Available,
+zcrm_5861855000000723003,zcrm_5861855000000432001,,Client wants appointment to get his passport.,zcrm_5861855000000721001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-22 20:12:16,2023-09-22 20:12:16,Available,
+zcrm_5861855000000801003,zcrm_5861855000000432001,,Prepared last 3 years of returns but want to confirm client did pay. per client she gave us $400.00 back a few months ago.,zcrm_5861855000000835733,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-23 15:44:05,2023-09-23 15:44:05,Available,
+zcrm_5861855000000801008,zcrm_5861855000000432001,,https://workdrive.zoho.com/folder/g4a1o954286bd1bfb4a96a466a7bdee84ad33,zcrm_5861855000000835733,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-23 15:44:53,2023-09-23 15:44:53,Available,
+zcrm_5861855000000814003,zcrm_5861855000000432001,,"Made Estimated payment for State of $753.00
+We are forgoing Q3 Federal Estimated Payment and will reevaluate in Q4
+Checked IRS Account and balance is showing only $275.19
+Checked Leslies Account its $0.00
+Luis Account has balance we made payment.",zcrm_5861855000000812001,Cases,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-24 15:59:50,2023-09-24 16:03:57,Available,
+zcrm_5861855000000817003,zcrm_5861855000000432001,,"Mike Cornerstone
+Payment of 10000 was not attached to invoice, this was corrected.",zcrm_5861855000000812001,Cases,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-24 16:43:50,2023-09-24 16:43:50,Available,
+zcrm_5861855000000855003,zcrm_5861855000000432001,,Merged from POS,zcrm_5861855000000835227,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-25 16:14:00,2023-09-25 16:14:00,Available,
+zcrm_5861855000000949001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 6 Question : Llamada de Cody,zcrm_5861855000001383009,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-28 20:15:29,2023-09-28 20:15:29,Available,
+zcrm_5861855000000997003,zcrm_5861855000000432001,,Filed and paid.,zcrm_5861855000000988001,Cases,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-29 17:50:21,2023-09-29 17:50:21,Available,
+zcrm_5861855000000997013,zcrm_5861855000000432001,,Client inquired on getting her updated pnl a few days back maybe a week now,zcrm_5861855000003323014,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-02 00:46:11,2023-10-02 00:46:11,Available,
+zcrm_5861855000001012003,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 8 Question : fin del mes,zcrm_5861855000001383009,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-09-30 13:54:55,2023-09-30 13:54:55,Available,
+zcrm_5861855000001122004,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 9 Question : necesito el numero ein,zcrm_5861855000001383009,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-03 11:01:16,2023-10-03 11:01:16,Available,
+zcrm_5861855000001160001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 12 Question : Disculpa quería saber sobre mi número itin,zcrm_5861855000001159001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-05 09:29:51,2023-10-05 09:29:51,Available,
+zcrm_5861855000001243006,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 13 Question : TALK TO CODY,zcrm_5861855000001383009,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-06 16:11:53,2023-10-06 16:11:53,Available,
+zcrm_5861855000001517003,zcrm_5861855000000432001,,"Contact info
+Client
+Indy FUDS, LLC | CANVAS P.A.D.
+Email
+canvasindy@gmail.com
+
+Phone
++1 407800-5769
+
+Mobile
++1 407800-5769
+
+Fax
+-
+Other
++1 407800-5769
+Website
+-
+Notes
+Fcfcu
+Canvasindy
+Hetshy1206$
+
+Marco
+
+Show more
+Attachments
+W9 Pre-Filled.pdf 168KB
+CANVAS-SERVICE AGREEMENT 2020.pdf 940KB
+Show existing attachments
+Additional info
+Billing address
+3585 Commercial Drive Ste 139, Indianapolis, IN 46222, US
+
+Shipping address
+12882 Old Glory Dr, Fishers, IN 46037, US
+
+Terms
+Due on receipt
+Payment method
+Check
+Preferred delivery method
+None
+Client type
+-
+Client language
+Español
+Price rules
+Unable to load price rules. Please try again.
+Custom fields
+Referred By
+-",zcrm_5861855000000540504,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-13 23:52:12,2023-10-13 23:52:12,Available,
+zcrm_5861855000001517008,zcrm_5861855000000432001,,"Request information on
+
+Accountant
+Request information on Employees and Home Loans for Self Employed.Informacion Sobre Tener Un EmpleadoInboxxCody Rice-Velasquez 1:25 PM (0 minutes ago)to julio, meHola Julio,Para que podemos tenerte como empleado de Canvas tenemos que hacer lo siguente:- Cambiar la impresa a otra person- Sacar nuevo numero federal- Registrar con el departamento de labor de indiana- Registrar y pagar los taxes de desempleo, seguridad social, federal, local y estatal- Registrar Payroll con quickbooks- Comprar aseguranza de compensacion de trabajadores- Hacer preparaciones adicionales de taxes cada 3 meses y al final del año.Prestamo de banco para los self employed:Los prestatarios independientes pueden calificar con solo un año de declaraciones de impuestos. Esas devoluciones deben mostrar al menos 12 meses de ingresos de trabajo por cuenta propia. Y la relación deuda / ingreso del solicitante debe cumplir con las pautas del prestamista (generalmente un máximo del 43 por ciento, pero puede llegar al 50 por ciento para prestatarios excepcionalmente calificados.En mi opinion profesional es mejor sequire siendo el dueno de la impresa y entrar todo para monstrar cuanto dinero haces. Terminaras pagando menos en impuestos haciendolo asi. Como empleado es mucho mas costoso y complicado.
+Team
+06/27/2020| 06:26 AM
+0
+Client wants to
+
+Accountant
+Client wants to know when net profit are close to zero. Wants to ensure balance is not lower than 0.00.Investigate payroll and home loans for client.
+Team
+06/23/2020| 05:26 AM
+0
+Account Notes:Pay Sales
+
+Accountant
+Account Notes:Pay Sales tax if funds are available call to confirm with Julio first.
+Team
+05/30/2020| 10:28 AM
+0
+COVID-19 ECONOMIC INJURY
+
+Accountant
+COVID-19 ECONOMIC INJURY DISASTER LOAN APPLICATIONApplication SubmittedYour application number is3302090813You will be notified through the email address you submitted canvasindy@gmail.com for any additional information needed once your application has been processed.Please write down your application number or print this page for your records.
+Team
+04/03/2020| 10:00 AM
+0
+Julio Notes:DOB:01/03/1981ITIN: 933-96-3826
+
+Accountant
+Julio Notes:DOB:01/03/1981ITIN: 933-96-3826
+Team
+01/25/2020| 09:51 AM
+0
+Requested update approvalOnce
+
+Accountant
+Requested update approvalOnce your business information has been verified by the Department of Revenue, your INtax Access Code will be mailed to the business address on file with the department via the US Postal Service. You should receive your INtax Access Code within 3 to 5 business days.When you receive your INtax Access Code in the mail, instructions will be included on how to enter the Access Code to complete your INtax registration.INtax provides your business a dynamic way to view, file and pay taxes.For information about electronically filing a WH-3, visit www.in.gov/dor/4455.htm
+Team
+10/27/2019| 09:32 AM
+0
+Thank you for
+
+Accountant
+Thank you for registering to use INtax.After your business information has been verified by the Department of Revenue, your INtax account will be activated. The verification process may take 24-72 business hours.An email will be sent when your account is activated. You then will be ready to use INtax.ALERT: You are required to file a tax return for each tax period electronically . Submitting a payment only will not fulfill the legislative requirement to file a tax return. Even if you have no tax due, you must file a tax return. If you do not file a return, the department may issue a tax liability notice based on the best information available.For information about electronically filing a WH-3, visit www.in.gov/dor/4455.htm
+Team
+10/27/2019| 07:15 AM
+0
+IN TID: 0167398440-001
+
+Accountant
+IN TID: 0167398440-001
+Team
+10/27/2019| 07:14 AM
+0
+EIN Assistant We
+
+Accountant
+EIN Assistant We are unable to provide you with an EIN.We apologize for the inconvenience, but based on the information provided we are unable to provide you with an EIN through this online assistant.Please call 1-800-829-4933 for assistance. When outside the US, call 267-941-1099. TTY/TDD: 1-800-829-4059.Please have your information readily available, and mention reference number 105.
+Team
+10/21/2019| 06:17 AM
+0
+FcfcuCanvasindyHetshy1206$Marco
+
+Accountant
+FcfcuCanvasindyHetshy1206$Marco
+Team
+09/21/2019| 09:01 AM",zcrm_5861855000000540504,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-13 23:52:37,2023-10-13 23:52:37,Available,
+zcrm_5861855000001847001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 14 Question : A que horas abren hoy!,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-21 09:51:40,2023-10-21 09:51:40,Available,
+zcrm_5861855000001852023,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 16 Question : que servicios tiened,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-23 00:55:36,2023-10-23 00:55:36,Available,
+zcrm_5861855000001859001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 15 Question : Llamada de OR TELEFONO,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-21 13:50:26,2023-10-21 13:50:26,Available,
+zcrm_5861855000001903003,zcrm_5861855000000432001,,1. Contractor Payments Some Miss Matches Need to review.,zcrm_5861855000000540479,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-22 17:40:22,2023-10-22 17:40:22,Available,
+zcrm_5861855000001907003,zcrm_5861855000000432001,,Client came in today to discuss the account there were concerns about mis categorizations on the account which led the client to want to cancel. We discussed meeting the following week to sit down and compare notes. I am working on the close of month for the client now to ensure the books are completely up to date to ensure we are only reviewing the items that there is still a question. I will be adding a task to give it another one over just to make sure we have crossed our Ts and dotted the Is. I know how important accuracy is to Luis and I want to make sure he is getting the best.,zcrm_5861855000000545610,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-22 18:24:42,2023-10-22 18:24:42,Available,
+zcrm_5861855000001907008,zcrm_5861855000000432001,,"The invoice was reviewed, and amendment sent to client reducing the price and switching back to monthly.",zcrm_5861855000001087002,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-22 18:25:26,2023-10-22 18:25:26,Available,
+zcrm_5861855000001943003,zcrm_5861855000000432001,Internal Shared Notebook for Client,https://notebook.zoho.com/app/index.html#/shared/notebooks/30t7l05743d43b8fd4cedaa52e8a70c89abac/notecards,zcrm_5861855000011982003,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-23 19:28:07,2023-10-23 19:28:07,Available,
+zcrm_5861855000002021003,zcrm_5861855000000432001,,I have attached the ITIN response.,zcrm_5861855000002016001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-25 16:38:06,2023-10-25 16:38:06,Available,
+zcrm_5861855000002176016,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 17 Question : necesito itin,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-27 19:55:17,2023-10-27 19:55:17,Available,
+zcrm_5861855000002230003,zcrm_5861855000000432001,,"Provided client with a list of items needed for another account she wants to set up, Rosas Barber Shop. See Deals.",zcrm_5861855000000540487,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-28 19:36:51,2023-10-28 19:36:51,Available,
+zcrm_5861855000002301009,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 18 Question : Hola cómo estás,zcrm_5861855000000835274,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-30 13:38:51,2023-10-30 13:38:51,Available,
+zcrm_5861855000002313001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 18 Question : Hello,zcrm_5861855000000835274,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-10-30 15:03:27,2023-10-30 15:03:27,Available,
+zcrm_5861855000002480001,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 19 Question : Si,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-02 05:27:48,2023-11-02 05:27:48,Available,
+zcrm_5861855000002487001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 19 Question : Si,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-02 05:32:15,2023-11-02 05:32:15,Available,
+zcrm_5861855000002954003,zcrm_5861855000001909384,,"https://billing.zoho.com/app#/paymentsreceived/4476661000000808027
+
+LINK to receipt CP-46 = total paid $140.00",zcrm_5861855000002193185,Tasks,zcrm_5861855000001909384,zcrm_5861855000001909384,2023-11-12 16:23:10,2023-11-12 16:23:10,Available,
+zcrm_5861855000002962003,zcrm_5861855000000432001,,"Dropped by the office to inquire about AES. Cody mentioned that we've already discussed it and suggested giving them a call on Monday. They've also arranged for their friend to visit tomorrow, so there's no need for further action here. ?? - SRV Team",zcrm_5861855000000835299,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-12 20:37:58,2023-11-12 20:37:58,Available,
+zcrm_5861855000003187001,zcrm_5861855000000432001,### Action Plan for Stash 22,"#### 1. **Income Confirmation**
+   - **Task**: Prepare a confirmation letter for Stash 22's cash business income.
+   - **Details**: The letter should state that the monthly income is over $4,200.
+   - **Due Date**: Within 1-2 business days.
+
+#### 2. **DUNS Number Application**
+   - **Task**: Assist Stash 22 in applying for a DUNS number.
+   - **Details**: Gather necessary business information. Apply through Dun & Bradstreet's website.
+   - **Due Date**: Within 3-5 business days.
+
+#### 3. **IRS Name Correction**
+   - **Task**: Draft a letter to the IRS for correcting the name on the EIN letter.
+   - **Details**: Include EIN, incorrect name, correct name, and any supporting documentation.
+   - **Due Date**: Within 7 business days.
+
+#### 4. **Power of Attorney for IRS**
+   - **Task**: Prepare a Power of Attorney (POA) form for IRS matters.
+   - **Details**: Use IRS Form 2848. Ensure it's correctly filled out and signed by Stash 22.
+   - **Due Date**: Concurrent with the IRS name correction letter.
+
+#### 5. **State Tax Registrations Confirmation**
+   - **Task**: Verify and confirm state tax registrations.
+   - **Details**: Check the current status and ensure all necessary tax registrations are active and up to date.
+   - **Due Date**: Within 10 business days.
+
+Please make sure to adjust the due dates based on your availability and client's urgency. Also, keep the client informed at each step and request any necessary documents or information promptly.",zcrm_5861855000003184001,Cases,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-17 10:26:02,2023-11-17 10:26:02,Available,
+zcrm_5861855000003197014,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 20 Question : No,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-17 15:29:15,2023-11-17 15:29:15,Available,
+zcrm_5861855000003279003,zcrm_5861855000000432001,,NOTARY DONE SEE ATTACHED.,zcrm_5861855000003278001,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-19 13:46:15,2023-11-19 13:46:15,Available,
+zcrm_5861855000003315001,zcrm_5861855000000432001,Cancelled,Per gabby no longer needed.,zcrm_5861855000003188001,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-20 19:40:30,2023-11-20 19:40:30,Available,
+zcrm_5861855000003554001,zcrm_5861855000000432001,,EIN dec 2022,zcrm_5861855000003515048,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-25 12:07:45,2023-11-25 12:07:45,Available,
+zcrm_5861855000003647001,zcrm_5861855000001909384,Voice_Note_2023-11-29-21-36,Voice Note has been attached,zcrm_5861855000003646001,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2023-11-29 21:36:44,2023-11-29 21:36:44,Available,
+zcrm_5861855000003715003,zcrm_5861855000000432001,,"ADOLFO DE LA PAZ
+(484) 767-8216
+
+SRVTM.Pro
+
+
+
+September 29 at 1:49 PM
+Hola Adolfo, soy yo apenas le envie mensaje 
+ya me envio photo de su pasaporte o otro documento de indentidad?
+New invoice
+$300.00・000124
+
+
+View invoice
+AD
+
+puede mandarlo comleto que sus dedos no estan alli
+tendras que doblarlo abriendolo para que no cierre mientras que toma el photo
+AD
+Ok deme un momento 
+esta bien
+AD
+
+Recibido, Gracias, amigo, resulta que no tengo zelle, pero puede pagar usando el enlace que le mande abajo. 
+https://squareup.com/pay-invoice/inv:0-ChCu4s3_Q2CaWxinR7AfmJjjEIsI
+AD
+Hasta que horas puedo hacer el pago
+Cuando pueda no hay horario solo que no puedo terminar antes de recibir el pago. Pero ya estoy listando todo. :-)
+AD
+Ok gracias solo deme un tiempo  es que es mi señora la que usa mi zelle
+Oh, pero es que no tengo zelle, seria con tarjeta o con numero de cuenta cuando hace clic en el enlace alli sale las opciones. 
+Si ella 
+AD
+Lo ara con la tarjeta
+Oh, ok, muchas gracias. 
+September 30 at 10:31 AM
+AD
+Puedo hacer el pago hoy
+Invoice paid
+$300.00・000124
+
+
+View invoice
+ADOLFO ME PUEDE ENVIAR DU DIRECCION DE DOMICILIO POR FAVOR GRACIAS. :-)
+AD
+4034 gateway  CT Indianapolis  in 46254
+GRACIAS, ES CASA O APARTAMENTO?
+ADOLFO QUE FUE LA FECHA QUE ENTRO AL PAIS LA ULTIMA VEZ?
+AD
+2014 no me acuerdo  muy vien 
+October 18 at 10:19 AM
+Gracias por comunicarte con nosotros. No dudes en responder y nos pondremos en contacto contigo lo antes posible.
+Automated
+October 19 at 6:15 PM
+AD
+Sería posible que se contactaran con migo al 4847678216
+Hola buenas tardes, si claro.
+En que le podemos ayudar. \
+Trámite el número de itin
+Con ustedes 
+Y quería saber cuanto más o menos se tardara en llegar
+AD
+Ya hace mes y medio
+El promedio es de 120 dias (4 meses), el IRS ha alentado mucho en este año pero si me han llegado algunos en dos meses recientemente espero que sea asi en su caso tambien. 
+Pero no puedo tener aunque sea una compia
+AD
+De ese numero
+El 18 de enero o antes, debe llegar su ITIN
+El numero viene en la hoja, no sabre el numero hasta que nos llega la copia, una llegara a su casa. 
+Es que me pidieron llenar una w9
+AD
+Y no se como hacer sin el numero
+ok, tienes que poner Aplicado, y si necesitas te puedo dar una carta de constancia que ya has aplicado y con mi informacion para confirmacion del numero cuando llega. 
+AD
+Ok
+Yesterday at 11:01 PM
+AD
+Buenas noches disculpe  ya hace vastante que tramite mi número itin con ustedes y nada  que llega quiero saber que pasa
+Today at 11:09 AM
+voy a revisar eso este tarde amigo. Gracis.",zcrm_5861855000000890001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-11-30 11:11:06,2023-11-30 11:11:06,Available,
+zcrm_5861855000003773001,zcrm_5861855000000432001,Apostille Denied,"¡Hola! ?
+
+Lamentamos informarles que el estado de Indiana negó nuestra solicitud de apostilla. La razón es el uso de las palabras ""Notarial Público"" en la traducción del documento. En Estados Unidos, y específicamente en Indiana, es ilegal usar estas palabras en documentos o publicidad para notarios. Aunque no estamos de acuerdo con su decisión, ya que las palabras estaban solo en la traducción y no en los demás documentos, debemos redactar de nuevo los documentos y volver a intentarlo la próxima semana. Pedimos disculpas por los inconvenientes, pero estas decisiones están fuera de nuestro control y son determinadas por el estado.
+
+¡Muchas gracias! ?? 
+- Equipo SRV",zcrm_5861855000003706091,CustomModule9,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-01 13:31:32,2023-12-01 13:31:32,Available,
+zcrm_5861855000003951001,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,"Visit ID : 21 Question : Hi, I need to ask a question about my 2022 tax returns that the lender wants to know about a value entered. Please reach me at 317-250-2637 as I am in the process of trying to close on a home. Thank you!",zcrm_5861855000000546334,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-06 17:38:04,2023-12-06 17:38:04,Available,
+zcrm_5861855000003960001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,"Visit ID : 21 Question : Hi, I need to ask a question about my 2022 tax returns that the lender wants to know about a value entered. Please reach me at 317-250-2637 as I am in the process of trying to close on a home. Thank you!",zcrm_5861855000000546334,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-06 17:39:48,2023-12-06 17:39:48,Available,
+zcrm_5861855000004186020,zcrm_5861855000001909384,,"CLIENT DID NOT SEND BOX. ASKED FOR REFUND. DATA ENTRY ERROR.
+BOX PICKED UP BY CLIENT 12/10/23
+PENDING REFUND TO CLIENT.
+BY: VIANEY",zcrm_5861855000003821009,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2023-12-11 19:32:53,2023-12-11 19:32:53,Available,
+zcrm_5861855000004186028,zcrm_5861855000001909384,,"CLIENT CAME IN WITH SMALL STD. BOX FOR SHIPMENT TO HONDURAS FOR RECIPIENT NAME ALISON ALICIA VASQUEZ GARCIA. 
+PAID IN FULL. CONFIRMATION E-MAIL SENT.
+12/2/23  7:42PM
+BY: VIANEY",zcrm_5861855000003821009,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2023-12-11 19:33:37,2023-12-11 19:33:37,Available,
+zcrm_5861855000004364003,zcrm_5861855000000432001,,Order was resubmitted due to dob error.,zcrm_5861855000003930001,Potentials,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-16 11:34:56,2023-12-16 11:34:56,Available,
+zcrm_5861855000004528025,zcrm_5861855000000432001,,"client had document request. this has been completed, working on printer issue to print out.",zcrm_5861855000000835076,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-20 16:21:15,2023-12-20 16:21:15,Available,
+zcrm_5861855000004710003,zcrm_5861855000000432001,,Client requested file can be found on his work drive. He has alredy paid.,zcrm_5861855000000835076,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-26 06:22:00,2023-12-26 06:22:00,Available,
+zcrm_5861855000004763001,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 22 Question : No,zcrm_5861855000000854659,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-26 12:31:21,2023-12-26 12:31:21,Available,
+zcrm_5861855000005007001,zcrm_5861855000000432001,Incomplete,File was not completed,zcrm_5861855000005002001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-31 08:30:14,2023-12-31 08:30:14,Available,
+zcrm_5861855000005013050,zcrm_5861855000000432001,,"CONSULTATION FOR ISAEL VILLAVERDE - ISAEL CONSTRUCTION LLC
+The Opportunity: The client purchased a vehicle in their company name, as they are unable to register under the name or for use of company vehicle. In order to register the vehicle in Indiana, the state required a valid EIN (federal id number) and active registration with the state. Additionally the clients ITIN is Expired and will need this to file there taxes this year. 
+OUR SOLUTION
+1. Company Registration Reactivation Price: $300
+A. Registration with the state is dissolved for not filing required filings.
+B. Client does not have EIN letter - never Received.
+Description: Reactivating a company's registration is crucial for maintaining its legal status and ability to conduct business including registering the vehicle with the Bmv. We handle the complexities of reactivation with the state, ensuring all paperwork is accurately completed using the existing company information. This process is essential for compliance and avoiding potential legal issues or additional delays in registering the vehicle. 
+Our Service: We review the company's current status, complete necessary forms, and submit them to the Indiana Business Registration office. Our team ensures that all documentation aligns with the original company information to maintain consistency and avoid discrepancies. 
+
+**** 1-3 semanas, in rare occasions longer due to IRS not processing requests upon receipt.***
+2. BMV Plates: $300 (BMV fees not included)
+A. Complete all forms and filing and payment to the BMV on behalf of the client. 
+   - Description: Acquiring BMV plates is a mandatory step for legally operating a vehicle. Our service simplifies this process by handling the necessary documentation and liaising with the BMV. We ensure that all requirements are met for a smooth and hassle-free experience.
+   - Our Service: We coordinate with the dealer to obtain electronic records and submit them to the BMV. We then assist the client in meeting all the criteria for plating the car, including temporary plate issuance. Our involvement streamlines the process, ensuring all steps are completed correctly and promptly.
+
+**** 1-3 semanas for the temporary plate but the bmv by law can take up to 45 days from the filing date.***
+3. ITIN Renewal: $300 (Includes both the itin app, tax prep and coa for doc)
+A. Registration with the state is dissolved for not filing required filings.
+B. Client does not have EIN letter - never Received. 
+   - Description: The ITIN (Individual Taxpayer Identification Number) renewal is essential for non-U.S. citizens to comply with U.S. tax laws. It's especially important for those who don't have a Social Security Number but need to file taxes. Renewing the ITIN is crucial for legal and financial reasons.
+   - Our Service: We guide the client through the ITIN renewal process, ensuring all forms are accurately completed and submitted. This service can be conveniently aligned with tax filing to streamline the client's financial responsibilities. We provide expert advice and support throughout the process to ensure compliance with tax laws.
+Note: The prices mentioned are for our services only and do not include any external fees (like BMV fees) that might be applicable. The duration for each service can vary based on individual cases and external processing times.
+These descriptions provide your client with a clear understanding of the value and steps involved in each service, highlighting the convenience and expertise your services offer.",zcrm_5861855000005013013,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-31 14:33:06,2023-12-31 14:33:06,Available,
+zcrm_5861855000005179203,zcrm_5861855000000432001,,"lego para saber como es el proceso del i589, quedo en que le mandara el aceso en linia y vendra manana.",zcrm_5861855000000545249,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-04 16:44:54,2024-01-04 16:44:54,Available,
+zcrm_5861855000005222003,zcrm_5861855000000432001,,Invited milton to fill out his intake form for his I 589. Sent to gmilton12009@gmail.com,zcrm_5861855000000545249,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-05 15:31:14,2024-01-05 15:31:14,Available,
+zcrm_5861855000005558028,zcrm_5861855000000432001,,Clark came into there because he received a letter of a demand notice from the state of Minara stating that he had a Mountain Dew for Indiana the result was from the audit how did he received they did not accept the information submitted and therefore adjusted his in his income tax due you slept with the balance of roughly $600 that was explain to him he understands it i've also pulled the letters from online out of those two this to his account and apply it left in a good mood and also renewed his business entity while he was here,zcrm_5861855000000545149,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-13 19:50:26,2024-01-13 19:50:26,Available,
+zcrm_5861855000005571029,zcrm_5861855000000432001,,"1. Business Taxes
+2. Individual Taxes 2022 (possible 1040x for 21-22 to reclaim ""bonus"" child credits)
+3. Tax ID Name Correct Letter. 
+4. BAWA APP WITH DOCKETWISE
+5. ORDER MORE CAMERAS (EXTENSION DIRECT (DIRECT LINE WITH LOCAL ACCESSPOINTE FOR SIGNAL STRENTH)
+6. INVESTIGATE THE REQUIREMENTS FOR PIERCINGS LICENSE INDIANA",zcrm_5861855000001338001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-13 15:28:53,2024-01-13 15:28:53,Available,
+zcrm_5861855000005751001,zcrm_5861855000000432001,Check-IN,Client Checked In.,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-17 23:22:12,2024-01-17 23:22:12,Available,
+zcrm_5861855000005752001,zcrm_5861855000000432001,Check-IN,Client Checked In.,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-17 23:47:43,2024-01-17 23:47:43,Available,
+zcrm_5861855000005821016,zcrm_5861855000000432001,,COMPLETED AND UPLOADED.,zcrm_5861855000005833025,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 18:22:47,2024-01-18 18:22:47,Available,
+zcrm_5861855000005821033,zcrm_5861855000000432001,,"DEPENDANTS, ANY CHANGES TO MARRIAGE, STOCKS, RENTAL PROPERTIES OTHER INCOME, OTHER DEDUCTIONS LIKE TUITION.",zcrm_5861855000005833025,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 18:29:22,2024-01-18 18:29:22,Available,
+zcrm_5861855000005845002,zcrm_5861855000000432001,,"Cronología de Eventos para el Estado de la Placa de Santana Services LLC
+23/07/2023 (Domingo): Visita inicial a nuestra oficina.
+24/07/2023 (Lunes): BMV cerrado.
+25/07/2023 - 26/07/2023 (Martes y Miércoles): Centro comercial cerrado.
+27/07/2023 (Jueves): El paquete fue entregado a la agencia.
+28/07/2023 - 31/07/2023: Cotización y provisión de seguro.
+02/08/2023 (Miércoles): Las placas fueron entregadas al BMV para su registro.
+11/08/2023: Seguimiento con la agencia; aún en proceso en el BMV.
+12/08/2023: Notificación de la agencia sobre posible recepción la próxima semana.
+Hasta la fecha (16/08/2023): Han pasado 20 días hábiles desde la entrega al BMV. El tiempo máximo de procesamiento es de 45 días hábiles.
+El BMV emite las inscripciones el 19/09/2023 según la fecha indicada en la inscripción, listando una dirección diferente a la que presentamos a ellos.
+Otra nota es que su Carta de EIN que nos presentó tenía la otra dirección, cuando revisamos sus registros con el estado todavía tienen la dirección, lo que me hace pensar que no la han actualizado con el estado y esta es la razón por la que creo que el estado, al haber una discrepancia, predeterminó su dirección oficial de negocios para la cuenta.
+
+Además, queremos señalar que la demora y las incongruencias en el procesamiento de su solicitud por parte del BMV han sido disruptivas e injustas.
+
+Tenga en cuenta que el monto pagado incluye nuestro tiempo para preparar los documentos, entregarlos, obtener su seguro y recoger las placas por $220.00. Los seguros y las tarifas del BMV fueron cargos separados.
+
+Entendemos que puede haber otras agencias que ahora puedan procesarlas más rápidamente. Sin embargo, este tiempo de procesamiento es normal, ya que algunas agencias pueden tardar más que otras debido al volumen de solicitudes que manejan.
+
+No tenemos control sobre el tiempo de procesamiento del BMV, y como nos ha informado el BMV, no podemos llamar si no han pasado 45 días.
+
+Queremos ayudarle en todo lo que podamos y entendemos su situación. Si lo prefiere, podemos proporcionarle actualizaciones diarias sobre el estado de su solicitud.
+
+No dude en comunicarse si tiene alguna pregunta adicional o necesita más ayuda.
+
+Saludos cordiales,
+Servicios Rice-Velasquez",zcrm_5861855000000657001,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-18 22:40:11,2024-01-18 22:40:11,Available,
+zcrm_5861855000005970001,zcrm_5861855000000432001,Start tax process,Has schedule C and w2s. Total of 5 forms.,zcrm_5861855000001232001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 09:43:00,2024-01-22 09:43:00,Available,
+zcrm_5861855000006000001,zcrm_5861855000000432001,Voice_Note_2024-01-22-19-21,Voice Note has been attached,zcrm_5861855000005999004,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-22 19:21:38,2024-01-22 19:21:38,Available,
+zcrm_5861855000006032003,zcrm_5861855000004627001,,"FALTA LA FECHA DE NACIMIENTO DEL DEPENDE Y RELACION
+Y PREGUNTAR SI SE PRESENTARAN DE MANERA INDIVIDUAL O CASADO
+CLIENTE: KATHERIN JIMENEZ GUARDADO",zcrm_5861855000006030012,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-01-23 05:08:17,2024-01-23 05:09:15,Available,
+zcrm_5861855000006279033,zcrm_5861855000000432001,,"Cient had a partnership in SD. The business was registered with the state, but no members listed. There were two partners, need to create a 1065 and provide the two k1s for each partner, need to start on a pnl. Need questionnaire and inlcude sales tax questions, pnl recoreds, ect. May 2023 - Dec. 2023",zcrm_5861855000006279003,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 04:22:34,2024-01-27 04:22:34,Available,
+zcrm_5861855000006297001,zcrm_5861855000001909384,Wants info about taxes,"Dennis called at 12:32 pm. Asking for Cody. 
+Took message with cell number and email. 
+Wants to know what she needs and how much approximately would the cost be to do her 2022 taxes ONLY! 
+
+Waiting on input from Cody to schedule appointment for a consult. 
+
+
+By: Vianey
+01/27/24 1:28pm",zcrm_5861855000006272007,Calls,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-01-27 13:28:22,2024-01-27 13:28:22,Available,
+zcrm_5861855000006305003,zcrm_5861855000000432001,,"¡Hola! ?
+
+Acabamos de completar el estimado para la declaración de impuestos de Sochi con los dos trabajos W-2 que tuvo. Sus ingresos totales fueron aproximadamente $22,000, y pagó $1,110 en impuestos. Su impuesto antes de créditos fue de $89. Los créditos por hijo aplicados fueron $89, dejando su impuesto después de créditos en cero. Por lo tanto, recibirá un reembolso federal de $738. Además, recibirá un reembolso estatal de $325. 
+
+Este es solo un estimado y no la declaración final. Con tu aprobación, procederemos a finalizar la declaración.
+
+Por favor, firma abajo para aprobar:
+
+____________________________
+Nombre y Apellido
+
+¡Muchas gracias! ??
+- Equipo SRV",zcrm_5861855000006298001,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-01-27 13:41:03,2024-01-27 13:41:03,Available,
+zcrm_5861855000006426057,zcrm_5861855000001909384,,"Prefers to be contacted via text message or call any day after 4:30 pm.
+Agreement signed by both, Mr. Lozano and Mrs. Perez.
+Paid service. 
+Receipt should be e-mailed to Mr. Lozano.
+
+Couple filing taxes for the year 2022. 
+Mr. Lozano mentioned that he like to see the outcome of the for taxes to decide whether he'd be filling taxes 2023.
+
+By: Vianey
+1/30/24    6:05 am",zcrm_5861855000006379014,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-01-30 06:05:36,2024-01-30 06:05:36,Available,
+zcrm_5861855000006615217,zcrm_5861855000000432001,,Checking is better to place dependents on which parent per request.,zcrm_5861855000005946025,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 11:40:47,2024-02-01 11:40:47,Available,
+zcrm_5861855000006623051,zcrm_5861855000000432001,,Input in the system.,zcrm_5861855000005946025,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 11:51:05,2024-02-01 11:51:05,Available,
+zcrm_5861855000006645024,zcrm_5861855000000432001,,38-4126428,zcrm_5861855000000540547,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 17:38:40,2024-02-01 17:38:40,Available,
+zcrm_5861855000006658010,zcrm_5861855000000432001,,Stopped by for a print.,zcrm_5861855000006658004,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 19:30:47,2024-02-01 19:30:47,Available,
+zcrm_5861855000006658016,zcrm_5861855000000432001,,"Moises Ramirez
++1 3173452557
+
+Search in current conversation
+Hola Moisés, tenemos una llamada perdida tuya. En qué le podemos ayudar amigo?
+
+Sent By: Cody
+2024-02-01 14:17
+Lamentamos los inconvenientes respecto a sus citas consulares de febrero 2023. Debido a cambios en nuestro sistema, no podemos acceder a registros archivados para verificar su caso, lo que nos impide ofrecer un reembolso. Sin embargo, queremos rectificar esto priorizando su cita. Usted está primero en nuestra lista actual.
+
+La disponibilidad en Indianápolis es limitada, con cupos llenándose rápidamente cada mes. Si considera la opción de Chicago, podemos facilitar una cita allí más prontamente.
+
+Por favor, indíquenos cómo desea proceder y haremos todo lo posible por acomodarlo. Estamos aquí para ayudar y asegurar que reciba el servicio que necesita.
+
+Atentamente, Cody Rice-Velasquez, CEO
+
+Sent By: Cody
+2024-02-01 19:34",zcrm_5861855000000854281,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-01 19:35:49,2024-02-01 19:35:49,Available,
+zcrm_5861855000006717002,zcrm_5861855000004627001,,llamo para preguntar sobre lo del rembolso de sus taxes que por que dice que los hizo desde septiembre que si le podrian dar imformacion febrero 2,zcrm_5861855000000835785,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-02 16:46:44,2024-02-02 16:46:44,Available,
+zcrm_5861855000006747002,zcrm_5861855000001909384,,"Si tiene dependientes puede tardar hasta 45 días si fue enviado electrónicamente, pero si los hizo en diciembre el portal estaba cerrado aun, entonces probablemente los mandaría por correo? Y si fue asi, tardaran unos meses aproximadamente, a veces más tiempo despues de que los procesan.
+
+Sent by: Cody thru cliq
+Proofread and added by: Vianey",zcrm_5861855000000835785,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-03 06:04:49,2024-02-03 06:04:49,Available,
+zcrm_5861855000006770003,zcrm_5861855000000432001,,called customer to remind them to have damaris sign the return as it is still not signed. sent other reminders as well.,zcrm_5861855000006554003,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 13:10:55,2024-02-03 13:10:55,Available,
+zcrm_5861855000006770013,zcrm_5861855000000432001,,Client had us assist in paying tax bill for indiana as well.,zcrm_5861855000006756011,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 13:16:11,2024-02-03 13:16:11,Available,
+zcrm_5861855000006780794,zcrm_5861855000000432001,,NA,zcrm_5861855000006780042,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 18:23:16,2024-02-03 18:23:16,Available,
+zcrm_5861855000006780832,zcrm_5861855000000432001,,READY,zcrm_5861855000006780042,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 18:23:36,2024-02-03 18:23:36,Available,
+zcrm_5861855000006781019,zcrm_5861855000001909384,,"Refund made with check, handed directly to client.",zcrm_5861855000003821009,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-03 16:46:04,2024-02-03 16:46:04,Available,
+zcrm_5861855000006795003,zcrm_5861855000000432001,,"I CANNOT FIND HIS ITIN OR HIS EIN, I KNOW WE GOT HIS ITN AND I THINK I JUST GAVE IT TO THEM WITHOUT SCANNING IT CAUSE I HAVE HIS EIN APP, WE SHOULD JUST RESEND THE EIN APP AGAIN.",zcrm_5861855000001166001,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-03 19:55:19,2024-02-03 19:55:19,Available,
+zcrm_5861855000006796001,zcrm_5861855000001909384,,Isn't it the one i have. The one i put on hold?,zcrm_5861855000001166001,Tasks,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-03 19:59:04,2024-02-03 19:59:04,Available,
+zcrm_5861855000006803001,zcrm_5861855000000432001,Return Done for 2023,I believe i told the client I would be doing the return for free.,zcrm_5861855000000546229,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-04 06:40:39,2024-02-04 06:40:39,Available,
+zcrm_5861855000006810001,zcrm_5861855000000432001,,SIGNED,zcrm_5861855000006648001,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-04 15:03:35,2024-02-04 15:03:35,Available,
+zcrm_5861855000006814002,zcrm_5861855000000432001,,DONE,zcrm_5861855000006648001,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-04 15:28:59,2024-02-04 15:28:59,Available,
+zcrm_5861855000006826135,zcrm_5861855000000432001,,CONFIRMED,zcrm_5861855000006800005,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 02:33:48,2024-02-05 02:33:48,Available,
+zcrm_5861855000006830002,zcrm_5861855000000432001,,The tax documents that were recorded the offers I placed them in the mail you'll receive them into the MAIL,zcrm_5861855000006379014,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 14:38:22,2024-02-05 14:38:22,Available,
+zcrm_5861855000006836002,zcrm_5861855000000432001,,"Brayan Emilio Funes Funes
++1 4632408598
+
+Search in current conversation
+Sure, here is your message translated into Spanish:
+
+""Claro, enviaré este mensaje discretamente y procederé a enviar los documentos que faltaban mediante mensaje de texto para simplificar el proceso. Así que estaré esperando esos formularios. Muchas gracias por tu paciencia, los enviaremos lo antes posible. Gracias.""
+
+Sent By: Cody
+2024-02-05 17:21",zcrm_5861855000004943044,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 17:21:38,2024-02-05 17:21:38,Available,
+zcrm_5861855000006836008,zcrm_5861855000000432001,,Phoenix stop by we installed zoho books onto her phone we're going to use that to manage her sales tax and other information for her tax return it is the free version currently but we do have access to the standard version for the next 30 days so we're going to take advantage of that um their password for books is phoenix which is capital F EN I double X 2024 exclamation and the total amount for taxes for this last period was $537.14 for gross sales we're going to use that amount in order to process our sales tax return,zcrm_5861855000000540468,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-05 17:23:32,2024-02-05 17:23:32,Available,
+zcrm_5861855000006923005,zcrm_5861855000000432001,,"Sticky note from Fennix: 
+
+Fenixx2024!
+8.6.7.8341
+537.14
+0-5
+0-4
+0-1",zcrm_5861855000000540468,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-07 19:29:15,2024-02-07 19:29:15,Available,
+zcrm_5861855000006945014,zcrm_5861855000001909384,,"Sent general info and some papers to email. 
+Appointment for Monday Feb. 12, 2024 at 1 pm.
+Mentioned last year tax season he payed around 4,600 (forms and other docs filled in other agency sent as well) , will like to know what he can do to lower tha amount.
+
+
+By: Vianey
+2/8/24   2:15 am",zcrm_5861855000006945001,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-08 02:18:49,2024-02-08 02:18:49,Available,
+zcrm_5861855000006998003,zcrm_5861855000000432001,,"CREATED LETTER WITH SIC DOES AND NAICS CODES TO THE CLIENT IF NEEDED, SEE ATTACHED.",zcrm_5861855000006722040,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 16:47:51,2024-02-08 16:47:51,Available,
+zcrm_5861855000006998013,zcrm_5861855000000432001,,APPLIED FOR EIN SEE ATTACHED.,zcrm_5861855000006722040,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 16:48:11,2024-02-08 16:48:11,Available,
+zcrm_5861855000006998025,zcrm_5861855000000432001,,UPDATED ARTICLES OF INCORPORATION.,zcrm_5861855000006722040,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-08 16:48:30,2024-02-08 16:48:30,Available,
+zcrm_5861855000007091008,zcrm_5861855000004627001,,"Business Name:	P & H PAINTING AND REMODELING LLC	Business ID:	202203071572332
+Entity Type:	Domestic Limited Liability Company	Business Status:	Active
+Creation Date:	03/07/2022	Inactive Date:	
+Principal Office Address:	4431 Eagle Creek Pkwy, 206, Indianapolis, IN, 46254, USA	Expiration Date:	Perpetual
+Jurisdiction of Formation:	Indiana	Business Entity Report Due Date:	03/31/2024
+ 	 	Years Due:	2024/2025
+Governing Person Information
+Title	Name	Address
+Member	Nury Paola Ivanez Moreno	4431 Eagle Creek Pkwy Apt 206, Indianapolis, IN, 46254, USA
+Page 1 of 1, records 1 to 1 of 1
+Registered Agent Information
+Type:	Business Commercial Registered Agent
+Name:	CJ RICE & COMPANIES LLC
+Address:	3585 Commercial Dr Ste 730, Indianapolis, IN, 46222, USA",zcrm_5861855000007060090,Accounts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-09 15:51:18,2024-02-09 15:51:18,Available,
+zcrm_5861855000007100063,zcrm_5861855000001909384,,"Still waiting on ID. 
+Engagement letter signed.
+File started and saved in Ultimate Tax.",zcrm_5861855000006945023,CustomModule17,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-09 17:50:34,2024-02-09 17:50:34,Available,
+zcrm_5861855000007100094,zcrm_5861855000001909384,,"I've been in communication with the clients wife. I mentioned via e-mail there is still an invoice open that needs to be fully covered to be able to deliver EIN (it has been submitted in the INBIZ but not yet faxed).
+Also gave her an update on the situation with the Ford agency and proposed (per Cody's advice) they pay BMV tax fees to be able to proceed with the final stage of service. Client responded and said they'll stop by this weekend to cover tax fees.
+
+Side note: Emails will be attached to clients contact file
+
+By: Vianey
+2/9/24   5:58 pm",zcrm_5861855000005013013,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-09 17:58:32,2024-02-09 17:58:32,Available,
+zcrm_5861855000007121003,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 23 Question : cuales son las horas de operacion,zcrm_5861855000000854174,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-11 01:06:42,2024-02-11 01:06:42,Available,
+zcrm_5861855000007145649,zcrm_5861855000000432001,,CONFIRMED ENGAGEMENT PER CHARLY.,zcrm_5861855000007145002,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-10 14:49:06,2024-02-10 14:49:06,Available,
+zcrm_5861855000007146003,zcrm_5861855000000432001,,CLIENT PAID ONLY $150,zcrm_5861855000007145002,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-10 14:13:43,2024-02-10 14:13:43,Available,
+zcrm_5861855000007176001,zcrm_5861855000000432001,,I think it’s the one I have and I’m queued up to finish it.,zcrm_5861855000001166001,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-10 20:49:52,2024-02-10 20:49:52,Available,
+zcrm_5861855000007290003,zcrm_5861855000000432001,,RETURN ENTTRY WAS FOR REVIEW ONLY.,zcrm_5861855000007279067,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-12 15:21:42,2024-02-12 15:21:42,Available,
+zcrm_5861855000007382003,zcrm_5861855000000432001,,"2/14/2024	671-52-2719	Miranda Gallardo, F	Federal	$1,476.00	Accepted	 	PIN	None	 	35488920240453000180	Thank you for using e-File.",zcrm_5861855000006800005,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-14 16:08:49,2024-02-14 16:08:49,Available,
+zcrm_5861855000007600003,zcrm_5861855000000432001,,Not desire to work with client closing out task.,zcrm_5861855000004486006,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-18 19:16:25,2024-02-18 19:16:25,Available,
+zcrm_5861855000007600008,zcrm_5861855000000432001,,Cancelled,zcrm_5861855000003189006,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-18 19:19:17,2024-02-18 19:19:17,Available,
+zcrm_5861855000007600013,zcrm_5861855000000432001,,Cancelled,zcrm_5861855000003189001,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-18 19:19:27,2024-02-18 19:19:27,Available,
+zcrm_5861855000007600018,zcrm_5861855000000432001,,Cancelled,zcrm_5861855000003188006,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-18 19:19:36,2024-02-18 19:19:36,Available,
+zcrm_5861855000007600023,zcrm_5861855000000432001,,Cancelled,zcrm_5861855000003184012,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-18 19:19:45,2024-02-18 19:19:45,Available,
+zcrm_5861855000007610003,zcrm_5861855000004627001,,FALTA LA IMFORMACION DE DEPOSITO DIRECTO,zcrm_5861855000008154098,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-18 22:01:07,2024-02-18 22:01:07,Available,
+zcrm_5861855000007610008,zcrm_5861855000004627001,,"FALTA
+-SSN OR ITIN
+-FECHA DE NACIMIENTO
+-IMFORMACION PARA REMBOLSO 
+-CORREO ELECTRONICO
+-NUMERO DE TELEFONO",zcrm_5861855000007609054,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-18 23:01:29,2024-02-18 23:01:29,Available,
+zcrm_5861855000007781001,zcrm_5861855000004627001,,Los tienes arriba?,zcrm_5861855000007604013,Tasks,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-21 21:04:01,2024-02-21 21:04:01,Available,
+zcrm_5861855000007787011,zcrm_5861855000001909384,,"EIN was unclear of filing date per documents found in workdrive. 
+Conclusion: Leave on hold meanwhile and we were to get back to it. 
+
+By: Vianey
+2/21/24     9:58pm",zcrm_5861855000004793018,Contacts,zcrm_5861855000001909384,zcrm_5861855000001909384,2024-02-21 21:56:42,2024-02-21 21:56:42,Available,
+zcrm_5861855000007831003,zcrm_5861855000000432001,,Sent message to mother to get the email address so he can sign. ',zcrm_5861855000007609054,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-22 14:47:19,2024-02-22 14:47:19,Available,
+zcrm_5861855000007839043,zcrm_5861855000000432001,,"5:11PM
+COMPANY WORK 1099
+PNL FOR A SELFEMPLOYMENT
+IT IS CLOSED ADMIN
+NEED TO RENEW
+HAS CONTRACTORS WILL NEED TO FILE 1099S
+
+
+$100 THEN $20 PER FORM
+1-5
+1099S
+1. NOMBRE COMPLETO
+2. ITIN/SSN/FEDERAL
+3. ADDRESS
+
+
+BUSINESS
+CHECK REGISTRATION
+ALL BUSINESS TAXES ARE UP TO DATE SO WE COULD REOPEN IT.",zcrm_5861855000007839004,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-22 18:02:51,2024-02-22 18:02:51,Available,
+zcrm_5861855000007843001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 24 Question : AGENTE,zcrm_5861855000007841001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-22 18:09:52,2024-02-22 18:09:52,Available,
+zcrm_5861855000007918001,zcrm_5861855000004627001,Vino a su appointment,Vino hoy a su appointment dijo que si le podrias llamar para hablar cuando pueden verse para hacer sus taxes,zcrm_5861855000002928021,Accounts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-23 21:28:28,2024-02-23 21:28:28,Available,
+zcrm_5861855000007919001,zcrm_5861855000004627001,Fue amadeo hoy a su cita,"Fue hoy a su cita para sus taxes y el stiker 
+Le dije que si podia dejar sus formas para yo poderlas empezar y que para que ya que estubieran listas tu le llamaras para revisarlas pero me dijo que el nunca te da nada dice que tu sacas sus w2 y eso asi que ps ya no pude hacer mas ahi dijo nomas que te comunicaras con el cuando puedas",zcrm_5861855000000544254,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-23 21:32:36,2024-02-23 21:32:36,Available,
+zcrm_5861855000007921001,zcrm_5861855000004627001,,y quien es su mama?,zcrm_5861855000007609054,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-24 00:40:23,2024-02-24 00:40:23,Available,
+zcrm_5861855000007960001,zcrm_5861855000000432001,,crm[user#5861855000004627001#833017190]crm Guadalupe Quevedo,zcrm_5861855000007609054,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-25 08:26:41,2024-02-25 08:26:41,Available,
+zcrm_5861855000007961001,zcrm_5861855000000432001,,Gracias,zcrm_5861855000000544254,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-25 08:27:11,2024-02-25 08:27:11,Available,
+zcrm_5861855000007966001,zcrm_5861855000004627001,Revision final de taxes,"Revisar que si este bien llenado los taxes para 
+Ver que este bien",zcrm_5861855000007921012,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-25 10:48:31,2024-02-25 10:48:31,Available,
+zcrm_5861855000008159001,zcrm_5861855000004627001,,"Llamarle para pedirle el curp 
+Y nombre de los padres
+Para buscarle cita para pasaporte en consulado mexicano que sea en el de Indianápolis
+El ya tiene pagado el servicio desde hace 1 mes mas o menos",zcrm_5861855000007972006,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-27 17:58:33,2024-02-27 17:58:33,Available,
+zcrm_5861855000008160001,zcrm_5861855000004627001,,Checar que los ahiga llenado bien por fa,zcrm_5861855000007921012,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-27 17:59:29,2024-02-27 17:59:29,Available,
+zcrm_5861855000008160006,zcrm_5861855000004627001,,Esa es la forma que faltaba que te habia comentado que tenia la foto en el cel,zcrm_5861855000000835637,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-27 18:06:03,2024-02-27 18:06:03,Available,
+zcrm_5861855000008191003,zcrm_5861855000000432001,,"Asunto: Acción Inmediata Requerida - Situación Crítica de Operaciones
+
+Estimados socios,
+
+Me veo en la necesidad de ser directo: nuestra incapacidad colectiva para manejar tareas esenciales está empujando al negocio al borde del cierre. Mi decisión de prepararnos para el cierre no es precipitada; es una respuesta a nuestra realidad operativa.
+
+El caso SRVTX_2023037 subraya esta urgencia. Falta información crítica, no se ha confirmado el pago y nuestro seguimiento con el cliente es inexistente. Esta no es solo una falla aislada; es un reflejo de cómo nuestras operaciones están fallando en general.
+
+Exijo que uno de ustedes se haga cargo inmediatamente para:
+
+1. **Recopilar toda la información faltante.**
+2. **Verificar y confirmar que el pago se ha realizado y registrado correctamente en el sistema.**
+
+Es imperativo entender que sin adherirnos estrictamente a nuestros procesos, no hay esperanza para el futuro de nuestro negocio. Ya no estoy dispuesto a pasar por alto estas deficiencias. Somos adultos responsables, y es hora de actuar como tales.
+
+Espero acciones concretas y resultados antes del viernes por la tarde. No hay margen para más excusas.
+
+Con un llamado urgente a la responsabilidad,",zcrm_5861855000007539004,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-28 05:57:15,2024-02-28 05:57:15,Available,
+zcrm_5861855000008238003,zcrm_5861855000004627001,,YA PAGO 100 LE QUEDA UN BALANCE DE 70 DOLARES,zcrm_5861855000008237001,CustomModule17,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-28 20:11:09,2024-02-28 20:11:09,Available,
+zcrm_5861855000008260003,zcrm_5861855000000432001,,"XXX-XX-0573	MENDOZA VELSQUZ	F	 	
+US
+
+R0000-500-01
+
+'PrimarySSN' and 'PrimaryNameControlTxt' in the Return Header must match the e-File database.
+
+/efile:Return/efile:ReturnHeader/efile:Filer/efile:PrimarySSN
+
+Value: 023530573
+
+R0000-503-02
+
+Spouse SSN and Spouse Name Control in the return must match the e-File database.
+
+/efile:Return/efile:ReturnHeader/efile:Filer/efile:SpouseSSN
+
+Value: 057657164
+
+R0000-503-02
+
+Spouse SSN and Spouse Name Control in the return must match the e-File database.
+
+/efile:Return/efile:ReturnHeader/efile:Filer/efile:SpouseSSN
+
+Value: 057657164",zcrm_5861855000006756011,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 01:13:30,2024-02-29 01:13:30,Available,
+zcrm_5861855000008260008,zcrm_5861855000000432001,,"To adhere to the IRS's 35-character limit for the combined name in e-filing, we'll follow the specified priority for abbreviating the names given in your example: [FRANCISCO MENDOZA VELASQUEZ & JOHANA CASTILLO CASTILLO]. Here's how we can abbreviate the names step by step:
+
+1. **Delete the spouse's middle initial**: There are no middle initials given, so we move to the next step.
+2. **Delete the taxpayer's middle initial**: No middle initials to remove, proceeding.
+3. **Use initials only for the spouse's first name**: This changes ""JOHANA"" to ""J"".
+4. **Use initials only for the taxpayer's first name**: This changes ""FRANCISCO"" to ""F"".
+5. **Abbreviate the spouse's last name by removing the vowels, starting with vowels at the end of the last name**: For ""CASTILLO CASTILLO"", we might not need to do this given the length constraint, but we'll see if it's necessary after evaluating the current length.
+6. **Abbreviate the taxpayer's last name by removing vowels, starting with vowels at the end of the last name**: This step will be considered for ""MENDOZA VELASQUEZ"" if needed.
+
+Let's calculate the length after applying steps 3 and 4 to determine if further abbreviation is necessary.
+
+After using initials for the first names, the combined name is ""F MENDOZA VELASQUEZ & J CASTILLO CASTILLO,"" which totals 41 characters. Since this exceeds the 35-character limit, we need to abbreviate further. 
+
+Next steps according to the IRS priority:
+
+5. **Abbreviate the spouse's last name by removing the vowels, starting with vowels at the end of the last name**: Since the spouse's name is longer, we'll start abbreviating ""CASTILLO CASTILLO"".
+6. **If necessary, abbreviate the taxpayer's last name by removing vowels, starting from the end**: We'll proceed to this step only if step 5 doesn't bring us under the limit.
+
+Let's start with step 5 and check if we need to proceed to step 6.
+
+After abbreviating according to the IRS priority, the combined name for e-filing is ""F MENDOZ VLSQZ & J CASTILL CSTLL,"" which totals 32 characters. This meets the IRS's 35-character limit for e-filing names.
+
+Would you like assistance with any other queries or need further clarification on this?",zcrm_5861855000006756011,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-02-29 01:22:33,2024-02-29 01:22:33,Available,
+zcrm_5861855000008294001,zcrm_5861855000004627001,,"$2500 cirino zapata 07-31-23
+$559 pablo gutierrez 06-20-23
+$1270 jorge perez 08-16-23
+$1500 erick benites 08-16-23
+$590 santiago zapata 08-18-23
+$2030 edwin sanches 08-16-23
+$1080 erick benites 08-16-23
+$2900 bryan olivares 08-16-23
+$2240 rodrigo perez 08-16-23
+$1710 erick benites 07-31-23
+$2190 jorge perez 07-31-23
+
+esta es la imformacion de los cheques que le pediste el nombre cantidad y la fecha en que se hiso el cheque ahorita te voy a subir las imagenes tambien",zcrm_5861855000000835089,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-29 12:51:43,2024-02-29 12:51:43,Available,
+zcrm_5861855000008294029,zcrm_5861855000004627001,,"quiere saver si tienes tiempo para agendarle una cita para el y otra para un amigo de el este sabado
+le dije que no se si podrias por que tienes mcho trabajo que no era seguro le dije que nsotros le mandariamos mensaje si estarias disponible o no y la hora 
+me dejas saber cody por fa para dejarle saver al cliente gracias",zcrm_5861855000000854589,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-02-29 19:28:23,2024-02-29 19:28:23,Available,
+zcrm_5861855000008364032,zcrm_5861855000004627001,,CHECAR TAXES DE 2022 POR QUE NO SE AN PROCESADO,zcrm_5861855000000545700,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-02 19:15:56,2024-03-02 19:15:56,Available,
+zcrm_5861855000008391003,zcrm_5861855000000432001,,"SAME PLAN AS BEFORE FOR $174, CLIENT HAS TO PAY THE BACKED MONTHS OF JAN AND FEBURARY FOR $348 BALANCE.",zcrm_5861855000008390001,Potentials,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-02 07:22:41,2024-03-02 07:22:41,Available,
+zcrm_5861855000008615003,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 25 Question : Llamada de Delfina,zcrm_5861855000000854174,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 11:51:33,2024-03-07 11:51:33,Available,
+zcrm_5861855000008635001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 26 Question : Hello,zcrm_5861855000000835252,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 13:55:14,2024-03-07 13:55:14,Available,
+zcrm_5861855000008658001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 28 Question : ayuda,zcrm_5861855000000835252,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-07 21:49:16,2024-03-07 21:49:16,Available,
+zcrm_5861855000008672032,zcrm_5861855000000432001,,me puede poner un task.,zcrm_5861855000000545700,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 14:20:20,2024-03-09 14:20:20,Available,
+zcrm_5861855000008672039,zcrm_5861855000000432001,,los dos fueran acceptados.,zcrm_5861855000000545700,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 14:20:59,2024-03-09 14:20:59,Available,
+zcrm_5861855000008673007,zcrm_5861855000000432001,,QUICKLY COMPILED RETRUN AND WANTS TO PAY $91 FEDERAL CON $9 DE ESTADO DE REEMBOLSO.,zcrm_5861855000008709275,Potentials,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 15:15:04,2024-03-09 15:15:04,Available,
+zcrm_5861855000008739001,zcrm_5861855000000432001,Zoho SalesIQ chat with Customer,Visit ID : 30 Question : CODY RICEVELASQUEZ,zcrm_5861855000000835252,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 18:45:42,2024-03-09 18:45:42,Available,
+zcrm_5861855000008744002,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 30 Question : CODY RICEVELASQUEZ,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-09 18:55:43,2024-03-09 18:55:43,Available,
+zcrm_5861855000008799001,zcrm_5861855000000432001,Zoho SalesIQ chat with Customer,Visit ID : 31 Question : Dmb Bxt,zcrm_5861855000008788005,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-10 13:11:31,2024-03-10 13:11:31,Available,
+zcrm_5861855000008807017,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 32 Question : hola,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 10:58:16,2024-03-11 10:58:16,Available,
+zcrm_5861855000008809001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 31 Question : Dmb Bxt,zcrm_5861855000008788005,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-10 13:24:34,2024-03-10 13:24:34,Available,
+zcrm_5861855000008827011,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 32 Question : hola,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 10:48:10,2024-03-11 10:48:10,Available,
+zcrm_5861855000008860011,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 33 Question : Hi,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 20:57:56,2024-03-11 20:57:56,Available,
+zcrm_5861855000008865001,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 33 Question : Appointment,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 13:25:51,2024-03-11 13:25:51,Available,
+zcrm_5861855000008865007,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 33 Question : Hi,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 21:08:02,2024-03-11 21:08:02,Available,
+zcrm_5861855000008892003,zcrm_5861855000000432001,,"Date	Reference	Sequence #	RejectCode
+3/9/2024 3:12:33 PM		0	F8962-070
+The e-File database indicates that Form 8962 or a binary attachment with description containing ""ACA Explanation"" must be present in the return.
+
+/efile:Return/efile:ReturnData/efile:IRS1040
+
+Value:",zcrm_5861855000008709001,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-11 16:09:48,2024-03-11 16:09:48,Available,
+zcrm_5861855000009181003,zcrm_5861855000000432001,,So sent a message to the client forming them of the rejection and that I needed the form 1095 a for his medical beverage to the state marketplace client later all the office inquiring on the notification stadium received notification about a rejection and that he needed some kind of form so he had called us asking us what it was i'm assuming he thought that message was from the IRS and not us as he literally contacted us asking the question that I was asking him,zcrm_5861855000008871003,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 02:58:00,2024-03-15 02:58:00,Available,
+zcrm_5861855000009228012,zcrm_5861855000000432001,,Paid $60 cash,zcrm_5861855000009147535,Potentials,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 20:25:21,2024-03-15 20:25:21,Available,
+zcrm_5861855000009278074,zcrm_5861855000000432001,,CLIENT NEVER PROVIDING THE OTHER MISSING DOCUMENTS. SHREDED.,zcrm_5861855000000835623,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 22:16:13,2024-03-15 22:16:13,Available,
+zcrm_5861855000009278085,zcrm_5861855000000432001,,"DID NOT RECEIVE MISSING DOCUMENTS, APPLICATION SHREDED.",zcrm_5861855000000545748,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-15 22:17:23,2024-03-15 22:17:23,Available,
+zcrm_5861855000009314003,zcrm_5861855000000432001,,Do not see anything for the clients documents in order to send this application. App has been open for 1 year already and shows that we have left messages. Closing out.,zcrm_5861855000009104944,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 13:37:15,2024-03-16 13:37:15,Available,
+zcrm_5861855000009337003,zcrm_5861855000000432001,,check on any military benefits.,zcrm_5861855000000835290,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-16 15:04:46,2024-03-16 15:04:46,Available,
+zcrm_5861855000009341003,zcrm_5861855000008366001,,"Client scheduled for tax service via message, Zai Rep Agent.",zcrm_5861855000009338001,Contacts,zcrm_5861855000008366001,zcrm_5861855000008366001,2024-03-16 15:38:56,2024-03-16 15:38:56,Available,
+zcrm_5861855000009556033,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 34 Question : Buenas Tardes! Quisiera saber si tienen citas para realizar mis taxes de este año??,zcrm_5861855000000546164,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-19 19:22:52,2024-03-19 19:22:52,Available,
+zcrm_5861855000009605016,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 34 Question : Buenas Tardes! Quisiera saber si tienen citas para realizar mis taxes de este año??,zcrm_5861855000000546164,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-19 19:36:10,2024-03-19 19:36:10,Available,
+zcrm_5861855000009645008,zcrm_5861855000008366001,,E-mail sent to client letting him know days and hours available for to schedule for taxes.,zcrm_5861855000009606021,Tasks,zcrm_5861855000008366001,zcrm_5861855000008366001,2024-03-20 02:34:38,2024-03-20 02:34:38,Available,
+zcrm_5861855000009820003,zcrm_5861855000000432001,,"DL Taxpayor
+5330-38-5388
+05/14/2020
+09/26/2026
+Indiana
+
+Spouse
+5330342586
+01/07/2018
+03/13/2023",zcrm_5861855000009818033,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 03:21:54,2024-03-21 03:21:54,Available,
+zcrm_5861855000009858003,zcrm_5861855000000432001,,"Joyeria Aurus - Summary Report for Tax Year 2022
+Assets
+Cash on Hand: $24,975.22
+Checking Account: $4,742.12
+Accounts Receivable (A/R): $40,914.60
+Inventory: $320,423.82
+Undeposited Funds: $2,035.09
+Total Assets: $393,090.85
+Liabilities
+Accounts Payable (A/P): $2,175.06
+Capital One Spark: $1,434.90
+Other Liabilities (Sum of various negligible amounts): $0.02
+Total Liabilities: $3,609.98
+Equity
+Opening Balance Equity: $310,592.07
+Owner's Investment: $1,240.00
+Owner's Pay & Personal Expenses: $1,000.00
+Retained Earnings: $16,000.21
+Total Equity: $328,832.28
+Income
+Sales: $37,728.32
+Sales of Product Income: $106,311.89
+Total Income: $144,040.21
+Expenses
+Discounts Given: $18,763.09
+Cost of Goods Sold (COGS): $49,323.15
+Inventory Shrinkage: $3,197.00
+Advertising & Marketing: $44.91
+Bank Charges & Fees: $1,099.11
+Car & Truck: Gas: $144.08
+Contractors: $350.00
+Legal & Professional Services: $80.00
+Meals & Entertainment: $224.31
+Office Supplies & Software: $1,550.43
+QuickBooks Payments Fees: $3,995.33
+Rent & Lease: $1,890.00
+Uncategorized Expense: $1,197.03
+Utilities: Telephone: $577.35
+Total Expenses: $82,336.79
+Net Profit
+Net Profit (Income minus Expenses): $61,703.42
+Closing Comments
+Cash Flow: The cash position appears healthy, with a significant amount on hand and in checking accounts.
+Accounts Receivable: The A/R indicates solid sales activity, though attention should be paid to collection to ensure liquidity.
+Inventory Management: High inventory levels may be strategic but should be evaluated for turnover efficiency.
+Profitability: The business has realized a net profit, which is a positive indicator for the year.
+Liability Management: Liabilities are comparatively low, suggesting good financial management.
+Owner's Contributions and Distributions: Additional equity contributions have been made, and personal expenses have been paid out, impacting the equity position.
+Tax Preparations: Careful preparation and documentation are necessary for tax reporting, especially considering the changes in retained earnings and owner's equity.
+This report is for internal use to provide a snapshot of the financial health of Joyeria Aurus and facilitate tax preparation. Further analysis may be required for specific tax forms and compliance considerations. Please verify all figures and ensure completeness of records before proceeding with tax filing. If any additional details are required or adjustments need to be made, please let me know.",zcrm_5861855000009818033,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 06:43:06,2024-03-21 06:43:32,Available,
+zcrm_5861855000009904017,zcrm_5861855000004627001,,nunca llego,zcrm_5861855000007826001,Tasks,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-21 17:05:32,2024-03-21 17:05:32,Available,
+zcrm_5861855000009943003,zcrm_5861855000008366001,,"Task marked as complete. Contact info missing. Didn't see appointments in consulate module that around the similar dates. 
+I just need confirmation that task was completed and a name.
+
+Thank you!",zcrm_5861855000007826001,Tasks,zcrm_5861855000008366001,zcrm_5861855000008366001,2024-03-21 16:55:34,2024-03-21 16:55:34,Available,
+zcrm_5861855000009954003,zcrm_5861855000000432001,,"2022 REFILE AS REQUESTED BY THE IRS. 
+IRS AND INDIANA EFILED KY MAILED.",zcrm_5861855000009953001,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-21 17:53:55,2024-03-21 17:53:55,Available,
+zcrm_5861855000010469006,zcrm_5861855000000432001,Made a total of five phone calls in one day.,Missed a call from [ISAEL VILLAVERDE](https://crm.zoho.com/crm/org828585444/tab/Contacts/5861855000005013013),zcrm_5861855000005013013,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 03:29:21,2024-03-30 03:29:21,Available,
+zcrm_5861855000010504006,zcrm_5861855000000432001,Phone Call,Missed a call from [ISAEL VILLAVERDE](https://crm.zoho.com/crm/org828585444/tab/Contacts/5861855000005013013),zcrm_5861855000005013013,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 03:27:53,2024-03-30 03:27:53,Available,
+zcrm_5861855000010516001,zcrm_5861855000000432001,Phone call,Missed a call from [ISAEL VILLAVERDE](https://crm.zoho.com/crm/org828585444/tab/Contacts/5861855000005013013),zcrm_5861855000005013013,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 03:28:45,2024-03-30 03:28:45,Available,
+zcrm_5861855000010521003,zcrm_5861855000000432001,,Client needed scanned copy of notary and apostille.,zcrm_5861855000000835189,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 04:45:32,2024-03-30 04:45:32,Available,
+zcrm_5861855000010525011,zcrm_5861855000000432001,,Letter Received 03/12/2024,zcrm_5861855000010524007,Vendors,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 04:59:22,2024-03-30 04:59:22,Available,
+zcrm_5861855000010527001,zcrm_5861855000000432001,ITIN Rejection,This ITIN has been rejected multiple times unaware of the issue apparently related to the document if client wishes he can resubmit his documents so we can try again.,zcrm_5861855000000835168,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-30 04:55:13,2024-03-30 04:55:13,Available,
+zcrm_5861855000010550003,zcrm_5861855000004627001,,vino para preguntar de un pago de migracion que por que venia para el rembolso po que ya el ya lo pago,zcrm_5861855000001319001,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-30 17:51:19,2024-03-30 17:51:19,Available,
+zcrm_5861855000010550008,zcrm_5861855000004627001,,"jose manuel torres
+3174608481",zcrm_5861855000001319001,Contacts,zcrm_5861855000004627001,zcrm_5861855000004627001,2024-03-30 17:54:46,2024-03-30 17:54:46,Available,
+zcrm_5861855000010557001,zcrm_5861855000000432001,,El trajo recibo?,zcrm_5861855000001319001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-31 11:52:27,2024-03-31 11:52:27,Available,
+zcrm_5861855000010568003,zcrm_5861855000000432001,,sent everything over waiting for client.,zcrm_5861855000000835290,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-31 15:19:08,2024-03-31 15:19:08,Available,
+zcrm_5861855000010853003,zcrm_5861855000000432001,,Client contacted me abruptly needing a copy of the tax return it is still showing rejected it's been rejected three times I'm also going to provide them with information on what they need to do in order to get the correct theft identity plan,zcrm_5861855000000854606,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-02 16:32:35,2024-04-02 16:32:35,Available,
+zcrm_5861855000010887001,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 35 Question : Raul Frausto Bravo,zcrm_5861855000010886001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-02 22:26:36,2024-04-02 22:26:36,Available,
+zcrm_5861855000010979001,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 36 Question : Víctor Herrera Sotelo,zcrm_5861855000009338095,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-05 12:04:02,2024-04-05 12:04:02,Available,
+zcrm_5861855000011077104,zcrm_5861855000000432001,,Unable to rectify the Issue. Unsure of how to proceed.,zcrm_5861855000009104928,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-06 08:56:18,2024-04-06 08:56:18,Available,
+zcrm_5861855000011078003,zcrm_5861855000000432001,,This ITIN has been rejected multiple times unaware of the issue apparently related to the document if client wishes he can resubmit his documents so we can try again.,zcrm_5861855000009104928,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-06 08:53:12,2024-04-06 08:53:24,Available,
+zcrm_5861855000011078014,zcrm_5861855000000432001,,Waiting for client to sign return and today I will try to finish 2023.,zcrm_5861855000011057076,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-06 08:57:28,2024-04-06 08:57:28,Available,
+zcrm_5861855000011084003,zcrm_5861855000000432001,,SENT FOR SIGNATURE VIA ADOBE SIGN.,zcrm_5861855000008893001,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-06 13:45:38,2024-04-06 13:45:38,Available,
+zcrm_5861855000011088001,zcrm_5861855000000432001,,What does she need?,zcrm_5861855000008622001,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-06 17:51:40,2024-04-06 17:51:40,Available,
+zcrm_5861855000011100003,zcrm_5861855000000432001,,NAME FILE ERROR RESOLVED RESENDING,zcrm_5861855000008672437,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-07 23:26:42,2024-04-07 23:26:42,Available,
+zcrm_5861855000011206003,zcrm_5861855000000432001,,RETURN HAD TO BE REENTERED DUE TO SYSTEM GLITCH ALL AMOUNTS ARE THE SAME WAS ABLET TO EFILE NOW.,zcrm_5861855000009336026,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-10 16:20:57,2024-04-10 16:20:57,Available,
+zcrm_5861855000011206008,zcrm_5861855000000432001,,Client has not provided the correct Theft PIN. Per crm[user#5861855000004627001#833017190]crm  he now has the correct PIN.,zcrm_5861855000011203348,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-10 16:38:59,2024-04-10 16:38:59,Available,
+zcrm_5861855000011206013,zcrm_5861855000000432001,,"IRS States that the dependents names on the return do not match what they have on file. If there were claimed on another persons return in the past please confirm how the names were listed, If there was a name change please advise of the original names and we should filed them as they were.",zcrm_5861855000005142005,CustomModule17,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-10 16:43:36,2024-04-10 16:43:36,Available,
+zcrm_5861855000011257013,zcrm_5861855000000432001,,done and submitted. Files uploaded.,zcrm_5861855000004362004,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-10 23:10:12,2024-04-10 23:10:12,Available,
+zcrm_5861855000011473184,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 37 Question : Jaime Costilla Moreno,zcrm_5861855000000835150,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-14 18:07:43,2024-04-14 18:07:43,Available,
+zcrm_5861855000011645017,zcrm_5861855000000432001,Zoho SalesIQ chat with CODY RICE-VELASQUEZ,Visit ID : 38 Question : si necesito sabercuendo vas hacer mis taxes.,zcrm_5861855000011630017,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-16 08:13:54,2024-04-16 08:13:54,Available,
+zcrm_5861855000011844018,zcrm_5861855000000432001,Zoho SalesIQ chat with Customer,Visit ID : 39 Question : Pregunta o Otra Cosa,zcrm_5861855000011834014,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-17 15:30:36,2024-04-17 15:30:36,Available,
+zcrm_5861855000011938003,zcrm_5861855000000432001,,"I have not seen or heard a response from the client on this, will resend the request to the client along with a text message reminder.",zcrm_5861855000011203539,Tasks,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-18 19:12:14,2024-04-18 19:12:14,Available,
+zcrm_5861855000011964196,zcrm_5861855000000432001,Zoho SalesIQ chat with Zaibot,Visit ID : 40 Question : Pregunta o Otra Cosa,zcrm_5861855000011834014,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-21 16:21:08,2024-04-21 16:21:08,Available,
+zcrm_5861855000012015003,zcrm_5861855000000432001,,"Created New Books Account
+joyaurus1@gmail.com
+Sw115002!
+3173397947
+SuriV2024!",zcrm_5861855000011982003,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-19 14:59:49,2024-04-19 14:59:49,Available,
+zcrm_5861855000012535018,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz,Visit ID : 41 Question : Hola,zcrm_5861855000000544171,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-25 19:06:28,2024-04-25 19:06:28,Available,
+zcrm_5861855000012745122,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz,Visit ID : 42 Question : remove payment method,zcrm_5861855000000854174,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-29 00:45:33,2024-04-29 00:45:33,Available,
+zcrm_5861855000012857055,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz,Visit ID : 43 Question : hi,zcrm_5861855000012861068,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-30 05:39:55,2024-04-30 05:39:55,Available,
+zcrm_5861855000012943065,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz,Visit ID : 44 Question : I NEED HELP,zcrm_5861855000011630017,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-30 23:51:26,2024-04-30 23:51:26,Available,
+zcrm_5861855000013129052,zcrm_5861855000000432001,Zoho SalesIQ chat with CODY RICE-VELASQUEZ,Visit ID : 45 Question : اوست لپاره کوم بل څه نشته,zcrm_5861855000011834014,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-04 05:16:45,2024-05-04 05:16:45,Available,
+zcrm_5861855000013142060,zcrm_5861855000000432001,Zoho SalesIQ chat with CODY RICE-VELASQUEZ,Visit ID : 46 Question : زه اوست ملګری ته وویم چی هغه مرسته ناشی کولی که حه,zcrm_5861855000011834014,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-04 05:42:57,2024-05-04 05:42:57,Available,
+zcrm_5861855000013227007,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 47 Question : Itin,zcrm_5861855000000455002,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-04 14:58:03,2024-05-04 14:58:03,Available,
+zcrm_5861855000013349001,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 48 Question : book,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-07 12:26:23,2024-05-07 12:26:23,Available,
+zcrm_5861855000013350001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 48 Question : book,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-07 12:27:33,2024-05-07 12:27:33,Available,
+zcrm_5861855000013567044,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 49 Question : what are your business hour,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-10 07:01:21,2024-05-10 07:01:21,Available,
+zcrm_5861855000013567052,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 49 Question : how can i get my itin,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-10 07:21:38,2024-05-10 07:21:38,Available,
+zcrm_5861855000013577056,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 49 Question : what are your business hour,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-10 07:00:15,2024-05-10 07:00:15,Available,
+zcrm_5861855000013631192,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 50 Question : What’s the best way to a hold of Cody?,zcrm_5861855000000835708,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-12 16:02:02,2024-05-12 16:02:02,Available,
+zcrm_5861855000013644186,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 51 Question : Help answer Indiana department of revenue letter,zcrm_5861855000000835708,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-12 20:37:45,2024-05-12 20:37:45,Available,
+zcrm_5861855000013656173,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 51 Question : Help answer Indiana department of revenue letter,zcrm_5861855000000835708,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-12 20:33:59,2024-05-12 20:33:59,Available,
+zcrm_5861855000013915047,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 53 Question : allah malekom,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-17 00:12:44,2024-05-17 00:12:44,Available,
+zcrm_5861855000013926020,zcrm_5861855000000432001,Zoho SalesIQ chat with SRV_Fox,Visit ID : 52 Question : د مالي دندې د خپل کارونه په ماهرانه حمایه کې د خپل کارونه امکانات زیاتول,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-16 10:10:37,2024-05-16 10:10:37,Available,
+zcrm_5861855000014394019,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 54 Question : cody@srvgroup.co,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-26 09:25:35,2024-05-26 09:25:35,Available,
+zcrm_5861855000014409018,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 56 Question : Pay my bill,zcrm_5861855000000544171,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-27 01:27:02,2024-05-27 01:27:02,Available,
+zcrm_5861855000014423002,zcrm_5861855000000432001,Zoho SalesIQ chat with Pai,Visit ID : 55 Question : I need my taxes done now.,zcrm_5861855000000544171,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-27 01:25:48,2024-05-27 01:25:48,Available,
+zcrm_5861855000014424001,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 55 Question : Pay,zcrm_5861855000000544171,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-05-27 01:27:30,2024-05-27 01:27:30,Available,
+zcrm_5861855000014652028,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 58 Question : How do I register as a client?,zcrm_5861855000000835180,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-08 18:11:28,2024-06-08 18:11:28,Available,
+zcrm_5861855000014660002,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 58 Question : How do I register as a client,zcrm_5861855000000835180,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-08 18:13:20,2024-06-08 18:13:20,Available,
+zcrm_5861855000014697003,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 59 Question : ITIN,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-09 02:51:40,2024-06-09 02:51:40,Available,
+zcrm_5861855000014747001,zcrm_5861855000000432001,Zoho SalesIQ chat with Arluz-Pashto,Visit ID : 60 Question : Quiero preguntar sobre mi trámite de ITIN me dijeron que llegaba el mes pasado y aún no me a llegado nada,zcrm_5861855000004797001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-11 14:55:28,2024-06-11 14:55:28,Available,
+zcrm_5861855000014748001,zcrm_5861855000000432001,Zoho SalesIQ chat missed,Visit ID : 60 Question : Quiero preguntar sobre mi trámite de ITIN me dijeron que llegaba el mes pasado y aún no me a llegado nada,zcrm_5861855000004797001,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-11 15:00:16,2024-06-11 15:00:16,Available,
+zcrm_5861855000015070001,zcrm_5861855000000432001,Zoho SalesIQ chat with Pai,Visit ID : 61 Question : hi,zcrm_5861855000006581075,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-06-25 08:04:45,2024-06-25 08:04:45,Available,
+zcrm_5861855000015302003,zcrm_5861855000000432001,,"Sure thing, Cody! Here's a quick agenda for your meeting with the client:
+
+Meeting Agenda
+Introduction (2 minutes) - Greet the client and briefly outline the meeting purpose.
+
+1. In - child ITIN from adolescent
+2. Last time filed maybe in 2017
+3. Preparing for the future
+4. 2023 - start return
+5. HR in 6 years. 
+6. Soltero
+7. Not HOH
+
+2. **Client Information Update (5 minutes)**
+   - Confirm full name, address, marital status, and ITIN number.
+7305 Nantucket Court Apt 2C
+Indianapolis, IN 46214
+
+3. **Income Details (10 minutes)**
+   - Discuss sources of income.
+      W2?? - Not  W2, working at 1099. 
+   - Ensure all necessary documentation (W-2, 1099, etc.) is received.
+- Business Partner Consulting for HR and Related Areas. 
+ - Uniforms, 
+ - Comidas
+-- LLC open in 2017??
+-- Munoz Cleaning Corp
+
+Found record for the company it was dissolved on Jan. 04, 2024. 
+Reconmendtion, file the first return for 2023 and mark as no longer operating Open new one with new EIN. 
+Get business down to zero to close out, will not be able to update articles since its closed
+
+
+
+EIN: 
+38-4168010
+
+4. **Deductions and Credits (10 minutes)**
+   - Identify deductible expenses.
+   - Discuss eligibility for any tax credits.
+   - Car purchase under business. 
+-- need purchase and miles. -- Bill of sale is perfect.
+Rent 3000. 
+
+5. **Special Situations (5 minutes)**
+   - Review any significant events during the year.
+   - Address any pending IRS issues.
+
+6. **ITIN Renewal (5 minutes)**
+   - Confirm required documentation for ITIN renewal.
+   - Note the expiration date of the current ITIN.
+
+7. **Q&A and Additional Notes (3 minutes)**
+   - Answer any client questions.
+   - Take note of any additional details or comments.
+
+8. **Conclusion (2 minutes)**
+   - Summarize the key points discussed.
+   - Outline the next steps and follow-up actions.
+
+Total Time: 40 minutes
+
+This agenda will help keep the meeting focused and ensure that all important topics are covered.",zcrm_5861855000015218018,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-07-04 02:05:39,2024-07-04 02:05:39,Available,
+zcrm_5861855000015347003,zcrm_5861855000000432001,,Finished setting up books for the client.,zcrm_5861855000015218018,Accounts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-07-05 16:35:47,2024-07-05 16:35:47,Available,
+zcrm_5861855000016350003,zcrm_5861855000000432001,,"DLN: 3520-07-2020
+EXP: 11/18/2026
+NAME: PALACIOS DE LA ROSA
+LAST: LUIS ANTONIO
+ADDRESS: 8909 E 16TH ST, INDIANAPOLIS, IN 46219
+CLASS: NONE END: B
+RES: NONE
+SEX M 
+HGT 5-06
+WGT 150
+EYES BRO
+HAIR BLK
+DOB 11/18/1996
+ISS 01/07/2023
+DD 0 1072353 100095",zcrm_5861855000010180018,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-09-02 20:16:29,2024-09-02 20:16:29,Available,
+zcrm_5861855000016350008,zcrm_5861855000000432001,,"bmv
+luisdlr2020",zcrm_5861855000010180018,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-09-02 20:29:46,2024-09-02 20:29:46,Available,
+zcrm_5861855000016350013,zcrm_5861855000000432001,,best friend - dallas88,zcrm_5861855000010180018,Contacts,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-09-02 20:30:02,2024-09-02 20:31:36,Available,

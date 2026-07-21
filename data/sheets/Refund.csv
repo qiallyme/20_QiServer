@@ -1,0 +1,5 @@
+Date,Credit Note Number,Customer Name,Mode of Refund,Exchange Rate,Refund From Account,Refund From Account Code,Amount,Description,Reference Number
+2023-09-14,CD-00003,Square Customer,Square - Card,1.000000,1008-SRVTM.Pro,SRVCH-1008,20.000,,
+2023-12-10,CD-00013,Square Customer,Square - Cash,1.000000,1006-Undeposited Funds,SRVCH-1006,30.000,,
+2023-12-22,CD-00014,Square Customer,Square - Card,1.000000,1008-SRVTM.Pro,SRVCH-1008,243.400,,
+2024-01-26,CD-00015,Kimberly P. Garcia Acosta,Check,1.000000,1008-SRVTM.Pro,SRVCH-1008,140.000,,72254

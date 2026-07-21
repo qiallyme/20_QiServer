@@ -1,0 +1,27 @@
+Item,Description,Hours,**Rate ($/hr)** \$,**Amount ()**
+IISITAX,"Client Portal Development (TPP, Iisitax precursor)",16,39,$624
+IISITAX,Comprehensive Books & Accounting Worksheet Wiki,1.5,39,$59
+IISRC,"Document Scanning & Processing (13 documents, 181 items)",2.5,39,97.5
+IISRC,"Bank Statement Download & Processing (20 statements, Python script development)",4,39,$156
+IISRC,Chart of Accounts Development (100 accounts),2,39,$78
+IISRC,Square Account Setup & Troubleshooting,1.5,39,$59
+IISRC,BMO Harris Transactions Categorization (1048 transactions),6,39,$234
+IISRC,Vendor Creation (330 vendors),2,39,$78
+IISRC,Apple Pay Transaction Entry (78 transactions),2,39,$78
+IISRC,1099/1098/W9 Entry (9 documents),2.5,39,$98
+IISRC,"Zoho One Setup (Domain, Emails, Settings)",4,39,$156
+IISRC,Custom Zoho CRM Module (USPS Tracking),3,39,$117
+IISRC,Custom Zoho Bigin Module (Docket Wise Management),2,39,$78
+IISRC,Digitization Plan Development,1,39,$39
+IISRC,Business Operations Manual & Wiki Drafting,1.5,39,$59
+IISRC,Privacy Plan Creation & Implementation Instructions,1.5,39,$59
+IISRC,Hard Drive Extraction & Forensic Backup Plan,7,39,$273
+IISRC,Logo Design & Redesign (Multiple Iterations),2.5,39,$98
+IISRC,Flyer Design (Multiple Flyers),1.5,39,$59
+IISRC,Attorney Headshot Assistance,1,39,$39
+IISRC,Partnership Amendment Packet and Agreements,12,39,$468
+IISRC,General Consultation (30 days),10,39,$390
+IISRC,Fringe Activities,5,39,$195
+IISRC,,77,39,"$3,003"
+Retainer Payment Applied,500 for 15 hours,15,na,-$500
+Subtotal,,166.5,39,"$5,409"

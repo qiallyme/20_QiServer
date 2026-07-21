@@ -1,0 +1,475 @@
+Purchase Order ID,Purchase Order Date,Delivery Date,Purchase Order Number,Reference#,Purchase Order Status,Vendor Name,Currency Code,Exchange Rate,Template Name,Reference No,Delivery Instructions,Terms & Conditions,Shipment preference,Expected Arrival Date,Account,Account Code,Item Price,Item Name,Product ID,SKU,Item Desc,QuantityOrdered,QuantityCancelled,QuantityReceived,QuantityBilled,Usage unit,Warehouse Name,Discount Type,Is Discount Before Tax,Discount,Discount Amount,Item Total,Total,Adjustment,Adjustment Description,Entity Discount Percent,Entity Discount Amount,Discount Account,Discount Account Code,FINREP.02 COA,FINREP.03 TRANSFER (if applies),FINREP.01 DEPARTMENT,(Deprecated) 4. COA Sub Type,PRIORITY LEVEL,STS.00 Status,(Deprecated) Subdivision by Income (Type),(Deprecated) 2. Division by Income,STS.99 Collections,FINREP.0 Company EIN,Project ID,Project Name,Payment Terms,Payment Terms Label,Attention,Address,City,State,Country,Code,Phone,Deliver To Customer,Recipient Address,Recipient City,Recipient State,Recipient Country,Recipient Postal Code,Recipient Phone
+4476661000000166037,2023-07-22,2023-08-07,PO-00001,2FMDK38C68BB28546-SANTANA,Cancelled,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,2FMDK38C68BB28546-SANTANA,,,,,BMV COGS ($-Out),4302,80.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,PLATE FOR SANTANA SERVICES LLC,1.00,0.00,0.00,0.00,Quantity,,entity_level,true,0.00,0.0,80.00,314.40,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,15,Net 15,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166037,2023-07-22,2023-08-07,PO-00001,2FMDK38C68BB28546-SANTANA,Cancelled,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,2FMDK38C68BB28546-SANTANA,,,,,BMV COGS ($-Out),4302,104.40,,,,BMV FEES,1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,104.40,314.40,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,15,Net 15,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166037,2023-07-22,2023-08-07,PO-00001,2FMDK38C68BB28546-SANTANA,Cancelled,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,2FMDK38C68BB28546-SANTANA,,,,,Bill Pay COGS ($-Out),4301,50.00,INSURANCE SERVICE FEE,4476661000000166028,4476661000000166028,,1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,50.00,314.40,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,15,Net 15,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166037,2023-07-22,2023-08-07,PO-00001,2FMDK38C68BB28546-SANTANA,Cancelled,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,2FMDK38C68BB28546-SANTANA,,,,,BMV COGS ($-Out),4302,80.00,,,,INSURANCE DOWN PAYMENT,1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,80.00,314.40,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,15,Net 15,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166228,2023-09-17,2023-09-24,PO-00002,IN5753,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5753,BOX IS READY FOR PICKUP,,,,La Fuente COGS ($-Out),4304,280.00,LA FUENTE:FLETE 24*24*24-NICA,4476661000000166210,4476661000000166210,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,245.00,245.00,0.00,Adjustment,12.50,0.0,Purchase Discounts,6-6400,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166299,2023-08-19,2023-08-27,PO-00003,IN5855,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5855,,,,,Cost of Operations,4000,300.00,LA FUENTE: FLETE 28*28*32/24*30*35,4476661000000166286,4476661000000166286,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,300.00,292.50,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166299,2023-08-19,2023-08-27,PO-00003,IN5855,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5855,,,,,La Fuente COGS ($-Out),4304,30.00,LA FUENTE: INSURANCE,4476661000000166327,4476661000000166327,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,30.00,292.50,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166299,2023-08-19,2023-08-27,PO-00003,IN5855,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5855,,,,,La Fuente COGS ($-Out),4304,-37.50,LA FUENTE: COMMISSION,4476661000000166219,4476661000000166219,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-37.50,292.50,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166517,2023-08-05,2023-08-13,PO-00004,IN5958,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5958,,,,,Cost of Operations,4000,410.00,LA FUENTE: FLETE 28*28*32/24*30*35 NICA,4476661000000166508,4476661000000166508,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,410.00,402.50,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166517,2023-08-05,2023-08-13,PO-00004,IN5958,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5958,,,,,La Fuente COGS ($-Out),4304,-57.50,LA FUENTE: COMMISSION,4476661000000166219,4476661000000166219,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-57.50,402.50,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166517,2023-08-05,2023-08-13,PO-00004,IN5958,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5958,,,,,La Fuente COGS ($-Out),4304,50.00,LA FUENTE: INSURANCE,4476661000000166327,4476661000000166327,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,50.00,402.50,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166618,2023-08-05,2023-08-13,PO-00005,IN5899,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5899,,,,,La Fuente COGS ($-Out),4304,320.00,LA FUENTE: 24*24*30/26*26*26 - EL SALVADOR,4476661000000166609,4476661000000166609,,1.00,0.00,1.00,1.00,,,entity_level,true,0.00,0.0,320.00,280.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166618,2023-08-05,2023-08-13,PO-00005,IN5899,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5899,,,,,La Fuente COGS ($-Out),4304,-40.00,LA FUENTE: COMMISSION,4476661000000166219,4476661000000166219,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-40.00,280.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166711,2023-08-03,2023-08-13,PO-00006,IN5956,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5956,,,,,La Fuente COGS ($-Out),4304,325.00,LA FUENTE: 24*24*24 - MEXICO,4476661000000166702,4476661000000166702,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,325.00,285.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166711,2023-08-03,2023-08-13,PO-00006,IN5956,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5956,,,,,La Fuente COGS ($-Out),4304,-40.00,LA FUENTE: COMMISSION,4476661000000166219,4476661000000166219,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-40.00,285.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166804,2023-07-30,,PO-00007,IN5901,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5901,,,,,La Fuente COGS ($-Out),4304,245.00,LA FUENTE: OTHER CHARGES,4476661000000166795,4476661000000166795,RETURNED CHECK 210+35 FEE = 245.00,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,245.00,245.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166884,2023-07-30,,PO-00008,IN5957,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5957,,,,,La Fuente COGS ($-Out),4304,175.00,LA FUENTE: OTHER CHARGES,4476661000000166795,4476661000000166795,CHECK WAS RETURNED OF 140 + 35 RETURN FEE,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,175.00,175.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166950,2023-09-11,,PO-00009,IN5952,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5952,,,,,La Fuente COGS ($-Out),4304,410.00,LA FUENTE: OTHER CHARGES,4476661000000166795,4476661000000166795,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,410.00,375.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000166950,2023-09-11,,PO-00009,IN5952,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5952,,,,,La Fuente COGS ($-Out),4304,-35.00,LA FUENTE: COMMISSION,4476661000000166219,4476661000000166219,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-35.00,375.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000169028,2023-09-15,2023-09-24,PO-00010,IN5752,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5752,,,,,La Fuente COGS ($-Out),4304,230.00,,,,LA FUENTE: 18*18*18 - EL SALVADOR,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,230.00,200.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000169028,2023-09-15,2023-09-24,PO-00010,IN5752,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5752,,,,,La Fuente COGS ($-Out),4304,-30.00,LA FUENTE: COMMISSION,4476661000000166219,4476661000000166219,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-30.00,200.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000340103,2023-09-30,,PO-00011,091323-091923,Billed,Treve Hernandez,USD,1.000000,Standard Template,091323-091923,,,,,Contractor Payments,6070,12.50,,,,Total Hours 39.52,39.52,0.00,0.00,39.52,,,entity_level,true,0.00,0.0,494.00,194.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,000. VERY HIGH / CRITICAL,1. Active,,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000340103,2023-09-30,,PO-00011,091323-091923,Billed,Treve Hernandez,USD,1.000000,Standard Template,091323-091923,,,,,Deducted Rent,8151,-25.00,,,,Rent Deduction,5.00,0.00,0.00,5.00,,,entity_level,true,0.00,0.0,-125.00,194.00,0.00,Adjustment,0.00,0.000,,,,,Admin,,,,,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000340103,2023-09-30,,PO-00011,091323-091923,Billed,Treve Hernandez,USD,1.000000,Standard Template,091323-091923,,,,,Stock Deduction,8152,-500.00,,,,Stock Purchase,0.25,0.00,0.00,0.25,,,entity_level,true,0.00,0.0,-125.00,194.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,000. VERY HIGH / CRITICAL,1. Active,,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000340103,2023-09-30,,PO-00011,091323-091923,Billed,Treve Hernandez,USD,1.000000,Standard Template,091323-091923,,,,,Contractor Payments,6070,-30.00,,,,Cashapp Payment $20 and $10,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-30.00,194.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,000. VERY HIGH / CRITICAL,1. Active,,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000340103,2023-09-30,,PO-00011,091323-091923,Billed,Treve Hernandez,USD,1.000000,Standard Template,091323-091923,,,,,Contractor Payments,6070,-20.00,,,,Cash $20,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,-20.00,194.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,000. VERY HIGH / CRITICAL,1. Active,,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000418010,2023-10-05,2023-10-05,PO-00012,,Billed,Carlos Contreras,USD,1.000000,Standard Template,,"Work Request
+1. Bajar Tele De Sala Poner las patas a listar para la venta, dejar estante en la pared
+2. Empacar dvd para venta
+3. Cody’s cuarto reorganizar.
+A. Mueble Largo enfrente de ventana
+B. Muebles de ropa en closet
+C. Aire, refri, micro, un mueble de cajones abajo de tele
+D. Colgar Sound Bar ",,,,Cost of Operations,4000,0.00,Work Order,4476661000000418001,WO,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,0.00,0.00,0.00,Rent Adjustment,0.00,0.000,,,,,,,,,,,,,,,,,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000436023,2023-10-08,2023-10-12,PO-00013,IN5755,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5755,,As per Christians instructions we did not fill out the forms so we will attach the form filled out by the client with our online form for reference. Thank you. ,,,La Fuente COGS ($-Out),4304,410.00,,,,LA FUENTE: 28*28*32/24*30*35,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,360.00,345.00,-15.00,CAJA,0.00,50.000,La Fuente COGS ($-Out),4304,003. COGS,,,,003. LOW,1. Active,Room,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000436127,2023-10-08,2023-10-12,PO-00014,IN5754,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5754,,,,,La Fuente COGS ($-Out),4304,335.00,LA FUENTE: 24*24*24 - MEXICO,4476661000000166702,4476661000000166702,,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,295.00,280.00,-15.00,CAJA,0.00,40.000,La Fuente COGS ($-Out),4304,003. COGS,,,,003. LOW,1. Active,Room,,,,,,0,Due on Receipt,CODY,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000906035,2023-11-04,2023-11-04,PO-00015,113-4203214-3400262,Cancelled,Amazon,USD,1.000000,Standard Template,113-4203214-3400262,,,,,N/A,,99.99,,,,Company Cell Moto G,1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,99.99,109.98,0.00,Commision,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000000906035,2023-11-04,2023-11-04,PO-00015,113-4203214-3400262,Cancelled,Amazon,USD,1.000000,Standard Template,113-4203214-3400262,,,,,Telephone Expense,6041,9.99,,,,Screen protector ,1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,9.99,109.98,0.00,Commision,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001277007,2023-11-24,2023-12-08,PO-00016,PLT3,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,PLT3,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,105.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,BMV FEES,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,105.00,185.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,002. MED / IMPORTANT BUT CAN WAIT,1. Active,Books,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001277007,2023-11-24,2023-12-08,PO-00016,PLT3,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,PLT3,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,80.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,ESSENCE FEE,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,80.00,185.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,002. MED / IMPORTANT BUT CAN WAIT,1. Active,Books,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001279001,2023-11-24,2023-11-26,PO-00017,IN5759,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5759,PLEASE CONFIRM THE AMOUNT OF PAYMENT IS CORRECT IF POSSIBLE TO HAVE IT READY WHEN THEY ARRIVE. BOX IS READY FOR PICKUP.,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,La Fuente COGS ($-Out),4304,170.00,LA FUENTE CARGO-Other,4476661000001038011,CAJA-OTHE,"18*18*24 - VENEZUELA $150.00
+FUERA DE CARACAS $20.00
+COMMISSION (DISCOUNT) ""150*0.125=18.75~$19.00""
+BOX DEPOSIT -15
+TOTAL DUE ESTIMATE: $136.00",1.00,0.00,0.00,1.00,pcs,,entity_level,true,0.00,0.0,151.00,136.00,-15.00,BOX DEPOSIT,0.00,19.000,La Fuente COGS ($-Out),4304,003. COGS,,,,003. LOW,1. Active,Room,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001390001,2023-11-30,2023-11-30,PO-00018,IN5760,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5760,PLEASE CONFIRM THE AMOUNT OF PAYMENT IS CORRECT IF POSSIBLE TO HAVE IT READY WHEN THEY ARRIVE. BOX IS READY FOR PICKUP.,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,La Fuente COGS ($-Out),4304,385.00,LA FUENTE CARGO-Large Standard - 24*24*30-26*26*26,4476661000001038009,CAJA-LARG,"Loc Los Mangos sin numero,Yanta Veracruz,Parada el Quijote",1.00,0.00,0.00,1.00,pcs,,entity_level,true,0.00,0.0,342.52,372.00,-15.00,BOX DEPOSIT,0.00,48.000,La Fuente COGS ($-Out),4304,,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001390001,2023-11-30,2023-11-30,PO-00018,IN5760,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN5760,PLEASE CONFIRM THE AMOUNT OF PAYMENT IS CORRECT IF POSSIBLE TO HAVE IT READY WHEN THEY ARRIVE. BOX IS READY FOR PICKUP.,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,La Fuente COGS ($-Out),4304,50.00,LA FUENTE CARGO-Other,4476661000001038011,CAJA-OTHE,Insurance,1.00,0.00,0.00,1.00,pcs,,entity_level,true,0.00,0.0,44.48,372.00,-15.00,BOX DEPOSIT,0.00,48.000,La Fuente COGS ($-Out),4304,,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001390073,2023-11-30,2023-11-30,PO-00019,VELTAXBX231130,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,VELTAXBX231130,PLEASE CONFIRM THE AMOUNT OF PAYMENT IS CORRECT IF POSSIBLE TO HAVE IT READY WHEN THEY ARRIVE. BOX IS READY FOR PICKUP.,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,La Fuente COGS ($-Out),4304,15.00,LA FUENTE CARGO-Other,4476661000001038011,CAJA-OTHE,"2 XL Boxes
+2 LG Boxes
+4 MD Boxes",8.00,0.00,0.00,8.00,pcs,,entity_level,true,0.00,0.0,120.00,120.00,0.00,BOX DEPOSIT,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001431001,2023-12-01,2023-12-15,PO-00020,PLT2_WHT_TYTA,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,PLT2_WHT_TYTA,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,80.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,Service Cost Essence,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,80.00,202.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,002. MED / IMPORTANT BUT CAN WAIT,1. Active,Books,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001431001,2023-12-01,2023-12-15,PO-00020,PLT2_WHT_TYTA,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,Standard Template,PLT2_WHT_TYTA,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,122.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,122.00,202.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,,,002. MED / IMPORTANT BUT CAN WAIT,1. Active,Books,,,,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001488003,2023-12-04,2023-12-04,PO-00021,IN7692,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN7692,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,La Fuente COGS ($-Out),4304,130.00,LA FUENTE CARGO - HONDURAS SM 18*18*18,4476661000001495001,LFCHNDSM,,1.00,0.00,0.00,1.00,Box,,entity_level,true,0.00,0.0,114.00,99.00,-15.00,Adjustment,0.00,16.000,La Fuente COGS ($-Out),4304,002. Income,,Finance,Income (In),003. LOW,1. Active,Books,MultiService,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,Cody Rice-Velasquez,119 S Western Ave,Chicago,Indiana,U.S.A,60612,3177569969,,,,,,,
+4476661000001577001,2023-12-08,,PO-00022,IN7138,Billed,LA FUENTE CARGO,USD,1.000000,Standard Template,IN7138,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",,,La Fuente COGS ($-Out),4304,140.00,LA FUENTE CARGO - HONDURAS SM 18*18*18,4476661000001495001,LFCHNDSM,,1.00,0.00,0.00,1.00,Box,,entity_level,true,0.00,0.0,122.00,107.00,-15.00,Adjustment,0.00,18.000,La Fuente COGS ($-Out),4304,002. Income,,Finance,Income (In),003. LOW,1. Active,Books,MultiService,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,SRVGroup.co,3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000001746001,2023-12-03,2023-12-16,PO-00023,PLT4,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,PLATE PO,PLT4,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,80.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,SERVICE FEES,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,80.00,197.05,0.00,Adjustment,0.00,0.000,,,003. COGS,,Finance,COGS (Out),001. HIGH / IMPORTANT,1. Active,Other,MultiService,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,SRVGroup.co,3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000001746001,2023-12-03,2023-12-16,PO-00023,PLT4,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,PLATE PO,PLT4,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,117.05,BMV SERVICE FEE,4476661000000166019,BMVSFER,BMV FEES,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,117.05,197.05,0.00,Adjustment,0.00,0.000,,,003. COGS,,Finance,COGS (Out),001. HIGH / IMPORTANT,1. Active,Other,MultiService,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,SRVGroup.co,3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000001964001,2024-01-02,2024-01-21,PO-00025,PLT5-SOLUCIONES DE TECHADO,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,PLATE PO,PLT5-SOLUCIONES DE TECHADO,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,100.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,ESSSENCE FEE + 20.00 FOR INSPECTION,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,100.00,227.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,Finance,,001. HIGH / IMPORTANT,1. Active,,,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,SRVGroup.co,3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000001964001,2024-01-02,2024-01-21,PO-00025,PLT5-SOLUCIONES DE TECHADO,Billed,ESSENCE CONSULTING MULTISERVICE INC,USD,1.000000,PLATE PO,PLT5-SOLUCIONES DE TECHADO,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,BMV COGS ($-Out),4302,127.00,BMV SERVICE FEE,4476661000000166019,BMVSFER,,1.00,0.00,0.00,1.00,Quantity,,entity_level,true,0.00,0.0,127.00,227.00,0.00,Adjustment,0.00,0.000,,,003. COGS,,Finance,,001. HIGH / IMPORTANT,1. Active,,,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,SRVGroup.co,3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004112030,2024-03-04,2024-03-21,PO-00026,IN7141-20240304,Issued,LA FUENTE CARGO,USD,1.000000,Standard Template,IN7141-20240304,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,Cost of Operations,4000,410.00,LA FUENTE: FLETE 28*28*32/24*30*35 NICA,4476661000000166508,4476661000000166508,"REMITENTE / SHIPPER
+MARIA LUCRECIA
+3019 N OLNY
+INDIANAPOLIS, IN 46218
+
+CONSIGNEE / CONSIGNATARIO
+FARA TERRIA CASTRO
+TIPITAPA, MANAGUA, BO, FQURINCIERO ROJAS HAR GUIEN 2CO
++50588073
+CASTROARDORFARAH@GMAIL.COM
+
+Pova Leresa fastro
+Name / Nombre:
+Address / Direccion:
+
+NICARAGUA XL - $410",1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,358.01,343.00,-15.01,Adjustment,12.68,0.0,La Fuente COGS ($-Out),4304,003. COGS,,,,003. LOW,1. Active,,,,,,,7,Net 7,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004539006,2024-03-28,2024-03-30,PO-00027,,Cancelled,"Capital Community Bank ""Loan Mart""",USD,1.000000,Standard Template,,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,Title Loan Mart,8022,50.00,,,,Loan Mart Agreement Payment,1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,50.00,50.00,0.00,Adjustment,0.00,0.000,,,005. Liabilities,000. SRVCH to SRVTM,Finance,,000. VERY HIGH / CRITICAL,1. Active,,,,0. SRV Capital Holdings Inc. - 93-2539648,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004539364,2024-03-28,2024-03-28,PO-00028,ORDER # 111-2247306-7997855,Billed,Amazon,USD,1.000000,Standard Template,ORDER # 111-2247306-7997855,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",IN PERSON,,Office Supplies,6021,34.18,,,,Cody's Planner and Sleeves Dollar Bills,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,34.18,34.18,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004539400,2024-03-28,2024-03-29,PO-00029,111-6537927-4633834,Issued,Amazon,USD,1.000000,Standard Template,111-6537927-4633834,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",USPS GROUND ADVANTAGE,,Disp. Cody,99990002,32.54,,,,"1 of: MAYFAIR 9601CP 378 Toilet Seat with Chrome Hinges, ROUND, Natural Oak Veneer
+",1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,32.54,32.54,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004539434,2024-03-28,2024-03-29,PO-00030,111-5897091-3087410,Issued,Amazon,USD,1.000000,Standard Template,111-5897091-3087410,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",USPS GROUND ADVANTAGE,,Supplies,8920,34.15,,,,"Items Ordered	Price
+1 of: UYODM 2Pack Adhesive Metal Wall Mount Bracket Compatible with Wyze Cam Pan V3/V2, VHB Stick On,No Drilling Mounting Bracket for Wyze Get The Best View,Two Ways Installation
+Sold by: Uyodm Direct (seller profile)
+Supplied by: Uyodm Direct (seller profile)
+
+Condition: New
+$9.99
+1 of: Post-it Super Sticky Notes, 3x3 in, 6 Pads, 2x the Sticking Power, Energy Boost Collection, Bright Colors (Orange, Pink, Blue, Green,Yellow),Recyclable (654-6SSAU)
+Sold by: Amazon.com Services, Inc
+Supplied by: Other
+
+Condition: New
+$6.29
+1 of: iBayam Journal Planner Pens Colored Pens Fine Point Markers Fine Tip Drawing Pens Fineliner Pen for Bullet Journaling Writing Note Taking Calendar Coloring Art Office School Supplies, 18-Pack
+Sold by: Qi US (seller profile)
+Supplied by: Qi US (seller profile)
+
+Condition: New
+$6.99
+1 of: Oral-B Vivid Dual Action Whitening Toothbrushes, Soft, 4 Count (Packaging and Product Color May Vary)
+Sold by: Amazon.com Services, Inc
+Supplied by: Other
+
+Condition: New
+",1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,34.15,44.14,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004539434,2024-03-28,2024-03-29,PO-00030,111-5897091-3087410,Issued,Amazon,USD,1.000000,Standard Template,111-5897091-3087410,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",USPS GROUND ADVANTAGE,,Disp. Cody,99990002,9.99,,,,"$7.99
+1 of: BIGWASP Professional Disposable 1007RL Tattoo Needle Cartridge #10 Bugpin 7 Round Liner (7RL) 20Pcs
+Sold by: BIGWASP (seller profile)
+Supplied by: BIGWASP (seller profile)
+
+Condition: New",1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,9.99,44.14,0.00,Adjustment,0.00,0.000,,,,,,Income (In),,,,,,,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004532007,2024-03-28,2024-03-29,PO-00031,111-5199240-6310658,Issued,Amazon,USD,1.000000,Standard Template,111-5199240-6310658,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",USPS GROUND ADVANTAGE,,Office Supplies,6021,79.15,,,,"Items Ordered	Price
+1 of: RFID Hidden Cabinet Lock, 2 Pack RFID Cabinet Invisible Electronic Locks Phone NFC Supported Unlock for Hidden Cabinet Wooden Chest Drawer Cupboard Wine Cooler or Toolbox
+Sold by: Johnnyus (seller profile)
+Supplied by: Other
+
+Condition: New
+$36.99
+1 of: Lightalent Ni-MH AA Rechargeable Batteries, Double A High Capacity 1.2V Pre-Charged for Garden Landscaping Outdoor Solar Lights, String Lights, Pathway Lights (AA-800mAh-12pack)
+Sold by: JIAWEN Electronic (seller profile)
+Supplied by: Other
+
+Condition: New
+$13.99
+1 of: Montcool Planner 2024-2025 7.9"" x 9.8"", Large 18 Months Daily Weekly Monthly Planner Yearly Agenda Jan. 2024–Jun. 2025, Page Tabs, Separator Page, Pocket Folder, Bookmark, Sticky Note Set
+Sold by: Montcool (seller profile)
+Supplied by: Other
+
+Condition: New
+$22.99
+
+Shipping Address:
+Cody J. Rice-Velasquez
+4817 SHADOW POINTE DR
+INDIANAPOLIS, IN 46254-3744
+United States
+
+Shipping Speed:
+FREE Prime Delivery
+
+Payment information
+Payment Method:
+Mastercard ending in 1701
+
+Billing address
+Cody J. Rice-Velasquez
+4817 SHADOW POINTE DR
+INDIANAPOLIS, IN 46254-3744
+United States
+Item(s) Subtotal:	$73.97
+Shipping & Handling:	$0.00
+ 	-----
+Total before tax:	$73.97
+Estimated tax to be collected:	$5.18
+ 	-----
+Grand Total:	$79.15
+",1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,79.15,79.15,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004532039,2024-03-28,2024-03-30,PO-00032,,Issued,Amazon,USD,1.000000,Standard Template,,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",USPS GROUND ADVANTAGE,,Disp. Cody,99990002,20.99,,,,"Not Yet Shipped
+ 
+Items Ordered	Price
+1 of: Jnfire 2 Packs of Butane Lighter, Pink Jet Flame Torch Refillable, Visible Glow in Darkness, Mini 3.42"" Pen Torch Lighters for Camping Candle, Gas Lighters Without Butane
+Sold by: Journey Fire (seller profile)
+Supplied by: Other
+
+Condition: New
+$20.99
+
+Shipping Address:
+Cody J. Rice-Velasquez
+4817 SHADOW POINTE DR
+INDIANAPOLIS, IN 46254-3744
+United States
+
+Shipping Speed:
+Amazon Day with Key Delivery
+",1.00,0.00,0.00,0.00,,,entity_level,true,0.00,0.0,20.99,20.99,0.00,Adjustment,0.00,0.000,,,,,,,,,,,,,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,
+4476661000004584001,2024-03-28,,PO-00033,,Billed,Zoho Corp,USD,1.000000,Standard Template,,,"Unless otherwise agreed upon in writing: 
+1. Products and Services: All products and/or services listed in this purchase order shall meet the specifications and quantities stated. 
+2. Pricing and Payment: The price for the goods or services is as listed on the purchase order. Payment terms are net 30 days from the date of invoice.
+3. Delivery: Delivery shall be made to the address specified on the purchase order by the agreed delivery date. Late delivery may result in penalties. 
+4. Inspection and Acceptance: Buyer reserves the right to inspect all delivered goods before acceptance. Defective goods will be subject to return or repair as per the warranty terms.
+5. Warranty: Seller warrants that all goods or services provided will be free from defects and fit for the purpose intended.
+6. Transfer of Risk and Ownership: Risk and ownership of the goods shall pass to the buyer upon delivery and acceptance.
+7. Cancellation and Amendments: The buyer reserves the right to cancel or amend the purchase order with written notice to the seller.
+8. Force Majeure: Neither party shall be liable for delays caused by force majeure events beyond their control.
+9. Compliance with Laws: The seller shall comply with all applicable laws and regulations relating to the production and sale of the goods.
+10. Dispute Resolution: Any disputes arising from this purchase order shall be resolved through arbitration in Indiana under its laws.
+11. Confidentiality: Both parties agree to keep all proprietary information confidential.
+12. Miscellaneous: This document contains the entire agreement between the parties and supersedes all prior communications.
+Seller's acceptance of this purchase order shall constitute acceptance of these terms and conditions.",,,Telephone Expense,6041,59.00,,,,Phone License,1.00,0.00,0.00,1.00,,,entity_level,true,0.00,0.0,59.00,59.00,0.00,Adjustment,0.00,0.000,,,004. Expense,,Admin,,000. VERY HIGH / CRITICAL,1. Active,,,,1. SRV Tax & MultiService LLC - 83-3405181,,,0,Due on Receipt,SRVTM (Sales Inventory),3585 Commercial Drive Ste 730,Indianapolis,Indiana,U.S.A,46222,3177569969,,,,,,,

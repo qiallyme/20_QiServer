@@ -1,0 +1,28 @@
+Rule Name,Apply To,All the following criteria Matches,Any One of the following criteria matches,Criteria Type Payee,Criteria Type,Record As,Account,Reference Number,Add Transaction in This Rule To
+Auto Categorize - Auto & Fuel,Withdrawals,FALSE,TRUE,Payee,is,sales without invoices,9 - Car and Truck Expenses,,Recognized Trasactions
+Auto Categorize - Auto Repairs & Maintenance,Withdrawals,FALSE,TRUE,description,contains,transfer from another account,23 - Repairs and Maintenance,,Recognized Trasactions
+Auto Categorize - Bank Fees & Charges,Withdrawals,FALSE,TRUE,Reference number,starts with,interest income,29 - Other Expenses,,Recognized Trasactions
+Auto Categorize - Building Materials & Supplies,Withdrawals,FALSE,TRUE,Amount,is empty,other income,32 - Purchases,,Recognized Trasactions
+Auto Categorize - Clothing & Uniforms,Withdrawals,FALSE,TRUE,Payee,,expense refund,24 - Supplies,,Recognized Trasactions
+Auto Categorize - Contractor Payments,Withdrawals,FALSE,TRUE,description,,deposit from another account,11 - Contract Labor,,Recognized Trasactions
+Auto Categorize - Educational & Training,Withdrawals,FALSE,TRUE,Reference number,,,29 - Other Expenses,,Recognized Trasactions
+Auto Categorize - Employee Benefits,Withdrawals,FALSE,TRUE,Amount,,,14 - Employee Benefit Programs,,Recognized Trasactions
+Auto Categorize - Entertainment,Withdrawals,FALSE,TRUE,Payee,,,29 - Other Expenses,,Recognized Trasactions
+Auto Categorize - Groceries,Withdrawals,FALSE,TRUE,description,,,29 - Other Expenses,,Recognized Trasactions
+Auto Categorize - Insurance Expense,Withdrawals,FALSE,TRUE,Reference number,,,15 - Insurance (other than health),,Recognized Trasactions
+Auto Categorize - Loan Payments & Interest,Withdrawals,FALSE,TRUE,Amount,,,17 - Interest (Other),,Recognized Trasactions
+Auto Categorize - Marketing & Advertising,Withdrawals,FALSE,TRUE,Payee,,,8 - Advertising,,Recognized Trasactions
+Auto Categorize - Meals & Entertainment,Withdrawals,FALSE,TRUE,description,,,26 - Travel and Meals,,Recognized Trasactions
+Auto Categorize - Medical Expenses,Withdrawals,FALSE,TRUE,Reference number,,,29 - Other Expenses,,Recognized Trasactions
+Auto Categorize - Office Supplies,Withdrawals,FALSE,TRUE,Amount,,,19 - Office Expense,,Recognized Trasactions
+Auto Categorize - Office Supplies & Equipment,Withdrawals,FALSE,TRUE,Payee,,,19 - Office Expense,,Recognized Trasactions
+Auto Categorize - Phone & Internet,Withdrawals,FALSE,TRUE,description,,,27 - Utilities,,Recognized Trasactions
+Auto Categorize - Printing & Shipping,Withdrawals,FALSE,TRUE,Reference number,,,19 - Office Expense,,Recognized Trasactions
+Auto Categorize - Professional Services,Withdrawals,FALSE,TRUE,Amount,,,18 - Legal and Professional Services,,Recognized Trasactions
+Auto Categorize - Rent Expense,Withdrawals,FALSE,TRUE,Payee,,,22 - Rent or Lease (Other Business Property),,Recognized Trasactions
+Auto Categorize - Retail & Miscellaneous,Withdrawals,FALSE,TRUE,description,,,29 - Other Expenses,,Recognized Trasactions
+Auto Categorize - Software & Subscriptions,Withdrawals,FALSE,TRUE,Reference number,,,19 - Office Expense,,Recognized Trasactions
+Auto Categorize - Taxes & Licenses,Withdrawals,FALSE,TRUE,Amount,,,25 - Taxes and Licenses,,Recognized Trasactions
+Auto Categorize - Travel & Lodging,Withdrawals,FALSE,TRUE,Payee,,,26 - Travel and Meals,,Recognized Trasactions
+Auto Categorize - Utilities,Withdrawals,FALSE,TRUE,description,,,27 - Utilities,,Recognized Trasactions
+Auto Categorize - Income,Deposits,FALSE,TRUE,Reference number,,,,,

@@ -1,0 +1,89 @@
+Journal Number,Journal Number Prefix,Journal Number Suffix,Journal Created By,Journal Date,Journal Type,Status,Journal Entity Type,Reference Number,Notes,Exchange Rate,Item Order,Project Name,Debit,Credit,Account,Account Code,Contact Name,Currency,Total,Description
+1,,1,Cody Rice-Velasquez,2025-01-31,Both,Published,Journal,,"Tacopolis Check Payment Provided to CV toward rent. 
+Owners Reimbursement Increases by $500
+Owners Clearing Reduced by $500",1.000000000000,1,,0,500.000,Crystal Clearing,00930,,USD,500.000,"Tacopolis Check Payment Provided to CV toward rent. 
+Owners Reimbursement Increases by $500
+Owners Clearing Reduced by $500"
+1,,1,Cody Rice-Velasquez,2025-01-31,Both,Published,Journal,,"Tacopolis Check Payment Provided to CV toward rent. 
+Owners Reimbursement Increases by $500
+Owners Clearing Reduced by $500",1.000000000000,2,,500.000,0,Reimbursed-Crystal,14120,,USD,500.000,"Tacopolis Check Payment Provided to CV toward rent. 
+Owners Reimbursement Increases by $500
+Owners Clearing Reduced by $500"
+JO-00001,JO-,00001,Cody Rice-Velasquez,2025-01-28,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,1,,0,149.000,Square Clearing,00920,,USD,149.000,"CDMyGXZGzjlgdcXHfcOKNMgOeVMZY
+"
+JO-00001,JO-,00001,Cody Rice-Velasquez,2025-01-28,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,2,,3.970,0,Bank Fees,10300,,USD,149.000,Square Fee
+JO-00001,JO-,00001,Cody Rice-Velasquez,2025-01-28,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,3,,145.030,0,Cody Clearing,00940,,USD,149.000,"nNzfuw2bmgk9dIpsW9pm11DighBZY
+"
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,1,,0,239.000,Square Clearing,00920,,USD,499.000,Is1nPbzB38C7ldZ0z3bQcxAGvm6YY
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,2,,6.310,0,Bank Fees,10300,,USD,499.000,Square Fee
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,3,,0,130.000,Square Clearing,00920,,USD,499.000,"aVRX4dGgZIORPS8LgG0LoFDPaR6YY
+"
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,4,,3.480,0,Bank Fees,10300,,USD,499.000,Square Fee
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,5,,0,130.000,Square Clearing,00920,,USD,499.000,"Ucw4MyXwnhzjhrryG6zFBGg2abJZY
+"
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,6,,3.480,0,Bank Fees,10300,,USD,499.000,Square Fee
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,7,,8.500,0,Bank Fees,10300,,USD,499.000,Instant Transfer
+JO-00002,JO-,00002,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,8,,477.230,0,Cody Clearing,00940,,USD,499.000,"J6dLd6rbumH63pjciK36NsuHC3fZY
+bl6BhYep3kV1LfzZSNdPYK0uKWdZY
+Ns9BA9wmvZFy4O7jnujh1jdt3jQZY
+"
+JO-00003,JO-,00003,Cody Rice-Velasquez,2025-01-28,Both,Published,Journal,,Cody and Luis QIP Rent Dep/Payment,1.000000000000,1,,0,500.000,Invested-Cody,14210,,USD,500.000,Check toward rental costs
+JO-00003,JO-,00003,Cody Rice-Velasquez,2025-01-28,Both,Published,Journal,,Cody and Luis QIP Rent Dep/Payment,1.000000000000,2,,500.000,0,Crystal Clearing,00930,,USD,500.000,Check from Cody from QIP Investment for Rent
+JO-00004,JO-,00004,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,1,,1881.820,0,Crystal Clearing,00930,,USD,1881.820,End of Week Clearing Account Closure. 02/02
+JO-00004,JO-,00004,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,2,,0,1881.820,Invested-Crystal,14110,,USD,1881.820,End of Week Clearing Account Closure. 02/02
+JO-00005,JO-,00005,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,1,,0,478.010,Cody Clearing,00940,,USD,478.010,End of Week Clearing Account Closure. 02/02
+JO-00005,JO-,00005,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,2,,478.010,0,Payments-Cody,14230,,USD,478.010,End of Week Clearing Account Closure. 02/02
+JO-00006,JO-,00006,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,1,,0,300.000,Arleth Clearing,00950,,USD,300.000,End of Week Clearing Account Closure. 02/02
+JO-00006,JO-,00006,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,2,,300.000,0,Payments-Arleth,14330,,USD,300.000,End of Week Clearing Account Closure. 02/02
+JO-00007,JO-,00007,Cody Rice-Velasquez,2025-02-09,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,1,,0,400.000,Square Clearing,00920,,USD,400.000,
+JO-00007,JO-,00007,Cody Rice-Velasquez,2025-02-09,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,2,,13.500,0,Bank Fees,10300,,USD,400.000,Square Fee
+JO-00007,JO-,00007,Cody Rice-Velasquez,2025-02-09,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,3,,6.760,0,Bank Fees,10300,,USD,400.000,Transfer Fee
+JO-00007,JO-,00007,Cody Rice-Velasquez,2025-02-09,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,4,,379.740,0,Cody Clearing,00940,,USD,400.000,"nNzfuw2bmgk9dIpsW9pm11DighBZY
+"
+JO-00008,JO-,00008,Cody Rice-Velasquez,2025-02-08,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,1,,0,150.000,Square Clearing,00920,,USD,150.000,
+JO-00008,JO-,00008,Cody Rice-Velasquez,2025-02-08,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,2,,4.000,0,Bank Fees,10300,,USD,150.000,Square Fee
+JO-00008,JO-,00008,Cody Rice-Velasquez,2025-02-08,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,3,,2.560,0,Bank Fees,10300,,USD,150.000,Transfer Fee
+JO-00008,JO-,00008,Cody Rice-Velasquez,2025-02-08,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,4,,143.440,0,Cody Clearing,00940,,USD,150.000,"nNzfuw2bmgk9dIpsW9pm11DighBZY
+"
+JO-00009,JO-,00009,Cody Rice-Velasquez,2025-02-06,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,1,,0,130.000,Square Clearing,00920,,USD,130.000,
+JO-00009,JO-,00009,Cody Rice-Velasquez,2025-02-06,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,2,,3.480,0,Bank Fees,10300,,USD,130.000,Square Fee
+JO-00009,JO-,00009,Cody Rice-Velasquez,2025-02-06,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,3,,2.210,0,Bank Fees,10300,,USD,130.000,Transfer Fee
+JO-00009,JO-,00009,Cody Rice-Velasquez,2025-02-06,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,4,,124.310,0,Cody Clearing,00940,,USD,130.000,"nNzfuw2bmgk9dIpsW9pm11DighBZY
+"
+JO-00010,JO-,00010,Cody Rice-Velasquez,2025-02-04,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,1,,0,165.170,Square Clearing,00920,,USD,165.170,
+JO-00010,JO-,00010,Cody Rice-Velasquez,2025-02-04,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,2,,4.390,0,Bank Fees,10300,,USD,165.170,Square Fee
+JO-00010,JO-,00010,Cody Rice-Velasquez,2025-02-04,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,3,,2.810,0,Bank Fees,10300,,USD,165.170,Transfer Fee
+JO-00010,JO-,00010,Cody Rice-Velasquez,2025-02-04,Both,Published,Journal,,Payment Transfer to Cody From Square,1.000000000000,4,,157.970,0,Cody Clearing,00940,,USD,165.170,"nNzfuw2bmgk9dIpsW9pm11DighBZY
+"
+JO-00011,JO-,00011,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,Sweat Equity Entry for Period 20250101-20250202,1.000000000000,1,,0,6027.000,Liability Cody Sweat Equity,13930,cody,USD,6027.000,Sweat Equity Entry for Period 20250101-20250202
+JO-00011,JO-,00011,Cody Rice-Velasquez,2025-02-02,Both,Published,Journal,,Sweat Equity Entry for Period 20250101-20250202,1.000000000000,2,,6027.000,0,Sweat Equity Cody,14920,cody,USD,6027.000,Sweat Equity Entry for Period 20250101-20250202
+JO-00012,JO-,00012,Cody Rice-Velasquez,2025-02-12,Both,Published,Journal,,Konica Minolta,1.000000000000,1,,1500.000,0,Multi-BW Konica Minolta,00412,,USD,1500.000,Asset Assignment
+JO-00012,JO-,00012,Cody Rice-Velasquez,2025-02-12,Both,Published,Journal,,Konica Minolta,1.000000000000,2,,0,1500.000,Invested-Cody,14210,,USD,1500.000,Asset Assignment
+JO-00013,JO-,00013,Cody Rice-Velasquez,2025-02-12,Both,Published,Journal,,Asset Assignment,1.000000000000,1,,0,1649.000,Invested-Cody,14210,,USD,1649.000,Asset Assignment
+JO-00013,JO-,00013,Cody Rice-Velasquez,2025-02-12,Both,Published,Journal,,Asset Assignment,1.000000000000,2,,1649.000,0,Multi-Lanier MPC306 - G446p802756,00411,,USD,1649.000,Asset Assignment
+JO-00014,JO-,00014,Cody Rice-Velasquez,2025-02-16,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,1,,0,1109.000,Arleth Clearing,00950,,USD,1109.000,End of Week Clearing Account Closure. 02/16
+JO-00014,JO-,00014,Cody Rice-Velasquez,2025-02-16,Both,Published,Journal,,End of Week Clearing Account Closure. 02/02,1.000000000000,2,,1109.000,0,Payments-Arleth,14330,,USD,1109.000,End of Week Clearing Account Closure. 02/16
+JO-00015,JO-,00015,Cody Rice-Velasquez,2025-01-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00015,JO-,00015,Cody Rice-Velasquez,2025-01-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00016,JO-,00016,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00016,JO-,00016,Cody Rice-Velasquez,2025-02-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00017,JO-,00017,Cody Rice-Velasquez,2025-12-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00017,JO-,00017,Cody Rice-Velasquez,2025-12-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00018,JO-,00018,Cody Rice-Velasquez,2025-11-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00018,JO-,00018,Cody Rice-Velasquez,2025-11-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00019,JO-,00019,Cody Rice-Velasquez,2025-10-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00019,JO-,00019,Cody Rice-Velasquez,2025-10-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00020,JO-,00020,Cody Rice-Velasquez,2025-09-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00020,JO-,00020,Cody Rice-Velasquez,2025-09-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00021,JO-,00021,Cody Rice-Velasquez,2025-08-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00021,JO-,00021,Cody Rice-Velasquez,2025-08-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00022,JO-,00022,Cody Rice-Velasquez,2025-07-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00022,JO-,00022,Cody Rice-Velasquez,2025-07-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00023,JO-,00023,Cody Rice-Velasquez,2025-06-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00023,JO-,00023,Cody Rice-Velasquez,2025-06-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00024,JO-,00024,Cody Rice-Velasquez,2025-05-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00024,JO-,00024,Cody Rice-Velasquez,2025-05-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00025,JO-,00025,Cody Rice-Velasquez,2025-04-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00025,JO-,00025,Cody Rice-Velasquez,2025-04-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware
+JO-00026,JO-,00026,Cody Rice-Velasquez,2025-03-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,1,,0,49.000,Expenses Planned,12700,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Software
+JO-00026,JO-,00026,Cody Rice-Velasquez,2025-03-01,Both,Published,Journal,,For Ultimate Tax License,1.000000000000,2,,49.000,0,Cost of Service,02000,IIS INNOVATAX SOLUTIONS LLC,USD,49.000,Tax Wise Softeware

@@ -1,0 +1,11 @@
+PriceList Name,PriceList ID,Currency Code,Description,Percentage,Is Increase,Rounding Type,Decimal Place,PriceList Status,Type,IsDefault,Item Name,SKU,Pricing Scheme,Start Quantity,End Quantity,PriceList Rate,Discount
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,srvwf5,,unit,1.00,1.00,15.000000,
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,SRVWifiPT,,unit,1.00,1.00,30.000000,
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,Print_50,,unit,1.00,1.00,5.000000,
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,PreSupp,,unit,1.00,1.00,5.000000,
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,5gig,,unit,1.00,1.00,5.000000,
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,1GIGA,,unit,1.00,1.00,3.000000,
+SRV Wifi,4476661000000433082,USD,Nuestro paquete de aceso al red de wifi.,,false,no_rounding,0,active,per_item,false,SRVCLD,,unit,1.00,1.00,10.000000,
+SRV Pro Accounting Service,4476661000000807058,USD,,,false,no_rounding,0,active,per_item,false,Insurance Audit,4476661000000153016,unit,1.00,1.00,0.000000,
+SRV Pro Accounting Service,4476661000000807058,USD,,,false,no_rounding,0,active,per_item,false,TAX SUPPORT POST FILING,TSPF,unit,1.00,1.00,0.000000,
+SRV Pro Accounting Service,4476661000000807058,USD,,,false,no_rounding,0,active,per_item,false,SRV Pro Service,4476661000000333177,unit,1.00,1.00,0.000000,

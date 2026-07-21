@@ -1,0 +1,24 @@
+Record Id,Solution Number,Solution Owner.id,Solution Title,Published,Status,Offering Name.id,No. of comments,Created By.id,Modified By.id,Created Time,Modified Time,Question,Answer,Add Comment,Currency,Exchange Rate,Layout.id,Tag,Solution Image,User Modified Time,System Related Activity Time,User Related Activity Time,System Modified Time,Locked,Record Status
+zcrm_5861855000005013057,5861855000005013059,zcrm_5861855000000432001,"INDIANA TITLE AND REGISTRATION ""PLATES"" FOR A BUSINESS",false,Reviewed,zcrm_5861855000002493001,0,zcrm_5861855000000432001,zcrm_5861855000000432001,2023-12-31 14:35:08,2023-12-31 14:35:17,NEED TO PLATE THEIR VEHICLE IN INDIANA BUT DOES NOT HAVE A SOCIAL.,"CLIENT MUST REGISTER A BUSINESS WITH THE STATE OF INDIANA, OBTAIN THEIR EIN NUMBER THEN REGISTER THE VEHICLE UNDER THE BUSINESS.",,USD,1.000000000,zcrm_5861855000000091011,,,2023-12-31 14:35:17,,,,false,Available
+zcrm_5861855000009147460,5861855000009147462,zcrm_5861855000000432001,Child Travel Letter,true,,,0,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-03-14 17:44:18,2024-03-14 17:44:18,How to Complete,"Here's a concise SOP for creating, notarizing, and managing child travel letters:
+
+### **Simplified SOP for Child Travel Letters**
+
+**Step 1: Document Preparation**
+- Collect and input all necessary data into the SRV1 Doc Prep Module.
+- Use the ""Merge Document"" function to auto-fill the travel letter template.
+
+**Step 2: Notarization Process**
+- Automatically notify the notary upon document creation.
+- The notary reviews, meets with the parent(s) or legal guardian(s) for signatures, and notarizes the document.
+
+**Step 3: Document Management**
+- Scan and upload the notarized document into the SRV1 Doc Prep Module for secure storage.
+- Notify the client that the notarized document is ready and provide access or collection instructions.
+
+**Step 4: Final Steps**
+- Ensure the client understands the importance of carrying the notarized letter during travel.
+- Follow up for feedback and offer post-service support.
+
+This streamlined SOP ensures efficiency and client satisfaction in managing child travel letters through Zoho Solutions. If you need further adjustments or have additional queries, feel free to ask!",,USD,1.000000000,,,,,,,,false,Available
+zcrm_5861855000011352408,5861855000011352410,zcrm_5861855000000432001,Passport Photo Tool,true,,,0,zcrm_5861855000000432001,zcrm_5861855000000432001,2024-04-11 14:48:15,2024-04-11 14:48:15,How to get the correct cropping for Passport,Use the Travel.State.Gov Tool,,USD,1.000000000,,,,,,,,false,Available

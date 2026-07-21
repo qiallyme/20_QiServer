@@ -1,0 +1,215 @@
+Account ID,Account Name,Account Code,Description,Account Type,Mileage Rate,Mileage Unit,IsMileage,Account # ,Account Status,Currency,Parent Account,CF.ACCT#,CF.Hierarchy,CF.PNL ORDER,CF.ENTITY
+4476661000000010001,6904-Other IN,SRVTM-6904,Miscellaneous charges like adjustments made to the invoice can be recorded in this account.,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000032023,Lodging,6061,Any expense related to putting up at motels etc while on business travel can be entered here.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000358,1006-Undeposited Funds,SRVCH-1006,Record funds received by your company yet to be deposited in a bank as undeposited funds and group them as a current asset in your balance sheet.,Cash,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000000361,1010-Petty Cash,SRVCH-1010,It is a small amount of cash that is used to pay your minor or casual expenses rather than writing a check.,Cash,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000000364,1100-Accounts Receivable,1100,The money that customers owe you becomes the accounts receivable. A good example of this is a payment expected from an invoice sent to your customer.,Accounts Receivable,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000000370,1301-Advance Tax,SRVTM-1301,"Any tax which is paid in advance is recorded into the advance tax account. This advance tax payment could be a quarterly, half yearly or yearly payment.",Other Current Asset,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000000373,Accounts Payable,5000,"This is an account of all the money which you owe to others like a pending bill payment to a vendor,etc.",Accounts Payable,0.000,,false,,Active,USD,,,,,
+4476661000000000376,Tax Payable,8010,The amount of money which you owe to your tax authority is recorded under the tax payable account. This amount is a sum of your outstanding in taxes and the tax charged on sales.,Other Current Liability,0.000,,false,,Active,USD,,,,,
+4476661000000000379,Retained Earnings,9004,The earnings of your company which are not distributed among the share holders is accounted as retained earnings.,Equity,0.000,,false,,Active,USD,,,,,
+4476661000000000382,Owner's Equity,5100,The owners rights to the assets of a company can be quantified in the owner''s equity account.,Equity,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000001401092,Equity C.Contreras,5115,C.Contreras,Equity,0.000,,false,,Active,USD,Owner's Equity,,,,001-SRVCH
+4476661000001401096,Equity M.Contreras,5113,,Equity,0.000,,false,,Active,USD,Owner's Equity,,,,001-SRVCH
+4476661000001401100,Equity V.Bistrain,5114,,Equity,0.000,,false,,Active,USD,Owner's Equity,,,,001-SRVCH
+4476661000001505592,Founders EQuity - Cody,5110,,Equity,0.000,,false,,Active,USD,Owner's Equity,,,,001-SRVCH
+4476661000001505596,Founders Equity - Joel,5111,,Equity,0.000,,false,,Active,USD,Owner's Equity,,,,
+4476661000002572214,Equity R. Rice,5112,,Equity,0.000,,false,,Active,USD,Owner's Equity,,,,001-SRVCH
+4476661000000000385,Opening Balance Offset,5002,This is an account where you can record the balance from your previous years earning or the amount set aside for some activities. It is like a buffer account for your funds.,Equity,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000000388,6198-Other Sales,SRVTM-6198,The income from the sales in your business is recorded under the sales account.,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000000391,6200-SRVTM Income,SRVTM-6200,A general category of account where you can record any income which cannot be recorded into any other category.,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000265265,Rents (IN),2017,,Income,0.000,,false,,Inactive,USD,6200-SRVTM Income,,,,
+4476661000000005001,Unearned Revenue,8020,"A liability account that reports amounts received in advance of providing goods or services. When the goods or services are provided, this account balance is decreased and a revenue account is increased.",Other Current Liability,0.000,,false,,Active,USD,,,,,
+4476661000000000397,6905-LateFee In,SRVTM-6905,Any late fee income is recorded into the late fee income account. The late fee is levied when the payment for an invoice is not received by the due date.,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000000400,Office Supplies,6021,All expenses on purchasing office supplies like stationery are recorded into the office supplies account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000403,Advertising And Marketing,6010,"Your expenses on promotional, marketing and advertising activities like banners, web-adds, trade shows, etc. are recorded in advertising and marketing account.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000406,6200-Discount Income*,SRVTM-6200,Any reduction on your selling price as a discount can be recorded into the discount account.,Income,0.000,,false,,Active,USD,,,,,
+4476661000000000409,Bank Fees and Charges,6-6300,"Any bank fees levied is recorded into the bank fees and charges account. A bank account maintenance fee, transaction charges, a late payment fee are some examples.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000412,Credit Card Charges,6080,"Service fees for transactions , balance transfer fees, annual credit fees and other charges levied on a credit card are recorded into the credit card account.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000415,Exchange Gain or Loss,6800,Changing the conversion rate can result in a gain or a loss. You can record this into the exchange gain or loss account.,Other Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000418,Travel Expense,6060,"Expenses on business travels like hotel bookings, flight charges, etc. are recorded as travel expenses.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000421,Telephone Expense,6041,"The expenses on your telephone, mobile and fax usage are accounted as telephone expenses.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000427,IT and Internet Expenses,6040,"Money spent on your IT infrastructure and usage like  internet connection, purchasing computer equipment etc is recorded as an IT and Computer Expense.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000433,Janitorial Expense,6022,All your janitorial and cleaning expenses are recorded into the janitorial expenses account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000014001,6810-Shipping Charge,SRVS-6810,Shipping charges made to the invoice will be recorded in this account.,Income,0.000,,false,,Active,USD,,,,,004-SRVSHOP
+4476661000000000436,Postage,6027,"Your expenses on ground mails, shipping and air mails can be recorded under the postage account.",Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000439,Bad Debt,6-6500,Any amount which is lost and is unrecoverable is recorded into the bad debt account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000003001,Opening Balance Adjustments,8001,This account will hold the difference in the debits and credits entered during the opening balance.,Other Current Liability,0.000,,false,,Active,USD,,,,,
+4476661000000035001,1302-Employee Advance,SRVTM-1302,Money paid out to an employee in advance can be tracked here till it's repaid or shown to be spent for company purposes.,Other Current Asset,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000000442,Printing and Stationery,6026,Expenses incurred by the organization towards printing and stationery.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000445,Salaries and Employee Wages,6-6600,Salaries for your employees and the wages paid to workers are recorded under the salaries and wages account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000035005,Uncategorized,6099,This account can be used to temporarily track expenses that are yet to be identified and classified into a particular category,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000448,Meals and Entertainment,6025,Expenses on food and entertainment are recorded into this account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000451,Depreciation Expense,6098,Any depreciation in value of your assets can be captured as a depreciation expense.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000000457,Repairs and Maintenance,6023,The costs involved in maintenance and repair of assets is recorded under this account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000045001,Dimension Adjustments,8802,"This adjustment account tracks the transfers between different dimensions like tags, branches.",Other Liability,0.000,,false,,Active,USD,,,,,
+4476661000000000460,Other Expenses,6090,Any minor expense on activities unrelated to primary business operations is recorded under the other expense account.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000001027482,Honduras Living Expenses,6090.H,,Expense,0.000,,false,,Active,USD,Other Expenses,,new,,
+4476661000005189050,Bank Charges and Fees,8801,,Expense,0.000,,false,,Active,USD,Other Expenses,8801,new,,002-SRVTM
+4476661000004656021,Zoho Payments Fees,8101.1,,Expense,0.000,,false,,Active,USD,Bank Charges and Fees,,,,
+4476661000000034001,1200-Inventory Asset,SRVCH-1200,An account which tracks the value of goods in your inventory.,Stock,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000034003,Cost of Operations,4000,An expense account which tracks the value of the goods sold.,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084663,BMV COGS ($-Out),4302,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,Cost of Operations,,,,
+4476661000000012001,Drawings,5200,The money withdrawn from a business by its owner can be tracked with this account.,Equity,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000072001,Purchase Discounts,6-6400,Tracks any reduction that your vendor offers on your purchases. Some vendors also provide them to encourage quick payment settlement.,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000079012,1300-Prepaid Expenses,SRVTM-1300,An asset account that reports amounts paid in advance while purchasing goods or services from a vendor.,Other Current Asset,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000082180,1009-SRVTM.Pro Savings,SRVCH-1009,,Bank,0.000,,false,0572,Active,USD,,,,,
+4476661000000082186,1008-SRVTM.Pro,SRVCH-1008,,Bank,0.000,,false,2943,Active,USD,,,,,
+4476661000000082392,CHASE CHK 1,1001,,Bank,0.000,,false,0522,Inactive,USD,,,,,
+4476661000000082398,C. RICE-VELASQUEZ,1106,,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000082404,CHASE CHK 2,1010,,Bank,0.000,,false,2986,Inactive,USD,,,,,
+4476661000000084511,Chase Ink *0534,1101,'--,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000084515,Chase Ink Joel *5811,1102,'--,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000084519,CapOne Sparks *2035,1103,Limit $5000.00,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000084523,Personal - Amazon Store Card,1104,Personal Store Card,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000084527,SRVTM - Amazon Amex *1009,1105,Business Account SRVTM,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000084531,6150-Square Income,SRVCH-6150,Square Sales,Income,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000084535,6114-Consulting,SRVTM-6114,Revenue from consulting services,Income,0.000,,false,,Active,USD,,6114,,,002-SRVTM
+4476661000000084539,6111-Accounting,SRVTM-6111,Revenue from accounting services,Income,0.000,,false,,Active,USD,,6111,,,002-SRVTM
+4476661000002102154,'-I. Accounting ($IN),84539,,Income,0.000,,false,,Inactive,USD,6111-Accounting,,,,
+4476661000000084543,6112-Tax Preperations,SRVTM-6112,Revenue from tax services,Income,0.000,,false,,Active,USD,,6112,,,002-SRVTM
+4476661000000084547,6140-DOC PREP,SRVTM-6140,Revenue from printing and document prepping services,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000002102254,6140-Documents,SRVTM-6140B,,Income,0.000,,false,,Active,USD,6140-DOC PREP,,,,002-SRVTM
+4476661000000084559,6210-Cash Back,SRVTM-6210,Cash Back received (Non-Taxable),Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000084571,6210-Finance,SRVTM-6210,Revenue from payments,Income,0.000,,false,,Active,USD,,6210,,,002-SRVTM
+4476661000000084603,Interest Earned,2039,'--,Income,0.000,,false,,Inactive,USD,6210-Finance,,,,
+4476661000000084575,6211-PASSTHROUGH,SRVTM-6211,Includes Insurance Payments,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000002102315,'-I. Bill Pay ($IN),84575,,Income,0.000,,false,,Inactive,USD,6211-PASSTHROUGH,,,,
+4476661000000084583,6180-La Fuente,SRVTM-6180,Money for La Fuente Cargo,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000002102463,'-III. La Fuente Cargos ($IN),84583,,Income,0.000,,false,,Inactive,USD,6180-La Fuente,,,,
+4476661000000084591,6150-Commissions,SRVTM-6150,'--,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000084619,6130-STATE FILINGS,SRVTM-6130,State Filings,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000002102408,'-IV. Filings ($IN),84619,,Income,0.000,,false,,Inactive,USD,6130-STATE FILINGS,,,,
+4476661000000084623,6197-Tips ($IN),SRVTM-6197,'--,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000084627,Accounting COS,4100,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084633,Account Fees COGS ($-Out),4101,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084639,Cost of Finance Sales,4200,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084657,Bill Pay COGS ($-Out),4301,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084669,INBIZSOS COGS ($-Out),4303,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084675,La Fuente COGS ($-Out),4304,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084681,Tax Prep COGS ($-Out),4400,'--,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,
+4476661000000084687,Other Miscellaneous Expense,6730,'--,Other Expense,0.000,,false,,Active,USD,,,,,
+4476661000000084693,Reconciliation Discrepancies,6720,'--,Other Expense,0.000,,false,,Active,USD,,,,,
+4476661000000084699,Opening Balance Equity,5001,'--,Equity,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000084703,SRVCH Equity,5100,Account for SRVCH,Equity,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000084707,6199-Miscellaneous,SRVTM-6199,Miscellaneous,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000084897,Square Fees,6081,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000084915,1004-Square Clearing,SRVCH-1004,,Payment Clearing,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000084923,1003-Square Cash Clearing,SRVCH-1003,,Payment Clearing,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000114009,Rent,6024,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000114015,Security,6028,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000114295,Contractor Payments,6070,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000111022,Current Liabilities,8000,,Other Current Liability,0.000,,false,,Active,USD,,,,,
+4476661000000082105,SRVCH LIABILITIES,8800,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000084903,Suspense,8600,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000111048,Debts To Others,8300,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000114159,INDOR-JAZNFASHN,RST-398054,,Other Current Liability,0.000,,false,,Active,USD,Debts To Others,,,,
+4476661000000200077,ROLANDO VACA,9999VACA,,Other Current Liability,0.000,,false,,Active,USD,Debts To Others,,,,
+4476661000000543990,Roberet Rice,8304,,Other Current Liability,0.000,,false,,Active,USD,Debts To Others,,,,
+4476661000001199180,MONICA HERNANDEZ,8305,,Other Current Liability,0.000,,false,,Active,USD,Debts To Others,,,,
+4476661000000156017,PROPERTY TAXES,8501,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000232233,FUND BOX LOAN,8701,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000543996,Indiana Department of Revenue,INDOR,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000557002,Payroll Liabilities,8100-210,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000000035003,Employee Reimbursements,8120,This account can be used to track the reimbursements that are due to be paid out to employees.,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000084909,Tips,8140,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000340091,Deducted Rent,8151,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000340097,Stock Deduction,8152,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000557008,Federal Taxes (941/944),8110-211,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000557014,Federal Unemployment (940),8111-212 ,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000557020,IN Income / Local Taxes,8112-214,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000000557026,IN Unemployment Tax,8113-215,,Other Current Liability,0.000,,false,,Active,USD,Payroll Liabilities,,,,
+4476661000001029206,Square Loan,8030,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000001062192,Title Loan Mart,8022,Title loan for Tesla. Account: 8177944,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000001175210,TDGOLiability,TDGO8000,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000001183900,MICROSOFT (DISPUTED),8005,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000001199186,Regional Finance,8006,112000767306,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000001472111,Duke Energy Lafayette 09192023_7454,8111.00,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000002262655,CHASE ACCT 0522,0522,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,,,,
+4476661000003146006,CORPORATE TURNAROUND DEBT CONSOLIDATION,S12224115647740,,Other Current Liability,0.000,,false,,Active,USD,Current Liabilities,S12224115647740,001,,002-SRVTM
+4476661000000111094,1000-Current Assets,SRVCH-1000,,Other Current Asset,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000111128,Equity,5000,,Equity,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000111148,Office Expenses,6020,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000155019,(Deprecated) SRVPM-Petty Cash,1159,,Other Asset,0.000,,false,,Inactive,USD,,,,,
+4476661000000155595,ELECTRIC,6031,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000155923,INSURANCE,6050,,Expense,0.000,,false,,Inactive,USD,,,,,
+4476661000000156043,UTILITIES,6030,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000214005,SBA LOAN 2313717801,8502,,Long Term Liability,0.000,,false,,Active,USD,,,,,
+4476661000000216001,INTEREST,6091,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000232161,CREDIT CARD,1109,,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000232169,Our Blueprint,1107,,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000235004,1001-Stripe Clearing,SRVCH-1001,,Payment Clearing,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000237011,1015-Sofi AutoSave,FDRS-1015,,Bank,0.000,,false,4501,Inactive,USD,,,,,
+4476661000000237019,1014-SoFi Savings,FDRS-1014,,Bank,0.000,,false,6973,Inactive,USD,,,,,
+4476661000000237027,1013-SoFi Checking,1013,,Bank,0.000,,false,7940,Inactive,USD,,,,,
+4476661000000265267,6310-Subscriptions,SRVPM-6310,,Income,0.000,,false,,Active,USD,,,,,003-SRVPM
+4476661000002102653,'-4. SUBS,265267,,Income,0.000,,false,,Inactive,USD,6310-Subscriptions,,,,
+4476661000000322067,Dues and Subscriptions,6710,,Other Expense,0.000,,false,,Active,USD,,,,,
+4476661000000342035,CAR AND AUTO,6092,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000000199048,INSURANCE AUTO,6094,,Expense,0.000,,false,,Active,USD,CAR AND AUTO,,,,
+4476661000000307020,Parking,6093,The parking fares you pay while on business trips can be recorded under this expense category.,Expense,0.000,,false,,Active,USD,CAR AND AUTO,,,,
+4476661000000851163,Fuel/Mileage Expenses,FUEL,This category is for tracking all the mileage related expenses.,Expense,0.000,,false,,Active,USD,CAR AND AUTO,,,,
+4476661000000440001,1009-BadDebt AR,SRVTM-1009,Contra Account for Bad Debt,Other Current Asset,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000000557618,6000-INCOME,SRVCH-6000,,Income,0.000,,false,,Active,USD,,6000,,,001-SRVCH
+4476661000000000394,6212-Interest Income,SRVCH-6212,A percentage of your balances and deposits are given as interest to you by your banks and financial institutions. This interest is recorded into the interest income account.,Income,0.000,,false,,Active,USD,6000-INCOME,,,,001-SRVCH
+4476661000001583112,6100-Sales,6100,Gross Receipts or Sales,Income,0.000,,false,,Active,USD,6000-INCOME,6100,A1,01,001-SRVCH
+4476661000000557622,6199-Revenue Other,SRVCH-6199,,Other Income,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000557626,Cost of Services Sold,8900,,Cost Of Goods Sold,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000557632,EXPENSE TOT,7000,,Expense,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000557638,EXPENSE OTHER,6-6700,,Other Expense,0.000,,false,,Active,USD,,,,,
+4476661000000645001,BMO Harris Credit Card 0924 - CODY,CC0111-0924,,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000000964022,1108-Assets from Cash Sales,1108,,Other Current Asset,0.000,,false,,Active,USD,,1101,,,001-SRVCH
+4476661000001010191,Other Liabilities,9000.1,,Other Liability,0.000,,false,,Active,USD,,,,,
+4476661000000082007,IDM LIABILITY,8302,BALANCE OWED,Other Liability,0.000,,false,,Inactive,USD,Other Liabilities,,,,
+4476661000000155981,FCFCU HOME LOAN 1511,8-1511,,Other Liability,0.000,,false,,Active,USD,Other Liabilities,,,,
+4476661000000155999,FCFCU HOME LOAN 2 1520,8-1520,,Other Liability,0.000,,false,,Active,USD,Other Liabilities,,,,
+4476661000000200055,ADAMS IMMIGRATION,99999,,Other Liability,0.000,,false,,Active,USD,Other Liabilities,,,,
+4476661000000235033,NELNETSTUDENT LOAN,9999NELNET,,Other Liability,0.000,,false,,Active,USD,Other Liabilities,,,,
+4476661000001027530,1061-Guideline IRA Joel,FDRS-1061,,Other Asset,0.000,,false,,Active,USD,,,,,005-FOUNDERS
+4476661000001015127,Clearing,5104,,Payment Clearing,0.000,,false,,Inactive,USD,,,,,
+4476661000001009111,Stripe Fees,6080.1,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000001187872,1040-Webull,FDRS-1040,,Other Current Asset,0.000,,false,,Active,USD,,,,,005-FOUNDERS
+4476661000001401104,Stock Bonus (No Tax Impact),6090.9,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000001501191,SUSPICOUS,99966,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000001501809,1012-CHASE SECURE BANKING,1012,,Bank,0.000,,false,9266,Active,USD,,,,,
+4476661000001501837,BUS COMPLETE CHK,,,Bank,0.000,,false,2986,Inactive,USD,,,,,
+4476661000001501945,FCFCU CHECKING,66153,,Bank,0.000,,false,66153,Inactive,USD,,,,,
+4476661000001502617,Labcorp Debt,labcorp,,Other Current Liability,0.000,,false,,Active,USD,,,,,
+4476661000001506010,Goods In Transit,SRVS-1500,An account which tracks your In Transit goods value.,Other Current Asset,0.000,,false,,Active,USD,,,,,004-SRVSHOP
+4476661000001505688,6999-Equity Issuance,SRVCH-6999,,Other Income,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000001505692,Equity Purchase Account,900001,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000001556055,7210-Square Fees,SRVCH-7210,,Income,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000000084919,7210B-Square Fees,SRVCH-7210B,,Income,0.000,,false,,Active,USD,7210-Square Fees,,,,001-SRVCH
+4476661000001556059,1005-Square Cash Sales,SRVCH-1005,,Payment Clearing,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000001668334,Chase 9651 Clearings,ch9651,,Bank,0.000,,false,,Inactive,USD,,,,,
+4476661000001729247,2012-IDM DEPOSITS,SRVTM-2012,,Fixed Asset,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000001914059,Operation Expenses,7000.00,,Expense,0.000,,false,,Active,USD,,,new,,
+4476661000001914065,Personnel,2000,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000001914071,Supplies,8920,,Expense,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000001914077,Marketing & Advertising,7001,,Expense,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000001914083,7800-Professional Services,7800,,Expense,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000001914089,8200-Maintenance & Repairs,8200,,Expense,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000001914786,Meals & Entertainment,MLES,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000002073061,Owner's Disbursement Expense,99990001,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000002572298,Disp. Cody,99990002,,Expense,0.000,,false,,Active,USD,Owner's Disbursement Expense,,,,
+4476661000002572304,Disp. Treve,99990003,,Expense,0.000,,false,,Active,USD,Owner's Disbursement Expense,,,,
+4476661000002572310,Disp. Carlos,99990004,,Expense,0.000,,false,,Active,USD,Owner's Disbursement Expense,,,,
+4476661000002572316,Disp. Vianey,99990005,,Expense,0.000,,false,,Active,USD,Owner's Disbursement Expense,,,,
+4476661000002102203,6150-Consulting,SRVTM-6150,,Income,0.000,,false,,Active,USD,,,,,002-SRVTM
+4476661000002102295,SRV Equity Issuance Revenue.01,SRVEQUITY01,,Income,0.000,,false,,Inactive,USD,,,,,
+4476661000002102305,'-Late Fee Income,0397,,Income,0.000,,false,,Inactive,USD,,,,,
+4476661000002313023,IT and Software Expense,6040.1,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000002572418,Personal SPS - Capital One Credit Card 5178 (CLOSED),5178059535211016,"as of 01/24/2024
+60 days behind
+Past Due $254",Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000002572442,Personal - Capital One QuickSilver (CLOSED),4003448436998587,01/24/2024 - 90 DAYS BEHIND BALANCE 4736,Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000002728037,Personal - Amazon Store Card 8729,8729,"Amazon Store Card Account ending in: 8729
+Total balance as of 12/31/2023: $1,285.07
+Amount due as of 12/31/2023: $534.98",Credit Card,0.000,,false,,Inactive,USD,,,,,
+4476661000002763771,4817 SD,FDRS-2001,Home Property,Fixed Asset,0.000,,false,,Active,USD,,4817SD,,,005-FOUNDERS
+4476661000002885071,Travel,8500,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000002909075,Indiana Payments,4303.1,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000002992065,Insurance (Other than Health),7600,,Expense,0.000,,false,,Active,USD,,,,,
+4476661000003686547,1002-Zoho Payments Clearing,SRVCH-1002,,Payment Clearing,0.000,,false,,Active,USD,,,,,001-SRVCH
+4476661000004656027,1065-Zoho Payments Clearing,1065,,Payment Clearing,0.000,,false,,Active,USD,,,,,
+4476661000009333001,Tax Paid Expense,,,Expense,0.000,,false,,Active,USD,,,,,

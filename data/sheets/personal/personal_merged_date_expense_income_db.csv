@@ -1,0 +1,15 @@
+Transaction,Date,Income,Expense,Tax Related Tx,Net Value
+Initial Bank Balance,01/01/2025,"$2,340.00",,Bank Transaction,"$2,340.00"
+2024 W-2 from Johnson Inc.,12/31/2024,"$50,000.00",,Inc: W-2 wage,"$50,000.00"
+W-2 from Smith Inc.,12/31/2024,"$8,500.00",,Inc: W-2 wage,"$8,500.00"
+Ad buy,12/09/2024,,$200.00,Exp: Advertising,-$200.00
+Some new purchase,11/14/2024,,$57.00,Exp: Legal & Professional,-$57.00
+A purchase,11/11/2024,,$100.00,Exp: Professional Development,-$100.00
+Purchase (not tax related),09/01/2024,,$20.00,,-$20.00
+New Telephone System,08/01/2024,,"$1,500.00",Exp: New Equipment,"-$1,500.00"
+Business Inc subscription,07/20/2024,,$120.00,Exp: Dues & Publications,-$120.00
+Health Care Payment,07/01/2024,,"$2,000.00",Exp: Health Insurance (non-payroll),"-$2,000.00"
+Spring Ads,04/04/2024,,$58.00,Exp: Advertising,-$58.00
+Health Care Payment,04/01/2024,,"$2,000.00",Exp: Health Insurance (non-payroll),"-$2,000.00"
+Cabinet,02/04/2024,,$350.00,Exp: Supplies,-$350.00
+Initial Bank Balance,01/01/2024,"$6,000.00",,Bank Transaction,"$6,000.00"

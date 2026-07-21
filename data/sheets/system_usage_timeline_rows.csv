@@ -1,0 +1,6 @@
+id,period_label,occupancy_summary,est_daily_kwh_low,est_daily_kwh_high,est_monthly_kwh_low,est_monthly_kwh_high,ev_monthly_kwh_low,ev_monthly_kwh_high,created_at
+2fbfde01-e200-4b0d-9178-ed46962cb141,Apr–Sep 2023,"Max roommates, high load",50,90,1500,2700,400,800,2025-11-15 21:24:41.783022+00
+8eada54b-ac41-4671-ab4f-fe523b1e1757,Oct 2023–Mar 2024,"Fewer people, still moderate load",35,60,1050,1800,300,540,2025-11-15 21:24:41.783022+00
+a4da5cb3-7d9e-4f06-8d9a-a9ef6d8c7c82,Apr–Oct 2024,"Fewer people, some A/C",28,45,840,1350,240,450,2025-11-15 21:24:41.783022+00
+ac156f54-84a6-427f-a62d-5f36bf55276c,Nov 2024–May 2025,"Downsizing, minimal cooking",18,30,540,900,150,360,2025-11-15 21:24:41.783022+00
+d00e08f3-4ef9-4a96-bc17-b0a876ec0941,Jun 2025–Present,"Low load, no washer/dryer, minimal A/C",10,18,300,540,534,534,2025-11-15 21:24:41.783022+00

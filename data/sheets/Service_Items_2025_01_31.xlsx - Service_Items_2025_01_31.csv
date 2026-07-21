@@ -1,0 +1,43 @@
+Service Item Code,Service Item Category, SRP ,Service Item Name, Unit Price ,Description,Usage Unit
+A1-1040,Tax Service Individual, $ 249.00 ,Standard Return (1040), $ 149.00 ,Preparation and filing of a standard individual tax return (Form 1040). 1 State Included,Each
+ADDSCHC,Form AddOn, $ 199.00 ,Form Add (Sch C), $ 99.00 ,Add-on service for filing Schedule C with individual tax returns.,Each
+A3-1040HOH,Tax Service Individual, $ 269.00 ,Head of Household (1040.HOH), $ 169.00 ,Specialized filing for taxpayers qualifying as Head of Household.,Each
+A3-1040HOHSTU,Tax Service Individual, $ 149.00 ,Student Return (1040.STU), $ 69.00 ,Comprehensive tax filing services for students (Form 1040).,Each
+A4-1040SCHC,Tax Service Individual, $ 399.00 ,Contractor Return (1040wSchC), $ 299.00 ,Preparation and filing of tax returns for contractors with Schedule C.,Each
+B1-1040.65SCH1EC,Tax Service Business, $ 499.00 ,Business Owner Return (1040 Sch1/SchE/SchC/1065 K1), $ 399.00 ,Complete tax filing and advisory services for business owners.,Each
+B2-1065,Tax Service Business, $ 699.00 ,Business Partnership Return (1065) (State Not Incl.), $ 599.00 ,"Tax preparation for business partnerships, including Form 1065.",Each
+B3-1120.S,Tax Service Business, $ 999.00 ,Business Corporation (1120S/1120) (State Not Incl.), $ 799.00 ,Filing of corporate tax returns (1120S or 1120). State filing not included.,Each
+A5ITINWCOA,Tax Service Individual, $ 399.00 ,ITIN Application (W7) w/ COA, $ 299.00 ,Application and COA,Each
+A5ITIN,Tax Service Individual, $ 299.00 ,ITIN App & Processing (W7), $ 199.00 ,Preparation of ITIN Certificate of Accuracy (COA) documentation.,Each
+XX1099,Tax Service Business, $ 149.00 ,1099 Filing, $ 99.00 ,End-to-end ITIN application and processing services (W7 forms).,Each
+B6-STFAB,Tax Service Business, $ 99.00 ,State Sales Tax Return, $ 49.00 ,Preparation and filing of 1099 forms for businesses.,Each
+A1-1040.X,Tax Service Individual, $ 349.00 ,Amended Standard Tax Return (1040X), $ 249.00 ,Filing and preparation of sales tax returns for businesses.,Each
+A709,Tax Service Individual, $ 249.00 ,Estate & Gift Tax Return (709), $ 149.00 ,Amended filing for corrections to previously filed individual tax returns (Form 1040X).,Each
+ACCPAY,Tax Service Business, $ 149.00 ,Payroll Tax Prep (940/941), $ 99.00 ,Tax preparation for estate and gift taxes (Form 709).,Each
+B990,Tax Service Business, $ 199.00 ,Non-Profit Tax Return (990), $ 99.00 ,Preparation and filing of payroll tax returns (Forms 940 and 945).,Each
+BKBANK,Accounting Service, $ 99.00 ,Bank Statement Review, $ 49.00 ,Tax preparation for non-profit organizations (Form 990).,Each
+BKTRANS,Tax Service Individual, $ 1.50 ,Transaction Review, $ 1.00 ,Review of bank statements to assist with tax preparation.,Each
+ADDSTIT40,Tax Service Individual, $ 99.00 ,Additional State Returns (IT40), $ 69.00 ,Detailed review of financial transactions for tax purposes.,Each
+ADDFORM,Form AddOn, $ 49.00 ,Additional Forms, $ 19.00 ,Preparation and filing of additional state tax returns.,Each
+ADDK1,Form AddOn, $ 149.00 ,K1 Add-On, $ 99.00 ,Add-on service for preparing additional tax forms.,Each
+XXPLAN,Tax Service Individual, $ 99.00 ,Tax Planning & Advisory, $ 69.00 ,Preparation and filing of K1 schedules for partnerships.,Hour(s)
+XXRESO,Tax Service Individual, $ 99.00 ,Tax Resolution & IRS Rep, $ 59.00 ,Tax planning and advisory services tailored to individual needs.,Hour(s)
+A2-1040A,Tax Service Individual, $ 299.00 ,Itemized Return (1040 + Sch A), $ 199.00 ,Preparation and filing of a standard individual tax return (Form 1040). 1 State Included,Each
+A4-1040SCHC.X,Tax Service Individual, $ 499.00 ,Amended Contractor Return (1040XwSchC), $ 399.00 ,Amended Preparation and filing of tax returns for contractors with Schedule C.,Each
+BKRATE,Accounting Service, $ 59.00 ,Bookkeeping Services (Hourly), $ 39.00 ,,Hour(s)
+ACCPAYMO,Payroll Service, $ 399.00 ,Payroll Service (Monthly), $ 199.00 ,Starting Payroll Service Fee,Month
+ACCPAYEE,Payroll Service, $ 19.00 ,Payroll Per Employee, $ 9.00 ,Per employee fee for payroll,Unit
+BKSYSSETUP,Systems Services, $ 999.00 ,Accounting Software Setup, $ 999.00 ,,Unit
+A2-1040A.X,Tax Service Individual, $ 399.00 ,Amended Itemized Return (1040X + Sch A), $ 299.00 ,Amended Preparation and filing of a standard individual tax return (Form 1040). 1 State Included,Each
+A3-1040HOH.X,Tax Service Individual, $ 369.00 ,Amended Head of Household (1040X.HOH), $ 269.00 ,Amended Specialized filing for taxpayers qualifying as Head of Household.,Each
+A3-1040HOHSTU.X,Tax Service Individual, $ 249.00 ,Amended Student Return (1040X.STU), $ 169.00 ,Amended Comprehensive tax filing services for students (Form 1040).,Each
+B1-1040.65SCH1ECX,Tax Service Business, $ 599.00 ,Amended Business Owner Return (1040X Sch1/SchE/SchC/1065 K1), $ 499.00 ,Amended Complete tax filing and advisory services for business owners.,Each
+B2-1065X,Tax Service Business, $ 799.00 ,Amended Partnership Return (1065X) (State Not Incl.), $ 699.00 ,"Amended Tax preparation for business partnerships, including Form 1065.",Each
+B6-STFABX,Tax Service Business, $ 99.00 ,Amended State Sales Tax Return, $ 79.00 ,Preparation and filing of 1099 forms for businesses.,Each
+B3-1120.SX,Tax Service Business," $ 1,299.00 ",Amended Business Corp (1120S/1120X) (State Not Incl.), $ 999.00 ,Amended Filing of corporate tax returns (1120S or 1120). State filing not included.,Each
+BKPLUS02,Accounting Service, $ 299.00 ,Plus Package Activation, $ 199.00 ,,Month
+BKSYSACT,Accounting Service, $ 100.00 ,System Fee Activation, $ 50.00 ,,Unit
+BKPLUS,Accounting Service, $ 299.00 ,Accounting Plus Package, $ 199.00 ,,Month
+BKSYSFEE,Accounting Service, $ 99.00 ,System Fee, $ 50.00 ,,Unit
+BKPREM,Accounting Service, $ 599.00 ,Premium Accounting Package, $ 299.00 ,,Month
+1099,Tax Service Individual, $ 15.00 ,1099 Multiplier (Per EE), $ 9.00 ,Add to 1099 Service for each Contractor.,Employee
